@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Berlin</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Brandenburg Gate</name>
+    <TimeStamp><when>2017-05-07T07:11:17Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.377723,52.516284</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Reichstag</name>
+    <TimeStamp><when>2015-09-29T18:41:29Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.376113,52.518518</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Alexanderplatz</name>
+    <TimeStamp><when>2015-11-02T10:34:56Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.409429,52.520709</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bauhaus Archiv</name>
+    <description>Bauhaus Archive moved to Berlin in 1971 and a new building for the institution was build in 1976–1979 under the project by Walter Gropius. Museum admission prices: Wed., Thu., Fri. € 7.00 / Sat., Sun., Mon. € 8.00.</description>
+    <TimeStamp><when>2014-03-26T06:24:31Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.353875,52.506189</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Neue Nationalgalerie</name>
+    <description>The latest wort of architect Mies van der Rohe built in 1969. It is a new way of thinking ad understanding a museum, away from closed building composed of many there rooms, to create a large open space by steel and glass, open and versatile.</description>
+    <TimeStamp><when>2015-10-29T20:30:59Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.367588,52.506979</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>East Side Gallery</name>
+    <TimeStamp><when>2017-03-18T10:57:27Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.44187,52.504181</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gay Memorial</name>
+    <TimeStamp><when>2014-03-30T07:07:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.376076,52.51331</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Topography of Terror</name>
+    <description>Free entrance to museum building.</description>
+    <TimeStamp><when>2017-03-18T10:25:30Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.384015,52.506299</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Former Hitler's Bunker</name>
+    <description>Nothing remains, only an information sign and parking.</description>
+    <TimeStamp><when>2017-03-18T10:22:13Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.380912,52.512435</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Former Luftwaffe HQ</name>
+    <TimeStamp><when>2017-03-18T10:23:28Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.384214,52.508702</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Former Stasi HQ</name>
+    <description>Nothing to do here.</description>
+    <TimeStamp><when>2017-03-17T20:26:57Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.487323,52.514518</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Checkpoint Charlie</name>
+    <TimeStamp><when>2017-03-18T10:57:59Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.390361,52.507546</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Jüdisches Museum</name>
+    <description>Building in deconstructivism style, radical, twisted zig-zag design by Daniel Libeskimd.</description>
+    <TimeStamp><when>2017-03-18T10:24:30Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.396412,52.501652</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ramones Museum</name>
+    <TimeStamp><when>2017-05-07T08:39:14Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.443273,52.501172</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tacheles</name>
+    <description>Former squat, now closed and abandoned.</description>
+    <TimeStamp><when>2017-03-18T18:13:39Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.389121,52.525678</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Køpi</name>
+    <description>Real squat, not a touristic place.</description>
+    <TimeStamp><when>2017-03-18T11:00:37Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.426158,52.507703</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ä</name>
+    <description>Only bottled beer, dark underground atmosphere.</description>
+    <TimeStamp><when>2014-04-09T17:27:36Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>13.437284,52.48502</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bierkombinat Kreuzberg</name>
+    <description>Smokier pub for locals.</description>
+    <TimeStamp><when>2014-03-26T06:26:33Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>13.424712,52.497727</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Clash</name>
+    <description>Punk bar, self service.</description>
+    <TimeStamp><when>2014-04-14T21:03:56Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>13.388746,52.491909</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>John Muir</name>
+    <description>Cocktail bar with strong alcohol and craft bottled beer, try «Störtebeker Atlantik-Ale».</description>
+    <TimeStamp><when>2017-03-18T10:59:40Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>13.433888,52.49941</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Meisterstück</name>
+    <description>Restaurant with outstanding delicious sausages and craft beer (expensive) in 0.33 bottles from all over the word.</description>
+    <TimeStamp><when>2014-03-26T06:27:11Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>13.395997,52.513363</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Eschenbräu</name>
+    <description>Pub with biergarten. Brauerei produces an unfiltered pilsner, dunkle (dark beer), weissbier, a range of season beers and has own apfelsaft (apple juice) and whiskey. Opens from 17:00, try very salty tasty bretzels.</description>
+    <TimeStamp><when>2014-03-26T06:27:38Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>13.359712,52.543452</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vagabund Brauerei</name>
+    <description>Hipster brewery, produces hoppy IPAs. Always have 4 own beers on tap.</description>
+    <TimeStamp><when>2014-03-26T06:27:52Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>13.349356,52.547862</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Hops & Barley]]></name>
+    <description>Bar and the most well known microbrewery in town (dark beer has a taste of a dark one, not a kvas) and here you can find their own homemade cider.</description>
+    <TimeStamp><when>2014-03-26T06:26:52Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>13.460625,52.508947</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Hopfen & Malz]]></name>
+    <description>Bottle shop. Buy «Backbone Splitter» west cost IPA.</description>
+    <TimeStamp><when>2015-11-01T06:32:59Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>13.355895,52.54299</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Zoo</name>
+    <TimeStamp><when>2015-09-30T05:10:40Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>13.334923,52.508266</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Botaic Garden</name>
+    <description>Palm house with cactuses is included in ticket € 6.</description>
+    <TimeStamp><when>2014-04-16T15:26:35Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>13.310171,52.451767</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tempelhof Field</name>
+    <description>Former airdrome.</description>
+    <TimeStamp><when>2014-04-13T14:55:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>13.418315,52.476498</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Highest Hill</name>
+    <TimeStamp><when>2014-04-14T18:51:45Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>13.381505,52.487628</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Spandau Citadel</name>
+    <description>Fortress; one of the best-preserved renaissance military structures of Europe, dated 1559–94. Entrance inside of the castle € 4,5.</description>
+    <TimeStamp><when>2015-09-29T18:34:04Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.212753,52.540362</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Charlottenburg</name>
+    <description>Chateau; free entrance to the garden.</description>
+    <TimeStamp><when>2014-04-11T11:09:17Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.295572,52.520789</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Baumhaus an der Mauer</name>
+    <description>Guerrilla garden started in the 80's right by the Wall now stands on the border between Kreuzberg and Mitte.</description>
+    <TimeStamp><when>2015-11-06T12:26:38Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.427011,52.505892</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Wohngenossenshaft Soldaritaet Coop</name>
+    <description>22000 square meters mural on a residential house.</description>
+    <TimeStamp><when>2014-04-13T12:11:15Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.518109,52.508857</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gaslaternen-Freilichtmuseum</name>
+    <description>Old gas lamps on an alley in Tiergarten.</description>
+    <TimeStamp><when>2015-11-05T14:34:11Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.337034,52.512311</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Excavator</name>
+    <TimeStamp><when>2014-04-10T10:11:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>13.366746,52.510886</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Spreepark</name>
+    <description>Abandoned park of attractions, only a small part of it is open.</description>
+    <TimeStamp><when>2017-03-18T10:55:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>13.486706,52.484269</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Treptower Art Center</name>
+    <description>Flea market. There is no reason to come early than 11:00 on a weekend.</description>
+    <TimeStamp><when>2014-03-30T07:03:35Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>13.453597,52.49628</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Flohmarkt am Mauerpark</name>
+    <description>Weekend flea market.</description>
+    <TimeStamp><when>2017-03-18T12:37:48Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>13.402209,52.541406</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Bird</name>
+    <description>Delicious burgers.</description>
+    <TimeStamp><when>2014-03-31T07:09:12Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>13.40584,52.546665</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Burgermeister</name>
+    <description>Under the bridge; there is a very small burger shop which always has a line (mostly from foreign tourists).</description>
+    <TimeStamp><when>2017-03-18T11:03:46Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>13.442458,52.501121</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mustafa's Gemüse Kebap</name>
+    <description>The most popular kebabs in all Europe, the long queue stands all day.</description>
+    <TimeStamp><when>2015-11-07T14:04:11Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>13.388057,52.493809</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Maroush</name>
+    <description>Falafel for 5 € and oriental tea, superb authentic place.</description>
+    <TimeStamp><when>2017-03-18T11:04:32Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>13.418854,52.500925</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kaschk</name>
+    <description>#1 in Top 5 craft beer bars in Berlin by Brew Dogs, but not the best. Coffee and selection of scandinavian (expensive) and local craft beer. Open every day from 8:00 and from 10:00 on weekends.</description>
+    <TimeStamp><when>2015-10-30T21:46:56Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>13.409939,52.52842</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hopfenreich</name>
+    <description>Craft beer bar with 20 positions on tap.</description>
+    <TimeStamp><when>2015-10-30T21:45:27Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>13.439245,52.499533</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Heidenpeters</name>
+    <description>Microbrewery in the corner on a farmer's fair.
+Tue: 14–20;
+Thu: 17–22;
+Fri: 14–20;
+Sat: 12–20.</description>
+    <TimeStamp><when>2015-10-14T05:40:49Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>13.431372,52.502049</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>IPA Bar</name>
+    <description>Boring; 100 IPAs bottles and local craft beer on tap.</description>
+    <TimeStamp><when>2017-05-07T08:40:15Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>13.441313,52.472868</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Am Lokdepot</name>
+    <description>The radiant red residential block, it's clear what qualities make a good building.</description>
+    <TimeStamp><when>2015-10-31T12:44:31Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.373423,52.486921</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Penrose triangle</name>
+    <TimeStamp><when>2018-01-11T16:20:06Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>13.379501,52.498319</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

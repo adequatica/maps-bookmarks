@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Dostoevsky's Petersburg</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Аничков мост</name>
+    <description>В «Бесах» один мрачный товарищ «в летнем пальто в глубокую осень, встретил вдруг случайно у Аничкова моста своего бывшего protégé „Лембку”».</description>
+    <TimeStamp><when>2018-09-25T07:07:51Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.343365,59.933185</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Шестилавочная улица</name>
+    <description>На ныне улице Маяковского жил титулярный советник господин Голядкин из «Двойника».</description>
+    <TimeStamp><when>2018-09-25T05:48:49Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.355072,59.936642</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Витебский вокзал</name>
+    <description>Достоевский не упоминает названия вокзала, но герои «Идиота» могли ездить на поезде в Павловск только отсюда. Кстати, это самый первый вокзал в России (1837).</description>
+    <TimeStamp><when>2016-10-23T15:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.329445,59.919649</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Летний сад</name>
+    <description>На скамье под деревом (липой) сидел князь Мышки: «Было около семи часов. Сад был пуст».</description>
+    <TimeStamp><when>2016-09-25T15:52:20Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>30.335094,59.944578</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Екатерингоф</name>
+    <description>Парфён Рогожин и Настасья Филипповна поехали кутить в ночь её именин.</description>
+    <TimeStamp><when>2016-09-25T15:51:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>30.263509,59.903038</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Рогожина</name>
+    <description>«Дом этот был большой, мрачный, в три этажа, без всякой архитектуры, цвету грязно-зеленого».</description>
+    <TimeStamp><when>2016-09-25T15:47:48Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.320506,59.929967</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Пять углов</name>
+    <description>«Близ Владимирской, у Пяти Углов» жила Настасья Филипповна Барашкова из «Идиота». Там же по словам Разумихина была первая квартира Раскольникова: «Ну, а прежнюю квартиру, помню только, что у Пяти Углов, Харламова дом… а ведь вышло потом, что он вовсе и не Харламов дом, а Буха». Текущая архитектурная доминанта: доходный дом 1913 года в стиле неоклассицизма, а сам перекресток существует с 1760.</description>
+    <TimeStamp><when>2017-02-26T06:14:16Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.342303,59.926279</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Конногвардейский бульвар</name>
+    <description>Конногвардейский бульвар почему-то не рассматривается, как примечательное место, хотя Достоевский четко указывает на него: «Ему хотелось сесть, и он искал скамейку; проходил же он тогда по К-му бульвару», где Раскольников повстречал пьяную девушку.</description>
+    <TimeStamp><when>2016-10-22T15:21:37Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.298095,59.933194</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Вознесенский мост</name>
+    <description>«Раскольников прошел прямо на Вознесенский мост, стал на средине, у перил, облокотился на них обоими локтями и принялся глядеть вдоль» и видел, как женщина попыталась утопится. Здесь же сошла с ума Катерина Ивановна.</description>
+    <TimeStamp><when>2016-10-14T15:53:29Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.308208,59.926467</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Юсуповский сад</name>
+    <description>Раскольников «проходя мимо Юсупова сада, он даже очень было занялся мыслию об устройстве высоких фонтанов».</description>
+    <TimeStamp><when>2016-10-15T08:21:43Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>30.313115,59.922983</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Бордель Дом-де-Роберти</name>
+    <description>Раскольников, идя с Сенной площади к Вознесенскому проспекту, сократил пусть через переулок (бавший Таиров), где к нему привязались проституткии, одной из которых он дал пятнадцать копеек.</description>
+    <TimeStamp><when>2017-10-01T19:33:42Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.315901,59.925239</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Полицейская контора**</name>
+    <description>По одной из версий в здании бывшей Спасской полицейской части (где убил Алену Ивановну) Раскольников беседовал с Порфирием Петровичем: «Она только что переехала на новую квартиру, в новый дом, в четвертый этаж». По другой версии это могло быть в здании бывшей Казанской полицейской части (где жил и не платил за квартиру; набережная канала Грибоедова, 99).</description>
+    <TimeStamp><when>2017-02-26T06:08:26Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.305823,59.92186</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Полицейская контора*</name>
+    <description>По одной из версий в здании бывшей Казанской полицейской части (где жил и не платил за квартиру) Раскольников беседовал с Порфирием Петровичем, что соответствует указанному Достоевским расстоянию: «Контора была от него с четверть версты». По другой версии это могло быть в здании бывшей Спасской полицейской части (где убил Алену Ивановну; Садовая улица, 58).</description>
+    <TimeStamp><when>2016-10-16T07:33:58Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.300712,59.927013</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Тайник Раскольникова</name>
+    <description>«Выходя с Вознесенского проспекта на площадь, он вдруг увидел налево вход во двор», где под камень спрятал украденные у убитой старухи вещи и кошелек. Двор того времени не сохранился, дом на этом месте был перестроен в 1950-е.</description>
+    <TimeStamp><when>2016-10-20T17:15:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.307901,59.930826</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Переулок Гривцова</name>
+    <description>Тут был подслушан разговор с Лизаветой: «Раскольников преимущественно любил эти места, равно как и все близлежащие переулки, когда выходил без цели на улицу… У самого К-ного переулка, на углу, мещанин и баба поднимались домой, но замешкались, разговаривая с подошедшею знакомой». Переулок назывался Конным с 1772 года, до того переулок был Малой Сарской улицей, а в 1952 году получил современное название.</description>
+    <TimeStamp><when>2017-10-01T13:37:27Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.316414,59.927711</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Бакалеева</name>
+    <description>Бывшая «Варваринская гостиница», где Лужин поселил мать и сестру Раскольникова: «Это на Вознесенском,… там два этажа под нумерами; купец Юшин содержит… Скверность ужаснейшая: грязь, вонь, да и подозрительное место; штуки случались; да и черт знает кто не живет!»</description>
+    <TimeStamp><when>2017-10-01T13:39:46Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.308397,59.928865</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом старухи процентщицы</name>
+    <description>«Ровно семьсот тридцать» шагов от ворот дома Раскольникова.
+Доходный дом Вальха в котором в 1816–1818 жил Грибоедов.</description>
+    <TimeStamp><when>2016-09-25T15:19:55Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.303091,59.924814</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Сони Мармеладовой</name>
+    <description>«Дом был трехэтажный, старый, зеленого цвета». На третьем этаже (тогда последнем) Соня снимала комнату, окна которой выходили на Екатерининский канал.</description>
+    <TimeStamp><when>2016-09-25T15:12:28Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.310704,59.926334</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Раскольникова</name>
+    <description>На четвертом этаже (в доме Иохима) располагалась квартира, в которой Родион снимал комнату: «Это была крошечная клетушка, шагов в шесть длиной, имевшая самый жалкий вид с своими желтенькими, пыльными и всюду отставшими от стены обоями, и до того низкая,… что вот-вот стукнешься головой о потолок».</description>
+    <TimeStamp><when>2016-09-25T15:08:40Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.31112,59.92774</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Хрустальный дворец</name>
+    <description>Трактир, где Раскольников выслушал исповедь Свидригайлова. В черновиках к роману Достоевский пишет: «На углу Садовой и Вознесенского я набрел на одну гостиницу, и так как я знал, что в ней есть газеты, то и зашел туда, чтобы прочесть в газете, под рубрикой ежедневных событий, о том, что там написано об убийстве старухи». В этом месте находилась гостиница «Пале-де-Кристаль».</description>
+    <TimeStamp><when>2017-10-01T19:34:19Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.307361,59.922214</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Сенная площадь</name>
+    <description>Вокруг Сенной происходило множество событий из «Преступления и наказания». Например, в конце романа Раскольников «стал на колени среди площади, поклонился до земли и поцеловал эту грязную землю, с наслаждением и счастием».</description>
+    <TimeStamp><when>2016-10-23T15:12:42Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.31722,59.926455</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Кокушкин мост</name>
+    <description>«В начале июля,… один молодой человек вышел из своей каморки, которую нанимал от жильцов в Столярном переулке, на улицу и медленно,… отправился к Кокушкину мосту».</description>
+    <TimeStamp><when>2016-10-08T08:06:03Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.313625,59.925821</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Памятник Достоевскому</name>
+    <description>Памятник Достоевскому (11 ноября 1821 – 9 февраля 1881) был установлен 30 мая 1997 г. Каждую первую субботу июля рядом с памятником открываются Дни Достоевского в Санкт-Петербурге.</description>
+    <TimeStamp><when>2016-10-17T17:42:28Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.347719,59.927478</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Могила Достоевского</name>
+    <description>Похоронен 1 февраля 1881 на Тихвинском кладбище. В эпитафии на надгробии приведены слова из Евангелия от Иоанна: «Истинно, истинно говорю вам: если пшеничное зерно, пав в землю, не умрет, то останется одно; а если умрет, то принесет много плода».</description>
+    <TimeStamp><when>2016-10-15T21:28:18Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.386618,59.922957</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Музей-квартира Достоевского</name>
+    <description>С 11:00 до 18:00 кроме понедельника.</description>
+    <TimeStamp><when>2017-02-26T06:16:24Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.35086,59.92735</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Струбинского</name>
+    <description>Сентябрь 1875 – май 1878. Закончил «Подростка», съехал после смерти младшего сына.</description>
+    <TimeStamp><when>2016-09-25T14:31:22Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.366603,59.93598</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Бывшая гауптвахта</name>
+    <description>21–23 марта 1874. Провел двое суток на гауптвахте за нарушение цензурного устава в качестве редактора «Гражданина».</description>
+    <TimeStamp><when>2016-09-25T14:24:28Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.319254,59.927634</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Журнал «Гражданин»</name>
+    <description>1873 – апрель 1874. Занимал пост редактора и вел еженедельное политическое обозрение, публиковал «Дневник писателя».</description>
+    <TimeStamp><when>2016-09-29T07:37:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.357573,59.931013</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Сливчанского</name>
+    <description>Март 1873 – май 1874. Переехал, чтобы жить поближе к редакции журнала «Гражданин», начал работу над «Подростком». Не нравился хозяин дома и шум на улице.</description>
+    <TimeStamp><when>2016-09-25T14:05:28Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.362694,59.934254</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Мебеса (флигель не сохранился)</name>
+    <description>Конец августа 1872 – март 1873. Закончил работу над романом «Бесы», начал редактировать журнал «Гражданин». Квартира была во внутреннем флигеле на втором этаже.</description>
+    <TimeStamp><when>2016-09-25T14:02:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.311606,59.915092</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Мицкевича (дом не сохранился)</name>
+    <description>10 июля – август 1871. По возвращению из заграницы занял две меблированные комнаты, где родился сын Федор.</description>
+    <TimeStamp><when>2016-09-25T13:51:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.311011,59.924708</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Троице-Измайловский собор</name>
+    <description>15 февраля 1867 венчался в дату освобождения из Омского острога.</description>
+    <TimeStamp><when>2016-09-25T13:42:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.305984,59.916527</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Ширмера</name>
+    <description>21 января – 14 апреля 1867. Снимал пятикомнатную квартиру перед свадьбой со второй женой, после чего уехал за границу.</description>
+    <TimeStamp><when>2016-09-25T14:44:41Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.307245,59.925706</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Алонкина</name>
+    <description>20 августа 1864 – 20 января 1867. В квартире 36 на втором этаже написал романы «Преступление и наказание» и «Игрок», познакомился с будущей женой Анной Григорьевной Сниткиной.</description>
+    <TimeStamp><when>2016-09-25T13:21:03Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.312709,59.9269</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Евреинова</name>
+    <description>В апреле 1864 остановился после смерти первой жены Марии Дмитриевны Исаевой от чахотки.</description>
+    <TimeStamp><when>2016-09-25T13:17:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.311781,59.92679</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Астафьевой</name>
+    <description>Сентябрь 1861 – август 1863. Нанимал квартиру на втором этаже из пяти комнат с кухней, закончил «Записки из Мертвого дома».</description>
+    <TimeStamp><when>2016-09-25T13:12:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.314607,59.927429</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Политина (дом не сохранился)</name>
+    <description>Конец декабря 1859 – конец августа 1861. Возвратился в Санкт-Петербург после ссылки, работал над произведениями «Униженные и оскорбленные» и «Записки из Мертвого дома».</description>
+    <TimeStamp><when>2016-09-25T13:04:26Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.314993,59.914931</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Алексеевский равелин</name>
+    <description>23 апреля 1849 – 22 декабря 1849. В Алексеевском равелине написал рассказ «Маленький герой». После приговора покинул Петербург и выбыл из литературного процесса на 10 лет.</description>
+    <TimeStamp><when>2016-09-25T11:34:01Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.310925,59.949104</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Шиля</name>
+    <description>Февраль 1847 – 23 апреля 1849. Жил на третьем этаже, написал повести и рассказы «Белые ночи» и «Неточка Незванова». 23 апреля 1849 года был арестован за участие в кружке Петрашевского и препровожден в Третье отделение, а затем в Петропавловскую крепость.</description>
+    <TimeStamp><when>2016-09-25T11:33:43Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.308804,59.935217</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Вольф и Беранже</name>
+    <description>В кафе «Вольф и Беранже» собирались петрашевцы и здесь же весной 1846 года случайно познакомился с М.В. Буташевичем-Петрашевским.</description>
+    <TimeStamp><when>2016-10-08T05:32:43Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.319223,59.93639</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Солошича</name>
+    <description>Ноябрь 1846 – февраль 1847. Снимал несколько комнат совместно с братьями Бекетовыми.</description>
+    <TimeStamp><when>2016-09-25T11:29:40Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.290257,59.940728</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Кохендорфа</name>
+    <description>6 сентября 1846 – ноябрь 1846. Закончил повесть «Господин Прохарчин», 5 октября 1846 года познакомился с А.И. Герценым.</description>
+    <TimeStamp><when>2016-09-25T11:28:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.323485,59.933622</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Кучиной/Клинкстрема</name>
+    <description>Конец 1845 – начало 1846. Написал повесть «Двойник».
+5 октября 1878 – 28 января 1881 (здание сменило владельца, когда писатель жил в нем во второй раз). Написал свой последний роман «Братья Карамазовы».</description>
+    <TimeStamp><when>2016-09-25T14:43:23Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.35081,59.927106</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ресторан Лерха</name>
+    <description>30 июня 1843 в ресторане Лерха праздновал окончание Главного инженерного училища.</description>
+    <TimeStamp><when>2016-09-25T12:33:19Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.347131,59.933269</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Тулубьева</name>
+    <description>Григорович передал рукопись «Бедных людей» жившему здесь Некрасову. Который, прочитав роман, передал рукопись Белинскому со словами: «Новый Гоголь явился!»</description>
+    <TimeStamp><when>2017-10-03T19:26:02Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.351257,59.929326</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Церковь Спаса-на-Сенной</name>
+    <description>Посещал Достоевский (была снесена в советский период, сейчас на этом месте часовня Иоанна Нового Сочавского). Возможно, рядом жили герои романа «Бедные люди».</description>
+    <TimeStamp><when>2016-09-25T12:42:05Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.321036,59.927222</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Пряничникова</name>
+    <description>Февраль 1842 – конец 1845. Снимал квартиру на втором этаже, а через дорогу (в доме Фредерикса) покупал булки и ячменный кофе. C 1844 по 1845 год соседом был Д.В. Григорович, которому писатель читал свой первый роман «Бедные люди», оконченный в конце мая 1845.</description>
+    <TimeStamp><when>2016-09-25T11:24:47Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.347024,59.930449</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Караванная улица</name>
+    <description>Август 1841 – февраль 1842. 12 августа 1841 года был произведен в полевые инженер-прапорщики с правом жить на частной квартире: небольшой, из двух комнат, одну из которых занимал его товарищ по училищу Альфред Тотлебен.</description>
+    <TimeStamp><when>2016-09-25T11:21:29Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.342183,59.935635</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Михайловский замок</name>
+    <description>16 января 1838 – август 1841. Учился и проживал в Главном инженерном училище.</description>
+    <TimeStamp><when>2016-09-25T11:18:59Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.3372,59.940526</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Серапинская гостиница</name>
+    <description>Май 1837. При первом приезде в столицу из Москвы пробыл здесь несколько дней с отцом и братом Михаилом.</description>
+    <TimeStamp><when>2016-10-14T15:57:18Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.318162,59.919858</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
