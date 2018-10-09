@@ -1,6 +1,6 @@
 # Point of Interests
 
-I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013. Since that time I saved about half a thousand places and I will be glad if someone find them useful:
+I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013. Since that time I saved about half a thousand places where I have been and will be glad if someone find them useful::
 * [Download from Dropbox](https://www.dropbox.com/sh/rp62t42zd4thlzn/AAC5bTe7wtCfzrYE_1MzUTgra?dl=0)
 * [How can I import bookmarks](https://support.maps.me/hc/en-us/articles/207895029-How-can-I-import-bookmarks-)?
 
@@ -14,7 +14,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * Brown — craft beer bars/pubs or craft beer bootle shops;
 * Pink — bus and train stations or a group of special POIs for particular area.
 
-## Lists of Bookmarks
+## Lists of bookmarks
 
 1. Belgium — 16
 1. Berlin — 48
