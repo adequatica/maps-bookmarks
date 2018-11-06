@@ -114,16 +114,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Pie Point</name>
-    <description>Tiny cafe with English pies and Irish cider.</description>
-    <TimeStamp><when>2017-02-01T06:30:13Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.602263,55.764176</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Khinkali Point</name>
     <TimeStamp><when>2017-01-31T18:04:45Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
@@ -473,15 +463,6 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Belgeek</name>
-    <TimeStamp><when>2018-07-15T13:03:26Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.600455,55.755582</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Trappist</name>
     <TimeStamp><when>2018-09-23T09:49:00Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
@@ -491,10 +472,28 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>O'Donoghue's</name>
+    <TimeStamp><when>2018-10-07T07:57:08Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>37.629079,55.740845</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Shirokuyu na Shirokuyu</name>
     <TimeStamp><when>2018-09-23T10:01:34Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.636187,55.761524</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Method</name>
+    <TimeStamp><when>2018-10-31T18:28:09Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>37.659994,55.741551</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
