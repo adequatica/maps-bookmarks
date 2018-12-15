@@ -159,10 +159,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>St. Anton</name>
+    <name><![CDATA[St.Peters & St.Anton]]></name>
     <TimeStamp><when>2014-04-08T12:27:49Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.609871,55.756572</coordinates></Point>
+    <Point><coordinates>37.60977,55.756451</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -214,7 +214,6 @@
   </Placemark>
   <Placemark>
     <name>Lambic</name>
-    <description>Belgian restaurant with a small bar: Delirium – 350 rub.</description>
     <TimeStamp><when>2017-01-30T08:23:14Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.654013,55.754573</coordinates></Point>
@@ -371,7 +370,7 @@
     <name>Vetka</name>
     <TimeStamp><when>2017-05-28T05:53:18Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.668004,55.745586</coordinates></Point>
+    <Point><coordinates>37.667985,55.745578</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -389,13 +388,13 @@
     <name>Progress</name>
     <TimeStamp><when>2017-08-31T15:53:11Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.570221,55.771399</coordinates></Point>
+    <Point><coordinates>37.570256,55.771371</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Danilovskiy Market</name>
+    <name>Danilovskiy market</name>
     <description>From Paveletskaya by trams: 3, 35, 38, 39, A;
 To Shabolovskaya: 47, A;
 To Leninskiy Prospekt: 39.</description>
@@ -494,6 +493,24 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-10-31T18:28:09Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.659994,55.741551</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Jawsspot</name>
+    <TimeStamp><when>2018-11-30T15:30:38Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>37.626821,55.730269</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yugos</name>
+    <TimeStamp><when>2018-11-30T17:04:15Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>37.607989,55.723663</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
