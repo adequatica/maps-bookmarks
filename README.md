@@ -11,8 +11,8 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * Green — parks, botanical gardens, mountainboard parks;
 * Purple — bars or pubs;
 * Orange — cafés, restaurants, fast food;
-* Brown — craft beer bars/pubs or craft beer bootle shops;
-* Pink — bus and train stations or a group of special POIs for particular area.
+* Brown — craft beer bars/breweries or craft beer bootle shops;
+* Pink — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
 
 ## Lists of bookmarks
 
@@ -36,6 +36,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Moscow — 50
 1. Netherlands — 26
 1. Paris — 26
+1. Portugal — 60
 1. Prague — 18
 1. Saint Petersburg — 48
 1. Serbia — 20
