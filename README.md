@@ -23,7 +23,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
-1. Dostoevsky’s Petersburg✻ — 50
+1. Dostoevsky’s Petersburg✻ — 60
 1. Dublin – 20
 1. France — 8
 1. Hemingway’s Spain✻ — 14
