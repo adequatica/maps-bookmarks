@@ -105,15 +105,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Burger Brothers</name>
-    <TimeStamp><when>2014-12-11T19:45:47Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.597183,55.773079</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Khinkali Point</name>
     <TimeStamp><when>2017-01-31T18:04:45Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
@@ -334,7 +325,7 @@
     <description>Cash only.</description>
     <TimeStamp><when>2017-01-28T19:39:47Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.645328,55.759666</coordinates></Point>
+    <Point><coordinates>37.645328,55.759673</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -492,7 +483,7 @@ To Leninskiy Prospekt: 39.</description>
     <name>Method</name>
     <TimeStamp><when>2018-10-31T18:28:09Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.659994,55.741551</coordinates></Point>
+    <Point><coordinates>37.659796,55.741627</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -512,6 +503,15 @@ To Leninskiy Prospekt: 39.</description>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.607989,55.723663</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Zinziver</name>
+    <TimeStamp><when>2019-03-07T05:37:49Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>37.645529,55.758816</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>

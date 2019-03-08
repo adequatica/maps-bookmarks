@@ -60,6 +60,15 @@
   <name>Moscow Oblast</name>
   <visibility>0</visibility>
   <Placemark>
+    <name>Arkhangelskoye Palace</name>
+    <TimeStamp><when>2018-06-12T05:36:10Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>37.282744,55.788625</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Kolomna Kremlin</name>
     <TimeStamp><when>2017-08-03T07:04:56Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -96,7 +105,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Kropotkin's house</name>
+    <name>Kropotkin’s house</name>
     <TimeStamp><when>2017-08-03T07:03:20Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>37.521247,56.341165</coordinates></Point>
@@ -109,6 +118,24 @@
     <TimeStamp><when>2017-08-03T07:02:15Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>37.51861,56.344516</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mozhaysk Kremlin</name>
+    <TimeStamp><when>2018-06-03T07:23:30Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>36.011482,55.509269</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Serpukhov Kremlin</name>
+    <TimeStamp><when>2019-02-20T04:45:31Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>37.405887,54.915483</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
