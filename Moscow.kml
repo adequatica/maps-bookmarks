@@ -4,56 +4,56 @@
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-blue.png</href>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-brown.png</href>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-pink.png</href>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-purple.png</href>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -462,7 +462,7 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>O'Donoghue's</name>
+    <name>O’Donoghue’s</name>
     <TimeStamp><when>2018-10-07T07:57:08Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.629079,55.740845</coordinates></Point>

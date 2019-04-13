@@ -58,7 +58,6 @@
     </IconStyle>
   </Style>
   <name>Portugal</name>
-  <description></description>
   <visibility>0</visibility>
   <ExtendedData xmlns:mwm="https://maps.me">
     <mwm:name>
@@ -625,7 +624,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Taylor's</name>
+    <name>Taylor’s</name>
     <TimeStamp><when>2018-11-11T13:15:19Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>-8.6143235,41.134377</coordinates></Point>

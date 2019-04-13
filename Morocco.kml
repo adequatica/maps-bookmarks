@@ -4,56 +4,56 @@
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-blue.png</href>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-brown.png</href>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-pink.png</href>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-purple.png</href>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -337,7 +337,7 @@
   </Placemark>
   <Placemark>
     <name>Hassan II Mosque</name>
-    <description>It is the largest mosque in Morocco and the 13th largest in the world. It was completed in 1993 and it has the world's tallest minaret: 210 meters.</description>
+    <description>It is the largest mosque in Morocco and the 13th largest in the world. It was completed in 1993 and it has the world’s tallest minaret: 210 meters.</description>
     <TimeStamp><when>2016-12-17T14:16:19Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-7.6323988,33.608534</coordinates></Point>

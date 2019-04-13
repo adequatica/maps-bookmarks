@@ -70,7 +70,6 @@
   </Placemark>
   <Placemark>
     <name>Guinness Storehouse</name>
-    <description></description>
     <TimeStamp><when>2018-08-11T12:24:29Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-6.286736,53.341851</coordinates></Point>
@@ -80,7 +79,6 @@
   </Placemark>
   <Placemark>
     <name>Samuel Beckett Bridge</name>
-    <description></description>
     <TimeStamp><when>2018-10-06T12:01:19Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-6.2414791,53.346911</coordinates></Point>
@@ -89,7 +87,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>St. Patrick's Cathedral</name>
+    <name>St. Patrick’s Cathedral</name>
     <TimeStamp><when>2018-08-11T20:31:04Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-6.271485,53.339532</coordinates></Point>
@@ -117,7 +115,6 @@
   </Placemark>
   <Placemark>
     <name>Oscar Wilde Memorial</name>
-    <description></description>
     <TimeStamp><when>2018-10-02T15:33:52Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-6.2505543,53.340801</coordinates></Point>
@@ -126,8 +123,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Saint Stephen's Green</name>
-    <description></description>
+    <name>Saint Stephen’s Green</name>
     <TimeStamp><when>2018-08-11T20:21:45Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>-6.259061,53.338081</coordinates></Point>
@@ -147,7 +143,6 @@
   </Placemark>
   <Placemark>
     <name>O’Donoghue’s</name>
-    <description></description>
     <TimeStamp><when>2018-10-06T13:01:04Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>-6.2542048,53.338134</coordinates></Point>
@@ -177,7 +172,6 @@
   </Placemark>
   <Placemark>
     <name>The Auld Dubliner</name>
-    <description></description>
     <TimeStamp><when>2018-10-04T09:36:22Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>-6.2620288,53.345554</coordinates></Point>
@@ -197,7 +191,6 @@
   </Placemark>
   <Placemark>
     <name>Porterhouse</name>
-    <description></description>
     <TimeStamp><when>2018-09-29T06:57:28Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>-6.2674268,53.345129</coordinates></Point>
@@ -207,7 +200,6 @@
   </Placemark>
   <Placemark>
     <name>Dublin Connolly</name>
-    <description></description>
     <TimeStamp><when>2018-09-29T07:26:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-6.2489316,53.351697</coordinates></Point>
@@ -217,7 +209,6 @@
   </Placemark>
   <Placemark>
     <name>Howth</name>
-    <description></description>
     <TimeStamp><when>2018-10-05T15:42:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-6.0743734,53.389112</coordinates></Point>
@@ -227,7 +218,6 @@
   </Placemark>
   <Placemark>
     <name>Howth Castle</name>
-    <description></description>
     <TimeStamp><when>2018-08-13T17:36:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-6.079416,53.386221</coordinates></Point>
@@ -237,7 +227,6 @@
   </Placemark>
   <Placemark>
     <name>Medieval City Wall</name>
-    <description></description>
     <TimeStamp><when>2018-10-03T20:47:35Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-6.2742704,53.343929</coordinates></Point>
@@ -246,7 +235,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Leo Burdock's</name>
+    <name>Leo Burdock’s</name>
     <description>Very very big portions of fish and chips for 10,25€ Take away only.</description>
     <TimeStamp><when>2018-10-06T08:24:32Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>

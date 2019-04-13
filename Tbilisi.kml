@@ -70,7 +70,6 @@
   </Placemark>
   <Placemark>
     <name>Narikala</name>
-    <description></description>
     <TimeStamp><when>2018-09-24T04:10:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>44.808642,41.687905</coordinates></Point>
@@ -80,7 +79,6 @@
   </Placemark>
   <Placemark>
     <name>Flea Market</name>
-    <description></description>
     <TimeStamp><when>2018-09-27T07:09:11Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>44.803082,41.701014</coordinates></Point>
@@ -99,7 +97,6 @@
   </Placemark>
   <Placemark>
     <name>Nutsubidze Plateau</name>
-    <description></description>
     <TimeStamp><when>2018-10-21T18:04:17Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>44.719051,41.726888</coordinates></Point>

@@ -2,7 +2,7 @@
 
 I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013. Since that time I saved about half a thousand places where I have been and will be glad if someone find them useful:
 * [Download from Dropbox](https://www.dropbox.com/sh/rp62t42zd4thlzn/AAC5bTe7wtCfzrYE_1MzUTgra?dl=0)
-* [How can I import bookmarks](https://support.maps.me/hc/en-us/articles/207895029-How-can-I-import-bookmarks-)?
+* [How can I import bookmarks](https://support.maps.me/hc/en-us/articles/207895029-How-to-import-bookmarks-)?
 
 ## Map legend
 
@@ -32,7 +32,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Leningrad Oblast — 16
 1. Montenegro — 28
 1. Morocco — 32
-1. Moscow Oblast — 6
+1. Moscow Oblast — 10
 1. Moscow — 50
 1. Netherlands — 26
 1. Paris — 26
@@ -40,7 +40,6 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Prague — 18
 1. Saint Petersburg — 50
 1. Serbia — 20
-1. Slovenia — 6
 1. Spain: Asturias — 6
 1. Spain: Barcelona — 22
 1. Spain: Basque Country — 12
