@@ -58,13 +58,23 @@
     </IconStyle>
   </Style>
   <name>Dostoevsky in Petersburg</name>
-  <visibility>1</visibility>
+  <visibility>0</visibility>
   <Placemark>
     <name>Аничков мост</name>
     <description>В «Бесах» один мрачный товарищ «в летнем пальто в глубокую осень, встретил вдруг случайно у Аничкова моста своего бывшего protégé „Лембку”».</description>
     <TimeStamp><when>2018-09-25T07:07:51Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.343365,59.933185</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Бывший Варшавский вокзал</name>
+    <description>Князь Мышкин вместе с попутчиками приехал из Европы в Петербург: «В конце ноября, в оттепель, часов в девять утра, поезд Петербургско-Варшавской железной дороги на всех парах подходил к Петербургу.»</description>
+    <TimeStamp><when>2019-04-07T09:42:51Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.307373,59.906952</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -111,10 +121,32 @@
   </Placemark>
   <Placemark>
     <name>Пять углов</name>
-    <description>«Близ Владимирской, у Пяти Углов» жила Настасья Филипповна Барашкова из «Идиота». Там же по словам Разумихина была первая квартира Раскольникова: «Ну, а прежнюю квартиру, помню только, что у Пяти Углов, Харламова дом… а ведь вышло потом, что он вовсе и не Харламов дом, а Буха». Текущая архитектурная доминанта: доходный дом 1913 года в стиле неоклассицизма, а сам перекресток существует с 1760.</description>
+    <description>«Близ Владимирской, у Пяти Углов» жила Настасья Филипповна Барашкова из «Идиота». Там же по словам Разумихина была первая квартира Раскольникова: «Ну, а прежнюю квартиру, помню только, что у Пяти Углов, Харламова дом… а ведь вышло потом, что он вовсе и не Харламов дом, а Буха». Текущая архитектурная доминанта: доходный дом 1913 года в стиле неоклассицизма, а сам перекресток существует с 1760.</description>
     <TimeStamp><when>2017-02-26T06:14:16Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342303,59.926279</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Бакалеева</name>
+    <description>Бывшая «Варваринская гостиница», где Лужин поселил мать и сестру Раскольникова: «Это на Вознесенском,… там два этажа под нумерами; купец Юшин содержит… Скверность ужаснейшая: грязь, вонь, да и подозрительное место; штуки случались; да и черт знает кто не живет!»
+Здесь же располагалась кондитерская Миллера, где Иван Петрович встретил старика Смита: «Посетители этой кондитерской большею частию немцы. Они собираются сюда со всего Вознесенского проспекта – все хозяева различных заведений: слесаря, булочники, красильщики, шляпные мастера, седельники – все люди патриархальные в немецком смысле слова. У Миллера вообще наблюдалась патриархальность.»</description>
+    <TimeStamp><when>2017-10-01T13:39:46Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.308397,59.928865</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Вознесенский мост</name>
+    <description>«Раскольников прошел прямо на Вознесенский мост, стал на средине, у перил, облокотился на них обоими локтями и принялся глядеть вдоль» и видел, как женщина попыталась утопится. Здесь же сошла с ума Катерина Ивановна.
+Иван Петрович из «Униженных и оскорбленных» заметил как Нелли просила милостыню: «Только что я это воскликнул, как вдруг увидел Нелли, в нескольких шагах от меня, на В-м мосту.»</description>
+    <TimeStamp><when>2016-10-14T15:53:29Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.308208,59.926467</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -140,31 +172,11 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Вознесенский мост</name>
-    <description>«Раскольников прошел прямо на Вознесенский мост, стал на средине, у перил, облокотился на них обоими локтями и принялся глядеть вдоль» и видел, как женщина попыталась утопится. Здесь же сошла с ума Катерина Ивановна.</description>
-    <TimeStamp><when>2016-10-14T15:53:29Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>30.308208,59.926467</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Бордель Дом-де-Роберти</name>
-    <description>Раскольников, идя с Сенной площади к Вознесенскому проспекту, сократил пусть через переулок (бавший Таиров), где к нему привязались проституткии, одной из которых он дал пятнадцать копеек.</description>
+    <description>Раскольников, идя с Сенной площади к Вознесенскому проспекту, сократил путь через переулок (бывший Таиров): «Он и прежде проходил часто этим коротеньким переулком, делающим колено и ведущим с площади в Садовую», где к нему привязались проститутки, одной из которых он дал пятнадцать копеек.</description>
     <TimeStamp><when>2017-10-01T19:33:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.315901,59.925239</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Дом Бакалеева</name>
-    <description>Бывшая «Варваринская гостиница», где Лужин поселил мать и сестру Раскольникова: «Это на Вознесенском,… там два этажа под нумерами; купец Юшин содержит… Скверность ужаснейшая: грязь, вонь, да и подозрительное место; штуки случались; да и черт знает кто не живет!»</description>
-    <TimeStamp><when>2017-10-01T13:39:46Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>30.308397,59.928865</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -211,7 +223,7 @@
   </Placemark>
   <Placemark>
     <name>Дом старухи процентщицы</name>
-    <description>«Ровно семьсот тридцать» шагов от ворот дома Раскольникова до дома старухи проценщицы. Это был доходный дом Вальха в котором в 1816–1818 жил Грибоедов.</description>
+    <description>«Ровно семьсот тридцать» шагов от ворот дома Раскольникова до дома старухи проценщицы Алёны Ивановны. Это был доходный дом Вальха в котором в 1816–1818 жил Грибоедов.</description>
     <TimeStamp><when>2016-09-25T15:19:55Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.303112,59.924817</coordinates></Point>
@@ -231,7 +243,7 @@
   </Placemark>
   <Placemark>
     <name>Дом Раскольникова</name>
-    <description>На четвертом этаже (в доме Иохима) располагалась квартира, в которой Родион снимал комнату: «Это была крошечная клетушка, шагов в шесть длиной, имевшая самый жалкий вид с своими желтенькими, пыльными и всюду отставшими от стены обоями, и до того низкая,… что вот-вот стукнешься головой о потолок».</description>
+    <description>В доме Иохима на четвертом этаже располагалась квартира, в которой Родион снимал комнату: «Это была крошечная клетушка, шагов в шесть длиной, имевшая самый жалкий вид с своими желтенькими, пыльными и всюду отставшими от стены обоями, и до того низкая,… что вот-вот стукнешься головой о потолок».</description>
     <TimeStamp><when>2016-09-25T15:08:40Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.310662,59.927691</coordinates></Point>
@@ -240,8 +252,18 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Вяземская лавра</name>
+    <description>В XIX веке это была группа домов между Сенной площадью и Фонтанкой, где располагались дешевые трактиры и ночлежки. Свидригайлов, рассказывая о крайней степени своего падения, упоминает: «в доме Вяземского на Сенной в старину ночевывал».</description>
+    <TimeStamp><when>2019-04-07T18:53:23Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.318343,59.924683</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Хрустальный дворец</name>
-    <description>Трактир, где Раскольников выслушал исповедь Свидригайлова. В черновиках к роману Достоевский пишет: «На углу Садовой и Вознесенского я набрел на одну гостиницу, и так как я знал, что в ней есть газеты, то и зашел туда, чтобы прочесть в газете, под рубрикой ежедневных событий, о том, что там написано об убийстве старухи». В этом месте находилась гостиница «Пале-де-Кристаль».</description>
+    <description>Трактир, где Раскольников выслушал исповедь Свидригайлова. В черновиках к роману Достоевский пишет: «На углу Садовой и Вознесенского я набрел на одну гостиницу, и так как я знал, что в ней есть газеты, то и зашел туда, чтобы прочесть в газете, под рубрикой ежедневных событий, о том, что там написано об убийстве старухи». В этом месте находилась гостиница «Пале-де-Кристаль».</description>
     <TimeStamp><when>2017-10-01T19:34:19Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.307361,59.922214</coordinates></Point>
@@ -270,8 +292,81 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Гостиный двор</name>
+    <description>Герой «Записок из подполья» ищет здесь бобровый воротник для пальто: «Надо было переменить воротник во что бы ни стало и завести бобрик, вроде как у офицеров. Для этого я стал ходить по Гостиному двору и после нескольких попыток нацелился на один дешёвый немецкий бобрик.»</description>
+    <TimeStamp><when>2019-04-07T09:41:49Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.331046,59.933112</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ресторан Бореля</name>
+    <description>Иван Петрович и князь Валковский поехали ужинать:
+– Дело в шляпе. В Большую Морскую, к Б.
+– В ресторан? – спросил я с некоторым замешательством.
+– Да, а что ж?</description>
+    <TimeStamp><when>2019-04-07T09:35:41Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.316771,59.935216</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Торговый мост</name>
+    <description>Иван Петрович и князь Валковский поехали к графине, которая жила рядом с этим местом: «Ехать было недолго, к Торговому мосту.»</description>
+    <TimeStamp><when>2019-04-07T09:36:16Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.29574,59.924568</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Наташи Ихменевой</name>
+    <description>Наташа Ихменева предположительно могла тут жить: «Она жила тогда на Фонтанке, у Семеновского моста, в грязном „капитальном” доме купца Колотушкина, в четвертом этаже.»</description>
+    <TimeStamp><when>2019-04-07T09:40:16Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.3204,59.923607</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>13-я линия Васильевского острова</name>
+    <description>Жили Ихменьевы (Николай Сергеевич и Анна Андреевна) из «Униженных и оскорбленных»: «На Васильевском острове он выпускает меня из кареты, и я бегу к нашим. Вот и Тринадцатая линия, вот и их домик.»</description>
+    <TimeStamp><when>2019-04-07T09:39:27Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.278528,59.934418</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>6-я линия Васильевского острова</name>
+    <description>Находился дом мещанки Бубновой, где жила Нелли после смерти матери: «На Васильевском острове, – хрипел старик, – в Шестой линии…»</description>
+    <TimeStamp><when>2019-04-12T21:31:13Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.284801,59.937804</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом Смита</name>
+    <description>Старик Смит, а впоследствии Иван Петрович, жили здесь: «Квартиру старика отыскали. Он, однакоже, жил не на Васильевском острову, а в двух шагах от того места, где умер, в доме Клугена, под самою кровлею, в пятом этаже, в отдельной квартире.»</description>
+    <TimeStamp><when>2019-04-07T19:09:32Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.305262,59.929267</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Шестилавочная улица</name>
-    <description>На Шестилавочной улице (ныне улице Маяковского) жил титулярный советник господин Голядкин из «Двойника».</description>
+    <description>На Шестилавочной улице (ныне улице Маяковского) жил титулярный советник господин Голядкин из «Двойника» и Филипп Филиппыч Маслобоев из «Униженных и оскорбленных».</description>
     <TimeStamp><when>2018-09-25T05:48:49Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.355072,59.936642</coordinates></Point>
@@ -381,7 +476,7 @@
   </Placemark>
   <Placemark>
     <name>Максимилиановская лечебница</name>
-    <description>24–26 мая 1872. Вернулся из Старой Руссы из-за перелома руки трехлетней дочки Любы. Прожил с женой двое суток на постоялом дворе при лечебнице (на уголу переулка Пирогова и Вознесенского проспекта).</description>
+    <description>24–26 мая 1872. Вернулся из Старой Руссы из-за перелома руки трехлетней дочки Любы. Прожил с женой двое суток на постоялом дворе при лечебнице (на углу переулка Пирогова и Вознесенского проспекта).</description>
     <TimeStamp><when>2019-03-03T07:55:51Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.307228,59.929519</coordinates></Point>
@@ -411,7 +506,7 @@
   </Placemark>
   <Placemark>
     <name>Гостиница Демут** (дом многократно перестраивался)</name>
-    <description>8–9 июля 1871. Адрес отеля не известнен биографам писателя, но, вероятно, Достоевские могли здесь прожить два дня после возвращения из-за границы.</description>
+    <description>8–9 июля 1871. Адрес отеля не известен биографам писателя, но, вероятно, Достоевские могли здесь прожить два дня после возвращения из-за границы.</description>
     <TimeStamp><when>2019-03-03T07:52:19Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.321887,59.937018</coordinates></Point>

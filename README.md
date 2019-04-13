@@ -23,8 +23,8 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
-1. Dostoevsky in Petersburg✻ — 60
-1. Dublin – 20
+1. Dostoevsky in Petersburg✻ — 69
+1. Dublin — 20
 1. France — 8
 1. Hemingway in Spain✻ — 14
 1. Istanbul — 14
@@ -59,18 +59,16 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
 
 #### «Dostoevsky in Petersburg» based on:
-* Бирон, В. Петербург Достоевского —  СПб.: Свеча, 1991.
-* Тихомиров Б. Н. «А живу в доме Шиля…». Адреса Ф. М. Достоевского в Петербурге, известные и неизвестные. 1837-1881. — СПб.: Серебряный век, 2016
-* Тихомиров Б. Н. [Петербургские адреса и адресаты Достоевского (К проблеме краеведческого комментирования адресных записей писателя)](http://unknown-dostoevsky.ru/files/redaktor_pdf/1514461706.pdf) // Неизвестный Достоевский. — 2017. — № 4.
-* Тихомиров Б. Н. [Петербургские адреса и адресаты Достоевского (К проблеме краеведческого комментирования адресных записей писателя). Статья вторая](http://unknown-dostoevsky.ru/files/redaktor_pdf/1541001296.pdf) // Неизвестный Достоевский. – 2018. — № 3.
 * [Петербургские адреса Достоевского](https://ru.wikipedia.org/wiki/Петербургские_адреса_Достоевского)
-* [Петербург реальный и литературный. Петербург Достоевского](https://www.sites.google.com/site/litpeterburg/peterburg-dostoevskogo)
+* [Петербург Достоевского. Адреса и места, связанные с великим русским писателем](http://family-history.ru/material/biography/mesto/dostoyevsky/)
+* Саруханян Е. П. Достоевский в Петербурге. — Лениздат, 1972.
+* Тихомиров Б. Н. «А живу в доме Шиля…». Адреса Ф. М. Достоевского в Петербурге, известные и неизвестные. 1837–1881. — СПб.: Серебряный век, 2016.
+* Тихомиров Б. Н. [Петербургские адреса и адресаты Достоевского (К проблеме краеведческого комментирования адресных записей писателя)](http://unknown-dostoevsky.ru/files/redaktor_pdf/1514461706.pdf) // Неизвестный Достоевский. — 2017. — № 4.
+* Тихомиров Б. Н. [Петербургские адреса и адресаты Достоевского (К проблеме краеведческого комментирования адресных записей писателя). Статья вторая](http://unknown-dostoevsky.ru/files/redaktor_pdf/1541001296.pdf) // Неизвестный Достоевский. — 2018. — № 3.
 * [Архитектурный сайт Петербурга](http://www.citywalls.ru)
-* [Литературно-мемориальный музей Ф. М. Достоевского](https://www.md.spb.ru)
-* [Прогулка с Достоевским](https://www.izi.travel/ru/b268-progulka-s-dostoevskim/ru)
 
 #### «Hemingway in Spain» based on:
-* [Blood, Sand, Sherry: Hemingway’s Madrid](https://www.nytimes.com/2011/06/19/travel/a-tour-of-hemingways-madrid.html?_r=0)
+* [Blood, Sand, Sherry: Hemingway’s Madrid](https://www.nytimes.com/2011/06/19/travel/a-tour-of-hemingways-madrid.html)
 * [How to Visit Hemingway’s Madrid Like a Local](https://untappedcities.com/2012/03/13/how-to-visit-hemingways-madrid-like-a-local/)
 * [The old man and the city: Hemingway’s love affair with Pamplona](https://www.independent.co.uk/travel/europe/the-old-man-and-the-city-hemingways-love-affair-with-pamplona-2305392.html)
 * [Following Hemingway’s Steps in Pamplona](http://www.turismo.navarra.es/eng/organice-viaje/recurso.aspx?o=4798)
