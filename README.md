@@ -30,7 +30,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Istanbul — 14
 1. Kaliningrad — 12
 1. Leningrad Oblast — 16
-1. Montenegro — 28
+1. Montenegro — 30
 1. Morocco — 32
 1. Moscow Oblast — 10
 1. Moscow — 50

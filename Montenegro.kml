@@ -242,19 +242,19 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Stari Bar</name>
-    <TimeStamp><when>2018-09-05T08:31:18Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.135414,42.093423</coordinates></Point>
+    <name>Autobuska Stanica Bar</name>
+    <TimeStamp><when>2018-08-26T18:39:17Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>19.103075,42.088551</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Autobuska Stanica Bar</name>
-    <TimeStamp><when>2018-08-26T18:39:17Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>19.103075,42.088551</coordinates></Point>
+    <name>Stari Bar</name>
+    <TimeStamp><when>2018-09-05T08:31:18Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>19.135414,42.093423</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -265,6 +265,15 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.2218,41.931745</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ulcinj Castle</name>
+    <TimeStamp><when>2019-04-14T07:27:35Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>19.200474,41.922863</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -301,6 +310,15 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.945474,42.20746</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Lučice</name>
+    <TimeStamp><when>2019-04-14T07:26:40Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.950941,42.200433</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
