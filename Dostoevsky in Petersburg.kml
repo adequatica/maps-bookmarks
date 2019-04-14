@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
         <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -29,35 +57,8 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="placemark-pink">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-purple">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-red">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-yellow">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <name>Dostoevsky in Petersburg</name>
+  <name>Достоевский в Петербурге</name>
+  <description>Достоевский впервые оказался в Петербурге в шестнадцатилетнем возрасте и прожил в городе исключительно на съемных квартирах около 28 лет.</description>
   <visibility>0</visibility>
   <Placemark>
     <name>Аничков мост</name>
@@ -223,7 +224,7 @@
   </Placemark>
   <Placemark>
     <name>Дом старухи процентщицы</name>
-    <description>«Ровно семьсот тридцать» шагов от ворот дома Раскольникова до дома старухи проценщицы Алёны Ивановны. Это был доходный дом Вальха в котором в 1816–1818 жил Грибоедов.</description>
+    <description>«Ровно семьсот тридцать» шагов от ворот дома Раскольникова до дома старухи процентщицы Алёны Ивановны. Это был доходный дом Вальха в котором в 1816–1818 жил Грибоедов.</description>
     <TimeStamp><when>2016-09-25T15:19:55Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.303112,59.924817</coordinates></Point>
@@ -496,7 +497,7 @@
   </Placemark>
   <Placemark>
     <name>Дом Мицкевича (дом не сохранился)</name>
-    <description>10 июля – 22–23 августа 1871. По возвращению из заграницы занял две меблированные комнаты, где родился сын Федор.</description>
+    <description>10 июля – 22–23 августа 1871. По возвращению из-за границы занял две меблированные комнаты, где родился сын Федор.</description>
     <TimeStamp><when>2016-09-25T13:51:24Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.310997,59.924728</coordinates></Point>
@@ -656,7 +657,7 @@
   </Placemark>
   <Placemark>
     <name>Дом Павловых</name>
-    <description>Май 1846. Прожил здесь неполный месяц перед отъездом на лето в Ревель к брату Михаулу.</description>
+    <description>Май 1846. Прожил здесь неполный месяц перед отъездом на лето в Ревель к брату Михаилу.</description>
     <TimeStamp><when>2019-03-03T07:19:28Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.344142,59.928377</coordinates></Point>
@@ -667,7 +668,7 @@
   <Placemark>
     <name>Дом Кучиной/Клинкстрема</name>
     <description>Конец 1845 – конец апреля – начало мая 1846. Жил в трехкомнатной квартире на первом этаже, окна выходили на Гребецкую улицу (это 5-е – 7-е окна справа от арки по улице Достоевского). Написал повесть «Двойник».
-5 октября 1878 – 9 февраля 1881. Здание сменило владельца, когда писатель жил в нем во второй раз до самой сметри. Окна новой квартиры выходили на Кузнечный переулок, сейчас там располагается литературно-мемориальный музей-квартира писателя. Написал свой последний роман «Братья Карамазовы».</description>
+5 октября 1878 – 9 февраля 1881. Здание сменило владельца, когда писатель жил в нем во второй раз до самой смерти (28 января по старому стилю). Окна новой квартиры выходили на Кузнечный переулок, сейчас там располагается литературно-мемориальный музей-квартира писателя. Написал свой последний роман «Братья Карамазовы».</description>
     <TimeStamp><when>2016-09-25T14:43:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.350692,59.927164</coordinates></Point>
@@ -707,7 +708,7 @@
   </Placemark>
   <Placemark>
     <name>Дом Пряничникова</name>
-    <description>Февраль 1842 – конец 1845. Снимал квартиру на втором этаже c братом Андреем. Через дорогу (в доме Фредерикса) покупал булки и ячменный кофе. C 1844 по 1845 год соседом Достоевского был Д.В. Григорович, которому писатель читал свой первый роман «Бедные люди», оконченный в конце мая 1845.</description>
+    <description>Февраль 1842 – конец 1845. Снимал квартиру на втором этаже с братом Андреем. Через дорогу (в доме Фредерикса) покупал булки и ячменный кофе. С 1844 по 1845 год соседом Достоевского был Д.В. Григорович, которому писатель читал свой первый роман «Бедные люди», оконченный в конце мая 1845.</description>
     <TimeStamp><when>2016-09-25T11:24:47Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.347024,59.930449</coordinates></Point>

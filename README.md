@@ -58,13 +58,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
 
 #### «Dostoevsky in Petersburg» based on:
-* [Петербургские адреса Достоевского](https://ru.wikipedia.org/wiki/Петербургские_адреса_Достоевского)
-* [Петербург Достоевского. Адреса и места, связанные с великим русским писателем](http://family-history.ru/material/biography/mesto/dostoyevsky/)
-* Саруханян Е. П. Достоевский в Петербурге. — Лениздат, 1972.
-* Тихомиров Б. Н. «А живу в доме Шиля…». Адреса Ф. М. Достоевского в Петербурге, известные и неизвестные. 1837–1881. — СПб.: Серебряный век, 2016.
-* Тихомиров Б. Н. [Петербургские адреса и адресаты Достоевского (К проблеме краеведческого комментирования адресных записей писателя)](http://unknown-dostoevsky.ru/files/redaktor_pdf/1514461706.pdf) // Неизвестный Достоевский. — 2017. — № 4.
-* Тихомиров Б. Н. [Петербургские адреса и адресаты Достоевского (К проблеме краеведческого комментирования адресных записей писателя). Статья вторая](http://unknown-dostoevsky.ru/files/redaktor_pdf/1541001296.pdf) // Неизвестный Достоевский. — 2018. — № 3.
-* [Архитектурный сайт Петербурга](http://www.citywalls.ru)
+* My own research
 
 #### «Hemingway in Spain» based on:
 * [Blood, Sand, Sherry: Hemingway’s Madrid](https://www.nytimes.com/2011/06/19/travel/a-tour-of-hemingways-madrid.html)
