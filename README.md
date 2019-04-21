@@ -32,7 +32,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Leningrad Oblast — 16
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow Oblast — 10
+1. Moscow Oblast — 14
 1. Moscow — 50
 1. Netherlands — 26
 1. Paris — 26

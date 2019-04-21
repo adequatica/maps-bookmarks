@@ -69,6 +69,15 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Kolomna</name>
+    <TimeStamp><when>2019-04-21T08:03:20Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>38.781118,55.09955</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Kolomna Kremlin</name>
     <TimeStamp><when>2017-08-03T07:04:56Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -123,7 +132,17 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Mozhaisk</name>
+    <TimeStamp><when>2019-04-19T13:11:44Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.032639,55.49419</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Mozhaysk Kremlin</name>
+    <description>Kremlin did not preserved, only a few fragments of the wall have remained.</description>
     <TimeStamp><when>2018-06-03T07:23:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>36.011482,55.509269</coordinates></Point>
@@ -132,7 +151,27 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Vereya former Kremlin</name>
+    <description>Kremlin did not preserved, nothing to see.</description>
+    <TimeStamp><when>2019-04-19T11:10:54Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>36.18873,55.344286</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Serpukhov</name>
+    <TimeStamp><when>2019-04-19T11:18:26Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>37.451844,54.934714</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Serpukhov Kremlin</name>
+    <description>Kremlin did not preserved, only two fragments of the wall have remained in a poor condition.</description>
     <TimeStamp><when>2019-02-20T04:45:31Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>37.405887,54.915483</coordinates></Point>
@@ -141,11 +180,11 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Zaraysk Kremlin</name>
-    <TimeStamp><when>2019-04-06T20:19:22Z</when></TimeStamp>
+    <name>Vysotsky Monastery</name>
+    <TimeStamp><when>2019-04-13T19:31:05Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>38.871599,54.757269</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <Point><coordinates>37.419302,54.901853</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>

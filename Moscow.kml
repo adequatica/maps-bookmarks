@@ -386,8 +386,13 @@
   </Placemark>
   <Placemark>
     <name>Danilovskiy market</name>
-    <description>From Paveletskaya by trams: 3, 35, 38, 39, A;
-To Shabolovskaya: 47, A;
+    <description>From Paveletskaya by trams:
+• A (stop near Paveletskaya till Shabolovskaya);
+• 3 (stop near Paveletskaya till Ak. Yangelya, exit after Danilov monastery);
+• 39 (stop near Paveletskaya till Universitet, passed by Leninskiy Prospekt);
+• 35 (stop after Paveletskaya, exit after Danilov monastery);
+• 38 (stop after Paveletskaya till Cheremushki).
+To Shabolovskaya: A, 47;
 To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2017-09-04T06:06:03Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
@@ -507,10 +512,10 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Zinziver</name>
-    <TimeStamp><when>2019-03-07T05:37:49Z</when></TimeStamp>
+    <name>Brasserie Belge 0.33</name>
+    <TimeStamp><when>2019-04-18T16:03:21Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.645529,55.758816</coordinates></Point>
+    <Point><coordinates>37.646846,55.770005</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
