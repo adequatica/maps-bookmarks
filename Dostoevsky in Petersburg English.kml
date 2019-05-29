@@ -121,11 +121,21 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>General Epanchin House</name>
+    <description>General lived in his own house away from Liteyniy avenue and near the Transfiguration Cathedral.</description>
+    <TimeStamp><when>2017-05-29T08:17:18Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.350931,59.94343</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Five Corners</name>
-    <description>Nastasya Filipovna Barashkova of the novel «Idiot» lived there. There was first Raskolnikov’s apartment, as his friend Razumikhin sad.</description>
+    <description>Nastasya Filipovna Barashkova of the novel «Idiot» lived there. Near this place was the first Raskolnikov’s apartment, as his friend Razumikhin sad.</description>
     <TimeStamp><when>2017-02-26T06:14:16Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>30.342303,59.926279</coordinates></Point>
+    <Point><coordinates>30.342212,59.925695</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
