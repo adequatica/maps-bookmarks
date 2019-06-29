@@ -82,7 +82,7 @@
     <description>Entrance only with excursion.</description>
     <TimeStamp><when>2016-03-20T16:53:03Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.32121,59.94112</coordinates></Point>
+    <Point><coordinates>30.321382,59.941137</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -126,15 +126,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Mariinsky Theatre</name>
-    <TimeStamp><when>2017-02-03T07:04:43Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.295908,59.92543</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Tschischik-Pyschik</name>
     <TimeStamp><when>2017-02-26T06:18:31Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -153,10 +144,28 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Five corners</name>
+    <TimeStamp><when>2019-05-29T04:39:51Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.34247,59.926228</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Water column</name>
+    <TimeStamp><when>2019-06-23T04:36:22Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.307727,59.931543</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Singer House</name>
     <TimeStamp><when>2016-07-29T05:09:40Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.325839,59.935829</coordinates></Point>
+    <Point><coordinates>30.325891,59.935864</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:description>
       </mwm:description>
@@ -191,6 +200,15 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Kamchatka</name>
+    <TimeStamp><when>2019-06-18T13:44:32Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.301322,59.951977</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Botanical garden</name>
     <description>From 10:00 till 18:00;
 Orangery from 11:00 till 17:00.</description>
@@ -212,10 +230,10 @@ Orangery from 11:00 till 17:00.</description>
   </Placemark>
   <Placemark>
     <name>Pyshechnaya</name>
-    <description>13 rub.</description>
+    <description>15 rub.</description>
     <TimeStamp><when>2017-02-02T18:09:38Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.322608,59.937538</coordinates></Point>
+    <Point><coordinates>30.322613,59.937577</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -285,15 +303,6 @@ Orangery from 11:00 till 17:00.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Pizza 22 cm on Big Konyushennaya</name>
-    <TimeStamp><when>2019-04-04T06:32:15Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.324204,59.939426</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Jack and Chan</name>
     <TimeStamp><when>2016-07-29T07:56:07Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
@@ -314,7 +323,7 @@ Orangery from 11:00 till 17:00.</description>
   </Placemark>
   <Placemark>
     <name>Clean plates society</name>
-    <description>Nourishing breakfast from 11 till 12.</description>
+    <description>Nourishing breakfast from 11 till 12 and till 15:00 on weekends.</description>
     <TimeStamp><when>2017-02-02T18:15:09Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.314092,59.93365</coordinates></Point>
@@ -335,7 +344,7 @@ Orangery from 11:00 till 17:00.</description>
     <name>Fidel</name>
     <TimeStamp><when>2016-05-09T18:56:10Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>30.327626,59.932997</coordinates></Point>
+    <Point><coordinates>30.327653,59.933023</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -377,6 +386,15 @@ Orangery from 11:00 till 17:00.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Palm</name>
+    <TimeStamp><when>2018-02-23T20:48:23Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>30.322238,59.936733</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Pivnaya Karta</name>
     <TimeStamp><when>2016-02-13T20:55:21Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
@@ -387,19 +405,9 @@ Orangery from 11:00 till 17:00.</description>
   </Placemark>
   <Placemark>
     <name>Trappist</name>
-    <description>Baltic sea mytilus – 1190 rub. per 1 kg.</description>
     <TimeStamp><when>2016-02-13T20:42:03Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.363399,59.941555</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Palm</name>
-    <TimeStamp><when>2018-02-23T20:48:23Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>30.322214,59.936691</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -471,7 +479,7 @@ Orangery from 11:00 till 17:00.</description>
     <name>Vse Tvoyi Drouzia</name>
     <TimeStamp><when>2017-02-03T07:09:40Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>30.308389,59.927564</coordinates></Point>
+    <Point><coordinates>30.308427,59.927611</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -517,6 +525,51 @@ Orangery from 11:00 till 17:00.</description>
     <TimeStamp><when>019-03-09T06:19:55Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.355352,59.936912</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Spontan</name>
+    <TimeStamp><when>2019-06-23T04:59:13Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>30.358131,59.939424</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Guzva</name>
+    <TimeStamp><when>2019-06-21T23:16:52Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>30.343609,59.926802</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Podpisnie Izdaniya</name>
+    <TimeStamp><when>2019-06-13T19:16:38Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>30.347686,59.934412</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yelagin Island</name>
+    <TimeStamp><when>2019-06-20T07:04:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>30.256942,59.978764</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tawny Bar</name>
+    <TimeStamp><when>2019-06-14T08:16:14Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>30.340919,59.940705</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>

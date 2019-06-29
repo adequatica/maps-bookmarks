@@ -33,12 +33,12 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Montenegro — 30
 1. Morocco — 32
 1. Moscow Oblast — 14
-1. Moscow — 50
+1. Moscow — 48
 1. Netherlands — 26
 1. Paris — 26
 1. Portugal — 60
 1. Prague — 18
-1. Saint Petersburg — 50
+1. Saint Petersburg — 56
 1. Serbia — 20
 1. Spain: Asturias — 6
 1. Spain: Barcelona — 22
