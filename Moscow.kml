@@ -78,15 +78,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Kropotkin’s house</name>
-    <TimeStamp><when>2017-11-25T08:29:20Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>37.58772,55.741481</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Apartment Museum of Fyodor Dostoevsky</name>
     <TimeStamp><when>2017-03-04T06:53:35Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -127,15 +118,6 @@
     <TimeStamp><when>2018-01-26T06:09:38Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.625477,55.76972</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Na Chili</name>
-    <TimeStamp><when>2017-01-28T19:39:34Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.645253,55.759767</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -186,28 +168,19 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>John Donne @ Taganskaya</name>
-    <TimeStamp><when>2017-01-30T08:32:50Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.652382,55.743319</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Lambic @ Myasnitskaya</name>
-    <TimeStamp><when>2017-01-30T08:25:48Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.640669,55.766541</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Lambic</name>
     <TimeStamp><when>2017-01-30T08:23:14Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.654013,55.754573</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Lambic 2</name>
+    <TimeStamp><when>2017-01-30T08:25:48Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>37.640669,55.766541</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -321,16 +294,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Sosna and Lipa</name>
-    <description>Cash only.</description>
-    <TimeStamp><when>2017-01-28T19:39:47Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.645328,55.759673</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Jawsspot</name>
     <TimeStamp><when>2017-02-18T14:45:29Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
@@ -430,16 +393,6 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Dominion Tower</name>
-    <description>The only building in Moscow by Zaha Hadid architect. Opened in 2015.</description>
-    <TimeStamp><when>2018-05-20T13:31:18Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>37.668268,55.722536</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Too Much</name>
     <TimeStamp><when>2018-06-08T11:40:44Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
@@ -453,15 +406,6 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-07-13T08:04:06Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.678982,55.770014</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Trappist</name>
-    <TimeStamp><when>2018-09-23T09:49:00Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.626917,55.756759</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -494,7 +438,7 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Jawsspot</name>
+    <name>Jawsspot 2</name>
     <TimeStamp><when>2018-11-30T15:30:38Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.626821,55.730269</coordinates></Point>
@@ -512,10 +456,46 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Metekhi</name>
+    <TimeStamp><when>2019-03-30T13:29:45Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>37.559846,55.650853</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Brasserie Belge 0.33</name>
     <TimeStamp><when>2019-04-18T16:03:21Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.646846,55.770005</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Depo</name>
+    <TimeStamp><when>2019-04-28T07:21:37Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>37.593004,55.780187</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bella Napoli</name>
+    <TimeStamp><when>2019-06-28T18:56:34Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>37.63686,55.754071</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Beer Gik</name>
+    <TimeStamp><when>2019-06-27T05:22:40Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>37.634851,55.76208</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
