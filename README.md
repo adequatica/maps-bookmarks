@@ -23,7 +23,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
-1. Dostoevsky in Petersburg✻ — 70
+1. Dostoevsky in Saint Petersburg✻ — 70
 1. Dublin — 20
 1. France — 8
 1. Hemingway in Spain✻ — 14
@@ -57,7 +57,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [A tour of Bowie’s Berlin years](https://fotostrasse.com/david-bowies-berlin/)
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
 
-#### «Dostoevsky in Petersburg» based on:
+#### «Dostoevsky in Saint Petersburg» based on:
 * My own research
 
 #### «Hemingway in Spain» based on:
