@@ -58,7 +58,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
 
 #### «Dostoevsky in Saint Petersburg» based on:
-* My own research
+* [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316)
 
 #### «Hemingway in Spain» based on:
 * [Blood, Sand, Sherry: Hemingway’s Madrid](https://www.nytimes.com/2011/06/19/travel/a-tour-of-hemingways-madrid.html)
