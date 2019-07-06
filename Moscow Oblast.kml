@@ -78,15 +78,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Kolomna Kremlin</name>
-    <TimeStamp><when>2017-08-03T07:04:56Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>38.751935,55.103747</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Pastila factory</name>
     <TimeStamp><when>2017-08-03T09:25:34Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
@@ -105,6 +96,24 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Kolomna Kremlin</name>
+    <TimeStamp><when>2017-08-03T07:04:56Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>38.751935,55.103747</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Sergiyev Posad</name>
+    <TimeStamp><when>2019-07-06T07:25:40Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>38.136867,56.30199</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Trinity Lavra of St. Sergius</name>
     <TimeStamp><when>2017-08-03T07:04:33Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -114,10 +123,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Kropotkin’s house</name>
-    <TimeStamp><when>2017-08-03T07:03:20Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>37.521247,56.341165</coordinates></Point>
+    <name>Dmitrov</name>
+    <TimeStamp><when>2019-07-06T07:26:36Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>37.51041,56.337578</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -161,6 +170,16 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Zhukovsky Airport</name>
+    <description>Bus 441 from metro Kotelniki.</description>
+    <TimeStamp><when>2018-11-01T11:16:25Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>38.118011,55.561927</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Serpukhov</name>
     <TimeStamp><when>2019-04-19T11:18:26Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -184,6 +203,24 @@
     <TimeStamp><when>2019-04-13T19:31:05Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>37.419302,54.901853</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Golutvin</name>
+    <TimeStamp><when>2019-06-14T08:38:37Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>38.805134,55.084815</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Zaraysk Kremlin</name>
+    <TimeStamp><when>2019-06-13T19:26:35Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>38.871599,54.757269</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>

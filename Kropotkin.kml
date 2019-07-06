@@ -58,7 +58,7 @@
     </IconStyle>
   </Style>
   <name>Места князя Кропоткина</name>
-  <description></description>
+  <description>Известный революционер-анархист, историк, учёный географ, философ, публицист и создатель идеологии анархо-коммунизма провел в России только половину своей жизни, а 40 лет – в эмиграции.</description>
   <visibility>0</visibility>
   <Placemark>
     <name>Дом-музей Кропоткина</name>
@@ -82,7 +82,7 @@
   </Placemark>
   <Placemark>
     <name>Ресторан Донон</name>
-    <description>Спрятался от жандармерии в день побега: «К Донону! — приказал он вдруг извозчику. — Никому не придет в голову искать нас в модном ресторане. Они будут искать нас везде, но только не там; а мы пообедаем и выпьем также за успешный побег.»</description>
+    <description>Спрятался от жандармерии в день побега: «К Донону! – приказал он вдруг извозчику. – Никому не придет в голову искать нас в модном ресторане. Они будут искать нас везде, но только не там; а мы пообедаем и выпьем также за успешный побег.»</description>
     <TimeStamp><when>2019-07-06T07:19:34Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.319851,59.93935</coordinates></Point>
@@ -94,7 +94,7 @@
     <name>Николаевский военный госпиталь</name>
     <description>С признаками цинги Кропоткин был переведен в арестантское отделение Николаевского военного госпиталя (двухэтажный флигель за главным зданием), откуда 30 июля 1876 совершил дерзкий побег.</description>
     <TimeStamp><when>2019-06-22T07:07:14Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
+    <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.385311,59.9426</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
@@ -104,7 +104,7 @@
     <name>Петропавловская крепость</name>
     <description>21 марта 1874 года Кропоткин сделал сенсационный доклад в географическом обществе о существовании в ледниковой эпохи, а на следующий день он был арестован за принадлежность к тайному революционному кружку и заключен в Петропавловскую крепость. В 1874–1876 он сидел в тюрьме Трубецкого бастиона в камере №39, где им была написана работа «Исследования о ледниковом периоде».</description>
     <TimeStamp><when>2019-06-22T07:08:17Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
+    <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.313593,59.948679</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
@@ -112,9 +112,9 @@
   </Placemark>
   <Placemark>
     <name>Казарменный переулок</name>
-    <description>Кропоткин посещал кружок Чайковцев: «Я был… в „Литературном комитете“ кружка. Мы собирались в той же квартире, которую держала Перовская — в Казарменном, кажется, переулке, недалеко от Невки.»</description>
+    <description>Кропоткин посещал кружок Чайковцев: «Я был… в „Литературном комитете“ кружка. Мы собирались в той же квартире, которую держала Перовская – в Казарменном, кажется, переулке, недалеко от Невки.»</description>
     <TimeStamp><when>2019-06-22T07:06:29Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
+    <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.331833,59.964871</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
@@ -124,7 +124,7 @@
     <name>Пажеский корпус</name>
     <description>В 1862 году Кропоткин окончил с отличием Пажеский корпус и был произведён в офицеры.</description>
     <TimeStamp><when>2019-06-29T10:02:35Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
+    <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.332647,59.930999</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
