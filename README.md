@@ -29,6 +29,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Hemingway in Spain✻ — 14
 1. Istanbul — 14
 1. Kaliningrad — 12
+1. Kropotkin — 8
 1. Leningrad Oblast — 16
 1. Montenegro — 30
 1. Morocco — 32
@@ -66,3 +67,8 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [The old man and the city: Hemingway’s love affair with Pamplona](https://www.independent.co.uk/travel/europe/the-old-man-and-the-city-hemingways-love-affair-with-pamplona-2305392.html)
 * [Following Hemingway’s Steps in Pamplona](http://www.turismo.navarra.es/eng/organice-viaje/recurso.aspx?o=4798)
 * [La guia de Hemingway en Pamplona](http://www.ernesthemingway.es/index.php?view=article&id=17%3Ala-guia-de-hemingway-en-pamplona)
+
+#### «Kropotkin» based on:
+* Кропоткин П. А. Записки революционера
+* [Кропоткинский дом в Москве](http://kropotkin.ru/кропоткинский-дом-в-москве/)
+* [Дом-музей Кропоткина](http://www.dmmuseum.ru/dom-kropotkina.html)
