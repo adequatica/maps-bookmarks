@@ -135,6 +135,25 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>El Rastro</name>
+    <description>Flea market at Sunday from 9 a.m.</description>
+    <TimeStamp><when>2017-03-20T19:30:46Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-3.7072836,40.41024</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mercado de Antón Martín</name>
+    <TimeStamp><when>2017-03-20T19:29:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-3.6986228,40.411651</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Puerta de Atocha</name>
     <TimeStamp><when>2017-03-20T19:27:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -162,30 +181,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Mercado de Antón Martín</name>
-    <TimeStamp><when>2017-03-20T19:29:08Z</when></TimeStamp>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>-3.6986228,40.411651</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>El Rastro</name>
-    <description>Flea market at Sunday from 9 a.m.</description>
-    <TimeStamp><when>2017-03-20T19:30:46Z</when></TimeStamp>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>-3.7072836,40.41024</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Maestro Villa</name>
-    <description>Sidra (acid) served by hand – 1,5€; bottle – 5€.</description>
-    <TimeStamp><when>2017-03-20T19:34:15Z</when></TimeStamp>
+    <name>Casa de Asturias</name>
+    <TimeStamp><when>2017-03-20T19:29:27Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>-3.7082197,40.41459</coordinates></Point>
+    <Point><coordinates>-3.6998217,40.408167</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -201,10 +200,11 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Casa de Asturias</name>
-    <TimeStamp><when>2017-03-20T19:29:27Z</when></TimeStamp>
+    <name>Maestro Villa</name>
+    <description>Sidra (acid) served by hand – 1,5€; bottle – 5€.</description>
+    <TimeStamp><when>2017-03-20T19:34:15Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>-3.6998217,40.408167</coordinates></Point>
+    <Point><coordinates>-3.7082197,40.41459</coordinates></Point>
     <ExtendedData xmlns:mwm="http://mapswith.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
