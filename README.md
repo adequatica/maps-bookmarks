@@ -45,7 +45,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Spain: Barcelona — 22
 1. Spain: Basque Country — 12
 1. Spain: Cantabria — 8
-1. Spain: Madrid — 18
+1. Spain: Madrid — 16
 1. Spain: Pamplona — 10
 1. Tbilisi — 8
 1. Vienna — 10
