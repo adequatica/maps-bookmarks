@@ -69,6 +69,6 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [La guia de Hemingway en Pamplona](http://www.ernesthemingway.es/index.php?view=article&id=17%3Ala-guia-de-hemingway-en-pamplona)
 
 #### «Kropotkin» based on:
-* [Кропоткинский дом в Москве](http://kropotkin.ru/кропоткинский-дом-в-москве/)
 * [Дом-музей Кропоткина](http://www.dmmuseum.ru/dom-kropotkina.html)
-* Кропоткин П. А. Записки революционера
+* [Кропоткинский дом в Москве](http://kropotkin.ru/кропоткинский-дом-в-москве/)
+* Кропоткин П. А. [Записки революционера](https://ru.wikisource.org/wiki/Записки_революционера_(Кропоткин))

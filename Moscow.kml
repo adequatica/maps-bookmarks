@@ -494,7 +494,7 @@ To Leninskiy Prospekt: 39.</description>
   <Placemark>
     <name>Camorra Pizza e Birra</name>
     <TimeStamp><when>2019-06-30T06:18:39Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
+    <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.632124,55.729753</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
