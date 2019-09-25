@@ -474,15 +474,6 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Bella Napoli</name>
-    <TimeStamp><when>2019-06-28T18:56:34Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.63686,55.754071</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Beer Gik</name>
     <TimeStamp><when>2019-06-27T05:22:40Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
@@ -492,10 +483,37 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Bella Napoli</name>
+    <TimeStamp><when>2019-06-28T18:56:34Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>37.63686,55.754071</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pizza22cm</name>
+    <TimeStamp><when>2019-07-11T19:54:55Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>37.638121,55.754551</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
     <name>Camorra Pizza e Birra</name>
     <TimeStamp><when>2019-06-30T06:18:39Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.632124,55.729753</coordinates></Point>
+    <Point><coordinates>37.632011,55.729724</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Trappist</name>
+    <TimeStamp><when>2019-09-17T16:18:02Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>37.626917,55.756759</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
