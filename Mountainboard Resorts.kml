@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Mountainboard Resorts</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Arzano (Bretagne, France)</name>
+    <description>2013 https://yadi.sk/a/Vhs2Nw1UqstAH</description>
+    <TimeStamp><when>2019-10-06T09:24:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-3.4086022,47.893574</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bukovac (Novi Sad, Serbia)</name>
+    <description>2011 https://yadi.sk/a/oUeZtHMyqsHrs
+2012 https://yadi.sk/a/SaZX9OABqsbVB
+2013 https://yadi.sk/a/IOg4b8lXqsjvs
+2014 https://yadi.sk/a/b6TpXvK3qtSfM
+2018 https://yadi.sk/a/j5pk7Dc438JvEQ</description>
+    <TimeStamp><when>2019-10-06T08:45:55Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.885194,45.179552</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cabure [private] (Brazil)</name>
+    <description>2013 https://yadi.sk/a/iS9uS-7LqtRTL</description>
+    <TimeStamp><when>2019-10-06T09:56:01Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-51.35052,-30.32954</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Compiegne (France)</name>
+    <description>2011 https://yadi.sk/a/guxwUXXDqsHAF
+2013 https://yadi.sk/a/y-hqJ2amqssj9
+2017 https://yadi.sk/a/Ovca1rqk3LkptM</description>
+    <TimeStamp><when>2019-10-06T09:26:53Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>2.7840217,49.4167</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dirt Desert (Kranj, Slovenia)</name>
+    <description>2018 https://yadi.sk/a/FuG4uHrP3YpLCQ</description>
+    <TimeStamp><when>2019-10-06T08:49:19Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>14.32805,46.234817</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dubki (Kiev, Ukraine)</name>
+    <description>2012 https://yadi.sk/a/54AFYsLeqsa3K
+2013 https://yadi.sk/a/NS_mjvA5qsjRj</description>
+    <TimeStamp><when>2019-10-06T08:56:27Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>30.427654,50.47455</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>El SoT Vilamajor (Barcelona, Spain)</name>
+    <description>2015 https://yadi.sk/a/6QzS2cLrqtT5A</description>
+    <TimeStamp><when>2019-10-06T09:03:38Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>2.3840165,41.680001</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Grosserlach (Germany)</name>
+    <description>2013 https://yadi.sk/a/0H69XHt6qstoz</description>
+    <TimeStamp><when>2019-10-06T09:39:28Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>9.5183002,49.050726</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Iguria (Basque Country, Spain)</name>
+    <description>The exact coordinates are classified.
+2013 https://yadi.sk/a/qxbbxV9Tqsipp</description>
+    <TimeStamp><when>2019-10-06T09:00:11Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-2.5250209,43.111747</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Local Trip (Brazil)</name>
+    <description>2013 https://yadi.sk/a/A43mDcMVqsuga</description>
+    <TimeStamp><when>2019-10-06T09:47:53Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-44.4668,-22.274571</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Orekhovo (Moscow, Russia)</name>
+    <description>2012 https://yadi.sk/a/d6Zju543qsb8L
+2013 https://yadi.sk/a/XlmaTBb0qskQZ
+2018 https://yadi.sk/a/V7n7Vjg73YKhgv</description>
+    <TimeStamp><when>2019-10-06T08:33:51Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>37.703072,55.600965</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Payolle (France)</name>
+    <description>2013 https://yadi.sk/a/ePMgPHVNqsiCA</description>
+    <TimeStamp><when>2019-10-06T09:20:59Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>0.28564595,42.941889</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Shambhala (Sopot, Bulgaria)</name>
+    <description>2012 https://yadi.sk/a/T6A0mP54qsKpW</description>
+    <TimeStamp><when>2019-10-06T08:53:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.747906,42.665182</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Swell (Brazil)</name>
+    <description>2013 https://yadi.sk/a/d4ikgDF_qtSB2</description>
+    <TimeStamp><when>2019-10-06T09:53:53Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-51.056599,-30.118601</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Roseraie (Toulous, France)</name>
+    <description>2013 https://yadi.sk/a/cegCbB0Eqsfyh</description>
+    <TimeStamp><when>2019-10-06T09:16:54Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>1.4769108,43.629287</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Trilhas do Olimpo (Brazil)</name>
+    <description>2013 https://yadi.sk/a/6TuEFsroqtQtZ</description>
+    <TimeStamp><when>2019-10-06T09:43:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-43.049825,-22.230327</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Wanyi Park (Belgium)</name>
+    <description>2007 https://yadi.sk/a/v1uQtB-0qhaLo
+2008 https://yadi.sk/a/o3XZfX4fqhbWg
+2010 https://yadi.sk/a/eKu0_pC8qrN4p
+2011 https://yadi.sk/a/fwzgBQMoqsHEb
+2013 https://yadi.sk/a/WWCoXNL4qskjC
+2017 https://yadi.sk/a/lI2Lvbxx3Lkowg</description>
+    <TimeStamp><when>2019-10-06T09:30:12Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>4.637581,50.018615</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Willingen (Germany)</name>
+    <description>2011 https://yadi.sk/a/1xy3V9hJqsHiD</description>
+    <TimeStamp><when>2019-10-06T09:36:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>8.6085244,51.286133</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Winterberg [closed] (Germany)</name>
+    <description>2010 https://yadi.sk/a/cB_KZHpaqrNNy
+2011 https://yadi.sk/a/yKBgcbQDqsHNF</description>
+    <TimeStamp><when>2019-10-06T09:34:37Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>8.5070645,51.190326</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yukki [closed] (Saint-Petersburg, Russia)</name>
+    <description>2010 https://yadi.sk/a/7A-kxmkNqsGig
+2012 https://yadi.sk/a/JYWybW0kqsaVV</description>
+    <TimeStamp><when>2019-10-06T08:39:36Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>30.312008,60.109113</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

@@ -35,6 +35,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Morocco — 32
 1. Moscow Oblast — 18
 1. Moscow — 50
+1. Mountainboard Resorts✻ — 20
 1. Netherlands — 26
 1. Paris — 26
 1. Portugal — 60
@@ -73,3 +74,6 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Дом-музей Кропоткина](http://www.dmmuseum.ru/dom-kropotkina.html)
 * [Кропоткинский дом в Москве](http://kropotkin.ru/кропоткинский-дом-в-москве/)
 * Кропоткин П. А. [Записки революционера](https://ru.wikisource.org/wiki/Записки_революционера_(Кропоткин))
+
+#### «Mountainboard Resorts» based on:
+* [Mountainboard Resorts](https://drive.google.com/open?id=1tyD4TTqb97ZVnRM3YoJ_Ql9btS8&usp=sharing)
