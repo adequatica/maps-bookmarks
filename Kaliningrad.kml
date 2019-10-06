@@ -64,7 +64,7 @@
     <TimeStamp><when>2016-04-16T16:15:30Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>20.499114,54.716504</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -74,7 +74,7 @@
     <TimeStamp><when>2016-04-16T16:30:16Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>20.51216,54.706454</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -83,7 +83,7 @@
     <TimeStamp><when>2016-04-16T16:22:37Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>20.507325,54.705127</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -92,7 +92,7 @@
     <TimeStamp><when>2016-04-16T16:15:45Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>20.494676,54.697288</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -101,7 +101,7 @@
     <TimeStamp><when>2016-04-16T16:18:06Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>20.514071,54.722633</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -110,7 +110,7 @@
     <TimeStamp><when>2016-05-01T20:34:16Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>20.517459,54.737031</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -120,7 +120,7 @@
     <TimeStamp><when>2017-05-14T11:59:25Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.509389,54.7206</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -132,7 +132,7 @@ Airpot: 244 (50 min).</description>
     <TimeStamp><when>2016-04-16T16:38:07Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>20.502222,54.693437</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -142,7 +142,7 @@ Airpot: 244 (50 min).</description>
     <TimeStamp><when>2016-04-16T16:44:56Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.891599,54.638548</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -151,7 +151,7 @@ Airpot: 244 (50 min).</description>
     <TimeStamp><when>2017-03-13T18:52:22Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.887256,54.642829</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -161,7 +161,7 @@ Airpot: 244 (50 min).</description>
     <TimeStamp><when>2017-03-13T18:57:53Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.880986,54.614433</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -171,7 +171,7 @@ Airpot: 244 (50 min).</description>
     <TimeStamp><when>2016-05-03T12:06:01Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.479463,54.963195</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>

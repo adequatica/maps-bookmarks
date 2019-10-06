@@ -66,7 +66,7 @@
     <TimeStamp><when>2019-07-06T07:22:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.521247,56.341165</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -76,7 +76,7 @@
     <TimeStamp><when>2019-07-04T03:55:54Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.607779,55.761996</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -86,7 +86,7 @@
     <TimeStamp><when>2019-07-06T07:19:34Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.319851,59.93935</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -96,7 +96,7 @@
     <TimeStamp><when>2019-06-22T07:07:14Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.385311,59.9426</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -106,7 +106,7 @@
     <TimeStamp><when>2019-06-22T07:08:17Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.313593,59.948679</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -116,7 +116,7 @@
     <TimeStamp><when>2019-06-22T07:06:29Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.331833,59.964871</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -126,7 +126,7 @@
     <TimeStamp><when>2019-06-29T10:02:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.332647,59.930999</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -136,7 +136,7 @@
     <TimeStamp><when>2019-06-29T10:00:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.58772,55.741481</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>

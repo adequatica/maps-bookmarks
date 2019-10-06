@@ -64,7 +64,7 @@
     <TimeStamp><when>2015-05-02T07:06:51Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>8.5413887,47.373064</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -73,7 +73,7 @@
     <TimeStamp><when>2015-05-02T07:07:55Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>8.5413887,47.371291</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -83,7 +83,7 @@
     <TimeStamp><when>2015-05-02T07:05:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>8.5449869,47.371918</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -92,7 +92,7 @@
     <TimeStamp><when>2017-03-14T05:41:07Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>8.5385429,47.370924</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -102,7 +102,7 @@
     <TimeStamp><when>2017-03-14T05:38:25Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>8.5337713,47.3711</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -112,7 +112,7 @@
     <TimeStamp><when>2015-05-24T12:19:20Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>8.540812,47.367139</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>

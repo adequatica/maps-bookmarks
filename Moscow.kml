@@ -64,7 +64,7 @@
     <TimeStamp><when>2017-01-30T08:39:33Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>37.588481,55.733969</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -73,7 +73,7 @@
     <TimeStamp><when>2017-02-01T16:57:39Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>37.55948,55.778839</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -82,7 +82,7 @@
     <TimeStamp><when>2017-03-04T06:53:35Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>37.610358,55.783498</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -91,7 +91,7 @@
     <TimeStamp><when>2017-01-30T17:36:58Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.617822,55.764137</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -100,7 +100,7 @@
     <TimeStamp><when>2017-01-31T18:04:45Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.637689,55.754607</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -109,7 +109,7 @@
     <TimeStamp><when>2017-08-27T06:25:22Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.583889,55.742016</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -118,7 +118,7 @@
     <TimeStamp><when>2017-02-02T05:38:22Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.624581,55.734993</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -127,7 +127,7 @@
     <TimeStamp><when>2014-04-08T12:27:49Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.60977,55.756451</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -136,7 +136,7 @@
     <TimeStamp><when>2017-01-29T08:18:18Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.609282,55.765547</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -145,7 +145,7 @@
     <TimeStamp><when>2017-01-31T17:54:39Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.635152,55.767576</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -154,7 +154,7 @@
     <TimeStamp><when>2017-01-29T08:10:28Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.585759,55.735049</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -163,7 +163,7 @@
     <TimeStamp><when>2017-01-30T08:23:14Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.654013,55.754573</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -172,7 +172,7 @@
     <TimeStamp><when>2017-01-30T08:25:48Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.640669,55.766541</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -181,7 +181,7 @@
     <TimeStamp><when>2017-01-30T17:38:24Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.635208,55.756315</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -190,7 +190,7 @@
     <TimeStamp><when>2017-01-30T17:35:54Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.61408,55.763848</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -199,7 +199,7 @@
     <TimeStamp><when>2017-01-29T08:18:02Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.608523,55.765061</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -208,7 +208,7 @@
     <TimeStamp><when>2017-01-30T17:48:18Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.597204,55.76999</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -217,7 +217,7 @@
     <TimeStamp><when>2017-01-30T08:33:54Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.67057,55.736361</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -226,7 +226,7 @@
     <TimeStamp><when>2015-09-16T06:03:35Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.655282,55.742124</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -235,7 +235,7 @@
     <TimeStamp><when>2015-08-22T10:22:06Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.60899,55.740819</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -244,7 +244,7 @@
     <TimeStamp><when>2017-01-30T17:35:19Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.629514,55.743339</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -253,7 +253,7 @@
     <TimeStamp><when>2017-01-30T17:51:27Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.646111,55.760816</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -262,7 +262,7 @@
     <TimeStamp><when>2017-01-30T17:39:50Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.606798,55.762678</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -271,7 +271,7 @@
     <TimeStamp><when>2014-12-12T20:20:24Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.606342,55.762615</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -280,7 +280,7 @@
     <TimeStamp><when>2017-02-01T16:55:16Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.607021,55.751298</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -289,7 +289,7 @@
     <TimeStamp><when>2017-02-18T14:45:29Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.624836,55.759193</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -298,7 +298,7 @@
     <TimeStamp><when>2017-10-28T14:14:57Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.637367,55.754889</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -307,7 +307,7 @@
     <TimeStamp><when>2017-03-18T18:12:22Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.625198,55.77081</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -316,7 +316,7 @@
     <TimeStamp><when>2017-05-28T05:53:18Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.667985,55.745578</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -325,7 +325,7 @@
     <TimeStamp><when>2017-08-19T16:33:10Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.628387,55.741441</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -334,7 +334,7 @@
     <TimeStamp><when>2017-08-31T15:53:11Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.570256,55.771371</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -351,7 +351,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2017-09-04T06:06:03Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.620614,55.712162</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -360,7 +360,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2017-10-28T14:14:37Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.63711,55.755016</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -369,7 +369,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-03-10T18:43:10Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.619429,55.77182</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -379,7 +379,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-03-10T18:44:03Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.632475,55.769928</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -388,7 +388,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-06-08T11:40:44Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.606908,55.762782</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -397,7 +397,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-07-13T08:04:06Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.678982,55.770014</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -406,7 +406,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-10-07T07:57:08Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.629079,55.740845</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -415,7 +415,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-09-23T10:01:34Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.636187,55.761524</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -424,7 +424,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-10-31T18:28:09Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.659796,55.741627</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -433,7 +433,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-11-30T15:30:38Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.626821,55.730269</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -442,7 +442,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2018-11-30T17:04:15Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.607989,55.723663</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -451,7 +451,7 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2019-03-30T13:29:45Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.559846,55.650853</coordinates></Point>
-    <ExtendedData xmlns:mwm="http://mapswith.me">
+    <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
