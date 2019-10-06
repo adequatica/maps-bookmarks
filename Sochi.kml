@@ -96,11 +96,11 @@
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
-    <Placemark>
-    <name>Half-pipe</name>
-    <TimeStamp><when>2019-09-22T11:40:10Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>40.323331,43.649793</coordinates></Point>
+  <Placemark>
+    <name>Roza Plato - Zapovedny les</name>
+    <TimeStamp><when>2019-09-23T10:18:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>40.319214,43.658142</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -115,10 +115,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Roza Plato - Zapovedny les</name>
-    <TimeStamp><when>2019-09-23T10:18:24Z</when></TimeStamp>
+    <name>Half-pipe</name>
+    <TimeStamp><when>2019-09-22T11:40:10Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>40.319214,43.658142</coordinates></Point>
+    <Point><coordinates>40.323331,43.649793</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>

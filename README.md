@@ -61,7 +61,8 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
 
 #### «Dostoevsky in Saint Petersburg» based on:
-* [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316)
+* [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316) for English version
+* [Собственное исследование](https://medium.com/@adequatica/dostoevsky-in-petersburg-d7dfba1804b) для версии на русском языке
 
 #### «Hemingway in Spain» based on:
 * [Blood, Sand, Sherry: Hemingway’s Madrid](https://www.nytimes.com/2011/06/19/travel/a-tour-of-hemingways-madrid.html)
@@ -70,10 +71,10 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Following Hemingway’s Steps in Pamplona](http://www.turismo.navarra.es/eng/organice-viaje/recurso.aspx?o=4798)
 * [La guia de Hemingway en Pamplona](http://www.ernesthemingway.es/index.php?view=article&id=17%3Ala-guia-de-hemingway-en-pamplona)
 
-#### «Kropotkin» based on:
+#### «Kropotkin (Места княза Кропоткина)» based on:
 * [Дом-музей Кропоткина](http://www.dmmuseum.ru/dom-kropotkina.html)
 * [Кропоткинский дом в Москве](http://kropotkin.ru/кропоткинский-дом-в-москве/)
 * Кропоткин П. А. [Записки революционера](https://ru.wikisource.org/wiki/Записки_революционера_(Кропоткин))
 
 #### «Mountainboard Resorts» based on:
-* [Mountainboard Resorts](https://drive.google.com/open?id=1tyD4TTqb97ZVnRM3YoJ_Ql9btS8&usp=sharing)
+* [Mountainboard Resorts](https://drive.google.com/open?id=1tyD4TTqb97ZVnRM3YoJ_Ql9btS8&usp=sharing) on Google Maps
