@@ -87,24 +87,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Compiegne</name>
-    <TimeStamp><when>2017-03-17T19:26:19Z</when></TimeStamp>
-    <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>2.7843155,49.416908</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Arzano</name>
-    <TimeStamp><when>2017-03-17T18:29:50Z</when></TimeStamp>
-    <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>-3.4075441,47.89491</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>D Day</name>
     <TimeStamp><when>2017-03-17T18:30:22Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>

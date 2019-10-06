@@ -250,24 +250,5 @@
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
-  <Placemark>
-    <name>Llinars del Vallès</name>
-    <description>You need to take a Ridalies train to Sant Celoni from Sants Estació or Passeig de Gràcia.</description>
-    <TimeStamp><when>2015-07-24T16:55:02Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>2.4044408,41.637977</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>El SoT Vilamajor</name>
-    <TimeStamp><when>2015-07-24T16:56:39Z</when></TimeStamp>
-    <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>2.3840165,41.680001</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
 </Document>
 </kml>

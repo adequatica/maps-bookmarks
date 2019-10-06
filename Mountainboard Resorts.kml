@@ -201,7 +201,8 @@
   </Placemark>
   <Placemark>
     <name>El SoT Vilamajor (Barcelona, Spain)</name>
-    <description>2015 https://yadi.sk/a/6QzS2cLrqtT5A</description>
+    <description>From Barcelona you need to take a Ridalies train to Sant Celoni from Sants Estació or Passeig de Gràcia, destination station is Llinars del Vallès.
+2015 https://yadi.sk/a/6QzS2cLrqtT5A</description>
     <TimeStamp><when>2019-10-06T09:03:38Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>2.3840165,41.680001</coordinates></Point>

@@ -25,7 +25,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Cyprus — 8
 1. Dostoevsky in Saint Petersburg✻ — 70
 1. Dublin — 20
-1. France — 8
+1. France — 6
 1. Hemingway in Spain✻ — 14
 1. Istanbul — 14
 1. Kaliningrad — 12
@@ -44,7 +44,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Serbia — 20
 1. Sochi — 10
 1. Spain: Asturias — 6
-1. Spain: Barcelona — 22
+1. Spain: Barcelona — 20
 1. Spain: Basque Country — 12
 1. Spain: Cantabria — 8
 1. Spain: Madrid — 16
