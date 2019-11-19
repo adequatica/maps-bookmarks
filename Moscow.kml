@@ -78,19 +78,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Apartment Museum of Fyodor Dostoevsky</name>
-    <TimeStamp><when>2017-03-04T06:53:35Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>37.610358,55.783498</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Lucky Noodles</name>
     <TimeStamp><when>2017-01-30T17:36:58Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.617822,55.764137</coordinates></Point>
+    <Point><coordinates>37.617793,55.764134</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -126,7 +117,7 @@
     <name><![CDATA[St.Peters & St.Anton]]></name>
     <TimeStamp><when>2014-04-08T12:27:49Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.60977,55.756451</coordinates></Point>
+    <Point><coordinates>37.609746,55.756409</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -225,7 +216,7 @@
     <name>Varka</name>
     <TimeStamp><when>2015-09-16T06:03:35Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.655282,55.742124</coordinates></Point>
+    <Point><coordinates>37.655285,55.742116</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -252,7 +243,7 @@
     <name>GlavPivMag 2</name>
     <TimeStamp><when>2017-01-30T17:51:27Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.646111,55.760816</coordinates></Point>
+    <Point><coordinates>37.646106,55.760814</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -365,15 +356,6 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Na Kranakh</name>
-    <TimeStamp><when>2018-03-10T18:43:10Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.619429,55.77182</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Beer Happens</name>
     <description>It’s a restaurant, not a pub. Expensive, but good.</description>
     <TimeStamp><when>2018-03-10T18:44:03Z</when></TimeStamp>
@@ -414,7 +396,7 @@ To Leninskiy Prospekt: 39.</description>
     <name>Shirokuyu na Shirokuyu</name>
     <TimeStamp><when>2018-09-23T10:01:34Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.636187,55.761524</coordinates></Point>
+    <Point><coordinates>37.636214,55.761521</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -483,10 +465,29 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Bella Napoli</name>
+    <name>San Marzano</name>
     <TimeStamp><when>2019-06-28T18:56:34Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.63686,55.754071</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Camorra Pizza e Birra</name>
+    <TimeStamp><when>2019-06-30T06:18:39Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>37.632011,55.729724</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kitayskiye Novosti</name>
+    <description></description>
+    <TimeStamp><when>2019-10-20T07:06:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>37.51751,55.630647</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -496,24 +497,6 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2019-07-11T19:54:55Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.638121,55.754551</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-    <Placemark>
-    <name>Camorra Pizza e Birra</name>
-    <TimeStamp><when>2019-06-30T06:18:39Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.632011,55.729724</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-    <Placemark>
-    <name>Trappist</name>
-    <TimeStamp><when>2019-09-17T16:18:02Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.626917,55.756759</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>

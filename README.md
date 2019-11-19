@@ -16,6 +16,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 
 ## Lists of bookmarks
 
+1. Amsterdam — 10
 1. Belgium — 16
 1. Berlin — 48
 1. Bowie in Berlin✻ — 10
@@ -34,9 +35,9 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Montenegro — 30
 1. Morocco — 32
 1. Moscow Oblast — 18
-1. Moscow — 50
+1. Moscow — 48
 1. Mountainboard Resorts✻ — 20
-1. Netherlands — 26
+1. Netherlands — 20
 1. Paris — 26
 1. Portugal — 60
 1. Prague — 18
