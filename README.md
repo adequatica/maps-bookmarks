@@ -41,8 +41,10 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Paris — 26
 1. Portugal — 60
 1. Prague — 18
+1. Rome — 28
 1. Saint Petersburg — 56
 1. Serbia — 20
+1. Sicily — 14
 1. Sochi — 10
 1. Spain: Asturias — 6
 1. Spain: Barcelona — 20
