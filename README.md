@@ -30,12 +30,12 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Hemingway in Spain✻ — 14
 1. Istanbul — 14
 1. Kaliningrad — 12
-1. Kropotkin✻ — 8
+1. Kropotkin✻ — 10
 1. Leningrad Oblast — 16
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow Oblast — 18
 1. Moscow — 48
+1. Moscow Oblast — 18
 1. Mountainboard Resorts✻ — 20
 1. Netherlands — 20
 1. Paris — 26
@@ -64,8 +64,8 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
 
 #### «Dostoevsky in Saint Petersburg» based on:
-* [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316) for English version
-* [Собственное исследование](https://medium.com/@adequatica/dostoevsky-in-petersburg-d7dfba1804b) для версии на русском языке
+* [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297) for English version
+* [Собственное исследование](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297) для версии на русском языке
 
 #### «Hemingway in Spain» based on:
 * [Blood, Sand, Sherry: Hemingway’s Madrid](https://www.nytimes.com/2011/06/19/travel/a-tour-of-hemingways-madrid.html)
@@ -75,9 +75,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [La guia de Hemingway en Pamplona](http://www.ernesthemingway.es/index.php?view=article&id=17%3Ala-guia-de-hemingway-en-pamplona)
 
 #### «Kropotkin (Места княза Кропоткина)» based on:
-* [Дом-музей Кропоткина](http://www.dmmuseum.ru/dom-kropotkina.html)
-* [Кропоткинский дом в Москве](http://kropotkin.ru/кропоткинский-дом-в-москве/)
-* Кропоткин П. А. [Записки революционера](https://ru.wikisource.org/wiki/Записки_революционера_(Кропоткин))
+* [My own research](https://medium.com/@adequatica/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
 
 #### «Mountainboard Resorts» based on:
 * [Mountainboard Resorts](https://drive.google.com/open?id=1tyD4TTqb97ZVnRM3YoJ_Ql9btS8&usp=sharing) on Google Maps

@@ -449,7 +449,7 @@ To Leninskiy Prospekt: 39.</description>
   <Placemark>
     <name>Depo</name>
     <TimeStamp><when>2019-04-28T07:21:37Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
+    <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.593004,55.780187</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
@@ -474,10 +474,10 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Camorra Pizza e Birra</name>
+    <name>Camorra</name>
     <TimeStamp><when>2019-06-30T06:18:39Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.632011,55.729724</coordinates></Point>
+    <Point><coordinates>37.632019,55.729733</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
