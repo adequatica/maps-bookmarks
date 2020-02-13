@@ -117,7 +117,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Swell (Brazil)</name>
+    <name>Swell [private] (Brazil)</name>
     <description>2013 https://yadi.sk/a/d4ikgDF_qtSB2</description>
     <TimeStamp><when>2019-10-06T09:53:53Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
@@ -179,7 +179,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Iguria (Basque Country, Spain)</name>
+    <name>Iguria [private] (Basque Country, Spain)</name>
     <description>The exact coordinates are classified.
 2013 https://yadi.sk/a/qxbbxV9Tqsipp</description>
     <TimeStamp><when>2019-10-06T09:00:11Z</when></TimeStamp>
