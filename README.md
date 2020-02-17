@@ -36,7 +36,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Morocco — 32
 1. Moscow — 48
 1. Moscow Oblast — 18
-1. Moscow Castles — 22
+1. Moscow Castles✻ — 22
 1. Mountainboard Resorts✻ — 20
 1. Netherlands — 20
 1. Paris — 26
