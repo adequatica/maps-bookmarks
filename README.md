@@ -37,7 +37,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Moscow — 46
 1. Moscow Oblast — 18
 1. Moscow Castles✻ — 22
-1. Mountainboard Resorts✻ — 20
+1. Mountainboard Parks✻ — 20
 1. Netherlands — 20
 1. Paris — 26
 1. Portugal — 60
@@ -59,7 +59,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 
 ## ✻ References
 
-#### «Bowie in Berlin» based on:
+#### «Bowie in Berlin» based on articles:
 * [The Berlin landmarks that inspired Bowie](https://www.ft.com/content/b20113b0-8753-11e3-9c5c-00144feab7de)
 * [A tour of Bowie’s Berlin years](https://fotostrasse.com/david-bowies-berlin/)
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
@@ -68,7 +68,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297) for English version
 * [Собственное исследование](https://medium.com/@adequatica/dostoevsky-in-petersburg-d7dfba1804b?source=friends_link&sk=4d01b558a68f5bb42ddafadcb66c2912) для версии на русском языке
 
-#### «Hemingway in Spain» based on:
+#### «Hemingway in Spain» based on articles:
 * [Blood, Sand, Sherry: Hemingway’s Madrid](https://www.nytimes.com/2011/06/19/travel/a-tour-of-hemingways-madrid.html)
 * [How to Visit Hemingway’s Madrid Like a Local](https://untappedcities.com/2012/03/13/how-to-visit-hemingways-madrid-like-a-local/)
 * [The old man and the city: Hemingway’s love affair with Pamplona](https://www.independent.co.uk/travel/europe/the-old-man-and-the-city-hemingways-love-affair-with-pamplona-2305392.html)
@@ -81,5 +81,5 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 #### «Moscow Castles» based on:
 * [My own research](https://medium.com/@adequatica/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653)
 
-#### «Mountainboard Resorts» based on:
-* [Mountainboard Resorts](https://drive.google.com/open?id=1tyD4TTqb97ZVnRM3YoJ_Ql9btS8&usp=sharing) on Google Maps
+#### «Mountainboard Parks» based on:
+* [My own experience](https://medium.com/@adequatica/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f)
