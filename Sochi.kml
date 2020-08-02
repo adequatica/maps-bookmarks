@@ -61,21 +61,25 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Airport</name>
-    <description>Bus 105 or 135.</description>
+    <description>Bus 105 or 135 to Roza Khutor.</description>
     <TimeStamp><when>2019-09-21T10:53:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>39.941329,43.448921</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
     <Placemark>
     <name>Gorki Gorod</name>
     <TimeStamp><when>2019-09-21T11:58:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>40.266914,43.683212</coordinates></Point>
+    <Point><coordinates>40.266879,43.683145</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -85,24 +89,8 @@
     <Point><coordinates>40.297494,43.671171</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Olympic Village Mountian Cluster</name>
-    <TimeStamp><when>2019-09-21T14:34:49Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>40.318495,43.662056</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Roza Plato - Zapovedny les</name>
-    <TimeStamp><when>2019-09-23T10:18:24Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>40.319214,43.658142</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -112,6 +100,7 @@
     <Point><coordinates>40.310063,43.625286</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -121,6 +110,7 @@
     <Point><coordinates>40.323331,43.649793</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -130,25 +120,7 @@
     <Point><coordinates>40.320191,43.660839</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>BoogelWoogel</name>
-    <TimeStamp><when>2019-09-17T18:21:05Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>40.317071,43.662659</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Stolovaya 28</name>
-    <description>The cheapest place on the mountain, 20% discount after 20:00.</description>
-    <TimeStamp><when>2019-09-17T18:05:35Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>40.315199,43.663703</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
 </Document>

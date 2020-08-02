@@ -66,6 +66,7 @@
     <Point><coordinates>30.405166,59.958564</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -75,6 +76,7 @@
     <Point><coordinates>30.316557,59.948538</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -82,9 +84,11 @@
     <description>Entrance only with excursion.</description>
     <TimeStamp><when>2016-03-20T16:53:03Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.321382,59.941137</coordinates></Point>
+    <Point><coordinates>30.321336,59.941163</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -94,6 +98,8 @@
     <Point><coordinates>30.353681,59.92746</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -104,6 +110,7 @@
     <Point><coordinates>30.335565,59.930313</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -114,6 +121,7 @@
     <Point><coordinates>30.28702,59.94316</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -123,6 +131,19 @@
     <Point><coordinates>30.337809,59.955416</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Icebreaker Krasin</name>
+    <TimeStamp><when>2020-07-25T05:37:57Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.268957,59.927821</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -132,6 +153,7 @@
     <Point><coordinates>30.338017,59.9417</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -141,6 +163,7 @@
     <Point><coordinates>30.337652,59.934402</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -150,6 +173,7 @@
     <Point><coordinates>30.34247,59.926228</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -159,6 +183,7 @@
     <Point><coordinates>30.307727,59.931543</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -167,9 +192,18 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.325891,59.935864</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:description>
-      </mwm:description>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Au Pont Rouge</name>
+    <TimeStamp><when>2020-07-25T07:06:46Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.314709,59.933206</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -179,6 +213,8 @@
     <Point><coordinates>30.341772,59.936273</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -188,15 +224,7 @@
     <Point><coordinates>30.286594,59.929565</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Mosaic yard</name>
-    <TimeStamp><when>2016-10-08T09:40:10Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.338706,59.94734</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -206,17 +234,18 @@
     <Point><coordinates>30.301322,59.951977</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Botanical garden</name>
-    <description>From 10:00 till 18:00;
-Orangery from 11:00 till 17:00.</description>
     <TimeStamp><when>2014-08-04T03:05:00Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>30.325274,59.970043</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Park</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -226,6 +255,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.3116,60.019695</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -236,6 +267,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.322613,59.937577</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -246,6 +279,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.333645,59.93329</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -255,6 +290,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.342684,59.926608</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -264,6 +301,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.342518,59.926916</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -273,6 +312,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.358914,59.938027</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -282,15 +323,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.312413,59.965211</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Co-op Garage</name>
-    <TimeStamp><when>2017-02-03T06:57:54Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.322788,59.927075</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -300,6 +334,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.358354,59.935759</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -309,6 +345,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.336714,59.937295</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -319,6 +357,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.319006,59.930652</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -329,6 +369,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.314092,59.93365</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -338,6 +380,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.355696,59.935806</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -347,15 +391,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.327653,59.933023</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Oliver</name>
-    <TimeStamp><when>2017-02-02T18:12:53Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>30.345396,59.938113</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -365,6 +402,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.31918,59.92155</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -374,6 +413,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.345439,59.941449</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -383,15 +424,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.357965,59.938904</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Palm</name>
-    <TimeStamp><when>2018-02-23T20:48:23Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>30.322238,59.936733</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -401,6 +435,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.360966,59.943349</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -410,6 +446,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.363399,59.941555</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -419,15 +457,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.356999,59.938922</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name><![CDATA[Farsh & Bochka]]></name>
-    <TimeStamp><when>2016-02-13T19:57:14Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>30.347204,59.938118</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -437,6 +468,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.3028,59.950824</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -446,6 +479,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.371167,59.930636</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -455,6 +490,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.319899,59.930045</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -464,15 +501,19 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.355642,59.921943</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Beergeek</name>
     <TimeStamp><when>2016-02-13T20:49:17Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>30.346745,59.932428</coordinates></Point>
+    <Point><coordinates>30.342793,59.936804</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -482,6 +523,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.308427,59.927611</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -491,6 +534,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.356865,59.938924</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -500,15 +545,19 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.413366,59.955719</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>AF Brew Taproom</name>
     <TimeStamp><when>2018-07-21T09:25:43Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>30.26751,59.911199</coordinates></Point>
+    <Point><coordinates>30.267416,59.911197</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -518,33 +567,19 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.344977,59.940953</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Jawsspot</name>
-    <TimeStamp><when>019-03-09T06:19:55Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>30.355352,59.936912</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Spontan</name>
-    <TimeStamp><when>2019-06-23T04:59:13Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>30.358131,59.939424</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Guzva</name>
     <TimeStamp><when>2019-06-21T23:16:52Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.343609,59.926802</coordinates></Point>
+    <Point><coordinates>30.343642,59.92681</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+       <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -554,15 +589,8 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.347686,59.934412</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Yelagin Island</name>
-    <TimeStamp><when>2019-06-20T07:04:41Z</when></TimeStamp>
-    <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>30.256942,59.978764</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -572,6 +600,95 @@ Orangery from 11:00 till 17:00.</description>
     <Point><coordinates>30.340919,59.940705</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fartuk</name>
+    <TimeStamp><when>2019-06-14T05:43:06Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>30.343701,59.929037</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Jawsspot</name>
+    <TimeStamp><when>2019-03-09T06:19:55Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>30.355352,59.936912</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Buterbrodskybar</name>
+    <TimeStamp><when>2020-07-06T10:52:39Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>30.290622,59.946004</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vasileostrovsky Market</name>
+    <TimeStamp><when>2020-07-06T05:51:40Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>30.285781,59.939501</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Sevcable Port</name>
+    <TimeStamp><when>2020-07-06T09:48:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.240787,59.924576</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Verlé Garden</name>
+    <TimeStamp><when>2020-07-07T07:32:33Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>30.314816,59.963406</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dead Poets</name>
+    <TimeStamp><when>2020-07-25T05:33:48Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>30.353129,59.936084</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Turbo Shawarma</name>
+    <TimeStamp><when>2020-07-27T13:34:44Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>30.347906,59.936018</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
 </Document>
