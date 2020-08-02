@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <Style id="placemark-red">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
         <href>http://maps.me/placemarks/placemark-blue.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-purple">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-yellow">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-pink">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -57,59 +29,31 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="placemark-deeppurple">
+  <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-deeppurple.png</href>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="placemark-lightblue">
+  <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-lightblue.png</href>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="placemark-cyan">
+  <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-cyan.png</href>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="placemark-teal">
+  <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-teal.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-lime">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-lime.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-deeporange">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-deeporange.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-gray">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-gray.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="placemark-bluegray">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.me/placemarks/placemark-bluegray.png</href>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -159,16 +103,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>White Tower</name>
-    <TimeStamp><when>2020-07-07T08:18:08Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>31.269352,58.51254</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Fyodor Dostoevsky Theater of Dramatic Art</name>
     <TimeStamp><when>2020-07-21T11:29:20Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -201,25 +135,13 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>The Brothers Karamazov Museum</name>
+    <name>Brothers Karamazov Museum</name>
     <TimeStamp><when>2020-07-28T07:42:34Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>31.355268,57.985875</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
-      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Museum</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>The Transfiguration Monastery</name>
-    <TimeStamp><when>2020-08-02T14:37:24Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>31.36079,57.994044</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Christianity</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

@@ -39,7 +39,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Moscow Castles✻ — 22
 1. Mountainboard Parks✻ — 20
 1. Netherlands — 20
-1. Novgorod — 12
+1. Novgorod — 10
 1. Paris — 26
 1. Portugal — 60
 1. Prague — 18
