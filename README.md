@@ -34,7 +34,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Leningrad Oblast — 16
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow — 46
+1. Moscow — 48
 1. Moscow Oblast — 18
 1. Moscow Castles✻ — 22
 1. Mountainboard Parks✻ — 20
@@ -43,10 +43,10 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Portugal — 60
 1. Prague — 18
 1. Rome — 28
-1. Saint Petersburg — 56
+1. Saint Petersburg — 58
 1. Serbia — 20
 1. Sicily — 14
-1. Sochi — 10
+1. Sochi — 6
 1. Spain: Asturias — 6
 1. Spain: Barcelona — 20
 1. Spain: Basque Country — 12

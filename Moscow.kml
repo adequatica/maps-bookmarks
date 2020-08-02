@@ -530,7 +530,6 @@ To Leninskiy Prospekt: 39.</description>
   </Placemark>
   <Placemark>
     <name>Kitayskiye Novosti</name>
-    <description></description>
     <TimeStamp><when>2019-10-20T07:06:18Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.51751,55.630647</coordinates></Point>

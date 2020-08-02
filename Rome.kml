@@ -93,7 +93,6 @@
   </Placemark>
   <Placemark>
     <name>Entrance to Musei Vaticani</name>
-    <description></description>
     <TimeStamp><when>2020-01-08T08:30:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.453836,41.90688</coordinates></Point>

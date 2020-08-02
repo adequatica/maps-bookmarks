@@ -61,7 +61,6 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Etna</name>
-    <description></description>
     <TimeStamp><when>2019-07-20T07:18:56Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>14.994033,37.751025</coordinates></Point>

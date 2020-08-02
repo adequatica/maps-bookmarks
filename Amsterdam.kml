@@ -106,7 +106,6 @@
   </Placemark>
   <Placemark>
     <name>Flower Market</name>
-    <description></description>
     <TimeStamp><when>2017-07-19T07:10:25Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>4.8912509,52.366921</coordinates></Point>
