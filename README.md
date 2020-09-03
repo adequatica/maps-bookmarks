@@ -34,7 +34,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Leningrad Oblast — 16
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow — 48
+1. Moscow — 50
 1. Moscow Oblast — 18
 1. Moscow Castles✻ — 22
 1. Mountainboard Parks✻ — 20
