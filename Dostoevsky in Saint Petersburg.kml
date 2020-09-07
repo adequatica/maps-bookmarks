@@ -82,7 +82,7 @@
   </Placemark>
   <Placemark>
     <name>68. Vitebsky railway station</name>
-    <description>Dostoevsky didn’t name a station, but this is the only railway station that the heroes of the novel «Idiot» could go to Pavlovsk from.</description>
+    <description>Dostoevsky didn’t name a station, but this is the only railway station that the heroes of the novel «Idiot» could go to Pavlovsk.</description>
     <TimeStamp><when>2016-10-23T15:13:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.329462,59.919634</coordinates></Point>
@@ -622,7 +622,7 @@
   </Placemark>
   <Placemark>
     <name>14. Bolshaya Podyacheskaya ulitsa</name>
-    <description>January 1948 – late May 1948. Lived with his brother’s Michail family. Then they moved to Pargolovo for the summer, and on return settled back in the old apartment in the house of Shil.</description>
+    <description>January 1948 – late May 1948. Lived with his brother’s Michail family. Then they moved to Pargolovo for the summer, and in return settled back in the old apartment in the house of Shil.</description>
     <TimeStamp><when>2019-03-03T07:25:22Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.304925,59.925807</coordinates></Point>
@@ -632,7 +632,7 @@
   </Placemark>
   <Placemark>
     <name>13. Wolf and Beranger</name>
-    <description>The participants of the literary discussion group The Petrashevsky Circle gathered in the cafe «Wolf and Beranger». In spring of 1846 Dostoyevsky acquainted with Mikhail Petrashevsky.</description>
+    <description>The participants of the literary discussion group The Petrashevsky Circle gathered in the cafe «Wolf and Beranger». In spring of 1846 Dostoyevsky became acquainted with Mikhail Petrashevsky.</description>
     <TimeStamp><when>2016-10-08T05:32:43Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.319062,59.93641</coordinates></Point>
@@ -642,7 +642,7 @@
   </Placemark>
   <Placemark>
     <name>12. Soloshich House</name>
-    <description>November 1846 – February 1847. Rented few rooms with brothers Beketovs.</description>
+    <description>November 1846 – February 1847. Rented a few rooms with brothers Beketovs.</description>
     <TimeStamp><when>2016-09-25T11:29:40Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.290257,59.940728</coordinates></Point>
@@ -672,7 +672,7 @@
   </Placemark>
   <Placemark>
     <name>9. Kuchin House</name>
-    <description>The end of 1845 – the beginning of 1846. He lived in a three-room apartment on the first floor, windows faced Grebetskaya street (it is the 5th-7th windows to the right of the arch Dostoevsky street). Wrote the novel «The Double».</description>
+    <description>The end of 1845 – the beginning of 1846. He lived in a three-room apartment on the first floor, windows facing Grebetskaya street (it is the 5th-7th windows to the right of the arch Dostoevsky street). Wrote the novel «The Double».</description>
     <TimeStamp><when>2016-09-25T14:43:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.350692,59.927164</coordinates></Point>
@@ -742,7 +742,7 @@
   </Placemark>
   <Placemark>
     <name>2. Kostomarov boarding house (the old house did not preserved)</name>
-    <description>May 1837 – 16 January 1838. Prepare for exams to the Main Engineering School.</description>
+    <description>May 1837 – 16 January 1838. Prepare for exams at the Main Engineering School.</description>
     <TimeStamp><when>2016-09-25T11:18:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.357518,59.927257</coordinates></Point>
