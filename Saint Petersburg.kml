@@ -65,7 +65,11 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.405166,59.958564</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>office</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Building</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -75,6 +79,10 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.316557,59.948538</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+        <mwm:value>historic-castle-defensive</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -86,6 +94,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.321336,59.941163</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Museum</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -97,6 +108,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.353681,59.92746</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Museum</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -109,6 +123,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.335565,59.930313</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>highway-residential</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -120,6 +137,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.28702,59.94316</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>highway-residential</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -130,6 +150,10 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.337809,59.955416</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+        <mwm:value>historic-ship</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Museum</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -141,6 +165,12 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.268957,59.927821</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+        <mwm:value>historic-ship</mwm:value>
+      </mwm:featureTypes>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Museum</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -152,6 +182,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.338017,59.9417</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-artwork-statue</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -162,6 +195,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.337652,59.934402</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-artwork-statue</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -172,6 +208,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.34247,59.926228</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-viewpoint</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -182,6 +221,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.307727,59.931543</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -192,6 +234,10 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.325891,59.935864</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -202,6 +248,10 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.314709,59.933206</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -212,6 +262,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.341772,59.936273</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cinema</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Entertainment</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -223,6 +276,9 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.286594,59.929565</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>place-island</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -231,8 +287,11 @@
     <name>Kamchatka</name>
     <TimeStamp><when>2019-06-18T13:44:32Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.301322,59.951977</coordinates></Point>
+    <Point><coordinates>30.301188,59.952006</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>historic-memorial-plaque</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -243,6 +302,9 @@
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>30.325274,59.970043</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>leisure-park</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Park</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -254,6 +316,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>30.3116,60.019695</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-marketplace</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Shop</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -266,6 +331,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.322613,59.937577</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -278,6 +346,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.333645,59.93329</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -289,6 +360,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.342684,59.926608</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -300,6 +374,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.342518,59.926916</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -311,6 +388,10 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.358914,59.938027</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+        <mwm:value>cuisine-pizza</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -322,6 +403,10 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.312413,59.965211</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-pizza</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -333,6 +418,10 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.358354,59.935759</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-pizza</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -344,6 +433,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.336714,59.937295</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -356,6 +448,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.319006,59.930652</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -368,6 +463,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.314092,59.93365</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -379,6 +477,10 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.355696,59.935806</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+        <mwm:value>cuisine-burger</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -390,6 +492,9 @@
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.327653,59.933023</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -399,8 +504,11 @@
     <name>Dickens</name>
     <TimeStamp><when>2014-07-11T10:39:45Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>30.31918,59.92155</coordinates></Point>
+    <Point><coordinates>30.31915,59.921577</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -412,6 +520,9 @@
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.345439,59.941449</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -423,6 +534,10 @@
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.357965,59.938904</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+        <mwm:value>cuisine-tapas</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -434,6 +549,9 @@
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.360966,59.943349</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -445,6 +563,9 @@
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.363399,59.941555</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -456,6 +577,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.356999,59.938922</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -467,6 +591,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.3028,59.950824</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -478,6 +605,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.371167,59.930636</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -489,6 +619,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.319899,59.930045</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -500,6 +633,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.355642,59.921943</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -511,6 +647,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.342793,59.936804</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -522,6 +661,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.308427,59.927611</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -533,6 +675,9 @@
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.356865,59.938924</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -544,6 +689,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.413366,59.955719</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -555,6 +703,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.267416,59.911197</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -566,6 +717,9 @@
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.344977,59.940953</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -577,6 +731,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.343642,59.92681</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
        <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -588,6 +745,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>30.347686,59.934412</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>shop-books</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Shop</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -597,8 +757,11 @@
     <name>Tawny Bar</name>
     <TimeStamp><when>2019-06-14T08:16:14Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>30.340919,59.940705</coordinates></Point>
+    <Point><coordinates>30.340876,59.940731</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -610,6 +773,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.343701,59.929037</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -621,6 +787,9 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.355352,59.936912</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -632,6 +801,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.290622,59.946004</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -643,6 +815,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.285781,59.939501</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-marketplace</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -652,8 +827,11 @@
     <name>Sevcable Port</name>
     <TimeStamp><when>2020-07-06T09:48:05Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.240787,59.924576</coordinates></Point>
+    <Point><coordinates>30.241745,59.924345</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -664,6 +842,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.314816,59.963406</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -675,6 +856,9 @@
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.353129,59.936084</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
@@ -686,6 +870,9 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.347906,59.936018</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
