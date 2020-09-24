@@ -25,13 +25,14 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
+1. Dostoevsky in Petersburg ✻ — 70
 1. Dostoevsky in Saint Petersburg ✻ — 70
 1. Dublin — 20
 1. France — 6
 1. Hemingway in Spain ✻ — 20
 1. Istanbul — 14
 1. Kaliningrad — 12
-1. Kropotkin✻ — 10
+1. Kropotkin ✻ — 10
 1. Leningrad Oblast — 16
 1. Montenegro — 30
 1. Morocco — 32
@@ -61,7 +62,12 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 
 ## ✻ References
 
-### «Constructivism in Leningrad» based on articles:
+### «Bowie in Berlin» based on articles:
+* [The Berlin landmarks that inspired Bowie](https://www.ft.com/content/b20113b0-8753-11e3-9c5c-00144feab7de)
+* [A tour of Bowie’s Berlin years](https://fotostrasse.com/david-bowies-berlin/)
+* [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
+
+### «Constructivism in Leningrad (Конструктивизм в Ленинграде)» based on articles:
 
 * Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «[Коло](http://www.kolohouse.com/avant-garde)», 2018
 * [Авангард в архитектуре Ленинграда](https://ru.wikipedia.org/wiki/Авангард_в_архитектуре_Ленинграда)
@@ -71,14 +77,11 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Неконструктивная стратегия](http://story.dp.ru/constructivism )
 * [Ленинградский конструктивизм. Мечта о социалистической утопии 90 лет спустя](https://les.media/articles/657756-leningradskiy-konstruktivizm)
 
-### «Bowie in Berlin» based on articles:
-* [The Berlin landmarks that inspired Bowie](https://www.ft.com/content/b20113b0-8753-11e3-9c5c-00144feab7de)
-* [A tour of Bowie’s Berlin years](https://fotostrasse.com/david-bowies-berlin/)
-* [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
+### «Dostoevsky in Petersburg (Достоевский в Петербурге)» based on:
+* [Собственное исследование](https://medium.com/@adequatica/dostoevsky-in-petersburg-d7dfba1804b?source=friends_link&sk=4d01b558a68f5bb42ddafadcb66c2912)
 
 ### «Dostoevsky in Saint Petersburg» based on:
-* [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297) for English version
-* [Собственное исследование](https://medium.com/@adequatica/dostoevsky-in-petersburg-d7dfba1804b?source=friends_link&sk=4d01b558a68f5bb42ddafadcb66c2912) для версии на русском языке
+* [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)
 
 ### «Hemingway in Spain» based on articles:
 * Prado Museum, one of the favourite place of the author, does not pinned because of its obvious prominence
@@ -97,7 +100,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [La guia de Hemingway en Pamplona](http://www.ernesthemingway.es/index.php?view=article&id=17%3Ala-guia-de-hemingway-en-pamplona)
 
 ### «Kropotkin (Места княза Кропоткина)» based on:
-* [My own research](https://medium.com/@adequatica/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
+* [Собственное исследование](https://medium.com/@adequatica/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
 
 ### «Moscow Castles» based on:
 * [My own research](https://medium.com/@adequatica/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653)
