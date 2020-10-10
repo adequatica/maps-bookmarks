@@ -63,13 +63,13 @@
     <name>Yandex</name>
     <TimeStamp><when>2017-01-30T08:39:33Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>37.588481,55.733969</coordinates></Point>
+    <Point><coordinates>37.588017,55.735018</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:featureTypes>
-        <mwm:value>office</mwm:value>
+        <mwm:value>tourism-museum</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Building</mwm:icon>
+      <mwm:icon>Museum</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -261,20 +261,6 @@
     <TimeStamp><when>2017-01-30T17:48:18Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.597204,55.76999</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:featureTypes>
-        <mwm:value>amenity-pub</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>1516</name>
-    <TimeStamp><when>2017-01-30T08:33:54Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.67057,55.736361</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -589,6 +575,7 @@ To Leninskiy Prospekt: 39.</description>
   </Placemark>
   <Placemark>
     <name>Metekhi</name>
+    <description>1 khinkali = 50₽, only cash!</description>
     <TimeStamp><when>2019-03-30T13:29:45Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.559843,55.650839</coordinates></Point>
@@ -705,7 +692,7 @@ To Leninskiy Prospekt: 39.</description>
   </Placemark>
   <Placemark>
     <name>Manneken Pis</name>
-    <description>Try unsweetened waffles with meat or pate from 430 rub.</description>
+    <description>Try unsweetened waffles with meat or pate from 430₽.</description>
     <TimeStamp><when>2020-06-27T10:46:13Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.616816,55.764178</coordinates></Point>
@@ -765,6 +752,20 @@ To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2020-09-03T09:31:06Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.628382,55.741292</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Trappist</name>
+    <TimeStamp><when>2020-10-10T15:45:49Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>37.626901,55.75673</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>

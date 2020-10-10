@@ -326,7 +326,7 @@
   </Placemark>
   <Placemark>
     <name>Pyshechnaya</name>
-    <description>15 rub.</description>
+    <description>15₽.</description>
     <TimeStamp><when>2017-02-02T18:09:38Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.322613,59.937577</coordinates></Point>
