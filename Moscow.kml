@@ -574,22 +574,6 @@ To Leninskiy Prospekt: 39.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Metekhi</name>
-    <description>1 khinkali = 50₽, only cash!</description>
-    <TimeStamp><when>2019-03-30T13:29:45Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.559843,55.650839</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:featureTypes>
-        <mwm:value>amenity-restaurant</mwm:value>
-        <mwm:value>cuisine-georgian</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Brasserie Belge 0.33</name>
     <TimeStamp><when>2019-04-18T16:03:21Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
@@ -760,20 +744,5 @@ To Leninskiy Prospekt: 39.</description>
       <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
-  </Placemark>
-    <Placemark>
-    <name>Trappist</name>
-    <TimeStamp><when>2020-10-10T15:45:49Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.626901,55.75673</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:featureTypes>
-        <mwm:value>amenity-restaurant</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
 </Document>
 </kml>

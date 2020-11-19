@@ -1,8 +1,6 @@
 # Point of Interests
 
-I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013. Since that time I saved about half a thousand places where I have been and will be glad if someone find them useful:
-* [How can I import bookmarks](https://support.maps.me/hc/en-us/articles/207895029-How-to-import-bookmarks-)?
-* [Download from Dropbox](https://www.dropbox.com/sh/rp62t42zd4thlzn/AAC5bTe7wtCfzrYE_1MzUTgra?dl=0)
+I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013. Since that time I saved about half a thousand places where I have been and will be glad if someone find them useful. [How can I import bookmarks](https://support.maps.me/hc/en-us/articles/207895029-How-to-import-bookmarks-)?
 
 ## Map legend
 
