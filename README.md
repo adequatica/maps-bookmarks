@@ -1,16 +1,20 @@
 # Point of Interests
 
-I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013. Since that time I saved about half a thousand places where I have been and will be glad if someone find them useful. [How can I import bookmarks](https://support.maps.me/hc/en-us/articles/207895029-How-to-import-bookmarks-)?
+I've been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined and became completely unusable.
+
+I had to convert KML files into GPX for migration bookmarks to [OsmAnd](https://osmand.net). Now they could be imported to OsmAnd as waypoints in Trips.
+
+I saved almost a thousand places where I have been and will be glad if someone find them useful.
 
 ## Map legend
 
 * Red — sightseeings;
+* Orange — cafés, restaurants, fast food;
 * Yellow — shops, markets, fairs;
 * Green — parks, botanical gardens, mountainboard parks;
 * Purple — bars or pubs;
-* Orange — cafés, restaurants, fast food;
-* Brown — craft beer bars and breweries or craft beer bootle shops;
-* Pink — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
+* Magenta — craft beer bars and breweries or craft beer bootle shops;
+* Gray — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
 
 ## Lists of bookmarks
 
@@ -23,18 +27,16 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
-1. Dostoevsky in Petersburg ✻ — 70
 1. Dostoevsky in Saint Petersburg ✻ — 70
 1. Dublin — 20
 1. France — 6
 1. Hemingway in Spain ✻ — 20
 1. Istanbul — 14
 1. Kaliningrad — 12
-1. Kropotkin ✻ — 10
 1. Leningrad Oblast — 16
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow — 50
+1. Moscow — 49
 1. Moscow Oblast — 18
 1. Moscow Castles ✻ — 22
 1. Mountainboard Parks ✻ — 20
@@ -48,15 +50,17 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 1. Serbia — 20
 1. Sicily — 14
 1. Sochi — 6
-1. Spain: Asturias — 6
-1. Spain: Barcelona — 20
-1. Spain: Basque Country — 12
-1. Spain: Cantabria — 8
-1. Spain: Madrid — 16
-1. Spain: Pamplona — 10
+1. Spain Asturias — 6
+1. Spain Barcelona — 20
+1. Spain Basque Country — 12
+1. Spain Cantabria — 8
+1. Spain Madrid — 16
+1. Spain Pamplona — 10
 1. Tbilisi — 8
 1. Vienna — 10
 1. Zurich — 6
+1. Достоевский в Петербурге ✻ — 70
+1. Места княза Кропоткина ✻ — 10
 
 ## ✻ References
 
@@ -65,7 +69,7 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [A tour of Bowie’s Berlin years](https://fotostrasse.com/david-bowies-berlin/)
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
 
-### «Constructivism in Leningrad (Конструктивизм в Ленинграде)» based on articles:
+### «Constructivism in Leningrad» based on articles:
 
 * Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «[Коло](http://www.kolohouse.com/avant-garde)», 2018
 * [Авангард в архитектуре Ленинграда](https://ru.wikipedia.org/wiki/Авангард_в_архитектуре_Ленинграда)
@@ -74,9 +78,6 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Раннесоветская архитектура авангарда на Нарвской](https://www.the-village.ru/city/route/385889-narvskaya)
 * [Неконструктивная стратегия](http://story.dp.ru/constructivism )
 * [Ленинградский конструктивизм. Мечта о социалистической утопии 90 лет спустя](https://les.media/articles/657756-leningradskiy-konstruktivizm)
-
-### «Dostoevsky in Petersburg (Достоевский в Петербурге)» based on:
-* [Собственное исследование](https://medium.com/@adequatica/dostoevsky-in-petersburg-d7dfba1804b?source=friends_link&sk=4d01b558a68f5bb42ddafadcb66c2912)
 
 ### «Dostoevsky in Saint Petersburg» based on:
 * [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)
@@ -97,11 +98,14 @@ I've been using [MAPS.ME](https://maps.me) app during all my travels since 2013.
 * [Following Hemingway’s Steps in Pamplona](http://www.turismo.navarra.es/eng/organice-viaje/recurso.aspx?o=4798)
 * [La guia de Hemingway en Pamplona](http://www.ernesthemingway.es/index.php?view=article&id=17%3Ala-guia-de-hemingway-en-pamplona)
 
-### «Kropotkin (Места княза Кропоткина)» based on:
-* [Собственное исследование](https://medium.com/@adequatica/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
-
 ### «Moscow Castles» based on:
 * [My own research](https://medium.com/@adequatica/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653)
 
 ### «Mountainboard Parks» based on:
 * [My own experience](https://medium.com/@adequatica/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f)
+
+### «Достоевский в Петербурге» based on:
+* [Собственное исследование](https://medium.com/@adequatica/dostoevsky-in-petersburg-d7dfba1804b?source=friends_link&sk=4d01b558a68f5bb42ddafadcb66c2912)
+
+### «Места княза Кропоткина» based on:
+* [Собственное исследование](https://medium.com/@adequatica/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
