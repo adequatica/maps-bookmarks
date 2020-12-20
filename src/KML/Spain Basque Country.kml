@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Spain Basque Country</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Parada de Autobuses Pio XII Donostia</name>
+    <TimeStamp><when>2015-07-24T07:02:18Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>-1.9789378,43.307891</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bodega Donostiarra</name>
+    <description>Corner bar with delightful pintxos per 2€.</description>
+    <TimeStamp><when>2015-07-24T07:06:43Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-1.9850667,43.323103</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pantori</name>
+    <description>Spanish craft beer shop.</description>
+    <TimeStamp><when>2015-07-24T07:06:49Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>-1.9814055,43.323253</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bakio</name>
+    <TimeStamp><when>2015-07-24T07:12:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>-2.811871,43.427111</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gaztelugatxe</name>
+    <TimeStamp><when>2015-07-24T07:13:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-2.7849242,43.447355</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Termibus</name>
+    <TimeStamp><when>2015-07-24T07:07:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>-2.9493691,43.261202</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Moyúa Plaza</name>
+    <description>Find bus to Bakio.</description>
+    <TimeStamp><when>2017-03-20T08:00:45Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>-2.9350099,43.263008</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Guggenheim Museum</name>
+    <TimeStamp><when>2015-07-24T07:11:43Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-2.9335682,43.268555</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Euskal Museoa</name>
+    <description>The Basque Museum: Tuesday to Saturday: 11-17.</description>
+    <TimeStamp><when>2015-07-24T07:10:23Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-2.921914,43.257967</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Puente Colgante de Bizkaia</name>
+    <description>It is two 160 m-long spans rest on two 61 m-high lattice-frame towers made completely of iron like Eiffel Tower – the first UNESCO Industrial Heritage site in Spain: 0,35€.</description>
+    <TimeStamp><when>2015-07-24T07:12:15Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-3.0171083,43.323177</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mercado de La Ribera</name>
+    <TimeStamp><when>2017-03-18T18:35:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-2.9242797,43.255474</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Nueva</name>
+    <description>It is the only place on the square to visit for pintxos for a valuable price.</description>
+    <TimeStamp><when>2017-03-18T18:35:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-2.9223137,43.258979</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

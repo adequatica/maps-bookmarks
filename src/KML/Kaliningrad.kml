@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Kaliningrad</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Mesto Sily</name>
+    <TimeStamp><when>2016-04-16T16:15:30Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>20.499114,54.716504</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Königsberg Cathedral</name>
+    <description>The 14th-century exaple of northern Brick Gothic architecture.</description>
+    <TimeStamp><when>2016-04-16T16:30:16Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>20.51216,54.706454</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Königsberg Stock Exchange</name>
+    <TimeStamp><when>2016-04-16T16:22:37Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>20.507325,54.705127</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Brandenburg Gate</name>
+    <TimeStamp><when>2016-04-16T16:15:45Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>20.494676,54.697288</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Der Wrangel</name>
+    <TimeStamp><when>2016-04-16T16:18:06Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>20.514071,54.722633</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Botanicalgarden</name>
+    <TimeStamp><when>2016-05-01T20:34:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.517459,54.737031</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Central market</name>
+    <description>Buy smoked tuna or marlin.</description>
+    <TimeStamp><when>2017-05-14T11:59:25Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>20.509389,54.7206</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bus terminal</name>
+    <description>Baltiysk: 107 (1:30);
+Zelenogradsk: 140 or 141 (1:20);
+Airpot: 244 (50 min).</description>
+    <TimeStamp><when>2016-04-16T16:38:07Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>20.502222,54.693437</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ferry</name>
+    <description>Daily at 10, 12, 14, 16, 18, 20.</description>
+    <TimeStamp><when>2016-04-16T16:44:56Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>19.891599,54.638548</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pillau Citadel</name>
+    <TimeStamp><when>2017-03-13T18:52:22Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>19.887256,54.642829</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Neutief</name>
+    <description>Abandoned air base.</description>
+    <TimeStamp><when>2017-03-13T18:57:53Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>19.880986,54.614433</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Friends</name>
+    <description>Burger with pike and seaweed – 250₽.</description>
+    <TimeStamp><when>2016-05-03T12:06:01Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>20.479463,54.963195</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

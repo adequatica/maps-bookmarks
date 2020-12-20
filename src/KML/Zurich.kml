@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Zurich</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Lindenhof</name>
+    <TimeStamp><when>2015-05-02T07:06:51Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>8.5413887,47.373064</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Römische Bäder</name>
+    <TimeStamp><when>2015-05-02T07:07:55Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>8.5413887,47.371291</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>14, Spiegelgasse</name>
+    <description>During the First World War, Lenin with his wife Nadeshda Krupskaja lived here for about a year.</description>
+    <TimeStamp><when>2015-05-02T07:05:30Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>8.5449869,47.371918</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Museum der Zeitmessung Beyer</name>
+    <TimeStamp><when>2017-03-14T05:41:07Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>8.5385429,47.370924</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Alter Botanischer Garten</name>
+    <description>Free entrance.</description>
+    <TimeStamp><when>2017-03-14T05:38:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>8.5337713,47.3711</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Stadthausanlage</name>
+    <description>Flea market during the weekend.</description>
+    <TimeStamp><when>2015-05-24T12:19:20Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>8.540812,47.367139</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

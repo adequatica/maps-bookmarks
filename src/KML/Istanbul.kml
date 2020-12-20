@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Istanbul</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Hagia Sophia</name>
+    <description>From the date of its construction in 537, and until 1453, it served as an Orthodox cathedral, except between 1204 and 1261, when it was converted by the Forth Crusaders to a Roman Catholic cathedral under the Latin Empire. The building was later converted into an Ottoman mosque from 1453 until 1931. It was then secularized and opened as a museum on 1 February 1935. Famous in particular for its massive dome, it is considered the epitome of Byzantine architecture. It remained the world's largest cathedral for nearly a thousand years, until Seville Cathedral was completed in 1520.</description>
+    <TimeStamp><when>2018-02-04T06:51:23Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.979969,41.008481</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Blue Mosque</name>
+    <description>The Sultan Ahmed Mosque was constructed between 1609 and 1616. The design incorporates some Byzantine Christian elements with traditional Islamic architecture and is considered to be the last great mosque of the classical period of Ottoman architecture.</description>
+    <TimeStamp><when>2018-04-01T06:54:02Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.976871,41.005262</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Süleymaniye Mosque</name>
+    <description>Ottoman imperial mosque was built on the order of Sultan Süleyman (Süleyman the Magnificent) in 1557. It blends Islamic and Byzantine architectural elements: it combines tall minarets with large domed buildings supported by half domes in the style of Hagia Sophia. It is the second largest mosque in the city.</description>
+    <TimeStamp><when>2018-05-03T12:14:26Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.963838,41.016242</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Basilica Cistern</name>
+    <description>The cistern was built in the 6th century during the reign (527–565) of Byzantine Emperor Justinian I. This cistern is an underground chamber approximately 138 meters by 65 meters (about 9,800 square meters in area) and capable of holding 80,000 cubic meters of water. The ceiling is supported by a forest of 336 marble columns, each 9 metres high, arranged in 12 rows of 28 columns each spaced 5 metres apart. The cistern has the capacity to store 100,000 tons of water.</description>
+    <TimeStamp><when>2018-02-04T16:54:06Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.97792,41.008404</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Valens Aqueduct</name>
+    <description>It is a Roman aqueduct which was the major water-providing system of the Eastern Roman capital of Constantinople. Completed by Roman Emperor Valens in the late 4th century, it was maintained and used by the Byzantines and later the Ottomans, and remains one of the most important landmarks of the city.</description>
+    <TimeStamp><when>2018-02-24T08:05:11Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.955934,41.015789</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Theodosian Walls</name>
+    <description>The Walls of Constantinople was built in the 5th century. Although the other sections of the walls were less elaborate, when well-manned, they were almost impregnable for any medieval besieger, saving the city, and the Byzantine Empire with it. The advent of gunpowder siege cannons rendered the fortifications vulnerable. Ultimately the city fell from sheer weight of numbers of the Ottoman forces in 1453 after a six-week siege. The walls were largely maintained intact during most of the Ottoman period, until sections began to be dismantled in the 19th century, as the city outgrew its medieval boundaries, but many parts of the walls survived and are still standing today.</description>
+    <TimeStamp><when>2018-03-10T09:26:01Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.924386,41.019272</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Galata Tower</name>
+    <description>The Romanesque style tower was built as Christea Turris (Tower of Christ) in 1348 during an expansion of the Genoese colony in Constantinople. It was the tallest building in Istanbul at 66.9 m (51.65 m at the observation deck) when it was built. The upper section of the tower was modified in several restorations during the Ottoman period when it was used as an observation tower for spotting fires.</description>
+    <TimeStamp><when>2018-04-30T08:03:26Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.974185,41.025627</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Rumeli Hisari</name>
+    <description>Rumelian Castle is a medieval fortress built between 1451 and 1452 on the orders of Ottoman Sultan Mehmed II. After the Ottoman conquest of the city of Constantinople, Rumelihisarı served as a customs checkpoint and occasional prison.</description>
+    <TimeStamp><when>2018-04-01T10:47:19Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>29.055801,41.084715</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Grand Bazar</name>
+    <description>The Grand Bazaar is one of the largest and oldest covered markets in the world, with 61 covered streets and over 4,000 shops which attract between 250,000 and 400,000 visitors daily. The construction of the future Grand Bazaar's core started during the winter of 1455–56, shortly after the Ottoman conquest of Constantinople.</description>
+    <TimeStamp><when>2018-04-30T11:11:01Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>28.969962,41.01011</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Egyptian (Spice) Bazaar</name>
+    <description>There are several documents suggesting the name of the bazaar was first «New Bazaar». The building itself is part of the complex of the New Mosque, and got its name «Egyptian Bazaar» because it was built with the revenues from the Ottoman eyalet of Egypt in 1660. The bazaar was (and still is) the center for spice trade, Turkish delight and other sweets.</description>
+    <TimeStamp><when>2018-02-04T07:55:20Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>28.971142,41.016139</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Havabus Airport Bus</name>
+    <description>15 TRY</description>
+    <TimeStamp><when>2018-05-06T06:47:46Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>28.984861,41.04107</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Eminonu</name>
+    <TimeStamp><when>2018-05-06T06:32:13Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>28.970437,41.018827</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bosphorus Brewing Company</name>
+    <TimeStamp><when>2018-04-28T04:59:08Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>29.006228,41.066525</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Craft Beer Lab</name>
+    <TimeStamp><when>2018-05-03T12:12:04Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>29.002985,41.042327</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

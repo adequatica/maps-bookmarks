@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Dublin</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Spire of Dublin</name>
+    <TimeStamp><when>2018-08-08T21:44:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.2602546,53.349801</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Guinness Storehouse</name>
+    <TimeStamp><when>2018-08-11T12:24:29Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.286736,53.341851</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Samuel Beckett Bridge</name>
+    <TimeStamp><when>2018-10-06T12:01:19Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.2414791,53.346911</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>St. Patrick’s Cathedral</name>
+    <TimeStamp><when>2018-08-11T20:31:04Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.271485,53.339532</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dublin Castle</name>
+    <TimeStamp><when>2018-08-08T21:52:16Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.2675264,53.343</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Trinity College</name>
+    <TimeStamp><when>2018-08-11T20:30:29Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.2544476,53.343733</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Oscar Wilde Memorial</name>
+    <TimeStamp><when>2018-10-02T15:33:52Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.2505543,53.340801</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Saint Stephen’s Green</name>
+    <TimeStamp><when>2018-08-11T20:21:45Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.259061,53.338081</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Gingerman</name>
+    <description>The first pun in Dublin where I entered.</description>
+    <TimeStamp><when>2018-10-03T06:10:26Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>-6.2495566,53.341848</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>O’Donoghue’s</name>
+    <TimeStamp><when>2018-10-06T13:01:04Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>-6.2542048,53.338134</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Brazen Head</name>
+    <description>Officially the oldest pub in Ireland, The Brazen Head dates all the way back to 1198, and it has left a lasting impression on Irish popular culture. James Joyce made reference to it in Ulysses.</description>
+    <TimeStamp><when>2018-08-12T08:03:52Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>-6.2763518,53.344977</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Palace Bar</name>
+    <description>One of Dublin’s finest, original Victoria pubs, The Palace Bar was established in 1823 and became the favourite watering hole of the Irish media throughout the 1940s and 50s.</description>
+    <TimeStamp><when>2018-08-12T04:59:14Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>-6.2596283,53.345904</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Auld Dubliner</name>
+    <TimeStamp><when>2018-10-04T09:36:22Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>-6.2620288,53.345554</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Temple Bar</name>
+    <description>Established in 1840, this pub is among the most frequently visited in the country.</description>
+    <TimeStamp><when>2018-10-04T19:18:07Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>-6.2642014,53.345466</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Porterhouse</name>
+    <TimeStamp><when>2018-09-29T06:57:28Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>-6.2674268,53.345129</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dublin Connolly</name>
+    <TimeStamp><when>2018-09-29T07:26:58Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>-6.2489316,53.351697</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Howth</name>
+    <TimeStamp><when>2018-10-05T15:42:02Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>-6.0743734,53.389112</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Howth Castle</name>
+    <TimeStamp><when>2018-08-13T17:36:30Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.079416,53.386221</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Medieval City Wall</name>
+    <TimeStamp><when>2018-10-03T20:47:35Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.2742704,53.343929</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Leo Burdock’s</name>
+    <description>Very very big portions of fish and chips for 10,25€ Take away only.</description>
+    <TimeStamp><when>2018-10-06T08:24:32Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-6.2700889,53.343011</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

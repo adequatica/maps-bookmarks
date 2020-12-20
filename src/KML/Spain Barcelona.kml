@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Spain Barcelona</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Barcelona-Sants</name>
+    <TimeStamp><when>2017-03-20T17:23:23Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.1400045,41.379008</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Casa Vicents</name>
+    <description>Antoni Gaudí: 1883–1888</description>
+    <TimeStamp><when>2017-03-20T19:10:32Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.1506556,41.403394</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Palau Güell</name>
+    <description>Antoni Gaudí: 1886–1889</description>
+    <TimeStamp><when>2015-07-23T15:48:59Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.1742053,41.378804</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Sagrada Família</name>
+    <description>Antoni Gaudí: 1883–incomplete.</description>
+    <TimeStamp><when>2015-07-23T15:49:08Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.1743207,41.403555</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Casa Calvet</name>
+    <description>Antoni Gaudí: 1898–1900</description>
+    <TimeStamp><when>2015-07-23T15:08:54Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.1729125,41.390841</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Parc Güell</name>
+    <description>Antoni Gaudí: 1900–1914</description>
+    <TimeStamp><when>2015-07-23T15:48:17Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>2.1516131,41.414156</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Casa Batlló</name>
+    <description>Antoni Gaudí: 1904–1906</description>
+    <TimeStamp><when>2015-07-23T15:48:51Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.1647881,41.391554</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Casa Milà</name>
+    <description>Antoni Gaudí: 1906–1910</description>
+    <TimeStamp><when>2015-07-23T15:48:41Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.1619021,41.3954</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Picasso Museum</name>
+    <TimeStamp><when>2017-03-20T17:21:18Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>2.181281,41.38516</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gat del Raval</name>
+    <TimeStamp><when>2015-07-23T07:43:51Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>2.169938,41.378082</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cat Pound</name>
+    <TimeStamp><when>2015-07-23T15:57:01Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>2.1707827,41.380763</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>La Boqueria</name>
+    <description>8:00–20:00</description>
+    <TimeStamp><when>2015-07-23T15:52:07Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>2.1715808,41.38173</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>La Paradeta (El Born)</name>
+    <TimeStamp><when>2015-07-23T15:50:01Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>2.1840061,41.3862</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>La Paradeta (Sagrada Familia)</name>
+    <TimeStamp><when>2017-03-20T17:17:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>2.1734329,41.404432</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fábrica Moritz Barcelona</name>
+    <TimeStamp><when>2017-03-20T17:20:06Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>2.1633773,41.382677</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Nevermind</name>
+    <description>Punk-rock skate bar with a ramp inside; bottle of beer – 1,5€.</description>
+    <TimeStamp><when>2015-07-23T15:54:40Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>2.1665361,41.385082</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Oviso</name>
+    <TimeStamp><when>2015-07-23T15:55:11Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>2.1770699,41.380676</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ámbar</name>
+    <description>Have bottled local craft beer.</description>
+    <TimeStamp><when>2015-07-23T15:55:58Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>2.1707829,41.377766</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Montjuic</name>
+    <description>View of the port of Barcelona – Spain's third and European's ninth largest container port.</description>
+    <TimeStamp><when>2015-07-26T01:57:55Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>2.167524,41.363173</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Estació de França</name>
+    <TimeStamp><when>2017-03-20T19:25:50Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.1863236,41.384156</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
