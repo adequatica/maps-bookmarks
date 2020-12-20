@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="58.526745" lon="31.251248">
+  <name>Veliky Novgorod</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="58.520925" lon="31.275227">
+  <name>Novgorod Kremlin</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="58.518814" lon="31.285022">
+  <name>Yaroslav’s Court</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="58.517435" lon="31.295578">
+  <name>Church of the Transfiguration of Our Saviour on Ilyina Street</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Contain works by Theophanes the Greek.</desc>
+</wpt>
+<wpt lat="58.529753" lon="31.281825">
+  <name>Fyodor Dostoevsky Theater of Dramatic Art</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="58.000241" lon="31.342748">
+  <name>Staraya Russa</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="57.98129" lon="31.357289">
+  <name>Dostoevsky House Museum</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="57.985875" lon="31.355268">
+  <name>Brothers Karamazov Museum</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="58.525005" lon="31.26722">
+  <name>Mycroft Pub</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="58.525715" lon="31.292231">
+  <name>My Kitchen</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+</gpx>

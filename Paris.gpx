@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="48.858261" lon="2.2945024">
+  <name>Eiffel Tower</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.873784" lon="2.2950255">
+  <name>Arc de Triomphe de l'Étoile</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.852938" lon="2.3498713">
+  <name>Cathédrale Notre-Dame de Paris</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.860512" lon="2.3524274">
+  <name>Centre Pompidou</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.86331" lon="2.3369537">
+  <name>Palais Royal</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.884079" lon="2.3324074">
+  <name>Moulin Rouge</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.886796" lon="2.3430263">
+  <name>Basilique du Sacré-Cœur</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.876655" lon="2.2633258">
+  <name>Fondation Louis Vuitton</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.853083" lon="2.3391424">
+  <name>Cour du Commerce</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.859919" lon="2.3265253">
+  <name>Musée D’orsay</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.80372" lon="2.124335">
+  <name>Versailles</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.898006" lon="2.0960592">
+  <name>Saint-Germain-en-Laye</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.842514" lon="2.4357341">
+  <name>Château de Vincennes</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Free entrance till 16:30.</desc>
+</wpt>
+<wpt lat="48.857404" lon="2.3402073">
+  <name>Square du Vert Galant</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>At this location, Jacques de Molay, last Grand Master of the Knights Templar, was burned on 18 March 1314.</desc>
+</wpt>
+<wpt lat="48.894278" lon="2.3891616">
+  <name>Parc de la Villette</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="48.843137" lon="2.3559223">
+  <name>Jardin des Plantes</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="48.845954" lon="2.3720665">
+  <name>Express De Lyon</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Bar mix of tourists and locals; in the morning works as a cafe; has main varieties of Belgian beers; pints are around 5–6€.</desc>
+</wpt>
+<wpt lat="48.861032" lon="2.350464">
+  <name>La Cave à Bulles</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>French craft beer small bottle shop: Tuesday to Saturday from 10 to 14 and from 16 to 20.</desc>
+</wpt>
+<wpt lat="48.885121" lon="2.3524006">
+  <name>Brasserie de la Goutte d’Or</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>First independent brewery and shop. Famous sort: Château Rouge – spicy amber ale, 3,5€ per 0,33 bottle.</desc>
+</wpt>
+<wpt lat="48.892252" lon="2.3469503">
+  <name>Le Supercoin</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Away from tourists, hidden under «Le Mont Blanc», only 3 sorts on tap, have strong beverages on bar, happy hour: 17-20.</desc>
+</wpt>
+<wpt lat="48.866681" lon="2.3854937">
+  <name>Les Trois 8</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Small bar located in trendy Belleville, 8 craft beers on tap from local breweries.</desc>
+</wpt>
+<wpt lat="48.864852" lon="2.3817815">
+  <name>La Fine Mousse</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Cozy bar with the very best selection of craft beers on tap and one of the most expensive.</desc>
+</wpt>
+<wpt lat="48.882947" lon="2.3397674">
+  <name>People Drugstore</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Open from noon to midnight, small choose craft ot Belgina beers 3€ per 0,33 bottle, biodynamic vines.</desc>
+</wpt>
+<wpt lat="48.842339" lon="2.3498471">
+  <name>Le Vieux Chêne</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Belgian beers, 5,50€ per pint on happy hour: 16-20.</desc>
+</wpt>
+<wpt lat="48.842797" lon="2.3495923">
+  <name>Au Petit Grec</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Crêpe oeu jambon fromage – 5€.</desc>
+</wpt>
+<wpt lat="48.880511" lon="2.3547609">
+  <name>Gare du Nord</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+</gpx>

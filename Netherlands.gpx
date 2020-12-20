@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="52.388077" lon="4.6385788">
+  <name>Haarlem</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="52.376606" lon="4.6336891">
+  <name>Frans Hals Museum</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.375587" lon="4.5317303">
+  <name>Zandvoort aan Zee</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="51.688093" lon="5.3121646">
+  <name>Jheronimus Bosch Art Center</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>11-17:30</desc>
+</wpt>
+<wpt lat="51.688947" lon="5.3046853">
+  <name>Hieronymus Bosch huis</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="51.690226" lon="5.2966185">
+  <name>Jan de Groot</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="51.689774" lon="5.3003361">
+  <name>Bar le Duc</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Brouwerij 't Kolleke, try homemade triple.</desc>
+</wpt>
+<wpt lat="51.691894" lon="5.2963262">
+  <name>Thornbridge</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="51.695138" lon="5.3031899">
+  <name>Citadel 's-Hertogenbosch</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="51.690517" lon="5.2937083">
+  <name>'s-Hertogenbosch</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="52.089393" lon="5.1098214">
+  <name>Utrecht Centraal</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="52.089035" lon="5.1215186">
+  <name>Kafé België</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="52.085332" lon="5.1475762">
+  <name>Rietveld-Schröderhuis</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="51.924959" lon="4.468693">
+  <name>Rotterdam Centraal</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="51.920201" lon="4.4870206">
+  <name>Markthal</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="51.920395" lon="4.4901266">
+  <name>Kubuswoningen</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.080844" lon="4.3245484">
+  <name>Den Haag Centraal</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="52.07777" lon="4.317108">
+  <name>Atrium City Hall</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.080401" lon="4.3142984">
+  <name>Mauritshuis</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.084259" lon="4.3116711">
+  <name>Cafe de la Gare</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+</gpx>

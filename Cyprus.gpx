@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="34.753659" lon="32.406952">
+  <name>Fort of Paphos</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="34.756649" lon="32.411429">
+  <name>Kato Paphos</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <desc>Bus to airport: 612 ~ 30 min;
+Bus to Aphrodite’s Stone: 630 ~ 45 min</desc>
+</wpt>
+<wpt lat="34.66409" lon="32.627071">
+  <name>Petra Tou Romiu</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="34.778424" lon="32.422673">
+  <name>Karavella Bus Station</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <desc>Bus to Polis: 645 ~ 50 min;
+Bus to Limassol ~ 60 min</desc>
+</wpt>
+<wpt lat="34.678541" lon="33.03718">
+  <name>EMEL Central Station</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <desc>Bus to Paphos ~ 60 min</desc>
+</wpt>
+<wpt lat="34.672252" lon="33.041614">
+  <name>Limassol Medieval Castle</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="35.033756" lon="32.425747">
+  <name>Polis Chrysoxous</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <desc>Bus to Bath of Aphrodite: 622 ~ 30 min</desc>
+</wpt>
+<wpt lat="35.05636" lon="32.343854">
+  <name>Baths of Aphrodite</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+</gpx>

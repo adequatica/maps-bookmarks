@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="55.735018" lon="37.588017">
+  <name>Yandex</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="55.778839" lon="37.55948">
+  <name>Hippodrome</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="55.743339" lon="37.629514">
+  <name>GlavPivMag</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.754607" lon="37.637689">
+  <name>Khinkali Point</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.742016" lon="37.583889">
+  <name>Brisket BBQ</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.734998" lon="37.624597">
+  <name>El Asador</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.756409" lon="37.609746">
+  <name>St.Peters &amp; St.Anton</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.765547" lon="37.609282">
+  <name>Pod Muhoy</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.76759" lon="37.635272">
+  <name>Bobby Dazzler</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.754573" lon="37.654013">
+  <name>Lambic</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.766541" lon="37.640669">
+  <name>Lambic</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.756315" lon="37.635208">
+  <name>Lumberjack</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.763848" lon="37.61408">
+  <name>Enthusiast</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.765061" lon="37.608523">
+  <name>Beermarket</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.76999" lon="37.597204">
+  <name>Pivbar</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.742116" lon="37.655285">
+  <name>Varka</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.760825" lon="37.646095">
+  <name>GlavPivMag 2</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.762678" lon="37.606798">
+  <name>Vse Tvoyi Drouzia</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.762615" lon="37.606342">
+  <name>Craft Republic</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.751298" lon="37.607021">
+  <name>Rule Taproom</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.759242" lon="37.625045">
+  <name>Spitsa</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.754889" lon="37.637367">
+  <name>Dogma</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.77081" lon="37.625198">
+  <name>Heroes</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.745551" lon="37.667974">
+  <name>Vetka</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.741441" lon="37.628387">
+  <name>Parka</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.771371" lon="37.570256">
+  <name>Progress</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.712162" lon="37.620614">
+  <name>Danilovskiy market</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>From Paveletskaya by trams:
+• A (stop near Paveletskaya till Shabolovskaya);
+• 3 (stop near Paveletskaya till Ak. Yangelya, exit after Danilov monastery);
+• 39 (stop near Paveletskaya till Universitet, passed by Leninskiy Prospekt);
+• 35 (stop after Paveletskaya, exit after Danilov monastery);
+• 38 (stop after Paveletskaya till Cheremushki).
+To Shabolovskaya: A, 47;
+To Leninskiy Prospekt: 39.</desc>
+</wpt>
+<wpt lat="55.755016" lon="37.63711">
+  <name>Camorra</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.769928" lon="37.632475">
+  <name>Beer Happens</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.762782" lon="37.606908">
+  <name>Too Much</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.770014" lon="37.678982">
+  <name>Brugge</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.740845" lon="37.629079">
+  <name>O’Donoghue’s</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.76151" lon="37.636235">
+  <name>Shirokuyu na Shirokuyu</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.741627" lon="37.659796">
+  <name>Method</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.730269" lon="37.626821">
+  <name>Jawsspot</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.723663" lon="37.607989">
+  <name>Yugos</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.770005" lon="37.646846">
+  <name>Brasserie Belge 0.33</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.78019" lon="37.592998">
+  <name>Depo</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.76208" lon="37.634851">
+  <name>Beer Gik</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.729733" lon="37.632019">
+  <name>Camorra</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.630647" lon="37.51751">
+  <name>Kitayskiye Novosti</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.754551" lon="37.638121">
+  <name>Pizza22cm</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.756413" lon="37.635256">
+  <name>Ptitsa-Sinitsa</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.764178" lon="37.616816">
+  <name>Manneken Pis</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Try unsweetened waffles with meat or pate from 430₽.</desc>
+</wpt>
+<wpt lat="55.77116" lon="37.60531">
+  <name>Bruxx</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.7574" lon="37.635533">
+  <name>Underdog</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.769756" lon="37.67863">
+  <name>Mo Yeti</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="55.741292" lon="37.628382">
+  <name>Brasserie Mardi Gras</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.75673" lon="37.626901">
+  <name>Trappist</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+</gpx>

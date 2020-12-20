@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="50.086614" lon="14.410481">
+  <name>Karlův Most</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="50.090864" lon="14.400555">
+  <name>Saint Vitus Cathedral</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="50.091904" lon="14.403799">
+  <name>Zlatá Ulička</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="50.083304" lon="14.427655">
+  <name>Hlavní Pošta</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Very beautiful interior.</desc>
+</wpt>
+<wpt lat="50.090111" lon="14.420724">
+  <name>Franz Kafka</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="50.088195" lon="14.410472">
+  <name>Kafka Museum</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="50.089256" lon="14.417004">
+  <name>Pinkas Synagogue</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The old jewish cemetery. Entrance only with excursion minimum 6 persons.</desc>
+</wpt>
+<wpt lat="50.090068" lon="14.418606">
+  <name>Old New Synagogue</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The oldest synagogue in Europe.</desc>
+</wpt>
+<wpt lat="50.080984" lon="14.451135">
+  <name>Žižkov Television Tower</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="50.086617" lon="14.427665">
+  <name>Koh-I-Noor Brand Store</name>
+  <extensions>
+    <color>#ffb300</color>
+  </extensions>
+</wpt>
+<wpt lat="50.085328" lon="14.418972">
+  <name>Absintherie</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="50.090744" lon="14.425758">
+  <name>Lokal</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="50.089978" lon="14.421191">
+  <name>V Kolkovně</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Pilsner Urquell signature restaurant.</desc>
+</wpt>
+<wpt lat="50.082836" lon="14.418742">
+  <name>U Medvídků</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Beer-restaurant which brews Russian Imperial Stout.</desc>
+</wpt>
+<wpt lat="50.086788" lon="14.388481">
+  <name>Strahov Monastic Brewery</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="50.09056" lon="14.42677">
+  <name>Prague Beer Museum</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Craft bar, always overcrowded.</desc>
+</wpt>
+<wpt lat="49.944936" lon="15.263639">
+  <name>Chrám Svaté Barbory</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="49.961777" lon="15.288091">
+  <name>Sedlec Ossuary</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+</gpx>

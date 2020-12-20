@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="52.516284" lon="13.377723">
+  <name>Brandenburg Gate</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.518518" lon="13.376113">
+  <name>Reichstag</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.520709" lon="13.409429">
+  <name>Alexanderplatz</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.506189" lon="13.353875">
+  <name>Bauhaus Archiv</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Bauhaus Archive moved to Berlin in 1971 and a new building for the institution was build in 1976–1979 under the project by Walter Gropius. Museum admission prices: Wed., Thu., Fri. € 7.00 / Sat., Sun., Mon. € 8.00.</desc>
+</wpt>
+<wpt lat="52.506979" lon="13.367588">
+  <name>Neue Nationalgalerie</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The latest wort of architect Mies van der Rohe built in 1969. It is a new way of thinking ad understanding a museum, away from closed building composed of many there rooms, to create a large open space by steel and glass, open and versatile.</desc>
+</wpt>
+<wpt lat="52.504181" lon="13.44187">
+  <name>East Side Gallery</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.51331" lon="13.376076">
+  <name>Gay Memorial</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.506299" lon="13.384015">
+  <name>Topography of Terror</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Free entrance to museum building.</desc>
+</wpt>
+<wpt lat="52.512435" lon="13.380912">
+  <name>Former Hitler's Bunker</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Nothing remains, only an information sign and parking.</desc>
+</wpt>
+<wpt lat="52.508702" lon="13.384214">
+  <name>Former Luftwaffe HQ</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.514518" lon="13.487323">
+  <name>Former Stasi HQ</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Nothing to do here.</desc>
+</wpt>
+<wpt lat="52.507546" lon="13.390361">
+  <name>Checkpoint Charlie</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.501652" lon="13.396412">
+  <name>Jüdisches Museum</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Building in deconstructivism style, radical, twisted zig-zag design by Daniel Libeskimd.</desc>
+</wpt>
+<wpt lat="52.501172" lon="13.443273">
+  <name>Ramones Museum</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="52.525678" lon="13.389121">
+  <name>Tacheles</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Former squat, now closed and abandoned.</desc>
+</wpt>
+<wpt lat="52.507703" lon="13.426158">
+  <name>Køpi</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Real squat, not a touristic place.</desc>
+</wpt>
+<wpt lat="52.48502" lon="13.437284">
+  <name>Ä</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Only bottled beer, dark underground atmosphere.</desc>
+</wpt>
+<wpt lat="52.497727" lon="13.424712">
+  <name>Bierkombinat Kreuzberg</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Smokier pub for locals.</desc>
+</wpt>
+<wpt lat="52.491909" lon="13.388746">
+  <name>Clash</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Punk bar, self service.</desc>
+</wpt>
+<wpt lat="52.49941" lon="13.433888">
+  <name>John Muir</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Cocktail bar with strong alcohol and craft bottled beer, try «Störtebeker Atlantik-Ale».</desc>
+</wpt>
+<wpt lat="52.513363" lon="13.395997">
+  <name>Meisterstück</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Restaurant with outstanding delicious sausages and craft beer (expensive) in 0.33 bottles from all over the word.</desc>
+</wpt>
+<wpt lat="52.543452" lon="13.359712">
+  <name>Eschenbräu</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Pub with biergarten. Brauerei produces an unfiltered pilsner, dunkle (dark beer), weissbier, a range of season beers and has own apfelsaft (apple juice) and whiskey. Opens from 17:00, try very salty tasty bretzels.</desc>
+</wpt>
+<wpt lat="52.547862" lon="13.349356">
+  <name>Vagabund Brauerei</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Hipster brewery, produces hoppy IPAs. Always have 4 own beers on tap.</desc>
+</wpt>
+<wpt lat="52.508947" lon="13.460625">
+  <name>Hops &amp; Barley</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Bar and the most well known microbrewery in town (dark beer has a taste of a dark one, not a kvas) and here you can find their own homemade cider.</desc>
+</wpt>
+<wpt lat="52.54299" lon="13.355895">
+  <name>Hopfen &amp; Malz</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Bottle shop. Buy «Backbone Splitter» west cost IPA.</desc>
+</wpt>
+<wpt lat="52.508266" lon="13.334923">
+  <name>Zoo</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="52.451767" lon="13.310171">
+  <name>Botaic Garden</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Palm house with cactuses is included in ticket € 6.</desc>
+</wpt>
+<wpt lat="52.476498" lon="13.418315">
+  <name>Tempelhof Field</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Former airdrome.</desc>
+</wpt>
+<wpt lat="52.487628" lon="13.381505">
+  <name>The Highest Hill</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="52.540362" lon="13.212753">
+  <name>Spandau Citadel</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Fortress; one of the best-preserved renaissance military structures of Europe, dated 1559–94. Entrance inside of the castle € 4,5.</desc>
+</wpt>
+<wpt lat="52.520789" lon="13.295572">
+  <name>Charlottenburg</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Chateau; free entrance to the garden.</desc>
+</wpt>
+<wpt lat="52.505892" lon="13.427011">
+  <name>Baumhaus an der Mauer</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Guerrilla garden started in the 80's right by the Wall now stands on the border between Kreuzberg and Mitte.</desc>
+</wpt>
+<wpt lat="52.508857" lon="13.518109">
+  <name>Wohngenossenshaft Soldaritaet Coop</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>22000 square meters mural on a residential house.</desc>
+</wpt>
+<wpt lat="52.512311" lon="13.337034">
+  <name>Gaslaternen-Freilichtmuseum</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Old gas lamps on an alley in Tiergarten.</desc>
+</wpt>
+<wpt lat="52.510886" lon="13.366746">
+  <name>Excavator</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="52.484269" lon="13.486706">
+  <name>Spreepark</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Abandoned park of attractions, only a small part of it is open.</desc>
+</wpt>
+<wpt lat="52.49628" lon="13.453597">
+  <name>Treptower Art Center</name>
+  <extensions>
+    <color>#ffb300</color>
+  </extensions>
+  <desc>Flea market. There is no reason to come early than 11:00 on a weekend.</desc>
+</wpt>
+<wpt lat="52.541406" lon="13.402209">
+  <name>Flohmarkt am Mauerpark</name>
+  <extensions>
+    <color>#ffb300</color>
+  </extensions>
+  <desc>Weekend flea market.</desc>
+</wpt>
+<wpt lat="52.546665" lon="13.40584">
+  <name>The Bird</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Delicious burgers.</desc>
+</wpt>
+<wpt lat="52.501121" lon="13.442458">
+  <name>Burgermeister</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Under the bridge; there is a very small burger shop which always has a line (mostly from foreign tourists).</desc>
+</wpt>
+<wpt lat="52.493809" lon="13.388057">
+  <name>Mustafa's Gemüse Kebap</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>The most popular kebabs in all Europe, the long queue stands all day.</desc>
+</wpt>
+<wpt lat="52.500925" lon="13.418854">
+  <name>Maroush</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Falafel for 5 € and oriental tea, superb authentic place.</desc>
+</wpt>
+<wpt lat="52.52842" lon="13.409939">
+  <name>Kaschk</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>#1 in Top 5 craft beer bars in Berlin by Brew Dogs, but not the best. Coffee and selection of scandinavian (expensive) and local craft beer. Open every day from 8:00 and from 10:00 on weekends.</desc>
+</wpt>
+<wpt lat="52.499533" lon="13.439245">
+  <name>Hopfenreich</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Craft beer bar with 20 positions on tap.</desc>
+</wpt>
+<wpt lat="52.502049" lon="13.431372">
+  <name>Heidenpeters</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Microbrewery in the corner on a farmer's fair.
+Tue: 14–20;
+Thu: 17–22;
+Fri: 14–20;
+Sat: 12–20.</desc>
+</wpt>
+<wpt lat="52.472868" lon="13.441313">
+  <name>IPA Bar</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Boring; 100 IPAs bottles and local craft beer on tap.</desc>
+</wpt>
+<wpt lat="52.486921" lon="13.373423">
+  <name>Am Lokdepot</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The radiant red residential block, it's clear what qualities make a good building.</desc>
+</wpt>
+<wpt lat="52.498319" lon="13.379501">
+  <name>Penrose triangle</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+</gpx>

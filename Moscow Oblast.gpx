@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="55.788625" lon="37.282744">
+  <name>Arkhangelskoye Palace</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="55.09955" lon="38.781118">
+  <name>Kolomna</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="55.102243" lon="38.77031">
+  <name>Pastila factory</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.105808" lon="38.76385">
+  <name>Kalachnaya</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="55.103747" lon="38.751935">
+  <name>Kolomna Kremlin</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="56.30199" lon="38.136867">
+  <name>Sergiyev Posad</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="56.310559" lon="38.130384">
+  <name>Trinity Lavra of St. Sergius</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="56.337578" lon="37.51041">
+  <name>Dmitrov</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="56.344516" lon="37.51861">
+  <name>Dmitrov Kremlin</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="55.49419" lon="36.032639">
+  <name>Mozhaisk</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="55.509269" lon="36.011482">
+  <name>Mozhaysk Kremlin</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Kremlin did not preserved, only a few fragments of the wall have remained.</desc>
+</wpt>
+<wpt lat="55.344286" lon="36.18873">
+  <name>Vereya former Kremlin</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Kremlin did not preserved, nothing to see.</desc>
+</wpt>
+<wpt lat="55.561927" lon="38.118011">
+  <name>Zhukovsky Airport</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <desc>Bus 441 from metro Kotelniki.</desc>
+</wpt>
+<wpt lat="54.934714" lon="37.451844">
+  <name>Serpukhov</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="54.915483" lon="37.405887">
+  <name>Serpukhov Kremlin</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Kremlin did not preserved, only two fragments of the wall have remained in a poor condition.</desc>
+</wpt>
+<wpt lat="54.901853" lon="37.419302">
+  <name>Vysotsky Monastery</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="55.084815" lon="38.805134">
+  <name>Golutvin</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="54.757269" lon="38.871599">
+  <name>Zaraysk Kremlin</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+</gpx>

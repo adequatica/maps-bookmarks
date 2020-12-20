@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="55.69286" lon="12.599263">
+  <name>The Little Mermaid</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="55.680624" lon="12.587552">
+  <name>Nyhavn</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>A 17th-century waterfront, canal and entertainment district was constructed by King Christian V from 1670 to 1673.</desc>
+</wpt>
+<wpt lat="55.674201" lon="12.597578">
+  <name>Christiania</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="55.673559" lon="12.599707">
+  <name>Pusher Street</name>
+  <extensions>
+    <color>#ffb300</color>
+  </extensions>
+</wpt>
+<wpt lat="55.686925" lon="12.574004">
+  <name>Botanical Garden</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.690218" lon="12.563908">
+  <name>Nørrebro Bryghus</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="55.935164" lon="12.301271">
+  <name>Frederiksborg Palace</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="56.038865" lon="12.621747">
+  <name>Kronborg Castle</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Renaissance castles immortalized as Elsinore in William Shakespeare's play Hamlet.</desc>
+</wpt>
+</gpx>

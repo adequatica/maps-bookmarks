@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="60.111068" lon="29.952755">
+  <name>Kurort</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="60.715488" lon="28.751257">
+  <name>Vyborg</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="60.709024" lon="28.747291">
+  <name>Vyborg Library</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Built from 1927 to 1935 by the Finnish architect Alvar Aalto and one of the major examples of 1920s functionalist architectural design.</desc>
+</wpt>
+<wpt lat="60.712932" lon="28.737359">
+  <name>Round tower</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="60.712318" lon="28.733863">
+  <name>The oldest house</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>XVI</desc>
+</wpt>
+<wpt lat="60.7157" lon="28.729081">
+  <name>Vyborg Castle</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="60.730383" lon="28.725613">
+  <name>Monrepos</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="61.029702" lon="30.122435">
+  <name>Korela Fortress</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.953768" lon="31.03839">
+  <name>Oreshyok Fortress</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.916998" lon="29.752585">
+  <name>Oranienbaum</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.884088" lon="29.91199">
+  <name>Peterhof</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Taxi from Avtovo.</desc>
+</wpt>
+<wpt lat="59.880653" lon="29.930932">
+  <name>Gothic chapel</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.563938" lon="30.108028">
+  <name>Gatchina</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.692862" lon="30.434515">
+  <name>Pavlovsk</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.715502" lon="30.402404">
+  <name>Tsarskoye Selo</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.709148" lon="29.031704">
+  <name>Koporye</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Из Ломоносова:
+681 туда: 9:50, 11:10, 15:00, 17:50, 20:05, 22:00;
+681 обратно: 6:30, 7:45, 12:30, 15:10, 17:30, 20:00;
+685 туда: 8:30, 13:00, 19:00;
+685 обратно: 6:00, 11:00, 16:00.</desc>
+</wpt>
+</gpx>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="50.017321" lon="4.6366771">
+  <name>Wanyi Park</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="50.007921" lon="4.6674367">
+  <name>Geographical Center of Europe</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The French Institut Géographique National has identified the geographic centre of the 15-member Union (1995–2004).</desc>
+</wpt>
+<wpt lat="49.988673" lon="4.3421088">
+  <name>Espace Chimay</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="50.844981" lon="4.3499865">
+  <name>Manneken Pis</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="50.848522" lon="4.3541144">
+  <name>Jeanneke Pis</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="50.848446" lon="4.3538167">
+  <name>Delirium Cafe</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="50.841666" lon="4.335815">
+  <name>Cantillon</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Small Belgian traditional family brewery founded in 1900, they exclusively brew lambic beers and gueuze.</desc>
+</wpt>
+<wpt lat="50.835676" lon="4.3362429">
+  <name>Brussels-Midi</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="50.844861" lon="4.355941">
+  <name>Bruxelles-Central</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="51.216346" lon="4.4211093">
+  <name>Centraal Station</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <desc>The original station building was constructed between 1895 and 1905 and now is widely regarded as the finest example of railway architecture in Belgium or the most beautiful railway station in the world.</desc>
+</wpt>
+<wpt lat="50.404761" lon="4.438667">
+  <name>Charleroi-Sud</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="50.056496" lon="4.4921221">
+  <name>Couvin</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="51.196981" lon="3.2172413">
+  <name>Brugge</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="51.202327" lon="3.2240649">
+  <name>De Halve Maan</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="51.20691" lon="3.2263305">
+  <name>Bourgonge des Frandres</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="51.208269" lon="3.2257869">
+  <name>De Garre</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+</gpx>

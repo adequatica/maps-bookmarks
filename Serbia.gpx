@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="45.177635" lon="19.885702">
+  <name>Bukovac</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="45.243486" lon="19.88186">
+  <name>Plejeskavica</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="45.252482" lon="19.872161">
+  <name>Da Mario</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="45.251127" lon="19.863272">
+  <name>Petrovaradin Fortress</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="45.264904" lon="19.830275">
+  <name>Železnička Stanica</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="45.104209" lon="19.713404">
+  <name>Beli Kamen</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="43.951437" lon="19.400435">
+  <name>Бањска стена</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="43.984294" lon="19.566644">
+  <name>Drina River House</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="43.911506" lon="19.741441">
+  <name>Spomenik borcima Radničkog bataljona</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="43.853561" lon="19.839309">
+  <name>Uzice</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="44.810219" lon="20.454401">
+  <name>Belgrade Bus Station</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="44.823696" lon="20.44986">
+  <name>Kalemegdan</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="44.817191" lon="20.463859">
+  <name>Skadarska</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="44.805146" lon="20.470753">
+  <name>Музеј Николе Тесле</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="44.816761" lon="20.466418">
+  <name>To Je To</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="44.817364" lon="20.46597">
+  <name>Једно место</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="44.817594" lon="20.461257">
+  <name>Драма ћевапи</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="44.81248" lon="20.460501">
+  <name>Нови лесковац</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="44.822154" lon="20.460129">
+  <name>Krafter</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="44.816894" lon="20.463558">
+  <name>Задруга</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+</gpx>

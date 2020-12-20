@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="42.820313" lon="-1.6459345">
+  <name>1. Corals</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Bulls are held and released at the sound of the rocket at 8:00; the distance ~ 875 m.</desc>
+</wpt>
+<wpt lat="42.819358" lon="-1.6458692">
+  <name>2. Hornacina de San Fermín</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Santo Domingo street (280 m), in front of the museum, there is an area without a fence to see the start of the run – the fastest and dangerous section.</desc>
+</wpt>
+<wpt lat="42.818229" lon="-1.6439903">
+  <name>3: Town Hall Square</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The safest place from the City hall to the corner of Mercades street.</desc>
+</wpt>
+<wpt lat="42.818472" lon="-1.6430016">
+  <name>4: La Curva</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The route curves at 90° angle into Estafeta street.</desc>
+</wpt>
+<wpt lat="42.81724" lon="-1.6420112">
+  <name>5: Estafeta Kalea</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>300 m straight street.</desc>
+</wpt>
+<wpt lat="42.815984" lon="-1.6411102">
+  <name>6: Telefonica</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Less than 100 m with a double section of protection barriers – opens wide then quickly narrows into a tunnel «Callejon».</desc>
+</wpt>
+<wpt lat="42.816039" lon="-1.6397949">
+  <name>7: Bullring of Pamplona</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.815842" lon="-1.6405155">
+  <name>Ernest Hemingway Statue</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.816577" lon="-1.6468482">
+  <name>Left Luggage Office</name>
+  <extensions>
+    <color>#2196f3</color>
+  </extensions>
+  <desc>Price per item of baggage for 24 hours is 4,6€.</desc>
+</wpt>
+<wpt lat="42.811577" lon="-1.6453958">
+  <name>Pamplona Bus Station</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+</gpx>

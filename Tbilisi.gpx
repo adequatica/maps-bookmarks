@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="41.692296" lon="44.802202">
+  <name>Veliaminov</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="41.687905" lon="44.808642">
+  <name>Narikala</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="41.701014" lon="44.803082">
+  <name>Flea Market</name>
+  <extensions>
+    <color>#ffb300</color>
+  </extensions>
+</wpt>
+<wpt lat="41.685061" lon="44.803983">
+  <name>National Botanical Garden</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="41.726888" lon="44.719051">
+  <name>Nutsubidze Plateau</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="41.735735" lon="44.77107">
+  <name>Bank of Georgia Headquarters</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="41.688819" lon="44.805689">
+  <name>Ateshgah - Fire Temple</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="41.691993" lon="44.81078">
+  <name>Rike</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+</gpx>

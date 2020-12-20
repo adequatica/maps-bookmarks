@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="47.373064" lon="8.5413887">
+  <name>Lindenhof</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="47.371291" lon="8.5413887">
+  <name>Römische Bäder</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="47.371918" lon="8.5449869">
+  <name>14, Spiegelgasse</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>During the First World War, Lenin with his wife Nadeshda Krupskaja lived here for about a year.</desc>
+</wpt>
+<wpt lat="47.370924" lon="8.5385429">
+  <name>Museum der Zeitmessung Beyer</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="47.3711" lon="8.5337713">
+  <name>Alter Botanischer Garten</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Free entrance.</desc>
+</wpt>
+<wpt lat="47.367139" lon="8.540812">
+  <name>Stadthausanlage</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Flea market during the weekend.</desc>
+</wpt>
+</gpx>

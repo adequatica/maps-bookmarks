@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="42.422012" lon="18.711086">
+  <name>Autobuska Stanica Tivat</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.419668" lon="18.770092">
+  <name>Autobuska Stanica Kotor</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.422128" lon="18.774852">
+  <name>Fort of St John</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.422483" lon="18.775899">
+  <name>Sveti Đorđe</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.42736" lon="18.769875">
+  <name>Fortuna snack bar</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Serbian cousine, prices twice cheaper than dinner in the old city.</desc>
+</wpt>
+<wpt lat="42.435362" lon="18.76623">
+  <name>Sandrela fast food</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="42.486706" lon="18.688741">
+  <name>Our Lady of the Rocks</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.499127" lon="18.65473">
+  <name>Prehistoric drawings</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.456445" lon="18.533936">
+  <name>Fort Španjola</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.452905" lon="18.533808">
+  <name>Autobuska Stanica Herceg-Novi</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="43.153199" lon="19.126501">
+  <name>Autobuska Stanica Žabljak</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="43.149405" lon="19.294268">
+  <name>Djurdjevica Tara Bridge</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>It was built between 1937–1940 and at the time of its completion, it was the biggest vehicular concrete arch bridge in Europe. The 365-metre-long bridge has five arches; the largest span is 116 metres; the roadway stands 172 metres above the Tara River.</desc>
+</wpt>
+<wpt lat="43.146684" lon="19.092883">
+  <name>Crno Jezero</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="42.432351" lon="19.268208">
+  <name>Autobuska Stanica Podgorica</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.290081" lon="18.838939">
+  <name>Autobuska Stanica Budva</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.277985" lon="18.837665">
+  <name>Budva Stari Grad</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.281795" lon="18.835852">
+  <name>Budva -&gt; Sveti-Stefan</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.254015" lon="18.89908">
+  <name>Sveti-Stefan -&gt; Budva</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.255907" lon="18.891154">
+  <name>Sveti Stefan</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.263984" lon="18.900104">
+  <name>Jegorov put</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="42.088551" lon="19.103075">
+  <name>Autobuska Stanica Bar</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.093423" lon="19.135414">
+  <name>Stari Bar</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="41.931745" lon="19.2218">
+  <name>Autobuska Stanica Ulcinj</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="41.922863" lon="19.200474">
+  <name>Ulcinj Castle</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.14135" lon="19.047674">
+  <name>Autobuska Stanica Sutomore</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.137072" lon="19.043787">
+  <name>Tvrdjava Tabija (Golo Brdo)</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.150691" lon="19.031302">
+  <name>Haj-Nehaj</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="42.20746" lon="18.945474">
+  <name>Autobuska Stanica Petrovac</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="42.200433" lon="18.950941">
+  <name>Plaza Lučice</name>
+  <extensions>
+    <color>#ffb300</color>
+  </extensions>
+</wpt>
+<wpt lat="42.421814" lon="18.783227">
+  <name>Viewpoint</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+</gpx>

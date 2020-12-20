@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="54.716504" lon="20.499114">
+  <name>Mesto Sily</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="54.706454" lon="20.51216">
+  <name>Königsberg Cathedral</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The 14th-century exaple of northern Brick Gothic architecture.</desc>
+</wpt>
+<wpt lat="54.705127" lon="20.507325">
+  <name>Königsberg Stock Exchange</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="54.697288" lon="20.494676">
+  <name>Brandenburg Gate</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="54.722633" lon="20.514071">
+  <name>Der Wrangel</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="54.737031" lon="20.517459">
+  <name>Botanicalgarden</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="54.7206" lon="20.509389">
+  <name>Central market</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Buy smoked tuna or marlin.</desc>
+</wpt>
+<wpt lat="54.693437" lon="20.502222">
+  <name>Bus terminal</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <desc>Baltiysk: 107 (1:30);
+Zelenogradsk: 140 or 141 (1:20);
+Airpot: 244 (50 min).</desc>
+</wpt>
+<wpt lat="54.638548" lon="19.891599">
+  <name>Ferry</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <desc>Daily at 10, 12, 14, 16, 18, 20.</desc>
+</wpt>
+<wpt lat="54.642829" lon="19.887256">
+  <name>Pillau Citadel</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="54.614433" lon="19.880986">
+  <name>Neutief</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Abandoned air base.</desc>
+</wpt>
+<wpt lat="54.963195" lon="20.479463">
+  <name>Friends</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Burger with pike and seaweed – 250₽.</desc>
+</wpt>
+</gpx>

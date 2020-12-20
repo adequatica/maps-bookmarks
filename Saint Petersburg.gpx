@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="59.958564" lon="30.405166">
+  <name>Yandex</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.948538" lon="30.316557">
+  <name>Peter and Paul Fortress</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.941163" lon="30.321336">
+  <name>Pushkin Apartment Museum</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Entrance only with excursion.</desc>
+</wpt>
+<wpt lat="59.92746" lon="30.353681">
+  <name>Museum of Arctic and Antarctic</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.930313" lon="30.335565">
+  <name>Zodchego Rossi Street</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Its width equals the height of the buildings on both sides – 22 meters, and its length is ten times greater – 220 meters.</desc>
+</wpt>
+<wpt lat="59.94316" lon="30.28702">
+  <name>Repina Street</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The narrowest street in Petersburg.</desc>
+</wpt>
+<wpt lat="59.955416" lon="30.337809">
+  <name>Aurora Cruiser</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.927821" lon="30.268957">
+  <name>Icebreaker Krasin</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.9417" lon="30.338017">
+  <name>Tschischik-Pyschik</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.934402" lon="30.337652">
+  <name>Elissey cat</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.926228" lon="30.34247">
+  <name>Five corners</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.931543" lon="30.307727">
+  <name>Water column</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.935864" lon="30.325891">
+  <name>Singer House</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.933206" lon="30.314709">
+  <name>Au Pont Rouge</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.936273" lon="30.341772">
+  <name>Rodina Cinema</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.929565" lon="30.286594">
+  <name>New Holland</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.952006" lon="30.301188">
+  <name>Kamchatka</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.970043" lon="30.325274">
+  <name>Botanical garden</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="60.019695" lon="30.3116">
+  <name>Flea market</name>
+  <extensions>
+    <color>#ffb300</color>
+  </extensions>
+</wpt>
+<wpt lat="59.937577" lon="30.322613">
+  <name>Pyshechnaya</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>15₽.</desc>
+</wpt>
+<wpt lat="59.93329" lon="30.333645">
+  <name>Metropole</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>40 min by foot to Moskovsky railway station.</desc>
+</wpt>
+<wpt lat="59.926608" lon="30.342684">
+  <name>Bekitzer</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.926916" lon="30.342518">
+  <name>At Larisa</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.938027" lon="30.358914">
+  <name>Camorra Pizza&amp;Birra</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.965211" lon="30.312413">
+  <name>Forno Bravo</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.935759" lon="30.358354">
+  <name>Pizza 22 cm</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.937295" lon="30.336714">
+  <name>Jack and Chan</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.930652" lon="30.319006">
+  <name>I’m Thankful for Today</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>All hipsters have a breakfast here from 10:00 and from 11:00 on Sunday.</desc>
+</wpt>
+<wpt lat="59.93365" lon="30.314092">
+  <name>Clean plates society</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Nourishing breakfast from 11 till 12 and till 15:00 on weekends.</desc>
+</wpt>
+<wpt lat="59.935806" lon="30.355696">
+  <name>Byuro</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.933023" lon="30.327653">
+  <name>Fidel</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.921577" lon="30.31915">
+  <name>Dickens</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.941449" lon="30.345439">
+  <name>Sidreria</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.938904" lon="30.357965">
+  <name>Cider and Nancy</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.943349" lon="30.360966">
+  <name>Pivnaya Karta</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.941555" lon="30.363399">
+  <name>Trappist</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.938922" lon="30.356999">
+  <name>RedRum</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.950824" lon="30.3028">
+  <name>Breaking Bad</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.930636" lon="30.371167">
+  <name>Bakunin</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.930045" lon="30.319899">
+  <name>Rockets &amp; Bishops</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.921943" lon="30.355642">
+  <name>Viderzhka</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.936804" lon="30.342793">
+  <name>Beergeek</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.927611" lon="30.308427">
+  <name>Vse Tvoyi Drouzia</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.938924" lon="30.356865">
+  <name>Khroniki</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.955719" lon="30.413366">
+  <name>Beer &amp; Cakes</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.911197" lon="30.267416">
+  <name>AF Brew Taproom</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.940953" lon="30.344977">
+  <name>Bukowski</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.92681" lon="30.343642">
+  <name>Guzva</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.934412" lon="30.347686">
+  <name>Podpisnie Izdaniya</name>
+  <extensions>
+    <color>#ffb300</color>
+  </extensions>
+</wpt>
+<wpt lat="59.940731" lon="30.340876">
+  <name>Tawny Bar</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.929037" lon="30.343701">
+  <name>Fartuk</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.936912" lon="30.355352">
+  <name>Jawsspot</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="59.946004" lon="30.290622">
+  <name>Buterbrodskybar</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.939501" lon="30.285781">
+  <name>Vasileostrovsky Market</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.924345" lon="30.241745">
+  <name>Sevcable Port</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="59.963406" lon="30.314816">
+  <name>Verlé Garden</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+<wpt lat="59.936084" lon="30.353129">
+  <name>Dead Poets</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="59.936018" lon="30.347906">
+  <name>Turbo Shawarma</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+</wpt>
+</gpx>

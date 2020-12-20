@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="43.538891" lon="-5.6671644">
+  <name>Estación ALSA</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="43.537715" lon="-5.67562">
+  <name>Estación de Gijón/Xixón</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="43.544074" lon="-5.6650629">
+  <name>Gijón</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="43.54908" lon="-5.6630405">
+  <name>Elogio del Horizonte</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="43.545759" lon="-5.6628165">
+  <name>La Casona de Jovellanos</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="43.540069" lon="-5.6568768">
+  <name>IPA</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+</gpx>

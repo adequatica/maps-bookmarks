@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="48.158489" lon="17.106157">
+  <name>Hlavná Stanica</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="48.157481" lon="17.09951">
+  <name>Lurdska Cave</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="48.153899" lon="17.099587">
+  <name>Slavín</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.154093" lon="17.113864">
+  <name>Slovak Radio</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The building is shaped like an inverted pyramid.</desc>
+</wpt>
+<wpt lat="48.152125" lon="17.111708">
+  <name>Námestie Slobody</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>Freedom square; the square's centerpiece is the ugly Fountain of Union. It is the biggest and fountain in the whole Slovak Republic, but now is out of order.</desc>
+</wpt>
+<wpt lat="48.140278" lon="17.108686">
+  <name>Slovenská Národná Galéria</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <desc>The modern extension of the Slovak National Gallery has a brutalist architecture style.</desc>
+</wpt>
+<wpt lat="48.143503" lon="17.105111">
+  <name>The Embassy of the Sovereign Order of Malta</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.142455" lon="17.100384">
+  <name>Bratislava Castle</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="48.145963" lon="17.117704">
+  <name>Bratislavský Meštiansky Pivovar</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Huge and popular beer restaurant.</desc>
+</wpt>
+<wpt lat="48.141762" lon="17.104078">
+  <name>Le Šenk</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <desc>Bar with local craft beer.</desc>
+</wpt>
+</gpx>

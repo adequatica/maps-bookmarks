@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="53.349801" lon="-6.2602546">
+  <name>Spire of Dublin</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="53.341851" lon="-6.286736">
+  <name>Guinness Storehouse</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="53.346911" lon="-6.2414791">
+  <name>Samuel Beckett Bridge</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="53.339532" lon="-6.271485">
+  <name>St. Patrick’s Cathedral</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="53.343" lon="-6.2675264">
+  <name>Dublin Castle</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="53.343733" lon="-6.2544476">
+  <name>Trinity College</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="53.340801" lon="-6.2505543">
+  <name>Oscar Wilde Memorial</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="53.338081" lon="-6.259061">
+  <name>Saint Stephen’s Green</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="53.341848" lon="-6.2495566">
+  <name>The Gingerman</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>The first pun in Dublin where I entered.</desc>
+</wpt>
+<wpt lat="53.338134" lon="-6.2542048">
+  <name>O’Donoghue’s</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="53.344977" lon="-6.2763518">
+  <name>Brazen Head</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Officially the oldest pub in Ireland, The Brazen Head dates all the way back to 1198, and it has left a lasting impression on Irish popular culture. James Joyce made reference to it in Ulysses.</desc>
+</wpt>
+<wpt lat="53.345904" lon="-6.2596283">
+  <name>The Palace Bar</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>One of Dublin’s finest, original Victoria pubs, The Palace Bar was established in 1823 and became the favourite watering hole of the Irish media throughout the 1940s and 50s.</desc>
+</wpt>
+<wpt lat="53.345554" lon="-6.2620288">
+  <name>The Auld Dubliner</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+</wpt>
+<wpt lat="53.345466" lon="-6.2642014">
+  <name>The Temple Bar</name>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <desc>Established in 1840, this pub is among the most frequently visited in the country.</desc>
+</wpt>
+<wpt lat="53.345129" lon="-6.2674268">
+  <name>Porterhouse</name>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+</wpt>
+<wpt lat="53.351697" lon="-6.2489316">
+  <name>Dublin Connolly</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="53.389112" lon="-6.0743734">
+  <name>Howth</name>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+</wpt>
+<wpt lat="53.386221" lon="-6.079416">
+  <name>Howth Castle</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="53.343929" lon="-6.2742704">
+  <name>Medieval City Wall</name>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+</wpt>
+<wpt lat="53.343011" lon="-6.2700889">
+  <name>Leo Burdock’s</name>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <desc>Very very big portions of fish and chips for 10,25€ Take away only.</desc>
+</wpt>
+</gpx>
