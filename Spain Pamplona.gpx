@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="42.820313" lon="-1.6459345">
   <name>1. Corals</name>
+  <time>2015-07-23T15:59:44Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="42.819358" lon="-1.6458692">
   <name>2. Hornacina de San Fermín</name>
+  <time>2015-07-23T16:00:58Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -16,6 +18,7 @@
 </wpt>
 <wpt lat="42.818229" lon="-1.6439903">
   <name>3: Town Hall Square</name>
+  <time>2017-03-20T17:11:35Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -23,6 +26,7 @@
 </wpt>
 <wpt lat="42.818472" lon="-1.6430016">
   <name>4: La Curva</name>
+  <time>2017-03-20T08:08:51Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -30,6 +34,7 @@
 </wpt>
 <wpt lat="42.81724" lon="-1.6420112">
   <name>5: Estafeta Kalea</name>
+  <time>2015-07-23T16:03:17Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -37,6 +42,7 @@
 </wpt>
 <wpt lat="42.815984" lon="-1.6411102">
   <name>6: Telefonica</name>
+  <time>2017-03-20T17:13:12Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -44,18 +50,21 @@
 </wpt>
 <wpt lat="42.816039" lon="-1.6397949">
   <name>7: Bullring of Pamplona</name>
+  <time>2017-03-20T17:14:01Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="42.815842" lon="-1.6405155">
   <name>Ernest Hemingway Statue</name>
+  <time>2017-03-20T08:05:27Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="42.816577" lon="-1.6468482">
   <name>Left Luggage Office</name>
+  <time>2015-07-23T16:05:18Z</time>
   <extensions>
     <color>#2196f3</color>
   </extensions>
@@ -63,6 +72,7 @@
 </wpt>
 <wpt lat="42.811577" lon="-1.6453958">
   <name>Pamplona Bus Station</name>
+  <time>2017-03-20T08:06:46Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

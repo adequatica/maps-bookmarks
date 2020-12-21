@@ -2,24 +2,28 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="48.158489" lon="17.106157">
   <name>Hlavná Stanica</name>
+  <time>2017-05-08T15:24:50Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="48.157481" lon="17.09951">
   <name>Lurdska Cave</name>
+  <time>2015-01-12T06:19:37Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="48.153899" lon="17.099587">
   <name>Slavín</name>
+  <time>2014-12-30T19:08:20Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.154093" lon="17.113864">
   <name>Slovak Radio</name>
+  <time>2014-12-30T19:21:36Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -27,6 +31,7 @@
 </wpt>
 <wpt lat="48.152125" lon="17.111708">
   <name>Námestie Slobody</name>
+  <time>2015-01-12T06:11:53Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -34,6 +39,7 @@
 </wpt>
 <wpt lat="48.140278" lon="17.108686">
   <name>Slovenská Národná Galéria</name>
+  <time>2017-03-14T05:45:28Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -41,18 +47,21 @@
 </wpt>
 <wpt lat="48.143503" lon="17.105111">
   <name>The Embassy of the Sovereign Order of Malta</name>
+  <time>2017-03-14T05:44:41Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.142455" lon="17.100384">
   <name>Bratislava Castle</name>
+  <time>2014-12-30T18:31:42Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.145963" lon="17.117704">
   <name>Bratislavský Meštiansky Pivovar</name>
+  <time>2015-01-18T13:19:15Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
@@ -60,6 +69,7 @@
 </wpt>
 <wpt lat="48.141762" lon="17.104078">
   <name>Le Šenk</name>
+  <time>2014-12-30T20:41:17Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>

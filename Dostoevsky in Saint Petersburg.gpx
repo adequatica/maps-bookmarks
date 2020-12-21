@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="59.933185" lon="30.343365">
   <name>70. Anichkov Bridge</name>
+  <time>2018-09-25T07:07:51Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="59.906952" lon="30.307373">
   <name>69. Varshavskiy railway station</name>
+  <time>2019-04-07T09:42:51Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -16,6 +18,7 @@
 </wpt>
 <wpt lat="59.919634" lon="30.329462">
   <name>68. Vitebsky railway station</name>
+  <time>2016-10-23T15:13:42Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -23,6 +26,7 @@
 </wpt>
 <wpt lat="59.944578" lon="30.335094">
   <name>67. Summer Garden</name>
+  <time>2016-09-25T15:52:20Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -30,6 +34,7 @@
 </wpt>
 <wpt lat="59.903038" lon="30.263509">
   <name>66. Yekateringof Park</name>
+  <time>2016-09-25T15:51:41Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -37,6 +42,7 @@
 </wpt>
 <wpt lat="59.929967" lon="30.320506">
   <name>65. Rogozhin House</name>
+  <time>2016-09-25T15:47:48Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -44,6 +50,7 @@
 </wpt>
 <wpt lat="59.94343" lon="30.350931">
   <name>64. General Epanchin House</name>
+  <time>2017-05-29T08:17:18Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -51,6 +58,7 @@
 </wpt>
 <wpt lat="59.925695" lon="30.342212">
   <name>63. Five Corners</name>
+  <time>2017-02-26T06:14:16Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -58,6 +66,7 @@
 </wpt>
 <wpt lat="59.928865" lon="30.308397">
   <name>62. Bakaleev House</name>
+  <time>2017-10-01T13:39:46Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -65,6 +74,7 @@
 </wpt>
 <wpt lat="59.926467" lon="30.308208">
   <name>61. Voznesenskiy Bridge</name>
+  <time>2016-10-14T15:53:29Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -72,6 +82,7 @@
 </wpt>
 <wpt lat="59.922983" lon="30.313115">
   <name>60. Yusupov Garden</name>
+  <time>2016-10-15T08:21:43Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -79,6 +90,7 @@
 </wpt>
 <wpt lat="59.925239" lon="30.315901">
   <name>59. Brothel</name>
+  <time>2017-10-01T19:33:42Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -86,6 +98,7 @@
 </wpt>
 <wpt lat="59.921846" lon="30.305794">
   <name>58. Police Department**</name>
+  <time>2017-02-26T06:08:26Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -93,6 +106,7 @@
 </wpt>
 <wpt lat="59.927015" lon="30.300737">
   <name>57. Police Department*</name>
+  <time>2016-10-16T07:33:58Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -100,6 +114,7 @@
 </wpt>
 <wpt lat="59.930826" lon="30.307901">
   <name>56. Raskolnikov’s Stash</name>
+  <time>2016-10-20T17:15:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -107,6 +122,7 @@
 </wpt>
 <wpt lat="59.927711" lon="30.316414">
   <name>55. Pereulok Grivtsova</name>
+  <time>2017-10-01T13:37:27Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -114,6 +130,7 @@
 </wpt>
 <wpt lat="59.924817" lon="30.303112">
   <name>54. Old Moneylender Lady House</name>
+  <time>2016-09-25T15:19:55Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -121,6 +138,7 @@
 </wpt>
 <wpt lat="59.926354" lon="30.310702">
   <name>53. Sonya Marmeladova House</name>
+  <time>2016-09-25T15:12:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -128,6 +146,7 @@
 </wpt>
 <wpt lat="59.927691" lon="30.310662">
   <name>52. Raskolnikov House</name>
+  <time>2016-09-25T15:08:40Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -135,6 +154,7 @@
 </wpt>
 <wpt lat="59.924683" lon="30.318343">
   <name>51. Vyazemskaya Lavla</name>
+  <time>2019-04-07T18:53:23Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -142,6 +162,7 @@
 </wpt>
 <wpt lat="59.922214" lon="30.307361">
   <name>50. Cristal Palace</name>
+  <time>2017-10-01T19:34:19Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -149,6 +170,7 @@
 </wpt>
 <wpt lat="59.926964" lon="30.318633">
   <name>49. Sennaya Square</name>
+  <time>2016-10-23T15:12:42Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -156,6 +178,7 @@
 </wpt>
 <wpt lat="59.933194" lon="30.298095">
   <name>48. Konnogvardeyskiy Boulevard</name>
+  <time>2016-10-22T15:21:37Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -163,6 +186,7 @@
 </wpt>
 <wpt lat="59.925821" lon="30.313625">
   <name>47. Kokushkin Bridge</name>
+  <time>2016-10-08T08:06:03Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -170,6 +194,7 @@
 </wpt>
 <wpt lat="59.933112" lon="30.331046">
   <name>46. Gostiny Dvor</name>
+  <time>2019-04-07T09:41:49Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -177,6 +202,7 @@
 </wpt>
 <wpt lat="59.935216" lon="30.316771">
   <name>45. Borel Restaurant</name>
+  <time>2019-04-07T09:35:41Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -184,6 +210,7 @@
 </wpt>
 <wpt lat="59.924568" lon="30.29574">
   <name>44. Torgovyy Brindge</name>
+  <time>2019-04-07T09:36:16Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -191,6 +218,7 @@
 </wpt>
 <wpt lat="59.923607" lon="30.3204">
   <name>43. Natasha Ikhmeneva House</name>
+  <time>2019-04-07T09:40:16Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -198,6 +226,7 @@
 </wpt>
 <wpt lat="59.934418" lon="30.278528">
   <name>42. 13th Line of Vasilyevsky Ostrov</name>
+  <time>2019-04-07T09:39:27Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -205,6 +234,7 @@
 </wpt>
 <wpt lat="59.937804" lon="30.284801">
   <name>41. 6th Line of Vasilyevsky Ostrov</name>
+  <time>2019-04-12T21:31:13Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -212,6 +242,7 @@
 </wpt>
 <wpt lat="59.929267" lon="30.305262">
   <name>40. Smith House</name>
+  <time>2019-04-07T19:09:32Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -219,6 +250,7 @@
 </wpt>
 <wpt lat="59.936642" lon="30.355072">
   <name>39. Shestilavochnaya ulitsa</name>
+  <time>2018-09-25T05:48:49Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -226,6 +258,7 @@
 </wpt>
 <wpt lat="59.927478" lon="30.347719">
   <name>38. Dostoevsky’s monument</name>
+  <time>2016-10-17T17:42:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -233,6 +266,7 @@
 </wpt>
 <wpt lat="59.922955" lon="30.386581">
   <name>37. Dostoevsky’s grave</name>
+  <time>2016-10-15T21:28:18Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -240,6 +274,7 @@
 </wpt>
 <wpt lat="59.927382" lon="30.350661">
   <name>36. Dostoevsky Museum</name>
+  <time>2017-02-26T06:16:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -247,6 +282,7 @@
 </wpt>
 <wpt lat="59.93598" lon="30.366603">
   <name>35. Strubinsky House</name>
+  <time>2016-09-25T14:31:22Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -254,6 +290,7 @@
 </wpt>
 <wpt lat="59.931413" lon="30.362554">
   <name>34. Znamenskaya Hotel</name>
+  <time>2019-03-03T08:01:21Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -261,6 +298,7 @@
 </wpt>
 <wpt lat="59.933073" lon="30.349923">
   <name>33. Dagmar Hotel</name>
+  <time>2019-03-03T08:00:17Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -268,6 +306,7 @@
 </wpt>
 <wpt lat="59.927634" lon="30.319254">
   <name>32. Former guardhouse</name>
+  <time>2016-09-25T14:24:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -275,6 +314,7 @@
 </wpt>
 <wpt lat="59.931013" lon="30.357573">
   <name>31. «The Citizen» magazine</name>
+  <time>2016-09-29T07:37:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -282,6 +322,7 @@
 </wpt>
 <wpt lat="59.934254" lon="30.362694">
   <name>30. Slivchansky House</name>
+  <time>2016-09-25T14:05:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -289,6 +330,7 @@
 </wpt>
 <wpt lat="59.915092" lon="30.311606">
   <name>29. Mebes House (the old house was completely rebuilt)</name>
+  <time>2016-09-25T14:02:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -296,6 +338,7 @@
 </wpt>
 <wpt lat="59.929519" lon="30.307228">
   <name>28. Maximilianovskaya Hospital</name>
+  <time>2019-03-03T07:55:51Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -303,6 +346,7 @@
 </wpt>
 <wpt lat="59.91591" lon="30.322258">
   <name>27. Arkhangelsk House (the old house did not preserved)</name>
+  <time>2019-03-03T07:53:36Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -310,6 +354,7 @@
 </wpt>
 <wpt lat="59.924728" lon="30.310997">
   <name>26. Mickiewicz House (the old house did not preserved)</name>
+  <time>2016-09-25T13:51:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -317,6 +362,7 @@
 </wpt>
 <wpt lat="59.937018" lon="30.321887">
   <name>25. Demut Hotel** (the old house was rebuilt)</name>
+  <time>2019-03-03T07:52:19Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -324,6 +370,7 @@
 </wpt>
 <wpt lat="59.937643" lon="30.322683">
   <name>24. Volkov Hotel* (the old house did not preserved)</name>
+  <time>2019-03-03T07:51:49Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -331,6 +378,7 @@
 </wpt>
 <wpt lat="59.91647" lon="30.305851">
   <name>23. Trinity Cathedral</name>
+  <time>2016-09-25T13:42:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -338,6 +386,7 @@
 </wpt>
 <wpt lat="59.925755" lon="30.307235">
   <name>22. Schirmer House</name>
+  <time>2016-09-25T14:44:41Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -345,6 +394,7 @@
 </wpt>
 <wpt lat="59.927069" lon="30.312774">
   <name>21. Alonkin House</name>
+  <time>2016-09-25T13:21:03Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -352,6 +402,7 @@
 </wpt>
 <wpt lat="59.926795" lon="30.311756">
   <name>20. Evreinov House</name>
+  <time>2016-09-25T13:17:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -359,6 +410,7 @@
 </wpt>
 <wpt lat="59.9266" lon="30.302025">
   <name>19. Tomas House</name>
+  <time>2019-03-03T07:47:52Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -366,6 +418,7 @@
 </wpt>
 <wpt lat="59.927429" lon="30.314607">
   <name>18. Astafieva House</name>
+  <time>2016-09-25T13:12:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -373,6 +426,7 @@
 </wpt>
 <wpt lat="59.914938" lon="30.31491">
   <name>17. Politin House (the old house did not preserved)</name>
+  <time>2016-09-25T13:04:26Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -380,6 +434,7 @@
 </wpt>
 <wpt lat="59.948744" lon="30.310822">
   <name>16. Peter and Paul Fortress</name>
+  <time>2016-09-25T11:34:01Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -387,6 +442,7 @@
 </wpt>
 <wpt lat="59.934361" lon="30.308628">
   <name>15. Shil House</name>
+  <time>2016-09-25T11:33:43Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -394,6 +450,7 @@
 </wpt>
 <wpt lat="59.925807" lon="30.304925">
   <name>14. Bolshaya Podyacheskaya ulitsa</name>
+  <time>2019-03-03T07:25:22Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -401,6 +458,7 @@
 </wpt>
 <wpt lat="59.93641" lon="30.319062">
   <name>13. Wolf and Beranger</name>
+  <time>2016-10-08T05:32:43Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -408,6 +466,7 @@
 </wpt>
 <wpt lat="59.940728" lon="30.290257">
   <name>12. Soloshich House</name>
+  <time>2016-09-25T11:29:40Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -415,6 +474,7 @@
 </wpt>
 <wpt lat="59.93362" lon="30.323443">
   <name>11. Kochendorf House</name>
+  <time>2016-09-25T11:28:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -422,6 +482,7 @@
 </wpt>
 <wpt lat="59.928377" lon="30.344142">
   <name>10. Pavlov House</name>
+  <time>2019-03-03T07:19:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -429,6 +490,7 @@
 </wpt>
 <wpt lat="59.927164" lon="30.350692">
   <name>09. Kuchin House</name>
+  <time>2016-09-25T14:43:23Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -436,6 +498,7 @@
 </wpt>
 <wpt lat="59.929326" lon="30.351257">
   <name>08. Tulubev House</name>
+  <time>2017-10-03T19:26:02Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -443,6 +506,7 @@
 </wpt>
 <wpt lat="59.933269" lon="30.347131">
   <name>07. Lerche Restaurant</name>
+  <time>2016-09-25T12:33:19Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -450,6 +514,7 @@
 </wpt>
 <wpt lat="59.927237" lon="30.320954">
   <name>06. Spas na Sennoy</name>
+  <time>2016-09-25T12:42:05Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -457,6 +522,7 @@
 </wpt>
 <wpt lat="59.930449" lon="30.347024">
   <name>05. Pryanichnikov House</name>
+  <time>2016-09-25T11:24:47Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -464,6 +530,7 @@
 </wpt>
 <wpt lat="59.935635" lon="30.342183">
   <name>04. Setkov House (the old house preserved in a rebuilt form)</name>
+  <time>2016-09-25T11:21:29Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -471,6 +538,7 @@
 </wpt>
 <wpt lat="59.940526" lon="30.3372">
   <name>03. Saint Michael’s Castle</name>
+  <time>2016-09-25T11:18:59Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -478,6 +546,7 @@
 </wpt>
 <wpt lat="59.927257" lon="30.357518">
   <name>02. Kostomarov boarding house (the old house did not preserved)</name>
+  <time>2016-09-25T11:18:59Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -485,6 +554,7 @@
 </wpt>
 <wpt lat="59.919858" lon="30.318162">
   <name>01. Serapinskaya Hotel</name>
+  <time>2016-10-14T15:57:18Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

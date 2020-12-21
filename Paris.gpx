@@ -2,78 +2,91 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="48.858261" lon="2.2945024">
   <name>Eiffel Tower</name>
+  <time>2017-03-16T05:32:12Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.873784" lon="2.2950255">
   <name>Arc de Triomphe de l'Étoile</name>
+  <time>2017-03-16T09:16:58Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.852938" lon="2.3498713">
   <name>Cathédrale Notre-Dame de Paris</name>
+  <time>2017-07-16T19:07:51Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.860512" lon="2.3524274">
   <name>Centre Pompidou</name>
+  <time>2015-05-11T08:32:43Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.86331" lon="2.3369537">
   <name>Palais Royal</name>
+  <time>2015-05-12T07:39:02Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.884079" lon="2.3324074">
   <name>Moulin Rouge</name>
+  <time>2017-03-16T05:39:42Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.886796" lon="2.3430263">
   <name>Basilique du Sacré-Cœur</name>
+  <time>2017-07-16T16:42:33Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.876655" lon="2.2633258">
   <name>Fondation Louis Vuitton</name>
+  <time>2017-03-16T05:33:39Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.853083" lon="2.3391424">
   <name>Cour du Commerce</name>
+  <time>2017-03-16T05:29:43Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.859919" lon="2.3265253">
   <name>Musée D’orsay</name>
+  <time>2015-05-11T13:42:20Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.80372" lon="2.124335">
   <name>Versailles</name>
+  <time>2017-03-16T06:38:19Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.898006" lon="2.0960592">
   <name>Saint-Germain-en-Laye</name>
+  <time>2017-03-16T06:39:33Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.842514" lon="2.4357341">
   <name>Château de Vincennes</name>
+  <time>2015-03-08T08:57:36Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -81,6 +94,7 @@
 </wpt>
 <wpt lat="48.857404" lon="2.3402073">
   <name>Square du Vert Galant</name>
+  <time>2017-05-09T12:38:13Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -88,18 +102,21 @@
 </wpt>
 <wpt lat="48.894278" lon="2.3891616">
   <name>Parc de la Villette</name>
+  <time>2017-03-16T06:36:20Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="48.843137" lon="2.3559223">
   <name>Jardin des Plantes</name>
+  <time>2015-05-16T09:03:11Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="48.845954" lon="2.3720665">
   <name>Express De Lyon</name>
+  <time>2015-04-03T20:48:22Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
@@ -107,6 +124,7 @@
 </wpt>
 <wpt lat="48.861032" lon="2.350464">
   <name>La Cave à Bulles</name>
+  <time>2015-04-03T20:57:39Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
@@ -114,6 +132,7 @@
 </wpt>
 <wpt lat="48.885121" lon="2.3524006">
   <name>Brasserie de la Goutte d’Or</name>
+  <time>2017-03-16T05:41:38Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
@@ -121,6 +140,7 @@
 </wpt>
 <wpt lat="48.892252" lon="2.3469503">
   <name>Le Supercoin</name>
+  <time>2017-03-16T05:40:52Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
@@ -128,6 +148,7 @@
 </wpt>
 <wpt lat="48.866681" lon="2.3854937">
   <name>Les Trois 8</name>
+  <time>2015-04-03T20:20:35Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
@@ -135,6 +156,7 @@
 </wpt>
 <wpt lat="48.864852" lon="2.3817815">
   <name>La Fine Mousse</name>
+  <time>2017-03-16T06:45:33Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
@@ -142,6 +164,7 @@
 </wpt>
 <wpt lat="48.882947" lon="2.3397674">
   <name>People Drugstore</name>
+  <time>2015-04-03T21:00:20Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -149,6 +172,7 @@
 </wpt>
 <wpt lat="48.842339" lon="2.3498471">
   <name>Le Vieux Chêne</name>
+  <time>2015-05-16T16:07:02Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -156,6 +180,7 @@
 </wpt>
 <wpt lat="48.842797" lon="2.3495923">
   <name>Au Petit Grec</name>
+  <time>2015-05-16T17:15:46Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
@@ -163,6 +188,7 @@
 </wpt>
 <wpt lat="48.880511" lon="2.3547609">
   <name>Gare du Nord</name>
+  <time>2017-05-13T09:05:03Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

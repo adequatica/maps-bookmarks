@@ -2,7 +2,9 @@
   "name": "maps-bookmarks",
   "version": "0.1",
   "description": "My bookmarks in kml (before 2020.12.20) and gpx (after 2020.12.20) formats",
-  "maintainers": ["Andrey Yenin"],
+  "maintainers": [
+    "Andrey Yenin"
+  ],
   "repository": "https://github.com/enotramone/maps-bookmarks",
   "license": "Unlicense",
   "dependencies": {

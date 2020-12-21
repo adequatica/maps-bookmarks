@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="55.758317" lon="37.64627">
   <name>20. Bely Gorod Wall</name>
+  <time>1585-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="55.794307" lon="37.750355">
   <name>19. Izmaylovo Kremlin</name>
+  <time>1996-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -17,6 +19,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
 </wpt>
 <wpt lat="55.745792" lon="37.644824">
   <name>18. Athonite Metochion</name>
+  <time>1595-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -24,6 +27,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
 </wpt>
 <wpt lat="55.765564" lon="37.629822">
   <name>17. Sretensky Monastery</name>
+  <time>1397-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -31,6 +35,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
 </wpt>
 <wpt lat="55.669246" lon="37.719147">
   <name>16. Nikolo-Perervinsky Monastery</name>
+  <time>1623-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -38,6 +43,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
 </wpt>
 <wpt lat="55.727965" lon="37.658672">
   <name>15. Krutitsy Metochion</name>
+  <time>1667-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -46,6 +52,7 @@ Krutitsy was established as an ecclesiastical estate of Russian Orthodox Church 
 </wpt>
 <wpt lat="55.669333" lon="37.665768">
   <name>14. Kolomenskoye</name>
+  <time>1532-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -54,6 +61,7 @@ In the 16th century the number of unfortified royal estates appeared around Mosc
 </wpt>
 <wpt lat="55.738148" lon="37.670652">
   <name>13. Pokrovsky Monastery</name>
+  <time>1635-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -61,6 +69,7 @@ In the 16th century the number of unfortified royal estates appeared around Mosc
 </wpt>
 <wpt lat="55.754467" lon="37.639984">
   <name>12. Ivanovsky Convent</name>
+  <time>1415-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -69,6 +78,7 @@ In 1530 the monastery was moved to its existing place and became a convent. In 1
 </wpt>
 <wpt lat="55.765679" lon="37.624726">
   <name>11. Rozhdestvensky Convent</name>
+  <time>1386-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -77,6 +87,7 @@ For the first time the wooden fence was replaced by stone one in 1671. For the s
 </wpt>
 <wpt lat="55.739751" lon="37.599708">
   <name>10. Zachatyevsky Convent</name>
+  <time>1360-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -85,6 +96,7 @@ The convent was completely burned down a few times: in 1514, 1547 and during Tim
 </wpt>
 <wpt lat="55.71452" lon="37.602065">
   <name>9. Donskoy Monastery</name>
+  <time>1591-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -93,6 +105,7 @@ It was supposed to defend southern approaches to the Moscow Kremlin, but soon lo
 </wpt>
 <wpt lat="55.726043" lon="37.555878">
   <name>8. Novodevichy Convent</name>
+  <time>1490-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -101,6 +114,7 @@ The contemporary walls and towers were erected during the reign of Boris Godunov
 </wpt>
 <wpt lat="55.73175" lon="37.656613">
   <name>7. Novospassky Monastery</name>
+  <time>1490-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -109,6 +123,7 @@ The current place of the monastery was chosen by Ivan IV to protect south-east a
 </wpt>
 <wpt lat="55.713792" lon="37.656749">
   <name>6. Simonov Monastery</name>
+  <time>1370-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -117,6 +132,7 @@ The monastery was established by monk Feodor, a nephew of Sergius of Radonezh. I
 </wpt>
 <wpt lat="55.748834" lon="37.670544">
   <name>5. Andronikov Monastery</name>
+  <time>1357-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -125,6 +141,7 @@ Due to dangerous location the monastery has been ransacked a number of times: in
 </wpt>
 <wpt lat="55.7669" lon="37.615362">
   <name>4. Vysokopetrovsky Monastery</name>
+  <time>1330-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -133,6 +150,7 @@ This monastery defended Moscow from the north. In 1680–1690 it was completely 
 </wpt>
 <wpt lat="55.710802" lon="37.629727">
   <name>3. Danilov Monastery</name>
+  <time>1282-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -141,6 +159,7 @@ After foundation the place was changed a few times according to advantageous str
 </wpt>
 <wpt lat="55.756795" lon="37.620534">
   <name>2.3. Round Tower</name>
+  <time>1990-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -148,6 +167,7 @@ After foundation the place was changed a few times according to advantageous str
 </wpt>
 <wpt lat="55.758831" lon="37.622513">
   <name>2.2. Birds Tower</name>
+  <time>1535-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -155,6 +175,7 @@ After foundation the place was changed a few times according to advantageous str
 </wpt>
 <wpt lat="55.751212" lon="37.632478">
   <name>2.1. Kitay-gorod Wall</name>
+  <time>1534-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -162,6 +183,7 @@ After foundation the place was changed a few times according to advantageous str
 </wpt>
 <wpt lat="55.749423" lon="37.615982">
   <name>1. Moscow Kremlin</name>
+  <time>1156-01-01T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

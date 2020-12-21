@@ -65,6 +65,7 @@ fs.readdirSync(folder).forEach(file => {
                                 lon: coordinatesToLatLon(elem.Point[0].coordinates[0])[0]
                             },
                             name: elem.name,
+                            time: elem.TimeStamp[0].when[0],
                             extensions: [{
                                 color: [styleToColor(elem.styleUrl[0])]
                             }]

@@ -2,12 +2,14 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="41.379008" lon="2.1400045">
   <name>Barcelona-Sants</name>
+  <time>2017-03-20T17:23:23Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="41.403394" lon="2.1506556">
   <name>Casa Vicents</name>
+  <time>2017-03-20T19:10:32Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -15,6 +17,7 @@
 </wpt>
 <wpt lat="41.378804" lon="2.1742053">
   <name>Palau Güell</name>
+  <time>2015-07-23T15:48:59Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -22,6 +25,7 @@
 </wpt>
 <wpt lat="41.403555" lon="2.1743207">
   <name>Sagrada Família</name>
+  <time>2015-07-23T15:49:08Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -29,6 +33,7 @@
 </wpt>
 <wpt lat="41.390841" lon="2.1729125">
   <name>Casa Calvet</name>
+  <time>2015-07-23T15:08:54Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -36,6 +41,7 @@
 </wpt>
 <wpt lat="41.414156" lon="2.1516131">
   <name>Parc Güell</name>
+  <time>2015-07-23T15:48:17Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -43,6 +49,7 @@
 </wpt>
 <wpt lat="41.391554" lon="2.1647881">
   <name>Casa Batlló</name>
+  <time>2015-07-23T15:48:51Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -50,6 +57,7 @@
 </wpt>
 <wpt lat="41.3954" lon="2.1619021">
   <name>Casa Milà</name>
+  <time>2015-07-23T15:48:41Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -57,24 +65,28 @@
 </wpt>
 <wpt lat="41.38516" lon="2.181281">
   <name>Picasso Museum</name>
+  <time>2017-03-20T17:21:18Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="41.378082" lon="2.169938">
   <name>Gat del Raval</name>
+  <time>2015-07-23T07:43:51Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="41.380763" lon="2.1707827">
   <name>Cat Pound</name>
+  <time>2015-07-23T15:57:01Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="41.38173" lon="2.1715808">
   <name>La Boqueria</name>
+  <time>2015-07-23T15:52:07Z</time>
   <extensions>
     <color>#ffb300</color>
   </extensions>
@@ -82,24 +94,28 @@
 </wpt>
 <wpt lat="41.3862" lon="2.1840061">
   <name>La Paradeta (El Born)</name>
+  <time>2015-07-23T15:50:01Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="41.404432" lon="2.1734329">
   <name>La Paradeta (Sagrada Familia)</name>
+  <time>2017-03-20T17:17:42Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="41.382677" lon="2.1633773">
   <name>Fábrica Moritz Barcelona</name>
+  <time>2017-03-20T17:20:06Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="41.385082" lon="2.1665361">
   <name>Nevermind</name>
+  <time>2015-07-23T15:54:40Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -107,12 +123,14 @@
 </wpt>
 <wpt lat="41.380676" lon="2.1770699">
   <name>Oviso</name>
+  <time>2015-07-23T15:55:11Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="41.377766" lon="2.1707829">
   <name>Ámbar</name>
+  <time>2015-07-23T15:55:58Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -120,6 +138,7 @@
 </wpt>
 <wpt lat="41.363173" lon="2.167524">
   <name>Montjuic</name>
+  <time>2015-07-26T01:57:55Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -127,6 +146,7 @@
 </wpt>
 <wpt lat="41.384156" lon="2.1863236">
   <name>Estació de França</name>
+  <time>2017-03-20T19:25:50Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

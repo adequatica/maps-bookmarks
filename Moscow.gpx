@@ -2,272 +2,308 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="55.735018" lon="37.588017">
   <name>Yandex</name>
+  <time>2017-01-30T08:39:33Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="55.778839" lon="37.55948">
   <name>Hippodrome</name>
+  <time>2017-02-01T16:57:39Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="55.743339" lon="37.629514">
   <name>GlavPivMag</name>
+  <time>2017-01-30T17:35:19Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.754607" lon="37.637689">
   <name>Khinkali Point</name>
+  <time>2017-01-31T18:04:45Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="55.742016" lon="37.583889">
   <name>Brisket BBQ</name>
+  <time>2017-08-27T06:25:22Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="55.734998" lon="37.624597">
   <name>El Asador</name>
+  <time>2017-02-02T05:38:22Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="55.756409" lon="37.609746">
   <name>St.Peters &amp; St.Anton</name>
+  <time>2014-04-08T12:27:49Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.765547" lon="37.609282">
   <name>Pod Muhoy</name>
+  <time>2017-01-29T08:18:18Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.76759" lon="37.635272">
   <name>Bobby Dazzler</name>
+  <time>2017-01-31T17:54:39Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.754573" lon="37.654013">
   <name>Lambic</name>
+  <time>2017-01-30T08:23:14Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.766541" lon="37.640669">
   <name>Lambic</name>
+  <time>2017-01-30T08:25:48Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.756315" lon="37.635208">
   <name>Lumberjack</name>
+  <time>2017-01-30T17:38:24Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.763848" lon="37.61408">
   <name>Enthusiast</name>
+  <time>2017-01-30T17:35:54Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.765061" lon="37.608523">
   <name>Beermarket</name>
+  <time>2017-01-29T08:18:02Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.76999" lon="37.597204">
   <name>Pivbar</name>
+  <time>2017-01-30T17:48:18Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.742116" lon="37.655285">
   <name>Varka</name>
+  <time>2015-09-16T06:03:35Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.760825" lon="37.646095">
   <name>GlavPivMag 2</name>
+  <time>2017-01-30T17:51:27Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.762678" lon="37.606798">
   <name>Vse Tvoyi Drouzia</name>
+  <time>2017-01-30T17:39:50Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.762615" lon="37.606342">
   <name>Craft Republic</name>
+  <time>2014-12-12T20:20:24Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.751298" lon="37.607021">
   <name>Rule Taproom</name>
+  <time>2017-02-01T16:55:16Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.759242" lon="37.625045">
   <name>Spitsa</name>
+  <time>2017-02-18T14:45:29Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.754889" lon="37.637367">
   <name>Dogma</name>
+  <time>2017-10-28T14:14:57Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.77081" lon="37.625198">
   <name>Heroes</name>
+  <time>2017-03-18T18:12:22Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.745551" lon="37.667974">
   <name>Vetka</name>
+  <time>2017-05-28T05:53:18Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.741441" lon="37.628387">
   <name>Parka</name>
+  <time>2017-08-19T16:33:10Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.771371" lon="37.570256">
   <name>Progress</name>
+  <time>2017-08-31T15:53:11Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.712162" lon="37.620614">
   <name>Danilovskiy market</name>
+  <time>2017-09-04T06:06:03Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
-  <desc>From Paveletskaya by trams:
-• A (stop near Paveletskaya till Shabolovskaya);
-• 3 (stop near Paveletskaya till Ak. Yangelya, exit after Danilov monastery);
-• 39 (stop near Paveletskaya till Universitet, passed by Leninskiy Prospekt);
-• 35 (stop after Paveletskaya, exit after Danilov monastery);
-• 38 (stop after Paveletskaya till Cheremushki).
-To Shabolovskaya: A, 47;
-To Leninskiy Prospekt: 39.</desc>
 </wpt>
 <wpt lat="55.755016" lon="37.63711">
   <name>Camorra</name>
+  <time>2017-10-28T14:14:37Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="55.769928" lon="37.632475">
   <name>Beer Happens</name>
+  <time>2018-03-10T18:44:03Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.762782" lon="37.606908">
   <name>Too Much</name>
+  <time>2018-06-08T11:40:44Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.770014" lon="37.678982">
   <name>Brugge</name>
+  <time>2018-07-13T08:04:06Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.740845" lon="37.629079">
   <name>O’Donoghue’s</name>
+  <time>2018-10-07T07:57:08Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.76151" lon="37.636235">
   <name>Shirokuyu na Shirokuyu</name>
+  <time>2018-09-23T10:01:34Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.741627" lon="37.659796">
   <name>Method</name>
+  <time>2018-10-31T18:28:09Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.730269" lon="37.626821">
   <name>Jawsspot</name>
+  <time>2018-11-30T15:30:38Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.723663" lon="37.607989">
   <name>Yugos</name>
+  <time>2018-11-30T17:04:15Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="55.770005" lon="37.646846">
   <name>Brasserie Belge 0.33</name>
+  <time>2019-04-18T16:03:21Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.78019" lon="37.592998">
   <name>Depo</name>
+  <time>2019-04-28T07:21:37Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="55.76208" lon="37.634851">
   <name>Beer Gik</name>
+  <time>2019-06-27T05:22:40Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.729733" lon="37.632019">
   <name>Camorra</name>
+  <time>2019-06-30T06:18:39Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="55.630647" lon="37.51751">
   <name>Kitayskiye Novosti</name>
+  <time>2019-10-20T07:06:18Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="55.754551" lon="37.638121">
   <name>Pizza22cm</name>
+  <time>2019-07-11T19:54:55Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="55.756413" lon="37.635256">
   <name>Ptitsa-Sinitsa</name>
+  <time>2020-02-25T18:20:44Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.764178" lon="37.616816">
   <name>Manneken Pis</name>
+  <time>2020-06-27T10:46:13Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -275,30 +311,35 @@ To Leninskiy Prospekt: 39.</desc>
 </wpt>
 <wpt lat="55.77116" lon="37.60531">
   <name>Bruxx</name>
+  <time>2020-06-27T13:27:39Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.7574" lon="37.635533">
   <name>Underdog</name>
+  <time>2020-08-01T19:23:00Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.769756" lon="37.67863">
   <name>Mo Yeti</name>
+  <time>2020-08-25T18:15:06Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="55.741292" lon="37.628382">
   <name>Brasserie Mardi Gras</name>
+  <time>2020-09-03T09:31:06Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="55.75673" lon="37.626901">
   <name>Trappist</name>
+  <time>2020-12-14T19:48:49Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>

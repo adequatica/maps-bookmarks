@@ -2,18 +2,21 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="31.625989" lon="-7.9886096">
   <name>Jamaa el-Fna</name>
+  <time>2016-12-17T14:23:00Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="31.618203" lon="-7.985331">
   <name>El Badi Palace</name>
+  <time>2016-12-30T15:13:17Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="31.631964" lon="-7.986336">
   <name>Madrasa Ben Youssef</name>
+  <time>2016-12-25T06:48:56Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -21,6 +24,7 @@
 </wpt>
 <wpt lat="31.631509" lon="-7.9870378">
   <name>Almoravid Koubba</name>
+  <time>2016-12-25T10:07:11Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -28,6 +32,7 @@
 </wpt>
 <wpt lat="31.623736" lon="-7.9935985">
   <name>Koutoubia Mosque</name>
+  <time>2016-12-25T06:42:25Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -35,6 +40,7 @@
 </wpt>
 <wpt lat="31.64144" lon="-8.0029286">
   <name>Majorelle Garden</name>
+  <time>2016-12-25T06:42:07Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -42,24 +48,28 @@
 </wpt>
 <wpt lat="31.62979" lon="-8.0189776">
   <name>Gare Supratours</name>
+  <time>2016-12-25T10:14:34Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="31.097057" lon="-4.0103115">
   <name>Supratours Merzouga</name>
+  <time>2017-03-17T05:19:22Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="31.102425" lon="-3.9611469">
   <name>Oasis</name>
+  <time>2017-01-02T16:05:40Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="34.05257" lon="-4.9905382">
   <name>Mellah</name>
+  <time>2017-03-19T09:59:02Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -67,6 +77,7 @@
 </wpt>
 <wpt lat="34.053094" lon="-4.9938427">
   <name>Royal Palace</name>
+  <time>2017-01-04T04:35:28Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -74,6 +85,7 @@
 </wpt>
 <wpt lat="34.061778" lon="-4.9840017">
   <name>Bab Boujeloud</name>
+  <time>2016-12-25T14:24:14Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -81,6 +93,7 @@
 </wpt>
 <wpt lat="34.064816" lon="-4.9733694">
   <name>Quaraouiyine</name>
+  <time>2016-12-25T14:48:41Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -88,12 +101,14 @@
 </wpt>
 <wpt lat="34.066124" lon="-4.9711834">
   <name>Tanneries</name>
+  <time>2017-01-04T06:36:57Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="34.062167" lon="-4.9728357">
   <name>R'cif</name>
+  <time>2017-05-09T09:08:07Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -101,18 +116,21 @@
 </wpt>
 <wpt lat="34.04722" lon="-5.0052475">
   <name>Gare de Fes</name>
+  <time>2016-12-25T14:59:08Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="33.896823" lon="-5.5318429">
   <name>Gare de Meknes</name>
+  <time>2017-01-05T09:35:21Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="33.892571" lon="-5.5647295">
   <name>Bab el Mansour</name>
+  <time>2016-12-25T15:30:42Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -120,6 +138,7 @@
 </wpt>
 <wpt lat="34.070804" lon="-5.553255">
   <name>Volubilis</name>
+  <time>2016-12-17T14:28:20Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -127,6 +146,7 @@
 </wpt>
 <wpt lat="33.890057" lon="-5.5663227">
   <name>Bus to Volubilis</name>
+  <time>2017-01-05T13:28:39Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -134,6 +154,7 @@
 </wpt>
 <wpt lat="33.89923" lon="-5.5535286">
   <name>Grand Taxi to Volubilis</name>
+  <time>2017-01-05T19:42:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -141,6 +162,7 @@
 </wpt>
 <wpt lat="33.890433" lon="-5.5750587">
   <name>Gare Routiere</name>
+  <time>2017-01-05T11:41:32Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -148,18 +170,21 @@
 </wpt>
 <wpt lat="35.167679" lon="-5.2748926">
   <name>Gare Routière</name>
+  <time>2017-01-20T18:51:04Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="35.168602" lon="-5.2617981">
   <name>Kasbah</name>
+  <time>2016-12-25T15:40:56Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="35.169992" lon="-5.2640431">
   <name>Sfenj</name>
+  <time>2017-03-17T05:16:26Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
@@ -167,30 +192,35 @@
 </wpt>
 <wpt lat="35.169213" lon="-5.2620936">
   <name>La Botica de la Abuela Alladin</name>
+  <time>2017-03-17T05:15:40Z</time>
   <extensions>
     <color>#ffb300</color>
   </extensions>
 </wpt>
 <wpt lat="35.168857" lon="-5.2693646">
   <name>Grands Taxis Tetouan &amp; Tanger</name>
+  <time>2017-03-17T05:20:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="35.771749" lon="-5.7861968">
   <name>Gare de Tanger Ville</name>
+  <time>2016-12-25T10:16:42Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="33.589412" lon="-7.5906583">
   <name>Casa Voyageurs</name>
+  <time>2016-12-25T10:15:42Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="33.608534" lon="-7.6323988">
   <name>Hassan II Mosque</name>
+  <time>2016-12-17T14:16:19Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -198,12 +228,14 @@
 </wpt>
 <wpt lat="33.609988" lon="-7.6547309">
   <name>Phare El Hank</name>
+  <time>2017-01-20T18:51:33Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="33.554663" lon="-7.6313849">
   <name>Gare Oasis</name>
+  <time>2016-12-28T03:54:01Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

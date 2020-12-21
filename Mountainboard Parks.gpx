@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="60.109113" lon="30.312008">
   <name>Yukki [closed], Saint-Petersburg, Russia</name>
+  <time>2019-10-06T08:39:36Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -10,6 +11,7 @@
 </wpt>
 <wpt lat="51.190326" lon="8.5070645">
   <name>Winterberg [partly closed], Germany</name>
+  <time>2019-10-06T09:34:37Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -18,6 +20,7 @@
 </wpt>
 <wpt lat="51.286133" lon="8.6085244">
   <name>Willingen, Germany</name>
+  <time>2019-10-06T09:36:05Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -25,6 +28,7 @@
 </wpt>
 <wpt lat="50.018615" lon="4.637581">
   <name>Wanyi Park, Belgium</name>
+  <time>2019-10-06T09:30:12Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -37,6 +41,7 @@
 </wpt>
 <wpt lat="-22.230327" lon="-43.049825">
   <name>Trilhas do Olimpo, Petropolis, Brazil</name>
+  <time>2019-10-06T09:43:41Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -44,6 +49,7 @@
 </wpt>
 <wpt lat="-30.118601" lon="-51.056599">
   <name>Swell [private], Porto Alegre, Brazil</name>
+  <time>2019-10-06T09:53:53Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -51,6 +57,7 @@
 </wpt>
 <wpt lat="42.665182" lon="24.747906">
   <name>Shambhala, Sopot, Bulgaria</name>
+  <time>2019-10-06T08:53:25Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -58,6 +65,7 @@
 </wpt>
 <wpt lat="43.629287" lon="1.4769108">
   <name>Roseraie, Toulouse, France</name>
+  <time>2019-10-06T09:16:54Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -65,6 +73,7 @@
 </wpt>
 <wpt lat="42.941889" lon="0.28564595">
   <name>Payolle, France</name>
+  <time>2019-10-06T09:20:59Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -72,6 +81,7 @@
 </wpt>
 <wpt lat="55.600965" lon="37.703072">
   <name>Orekhovo, Moscow, Russia</name>
+  <time>2019-10-06T08:33:51Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -81,6 +91,7 @@
 </wpt>
 <wpt lat="-22.274571" lon="-44.4668">
   <name>Local Trip, Rio de Janeiro, Brazil</name>
+  <time>2019-10-06T09:47:53Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -88,6 +99,7 @@
 </wpt>
 <wpt lat="43.111747" lon="-2.5250209">
   <name>Iguria [private], Basque Country, Spain</name>
+  <time>2019-10-06T09:00:11Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -95,6 +107,7 @@
 </wpt>
 <wpt lat="49.050726" lon="9.5183002">
   <name>Grosserlach, Germany</name>
+  <time>2019-10-06T09:39:28Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -102,6 +115,7 @@
 </wpt>
 <wpt lat="41.680001" lon="2.3840165">
   <name>El SoT Vilamajor, Barcelona, Spain</name>
+  <time>2019-10-06T09:03:38Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -110,6 +124,7 @@ From Barcelona you need to take a Ridalies train to Sant Celoni from Sants Estac
 </wpt>
 <wpt lat="50.47455" lon="30.427654">
   <name>Dubki, Kiev, Ukraine</name>
+  <time>2019-10-06T08:56:27Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -118,6 +133,7 @@ From Barcelona you need to take a Ridalies train to Sant Celoni from Sants Estac
 </wpt>
 <wpt lat="46.234817" lon="14.32805">
   <name>Dirt Dessert, Kranj, Slovenia</name>
+  <time>2019-10-06T08:49:19Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -125,6 +141,7 @@ From Barcelona you need to take a Ridalies train to Sant Celoni from Sants Estac
 </wpt>
 <wpt lat="49.4167" lon="2.7840217">
   <name>Compiegne, France</name>
+  <time>2019-10-06T09:26:53Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -134,6 +151,7 @@ From Barcelona you need to take a Ridalies train to Sant Celoni from Sants Estac
 </wpt>
 <wpt lat="-30.32954" lon="-51.35052">
   <name>Cabure [private], Porto Alegre, Brazil</name>
+  <time>2019-10-06T09:56:01Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -141,6 +159,7 @@ From Barcelona you need to take a Ridalies train to Sant Celoni from Sants Estac
 </wpt>
 <wpt lat="45.179552" lon="19.885194">
   <name>Bukovac, Novi Sad, Serbia</name>
+  <time>2019-10-06T08:45:55Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -152,6 +171,7 @@ From Barcelona you need to take a Ridalies train to Sant Celoni from Sants Estac
 </wpt>
 <wpt lat="47.893574" lon="-3.4086022">
   <name>Аrzano, Bretagne, France</name>
+  <time>2019-10-06T09:24:18Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>

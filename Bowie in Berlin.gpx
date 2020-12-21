@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="52.489228" lon="13.359484">
   <name>David Bowie's apartment</name>
+  <time>2017-03-18T12:14:56Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="52.489534" lon="13.35973">
   <name>Neues Ufer</name>
+  <time>2017-03-18T12:15:11Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -16,6 +18,7 @@
 </wpt>
 <wpt lat="52.505443" lon="13.326324">
   <name>Paris Bar</name>
+  <time>2017-03-18T12:15:30Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -23,6 +26,7 @@
 </wpt>
 <wpt lat="52.506232" lon="13.377098">
   <name>Hansa Tonstudio</name>
+  <time>2017-03-18T12:16:31Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -30,6 +34,7 @@
 </wpt>
 <wpt lat="52.502027" lon="13.338396">
   <name>Dschungel</name>
+  <time>2017-03-25T07:09:19Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -37,6 +42,7 @@
 </wpt>
 <wpt lat="52.466871" lon="13.274686">
   <name>Brücke Museum</name>
+  <time>2017-03-18T12:17:23Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -44,6 +50,7 @@
 </wpt>
 <wpt lat="52.466371" lon="13.256204">
   <name>Forsthaus Paulsborn</name>
+  <time>2017-03-18T12:17:34Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -51,6 +58,7 @@
 </wpt>
 <wpt lat="52.500391" lon="13.422162">
   <name>SO36</name>
+  <time>2017-03-18T12:17:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -58,6 +66,7 @@
 </wpt>
 <wpt lat="52.501675" lon="13.418272">
   <name>Luzia</name>
+  <time>2017-04-06T20:19:43Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -65,6 +74,7 @@
 </wpt>
 <wpt lat="52.554737" lon="13.398164">
   <name>Bösebrücke</name>
+  <time>2017-05-06T13:12:44Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

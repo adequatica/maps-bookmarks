@@ -2,42 +2,49 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="48.203273" lon="16.369212">
   <name>Vienna State Opera</name>
+  <time>2014-12-18T05:58:16Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.20821" lon="16.374936">
   <name>Mozarthaus Vienna</name>
+  <time>2017-03-14T05:51:07Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.208716" lon="16.369794">
   <name>Plague Column</name>
+  <time>2014-12-18T05:53:04Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.225819" lon="16.373288">
   <name>Flakturm Augarten</name>
+  <time>2014-12-21T15:03:32Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.210384" lon="16.365425">
   <name>Cafe Central</name>
+  <time>2014-12-21T16:41:26Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.207942" lon="16.369834">
   <name>Café Hawelka</name>
+  <time>2014-12-21T16:40:18Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="48.215501" lon="16.378416">
   <name>Ohel Moshe</name>
+  <time>2014-12-21T15:29:30Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
@@ -45,18 +52,21 @@
 </wpt>
 <wpt lat="48.180694" lon="16.308768">
   <name>Schlosspark Schönbrunn</name>
+  <time>2017-03-15T05:12:42Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="48.203343" lon="16.37308">
   <name>1516 Brewing Company</name>
+  <time>2014-12-21T15:53:32Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="48.193885" lon="16.341743">
   <name>Känguruh</name>
+  <time>2014-12-21T16:33:00Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>

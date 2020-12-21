@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="59.933185" lon="30.343365">
   <name>70. Аничков мост</name>
+  <time>2018-09-25T07:07:51Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="59.906952" lon="30.307373">
   <name>69. Бывший Варшавский вокзал</name>
+  <time>2019-04-07T09:42:51Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -16,6 +18,7 @@
 </wpt>
 <wpt lat="59.919634" lon="30.329462">
   <name>68. Витебский вокзал</name>
+  <time>2016-10-23T15:13:42Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -23,6 +26,7 @@
 </wpt>
 <wpt lat="59.944578" lon="30.335094">
   <name>67. Летний сад</name>
+  <time>2016-09-25T15:52:20Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -30,6 +34,7 @@
 </wpt>
 <wpt lat="59.903038" lon="30.263509">
   <name>66. Екатерингоф</name>
+  <time>2016-09-25T15:51:41Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -37,6 +42,7 @@
 </wpt>
 <wpt lat="59.929967" lon="30.320506">
   <name>65. Дом Рогожина</name>
+  <time>2016-09-25T15:47:48Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -44,6 +50,7 @@
 </wpt>
 <wpt lat="59.94343" lon="30.350931">
   <name>64. Дом генерала Епанчина</name>
+  <time>2017-05-29T08:17:18Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -51,6 +58,7 @@
 </wpt>
 <wpt lat="59.925695" lon="30.342212">
   <name>63. Пять углов</name>
+  <time>2017-02-26T06:14:16Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -59,6 +67,7 @@
 </wpt>
 <wpt lat="59.928865" lon="30.308397">
   <name>62. Дом Бакалеева</name>
+  <time>2017-10-01T13:39:46Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -67,6 +76,7 @@
 </wpt>
 <wpt lat="59.926467" lon="30.308208">
   <name>61. Вознесенский мост</name>
+  <time>2016-10-14T15:53:29Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -75,6 +85,7 @@
 </wpt>
 <wpt lat="59.922983" lon="30.313115">
   <name>60. Юсуповский сад</name>
+  <time>2016-10-15T08:21:43Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -82,6 +93,7 @@
 </wpt>
 <wpt lat="59.925239" lon="30.315901">
   <name>59. Бордель Дом-де-Роберти</name>
+  <time>2017-10-01T19:33:42Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -89,6 +101,7 @@
 </wpt>
 <wpt lat="59.921846" lon="30.305794">
   <name>58. Полицейская контора**</name>
+  <time>2017-02-26T06:08:26Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -96,6 +109,7 @@
 </wpt>
 <wpt lat="59.927015" lon="30.300737">
   <name>57. Полицейская контора*</name>
+  <time>2016-10-16T07:33:58Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -103,6 +117,7 @@
 </wpt>
 <wpt lat="59.930826" lon="30.307901">
   <name>56. Тайник Раскольникова</name>
+  <time>2016-10-20T17:15:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -110,6 +125,7 @@
 </wpt>
 <wpt lat="59.927711" lon="30.316414">
   <name>55. Переулок Гривцова</name>
+  <time>2017-10-01T13:37:27Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -117,6 +133,7 @@
 </wpt>
 <wpt lat="59.924817" lon="30.303112">
   <name>54. Дом старухи процентщицы</name>
+  <time>2016-09-25T15:19:55Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -124,6 +141,7 @@
 </wpt>
 <wpt lat="59.926354" lon="30.310702">
   <name>53. Дом Сони Мармеладовой</name>
+  <time>2016-09-25T15:12:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -131,6 +149,7 @@
 </wpt>
 <wpt lat="59.927691" lon="30.310662">
   <name>52. Дом Раскольникова</name>
+  <time>2016-09-25T15:08:40Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -138,6 +157,7 @@
 </wpt>
 <wpt lat="59.924683" lon="30.318343">
   <name>51. Вяземская лавра</name>
+  <time>2019-04-07T18:53:23Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -145,6 +165,7 @@
 </wpt>
 <wpt lat="59.922214" lon="30.307361">
   <name>50. Хрустальный дворец</name>
+  <time>2017-10-01T19:34:19Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -152,6 +173,7 @@
 </wpt>
 <wpt lat="59.926964" lon="30.318633">
   <name>49. Сенная площадь</name>
+  <time>2016-10-23T15:12:42Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -159,6 +181,7 @@
 </wpt>
 <wpt lat="59.933194" lon="30.298095">
   <name>48. Конногвардейский бульвар</name>
+  <time>2016-10-22T15:21:37Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -166,6 +189,7 @@
 </wpt>
 <wpt lat="59.925821" lon="30.313625">
   <name>47. Кокушкин мост</name>
+  <time>2016-10-08T08:06:03Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -173,6 +197,7 @@
 </wpt>
 <wpt lat="59.933112" lon="30.331046">
   <name>46. Гостиный двор</name>
+  <time>2019-04-07T09:41:49Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -180,6 +205,7 @@
 </wpt>
 <wpt lat="59.935216" lon="30.316771">
   <name>45. Ресторан Бореля</name>
+  <time>2019-04-07T09:35:41Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -190,6 +216,7 @@
 </wpt>
 <wpt lat="59.924568" lon="30.29574">
   <name>44. Торговый мост</name>
+  <time>2019-04-07T09:36:16Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -197,6 +224,7 @@
 </wpt>
 <wpt lat="59.923607" lon="30.3204">
   <name>43. Дом Наташи Ихменевой</name>
+  <time>2019-04-07T09:40:16Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -204,6 +232,7 @@
 </wpt>
 <wpt lat="59.934418" lon="30.278528">
   <name>42. 13-я линия Васильевского острова</name>
+  <time>2019-04-07T09:39:27Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -211,6 +240,7 @@
 </wpt>
 <wpt lat="59.937804" lon="30.284801">
   <name>41. 6-я линия Васильевского острова</name>
+  <time>2019-04-12T21:31:13Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -218,6 +248,7 @@
 </wpt>
 <wpt lat="59.929267" lon="30.305262">
   <name>40. Дом Смита</name>
+  <time>2019-04-07T19:09:32Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -225,6 +256,7 @@
 </wpt>
 <wpt lat="59.936642" lon="30.355072">
   <name>39. Шестилавочная улица</name>
+  <time>2018-09-25T05:48:49Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -232,6 +264,7 @@
 </wpt>
 <wpt lat="59.927478" lon="30.347719">
   <name>38. Памятник Достоевскому</name>
+  <time>2016-10-17T17:42:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -239,6 +272,7 @@
 </wpt>
 <wpt lat="59.922955" lon="30.386581">
   <name>37. Могила Достоевского</name>
+  <time>2016-10-15T21:28:18Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -246,6 +280,7 @@
 </wpt>
 <wpt lat="59.927382" lon="30.350661">
   <name>36. Музей Федора Михайловича Достоевского</name>
+  <time>2017-02-26T06:16:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -253,6 +288,7 @@
 </wpt>
 <wpt lat="59.93598" lon="30.366603">
   <name>35. Дом Струбинского</name>
+  <time>2016-09-25T14:31:22Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -260,6 +296,7 @@
 </wpt>
 <wpt lat="59.931413" lon="30.362554">
   <name>34. Гостиница Знаменская</name>
+  <time>2019-03-03T08:01:21Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -267,6 +304,7 @@
 </wpt>
 <wpt lat="59.933073" lon="30.349923">
   <name>33. Гостиница Дагмар</name>
+  <time>2019-03-03T08:00:17Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -274,6 +312,7 @@
 </wpt>
 <wpt lat="59.927634" lon="30.319254">
   <name>32. Бывшая гауптвахта</name>
+  <time>2016-09-25T14:24:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -281,6 +320,7 @@
 </wpt>
 <wpt lat="59.931013" lon="30.357573">
   <name>31. Журнал «Гражданин»</name>
+  <time>2016-09-29T07:37:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -288,6 +328,7 @@
 </wpt>
 <wpt lat="59.934254" lon="30.362694">
   <name>30. Дом Сливчанского</name>
+  <time>2016-09-25T14:05:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -295,6 +336,7 @@
 </wpt>
 <wpt lat="59.915092" lon="30.311606">
   <name>29. Дом Мёбес (дом капитально перестроен и флигель не сохранился)</name>
+  <time>2016-09-25T14:02:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -302,6 +344,7 @@
 </wpt>
 <wpt lat="59.929519" lon="30.307228">
   <name>28. Максимилиановская лечебница</name>
+  <time>2019-03-03T07:55:51Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -309,6 +352,7 @@
 </wpt>
 <wpt lat="59.91591" lon="30.322258">
   <name>27. Дом Архангельской (дом не сохранился)</name>
+  <time>2019-03-03T07:53:36Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -316,6 +360,7 @@
 </wpt>
 <wpt lat="59.924728" lon="30.310997">
   <name>26. Дом Мицкевича (дом не сохранился)</name>
+  <time>2016-09-25T13:51:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -323,6 +368,7 @@
 </wpt>
 <wpt lat="59.937018" lon="30.321887">
   <name>25. Гостиница Демут** (дом многократно перестраивался)</name>
+  <time>2019-03-03T07:52:19Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -330,6 +376,7 @@
 </wpt>
 <wpt lat="59.937643" lon="30.322683">
   <name>24. Волковские номера* (дом не сохранился)</name>
+  <time>2019-03-03T07:51:49Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -337,6 +384,7 @@
 </wpt>
 <wpt lat="59.91647" lon="30.305851">
   <name>23. Троице-Измайловский собор</name>
+  <time>2016-09-25T13:42:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -344,6 +392,7 @@
 </wpt>
 <wpt lat="59.925755" lon="30.307235">
   <name>22. Дом Ширмера</name>
+  <time>2016-09-25T14:44:41Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -351,6 +400,7 @@
 </wpt>
 <wpt lat="59.927069" lon="30.312774">
   <name>21. Дом Алонкина</name>
+  <time>2016-09-25T13:21:03Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -358,6 +408,7 @@
 </wpt>
 <wpt lat="59.926795" lon="30.311756">
   <name>20. Дом Евреинова</name>
+  <time>2016-09-25T13:17:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -365,6 +416,7 @@
 </wpt>
 <wpt lat="59.9266" lon="30.302025">
   <name>19. Дом Томас</name>
+  <time>2019-03-03T07:47:52Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -372,6 +424,7 @@
 </wpt>
 <wpt lat="59.927429" lon="30.314607">
   <name>18. Дом Астафьевой</name>
+  <time>2016-09-25T13:12:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -379,6 +432,7 @@
 </wpt>
 <wpt lat="59.914938" lon="30.31491">
   <name>17. Дом Политина (дом не сохранился)</name>
+  <time>2016-09-25T13:04:26Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -386,6 +440,7 @@
 </wpt>
 <wpt lat="59.948744" lon="30.310822">
   <name>16. Петропавловская крепость</name>
+  <time>2016-09-25T11:34:01Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -393,6 +448,7 @@
 </wpt>
 <wpt lat="59.934361" lon="30.308628">
   <name>15. Дом Шиля</name>
+  <time>2016-09-25T11:33:43Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -400,6 +456,7 @@
 </wpt>
 <wpt lat="59.925807" lon="30.304925">
   <name>14. Большая Подьяческая</name>
+  <time>2019-03-03T07:25:22Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -407,6 +464,7 @@
 </wpt>
 <wpt lat="59.93641" lon="30.319062">
   <name>13. Вольф и Беранже</name>
+  <time>2016-10-08T05:32:43Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -414,6 +472,7 @@
 </wpt>
 <wpt lat="59.940728" lon="30.290257">
   <name>12. Дом Солошича</name>
+  <time>2016-09-25T11:29:40Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -421,6 +480,7 @@
 </wpt>
 <wpt lat="59.93362" lon="30.323443">
   <name>11. Дом Кохендорфа</name>
+  <time>2016-09-25T11:28:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -428,6 +488,7 @@
 </wpt>
 <wpt lat="59.928377" lon="30.344142">
   <name>10. Дом Павловых</name>
+  <time>2019-03-03T07:19:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -435,6 +496,7 @@
 </wpt>
 <wpt lat="59.927164" lon="30.350692">
   <name>09. Дом Кучиной/Клинкстрема</name>
+  <time>2016-09-25T14:43:23Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -443,6 +505,7 @@
 </wpt>
 <wpt lat="59.929326" lon="30.351257">
   <name>08. Дом Тулубьева</name>
+  <time>2017-10-03T19:26:02Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -450,6 +513,7 @@
 </wpt>
 <wpt lat="59.933269" lon="30.347131">
   <name>07. Ресторан Лерха</name>
+  <time>2016-09-25T12:33:19Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -457,6 +521,7 @@
 </wpt>
 <wpt lat="59.927237" lon="30.320954">
   <name>06. Церковь Спаса-на-Сенной</name>
+  <time>2016-09-25T12:42:05Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -464,6 +529,7 @@
 </wpt>
 <wpt lat="59.930449" lon="30.347024">
   <name>05. Дом Пряничникова</name>
+  <time>2016-09-25T11:24:47Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -471,6 +537,7 @@
 </wpt>
 <wpt lat="59.935635" lon="30.342183">
   <name>04. Дом Сеткова (дом сохранился в перестроенном виде)</name>
+  <time>2016-09-25T11:21:29Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -478,6 +545,7 @@
 </wpt>
 <wpt lat="59.940526" lon="30.3372">
   <name>03. Михайловский замок</name>
+  <time>2016-09-25T11:18:59Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -485,6 +553,7 @@
 </wpt>
 <wpt lat="59.927257" lon="30.357518">
   <name>02. Пансион Костомарова (дом Решетникова, дом не сохранился)</name>
+  <time>2016-09-25T11:18:59Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -492,6 +561,7 @@
 </wpt>
 <wpt lat="59.919858" lon="30.318162">
   <name>01. Серапинская гостиница</name>
+  <time>2016-10-14T15:57:18Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

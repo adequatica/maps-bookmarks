@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="35.344532" lon="25.137115">
   <name>Koules</name>
+  <time>2017-10-17T05:41:21Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="35.29808" lon="25.162947">
   <name>Knossos Palace</name>
+  <time>2017-10-17T05:43:00Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -16,12 +18,14 @@
 </wpt>
 <wpt lat="35.338907" lon="25.137168">
   <name>Archaeological Museum</name>
+  <time>2017-10-18T06:02:00Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="35.339791" lon="25.134171">
   <name>The Venetian loggia</name>
+  <time>2017-11-06T14:26:33Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -29,12 +33,14 @@
 </wpt>
 <wpt lat="35.340863" lon="25.139142">
   <name>Bus Station A</name>
+  <time>2017-11-06T14:24:59Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="35.339607" lon="25.135803">
   <name>Crop</name>
+  <time>2017-11-16T18:44:50Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>

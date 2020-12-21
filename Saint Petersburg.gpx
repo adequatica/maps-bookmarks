@@ -2,18 +2,21 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="59.958564" lon="30.405166">
   <name>Yandex</name>
+  <time>2017-02-02T18:16:22Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.948538" lon="30.316557">
   <name>Peter and Paul Fortress</name>
+  <time>2017-05-15T06:58:20Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.941163" lon="30.321336">
   <name>Pushkin Apartment Museum</name>
+  <time>2016-03-20T16:53:03Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -21,12 +24,14 @@
 </wpt>
 <wpt lat="59.92746" lon="30.353681">
   <name>Museum of Arctic and Antarctic</name>
+  <time>2018-04-06T06:27:36Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.930313" lon="30.335565">
   <name>Zodchego Rossi Street</name>
+  <time>2014-08-03T08:19:02Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -34,6 +39,7 @@
 </wpt>
 <wpt lat="59.94316" lon="30.28702">
   <name>Repina Street</name>
+  <time>2016-10-10T19:36:41Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -41,84 +47,98 @@
 </wpt>
 <wpt lat="59.955416" lon="30.337809">
   <name>Aurora Cruiser</name>
+  <time>2017-02-03T07:05:49Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.927821" lon="30.268957">
   <name>Icebreaker Krasin</name>
+  <time>2020-07-25T05:37:57Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.9417" lon="30.338017">
   <name>Tschischik-Pyschik</name>
+  <time>2017-02-26T06:18:31Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.934402" lon="30.337652">
   <name>Elissey cat</name>
+  <time>2017-02-02T18:14:30Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.926228" lon="30.34247">
   <name>Five corners</name>
+  <time>2019-05-29T04:39:51Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.931543" lon="30.307727">
   <name>Water column</name>
+  <time>2019-06-23T04:36:22Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.935864" lon="30.325891">
   <name>Singer House</name>
+  <time>2016-07-29T05:09:40Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.933206" lon="30.314709">
   <name>Au Pont Rouge</name>
+  <time>2020-07-25T07:06:46Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.936273" lon="30.341772">
   <name>Rodina Cinema</name>
+  <time>2016-08-06T11:59:24Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.929565" lon="30.286594">
   <name>New Holland</name>
+  <time>2016-08-24T19:04:38Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.952006" lon="30.301188">
   <name>Kamchatka</name>
+  <time>2019-06-18T13:44:32Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.970043" lon="30.325274">
   <name>Botanical garden</name>
+  <time>2014-08-04T03:05:00Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="60.019695" lon="30.3116">
   <name>Flea market</name>
+  <time>2017-02-03T07:04:12Z</time>
   <extensions>
     <color>#ffb300</color>
   </extensions>
 </wpt>
 <wpt lat="59.937577" lon="30.322613">
   <name>Pyshechnaya</name>
+  <time>2017-02-02T18:09:38Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
@@ -126,6 +146,7 @@
 </wpt>
 <wpt lat="59.93329" lon="30.333645">
   <name>Metropole</name>
+  <time>2014-07-11T11:16:12Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
@@ -133,42 +154,49 @@
 </wpt>
 <wpt lat="59.926608" lon="30.342684">
   <name>Bekitzer</name>
+  <time>2017-05-15T06:53:54Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.926916" lon="30.342518">
   <name>At Larisa</name>
+  <time>2017-02-03T07:03:35Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.938027" lon="30.358914">
   <name>Camorra Pizza&amp;Birra</name>
+  <time>2017-02-02T18:19:11Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.965211" lon="30.312413">
   <name>Forno Bravo</name>
+  <time>2017-02-03T06:59:26Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.935759" lon="30.358354">
   <name>Pizza 22 cm</name>
+  <time>2017-05-15T06:50:03Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.937295" lon="30.336714">
   <name>Jack and Chan</name>
+  <time>2016-07-29T07:56:07Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.930652" lon="30.319006">
   <name>I’m Thankful for Today</name>
+  <time>2016-03-27T10:06:38Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
@@ -176,6 +204,7 @@
 </wpt>
 <wpt lat="59.93365" lon="30.314092">
   <name>Clean plates society</name>
+  <time>2017-02-02T18:15:09Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
@@ -183,174 +212,203 @@
 </wpt>
 <wpt lat="59.935806" lon="30.355696">
   <name>Byuro</name>
+  <time>2017-02-02T18:20:49Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.933023" lon="30.327653">
   <name>Fidel</name>
+  <time>2016-05-09T18:56:10Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.921577" lon="30.31915">
   <name>Dickens</name>
+  <time>2014-07-11T10:39:45Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.941449" lon="30.345439">
   <name>Sidreria</name>
+  <time>2016-05-08T21:56:57Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.938904" lon="30.357965">
   <name>Cider and Nancy</name>
+  <time>2017-02-02T18:17:52Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.943349" lon="30.360966">
   <name>Pivnaya Karta</name>
+  <time>2016-02-13T20:55:21Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.941555" lon="30.363399">
   <name>Trappist</name>
+  <time>2016-02-13T20:42:03Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.938922" lon="30.356999">
   <name>RedRum</name>
+  <time>2017-03-05T06:58:05Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.950824" lon="30.3028">
   <name>Breaking Bad</name>
+  <time>2016-07-15T13:41:48Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.930636" lon="30.371167">
   <name>Bakunin</name>
+  <time>2016-02-13T20:02:40Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.930045" lon="30.319899">
   <name>Rockets &amp; Bishops</name>
+  <time>2016-08-21T15:35:29Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.921943" lon="30.355642">
   <name>Viderzhka</name>
+  <time>2018-02-24T07:39:55Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.936804" lon="30.342793">
   <name>Beergeek</name>
+  <time>2016-02-13T20:49:17Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.927611" lon="30.308427">
   <name>Vse Tvoyi Drouzia</name>
+  <time>2017-02-03T07:09:40Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.938924" lon="30.356865">
   <name>Khroniki</name>
+  <time>2017-09-28T18:54:55Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.955719" lon="30.413366">
   <name>Beer &amp; Cakes</name>
+  <time>2018-05-19T14:48:45Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.911197" lon="30.267416">
   <name>AF Brew Taproom</name>
+  <time>2018-07-21T09:25:43Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.940953" lon="30.344977">
   <name>Bukowski</name>
+  <time>2019-03-09T06:21:35Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.92681" lon="30.343642">
   <name>Guzva</name>
+  <time>2019-06-21T23:16:52Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.934412" lon="30.347686">
   <name>Podpisnie Izdaniya</name>
+  <time>2019-06-13T19:16:38Z</time>
   <extensions>
     <color>#ffb300</color>
   </extensions>
 </wpt>
 <wpt lat="59.940731" lon="30.340876">
   <name>Tawny Bar</name>
+  <time>2019-06-14T08:16:14Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.929037" lon="30.343701">
   <name>Fartuk</name>
+  <time>2019-06-14T05:43:06Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.936912" lon="30.355352">
   <name>Jawsspot</name>
+  <time>2019-03-09T06:19:55Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
 </wpt>
 <wpt lat="59.946004" lon="30.290622">
   <name>Buterbrodskybar</name>
+  <time>2020-07-06T10:52:39Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.939501" lon="30.285781">
   <name>Vasileostrovsky Market</name>
+  <time>2020-07-06T05:51:40Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.924345" lon="30.241745">
   <name>Sevcable Port</name>
+  <time>2020-07-06T09:48:05Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="59.963406" lon="30.314816">
   <name>Verlé Garden</name>
+  <time>2020-07-07T07:32:33Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="59.936084" lon="30.353129">
   <name>Dead Poets</name>
+  <time>2020-07-25T05:33:48Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="59.936018" lon="30.347906">
   <name>Turbo Shawarma</name>
+  <time>2020-07-27T13:34:44Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>

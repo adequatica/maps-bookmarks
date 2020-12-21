@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="40.39282" lon="-3.6993121">
   <name>Matadero Madrid</name>
+  <time>2017-05-20T08:01:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="40.41985" lon="-3.7022491">
   <name>Tryp Gran Vía</name>
+  <time>2017-05-20T08:02:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -16,6 +18,7 @@
 </wpt>
 <wpt lat="40.419669" lon="-3.6989393">
   <name>Museo Chicote</name>
+  <time>2017-05-20T08:03:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -23,6 +26,7 @@
 </wpt>
 <wpt lat="40.416173" lon="-3.7016742">
   <name>Calle de la Victoria</name>
+  <time>2017-05-20T08:04:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -30,6 +34,7 @@
 </wpt>
 <wpt lat="40.414469" lon="-3.7003447">
   <name>Cerveceria Alemana</name>
+  <time>2017-05-20T08:05:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -37,6 +42,7 @@
 </wpt>
 <wpt lat="40.415799" lon="-3.6995749">
   <name>La Venencia</name>
+  <time>2017-05-20T08:06:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -44,6 +50,7 @@
 </wpt>
 <wpt lat="40.432321" lon="-3.6634375">
   <name>Plaza de toros de Las Ventas</name>
+  <time>2017-05-20T08:07:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -51,6 +58,7 @@
 </wpt>
 <wpt lat="40.41548" lon="-3.6958011">
   <name>Palace Hotel</name>
+  <time>2017-05-20T08:08:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -58,6 +66,7 @@
 </wpt>
 <wpt lat="40.414175" lon="-3.707981">
   <name>El Sobrino de Botín</name>
+  <time>2017-05-20T08:09:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -65,6 +74,7 @@
 </wpt>
 <wpt lat="40.420431" lon="-3.701887">
   <name>Telefonica Building</name>
+  <time>2017-05-20T08:10:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -72,6 +82,7 @@
 </wpt>
 <wpt lat="40.419771" lon="-3.705516">
   <name>Hotel Florida (demolished)</name>
+  <time>2017-05-20T08:11:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -79,6 +90,7 @@
 </wpt>
 <wpt lat="40.419519" lon="-3.7069845">
   <name>El Callejón (demolished)</name>
+  <time>2017-05-20T08:12:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -86,6 +98,7 @@
 </wpt>
 <wpt lat="40.41867" lon="-3.6902797">
   <name>Gaylord's Hotel (demolished)</name>
+  <time>2020-08-27T10:42:34Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -93,6 +106,7 @@
 </wpt>
 <wpt lat="40.417865" lon="-3.6962168">
   <name>Hotel Suecia</name>
+  <time>2017-05-20T08:14:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -101,6 +115,7 @@ Ernesto Che Guevara also stayed here in 1959.</desc>
 </wpt>
 <wpt lat="42.817654" lon="-1.6427203">
   <name>Gran Hotel La Perla</name>
+  <time>2017-05-20T09:15:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -108,6 +123,7 @@ Ernesto Che Guevara also stayed here in 1959.</desc>
 </wpt>
 <wpt lat="42.816532" lon="-1.6418164">
   <name>Hotel Quintana</name>
+  <time>2017-05-20T09:16:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -115,6 +131,7 @@ Ernesto Che Guevara also stayed here in 1959.</desc>
 </wpt>
 <wpt lat="42.816503" lon="-1.6419907">
   <name>El Txoko</name>
+  <time>2017-05-20T09:17:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -122,6 +139,7 @@ Ernesto Che Guevara also stayed here in 1959.</desc>
 </wpt>
 <wpt lat="42.817477" lon="-1.642452">
   <name>Bar Torino</name>
+  <time>2017-05-20T09:18:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -129,12 +147,14 @@ Ernesto Che Guevara also stayed here in 1959.</desc>
 </wpt>
 <wpt lat="42.817434" lon="-1.643254">
   <name>Café Iruña</name>
+  <time>2017-05-20T09:19:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="42.815842" lon="-1.6405155">
   <name>Ernest Hemingway Statue</name>
+  <time>2017-05-20T09:20:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

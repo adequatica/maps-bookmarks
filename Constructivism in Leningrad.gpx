@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="59.949511" lon="30.271591">
   <name>Корпус завода имени Козицкого</name>
+  <time>2020-07-18T07:30:52Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="59.933703" lon="30.254325">
   <name>Дворец культуры имени Кирова</name>
+  <time>2020-07-08T08:14:05Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -16,6 +18,7 @@
 </wpt>
 <wpt lat="59.932034" lon="30.260157">
   <name>Фабрика-кухня Василеостровского района</name>
+  <time>2020-07-08T11:08:05Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -23,6 +26,7 @@
 </wpt>
 <wpt lat="59.928338" lon="30.264903">
   <name>Водонапорная башня завода «Красный гвоздильщик»</name>
+  <time>2020-07-08T08:21:55Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -30,6 +34,7 @@
 </wpt>
 <wpt lat="59.90045" lon="30.275821">
   <name>Дворец культуры имени Горького</name>
+  <time>2020-07-08T13:15:04Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -37,6 +42,7 @@
 </wpt>
 <wpt lat="59.899881" lon="30.272613">
   <name>Универмаг и фабрика-кухня Кировского района</name>
+  <time>2020-07-14T18:58:58Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -44,6 +50,7 @@
 </wpt>
 <wpt lat="59.900307" lon="30.277211">
   <name>Дом технической учебы</name>
+  <time>2020-07-08T08:10:32Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -51,6 +58,7 @@
 </wpt>
 <wpt lat="59.89857" lon="30.278933">
   <name>Жилмассив на Тракторной улице</name>
+  <time>2020-07-14T11:56:41Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -58,6 +66,7 @@
 </wpt>
 <wpt lat="59.89456" lon="30.278753">
   <name>Кировский райсовет</name>
+  <time>2020-07-14T13:10:03Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -65,6 +74,7 @@
 </wpt>
 <wpt lat="59.888675" lon="30.273248">
   <name>Техническая школа</name>
+  <time>2020-07-24T09:15:30Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -72,6 +82,7 @@
 </wpt>
 <wpt lat="59.889252" lon="30.269737">
   <name>Серафимовский участок</name>
+  <time>2020-07-24T09:14:50Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -79,6 +90,7 @@
 </wpt>
 <wpt lat="59.893848" lon="30.26854">
   <name>Ушаковские бани</name>
+  <time>2020-07-08T08:09:35Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -86,6 +98,7 @@
 </wpt>
 <wpt lat="59.895071" lon="30.271455">
   <name>Профилакторий Кировского района</name>
+  <time>2020-07-14T18:59:45Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -93,6 +106,7 @@
 </wpt>
 <wpt lat="59.897456" lon="30.274655">
   <name>Школа имени 10-летия Октября</name>
+  <time>2020-07-14T18:56:04Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -100,6 +114,7 @@
 </wpt>
 <wpt lat="59.961198" lon="30.281789">
   <name>Трикотажная фабрика «Красное знамя»</name>
+  <time>2020-07-08T08:05:38Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -107,6 +122,7 @@
 </wpt>
 <wpt lat="59.965893" lon="30.284339">
   <name>Левашовский хлебозавод</name>
+  <time>2020-07-08T08:06:58Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -114,6 +130,7 @@
 </wpt>
 <wpt lat="59.960492" lon="30.30945">
   <name>Петроградская АТС</name>
+  <time>2020-07-24T06:21:02Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -121,6 +138,7 @@
 </wpt>
 <wpt lat="59.956272" lon="30.323008">
   <name>Академия железнодорожного транспорта</name>
+  <time>2020-07-14T19:09:13Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -128,6 +146,7 @@
 </wpt>
 <wpt lat="59.952641" lon="30.32809">
   <name>Дом-коммуна Общества политкаторжанин</name>
+  <time>2020-07-14T13:44:53Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -135,6 +154,7 @@
 </wpt>
 <wpt lat="59.968668" lon="30.312485">
   <name>Первый жилой дом Ленсовета</name>
+  <time>2020-07-08T08:04:28Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -142,6 +162,7 @@
 </wpt>
 <wpt lat="59.969398" lon="30.314762">
   <name>Завод «Полиграфмаш»</name>
+  <time>2020-07-14T19:14:42Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -149,6 +170,7 @@
 </wpt>
 <wpt lat="59.971652" lon="30.307508">
   <name>Кооперативный дом совторгслужащих</name>
+  <time>2020-07-14T19:13:12Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -156,6 +178,7 @@
 </wpt>
 <wpt lat="59.966971" lon="30.309335">
   <name>Дворец культуры имени Ленсовета</name>
+  <time>2020-07-24T13:45:24Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -163,6 +186,7 @@
 </wpt>
 <wpt lat="59.98633" lon="30.347202">
   <name>Клуб Политехнического института имени Калинина</name>
+  <time>2020-07-26T11:05:54Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -170,6 +194,7 @@
 </wpt>
 <wpt lat="59.986941" lon="30.349458">
   <name>Школа</name>
+  <time>2020-07-24T09:22:17Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -177,6 +202,7 @@
 </wpt>
 <wpt lat="59.986167" lon="30.342267">
   <name>Жилмассив на Лесном пр. 65</name>
+  <time>2020-07-26T11:05:10Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -184,6 +210,7 @@
 </wpt>
 <wpt lat="59.984243" lon="30.342991">
   <name>Жилмассив на Лесном пр. 61</name>
+  <time>2020-07-24T09:20:01Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -191,6 +218,7 @@
 </wpt>
 <wpt lat="59.982844" lon="30.343412">
   <name>Жилмассив на Лесном пр. 59</name>
+  <time>2020-07-24T09:19:43Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -198,6 +226,7 @@
 </wpt>
 <wpt lat="59.981559" lon="30.344111">
   <name>Жилмассив на Лесном пр. 39</name>
+  <time>2020-07-24T09:19:26Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -205,6 +234,7 @@
 </wpt>
 <wpt lat="59.979686" lon="30.345073">
   <name>Жилмассив на Лесном пр. 37</name>
+  <time>2020-07-24T09:19:06Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -212,6 +242,7 @@
 </wpt>
 <wpt lat="59.972073" lon="30.345042">
   <name>Бабуринский жилмассив</name>
+  <time>2020-07-24T09:16:27Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -219,6 +250,7 @@
 </wpt>
 <wpt lat="59.969702" lon="30.342521">
   <name>Выборгская фабрика-кухня</name>
+  <time>2020-07-08T08:03:59Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -226,6 +258,7 @@
 </wpt>
 <wpt lat="59.938756" lon="30.351472">
   <name>Некрасовский телефонный узел</name>
+  <time>2020-07-24T07:53:30Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -233,6 +266,7 @@
 </wpt>
 <wpt lat="59.946801" lon="30.349548">
   <name>Здание ведомства внутренних дел</name>
+  <time>2020-07-26T11:59:14Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -240,6 +274,7 @@
 </wpt>
 <wpt lat="59.948502" lon="30.35053">
   <name>Здание НКВД</name>
+  <time>2020-07-14T19:17:32Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -247,6 +282,7 @@
 </wpt>
 <wpt lat="59.931076" lon="30.344827">
   <name>Дом-коммуна инженеров и писателей</name>
+  <time>2020-07-23T14:12:18Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

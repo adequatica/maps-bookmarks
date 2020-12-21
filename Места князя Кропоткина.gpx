@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="56.341165" lon="37.521247">
   <name>10. Дом-музей П.А. Кропоткина</name>
+  <time>2019-07-06T07:22:23Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="55.761996" lon="37.607779">
   <name>09. Леонтьевский переулок</name>
+  <time>2019-07-04T03:55:54Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -16,6 +18,7 @@
 </wpt>
 <wpt lat="59.93935" lon="30.319851">
   <name>08. Ресторан Донон</name>
+  <time>2019-07-06T07:19:34Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -23,6 +26,7 @@
 </wpt>
 <wpt lat="59.9426" lon="30.385311">
   <name>07. Николаевский военный госпиталь</name>
+  <time>2019-06-22T07:07:14Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -30,6 +34,7 @@
 </wpt>
 <wpt lat="59.948679" lon="30.313593">
   <name>06. Петропавловская крепость</name>
+  <time>2019-06-22T07:08:17Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -37,6 +42,7 @@
 </wpt>
 <wpt lat="59.964871" lon="30.331833">
   <name>05. Казарменный переулок</name>
+  <time>2019-06-22T07:06:29Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -44,6 +50,7 @@
 </wpt>
 <wpt lat="59.930999" lon="30.332647">
   <name>04. Пажеский корпус</name>
+  <time>2019-06-29T10:02:35Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -51,6 +58,7 @@
 </wpt>
 <wpt lat="55.746072" lon="37.593086">
   <name>03. Малый Власьевский переулок</name>
+  <time>2020-02-12T05:40:09Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -58,6 +66,7 @@
 </wpt>
 <wpt lat="55.741595" lon="37.590211">
   <name>02. Малый Лёвшинский переулок</name>
+  <time>2020-02-12T05:38:09Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -65,6 +74,7 @@
 </wpt>
 <wpt lat="55.741481" lon="37.58772">
   <name>01. Дом Кропоткина</name>
+  <time>2019-06-29T10:00:04Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

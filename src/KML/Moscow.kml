@@ -426,14 +426,6 @@
   </Placemark>
   <Placemark>
     <name>Danilovskiy market</name>
-    <description>From Paveletskaya by trams:
-• A (stop near Paveletskaya till Shabolovskaya);
-• 3 (stop near Paveletskaya till Ak. Yangelya, exit after Danilov monastery);
-• 39 (stop near Paveletskaya till Universitet, passed by Leninskiy Prospekt);
-• 35 (stop after Paveletskaya, exit after Danilov monastery);
-• 38 (stop after Paveletskaya till Cheremushki).
-To Shabolovskaya: A, 47;
-To Leninskiy Prospekt: 39.</description>
     <TimeStamp><when>2017-09-04T06:06:03Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.620614,55.712162</coordinates></Point>

@@ -2,36 +2,42 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="49.346729" lon="2.9800804">
   <name>Château de Pierrefonds</name>
+  <time>2017-03-17T18:28:58Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="49.418135" lon="2.8221403">
   <name>Tour Jeanne d’Arc</name>
+  <time>2017-03-17T18:32:15Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="49.427864" lon="2.9063438">
   <name>Armistice</name>
+  <time>2017-03-17T18:27:45Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="49.370722" lon="-0.87968814">
   <name>D Day</name>
+  <time>2017-03-17T18:30:22Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="48.635856" lon="-1.512609">
   <name>Mont-Saint-Michel</name>
+  <time>2017-03-17T18:29:28Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="49.432612" lon="2.0814894">
   <name>Cathédrale Saint-Pierre de Beauvais</name>
+  <time>2017-03-17T20:22:46Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>

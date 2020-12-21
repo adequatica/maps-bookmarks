@@ -2,6 +2,7 @@
 <gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="40.432136" lon="-3.6632954">
   <name>Plaza de toros de Las Ventas</name>
+  <time>2017-03-20T19:21:52Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -9,6 +10,7 @@
 </wpt>
 <wpt lat="40.414715" lon="-3.6924939">
   <name>Museo del Prado</name>
+  <time>2017-03-20T19:27:49Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -16,24 +18,28 @@
 </wpt>
 <wpt lat="40.418541" lon="-3.6925905">
   <name>Correos</name>
+  <time>2017-03-20T19:28:28Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="40.417899" lon="-3.7143334">
   <name>Royal Palace</name>
+  <time>2015-07-23T07:22:12Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="40.424019" lon="-3.7177648">
   <name>The Temple of Debod</name>
+  <time>2017-03-20T19:41:38Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
 </wpt>
 <wpt lat="40.427897" lon="-3.7219124">
   <name>Teleférico de Madrid</name>
+  <time>2015-07-23T07:24:18Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
@@ -41,18 +47,21 @@
 </wpt>
 <wpt lat="40.411169" lon="-3.6907585">
   <name>Real Jardín Botánico de Madrid</name>
+  <time>2017-03-20T19:36:25Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="40.414867" lon="-3.6827119">
   <name>El Retiro Park</name>
+  <time>2017-03-20T19:37:03Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="40.41024" lon="-3.7072836">
   <name>El Rastro</name>
+  <time>2017-03-20T19:30:46Z</time>
   <extensions>
     <color>#ffb300</color>
   </extensions>
@@ -60,36 +69,42 @@
 </wpt>
 <wpt lat="40.411651" lon="-3.6986228">
   <name>Mercado de Antón Martín</name>
+  <time>2017-03-20T19:29:08Z</time>
   <extensions>
     <color>#ffb300</color>
   </extensions>
 </wpt>
 <wpt lat="40.405523" lon="-3.6898586">
   <name>Puerta de Atocha</name>
+  <time>2017-03-20T19:27:10Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
 </wpt>
 <wpt lat="40.412225" lon="-3.6991243">
   <name>Museo del Jamón</name>
+  <time>2015-07-23T07:42:30Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="40.425443" lon="-3.6746787">
   <name>Museo del Jamón</name>
+  <time>2015-07-23T07:38:41Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
 </wpt>
 <wpt lat="40.408167" lon="-3.6998217">
   <name>Casa de Asturias</name>
+  <time>2017-03-20T19:29:27Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
 </wpt>
 <wpt lat="40.42497" lon="-3.7252531">
   <name>Casa Mingo</name>
+  <time>2015-07-23T07:25:46Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -97,6 +112,7 @@
 </wpt>
 <wpt lat="40.41459" lon="-3.7082197">
   <name>Maestro Villa</name>
+  <time>2017-03-20T19:34:15Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
