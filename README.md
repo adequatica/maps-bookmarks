@@ -1,10 +1,10 @@
 # Point of Interests
 
+During the last decade I saved almost a thousand places where I have been and will be glad if someone will find them useful.
+
 I've been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined and became completely unusable.
 
-I had to convert KML files into GPX for migration bookmarks to [OsmAnd](https://osmand.net). Now they could be imported to OsmAnd as waypoints in Trips.
-
-I saved almost a thousand places where I have been and will be glad if someone find them useful.
+I converted KML files into GPX for migration bookmarks to another app and now they could be imported to [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
 
 ## Map legend
 
@@ -13,8 +13,8 @@ I saved almost a thousand places where I have been and will be glad if someone
 * Yellow — shops, markets, fairs;
 * Green — parks, botanical gardens, mountainboard parks;
 * Purple — bars or pubs;
-* Magenta — craft beer bars and breweries or craft beer bootle shops;
-* Gray — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
+* Brown — craft beer bars and breweries or craft beer bootle shops;
+* Pink — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
 
 ## Lists of bookmarks
 
@@ -36,7 +36,7 @@ I saved almost a thousand places where I have been and will be glad if someone
 1. Leningrad Oblast — 16
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow — 49
+1. Moscow — 50
 1. Moscow Oblast — 18
 1. Moscow Castles ✻ — 22
 1. Mountainboard Parks ✻ — 20

@@ -301,6 +301,13 @@
     <color>#9c27b0</color>
   </extensions>
 </wpt>
+<wpt lat="55.756413" lon="37.635256">
+  <name>Sila Vetra</name>
+  <time>2020-06-22T09:07:14Z</time>
+  <extensions>
+    <color>#2196f3</color>
+  </extensions>
+</wpt>
 <wpt lat="55.764178" lon="37.616816">
   <name>Manneken Pis</name>
   <time>2020-06-27T10:46:13Z</time>
