@@ -82,7 +82,7 @@
   <Placemark>
     <name>3: Town Hall Square</name>
     <description>The safest place from the City hall to the corner of Mercades street.</description>
-    <TimeStamp><when>2017-03-20T17:11:35Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T17:11:35Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-1.6439903,42.818229</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -92,7 +92,7 @@
   <Placemark>
     <name>4: La Curva</name>
     <description>The route curves at 90° angle into Estafeta street.</description>
-    <TimeStamp><when>2017-03-20T08:08:51Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T18:08:51Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-1.6430016,42.818472</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -102,7 +102,7 @@
   <Placemark>
     <name>5: Estafeta Kalea</name>
     <description>300 m straight street.</description>
-    <TimeStamp><when>2015-07-23T16:03:17Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T19:03:17Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-1.6420112,42.81724</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -112,7 +112,7 @@
   <Placemark>
     <name>6: Telefonica</name>
     <description>Less than 100 m with a double section of protection barriers – opens wide then quickly narrows into a tunnel «Callejon».</description>
-    <TimeStamp><when>2017-03-20T17:13:12Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T19:13:12Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-1.6411102,42.815984</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -121,7 +121,7 @@
   </Placemark>
   <Placemark>
     <name>7: Bullring of Pamplona</name>
-    <TimeStamp><when>2017-03-20T17:14:01Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T19:14:01Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-1.6397949,42.816039</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -130,8 +130,8 @@
   </Placemark>
   <Placemark>
     <name>Ernest Hemingway Statue</name>
-    <TimeStamp><when>2017-03-20T08:05:27Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
+    <TimeStamp><when>2015-07-23T20:05:27Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-1.6405155,42.815842</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:scale>17</mwm:scale>
@@ -140,7 +140,7 @@
   <Placemark>
     <name>Left Luggage Office</name>
     <description>Price per item of baggage for 24 hours is 4,6€.</description>
-    <TimeStamp><when>2015-07-23T16:05:18Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T20:05:28Z</when></TimeStamp>
     <styleUrl>#placemark-blue</styleUrl>
     <Point><coordinates>-1.6468482,42.816577</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -149,7 +149,7 @@
   </Placemark>
   <Placemark>
     <name>Pamplona Bus Station</name>
-    <TimeStamp><when>2017-03-20T08:06:46Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T20:06:46Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6453958,42.811577</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

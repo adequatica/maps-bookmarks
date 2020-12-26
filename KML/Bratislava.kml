@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Hlavná Stanica</name>
-    <TimeStamp><when>2017-05-08T15:24:50Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-12T05:24:50Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>17.106157,48.158489</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -79,7 +79,7 @@
   </Placemark>
   <Placemark>
     <name>Slavín</name>
-    <TimeStamp><when>2014-12-30T19:08:20Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-12T09:08:20Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>17.099587,48.153899</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -89,7 +89,7 @@
   <Placemark>
     <name>Slovak Radio</name>
     <description>The building is shaped like an inverted pyramid.</description>
-    <TimeStamp><when>2014-12-30T19:21:36Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-12T09:21:36Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>17.113864,48.154093</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -99,7 +99,7 @@
   <Placemark>
     <name>Námestie Slobody</name>
     <description>Freedom square; the square's centerpiece is the ugly Fountain of Union. It is the biggest and fountain in the whole Slovak Republic, but now is out of order.</description>
-    <TimeStamp><when>2015-01-12T06:11:53Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-12T10:11:53Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>17.111708,48.152125</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -109,7 +109,7 @@
   <Placemark>
     <name>Slovenská Národná Galéria</name>
     <description>The modern extension of the Slovak National Gallery has a brutalist architecture style.</description>
-    <TimeStamp><when>2017-03-14T05:45:28Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-12T10:44:28Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>17.108686,48.140278</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -118,7 +118,7 @@
   </Placemark>
   <Placemark>
     <name>The Embassy of the Sovereign Order of Malta</name>
-    <TimeStamp><when>2017-03-14T05:44:41Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-12T10:45:41Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>17.105111,48.143503</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -127,7 +127,7 @@
   </Placemark>
   <Placemark>
     <name>Bratislava Castle</name>
-    <TimeStamp><when>2014-12-30T18:31:42Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-12T11:31:42Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>17.100384,48.142455</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -137,7 +137,7 @@
   <Placemark>
     <name>Bratislavský Meštiansky Pivovar</name>
     <description>Huge and popular beer restaurant.</description>
-    <TimeStamp><when>2015-01-18T13:19:15Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-12T13:19:15Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>17.117704,48.145963</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -147,7 +147,7 @@
   <Placemark>
     <name>Le Šenk</name>
     <description>Bar with local craft beer.</description>
-    <TimeStamp><when>2014-12-30T20:41:17Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-12T14:41:17Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>17.104078,48.141762</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

@@ -91,7 +91,7 @@
   <Placemark>
     <name>The Venetian loggia</name>
     <description>This is a two-storeay Venetian mansion completed in 1628, which used to be a meeting place for the nobles of Crete.</description>
-    <TimeStamp><when>2017-11-06T14:26:33Z</when></TimeStamp>
+    <TimeStamp><when>2017-11-06T14:24:33Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>25.134171,35.339791</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

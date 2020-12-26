@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Etna</name>
-    <TimeStamp><when>2019-07-20T07:18:56Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-04T07:18:56Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>14.994033,37.751025</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -89,7 +89,7 @@
   </Placemark>
   <Placemark>
     <name>Catania Centrale</name>
-    <TimeStamp><when>2019-10-06T08:28:54Z</when></TimeStamp>
+    <TimeStamp><when>2020-01-04T18:28:54Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>15.099957,37.506708</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -104,7 +104,7 @@
   </Placemark>
   <Placemark>
     <name>Castello Ursino</name>
-    <TimeStamp><when>2019-10-06T08:30:54Z</when></TimeStamp>
+    <TimeStamp><when>2020-01-04T18:30:54Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>15.084665,37.498842</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -119,7 +119,7 @@
   </Placemark>
   <Placemark>
     <name>San Nicolò l'Arena</name>
-    <TimeStamp><when>2020-01-03T18:59:01Z</when></TimeStamp>
+    <TimeStamp><when>2020-01-04T18:59:01Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>15.080051,37.50429</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -134,7 +134,7 @@
   </Placemark>
   <Placemark>
     <name>La Pescheria</name>
-    <TimeStamp><when>2020-01-04T05:50:30Z</when></TimeStamp>
+    <TimeStamp><when>2020-01-04T19:50:30Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>15.08703,37.501418</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -163,7 +163,7 @@
   </Placemark> 
   <Placemark>
     <name>Castello Maniace</name>
-    <TimeStamp><when>2019-07-20T09:21:37Z</when></TimeStamp>
+    <TimeStamp><when>2020-01-05T11:21:37Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>15.295549,37.053388</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -243,7 +243,7 @@
   </Placemark>
   <Placemark>
     <name>Il Tempio di Athena</name>
-    <TimeStamp><when>2020-01-05T20:20:30Z</when></TimeStamp>
+    <TimeStamp><when>2020-01-08T12:20:30Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>15.294035,37.056938</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

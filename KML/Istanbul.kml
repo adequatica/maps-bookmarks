@@ -92,7 +92,7 @@
   <Placemark>
     <name>Basilica Cistern</name>
     <description>The cistern was built in the 6th century during the reign (527–565) of Byzantine Emperor Justinian I. This cistern is an underground chamber approximately 138 meters by 65 meters (about 9,800 square meters in area) and capable of holding 80,000 cubic meters of water. The ceiling is supported by a forest of 336 marble columns, each 9 metres high, arranged in 12 rows of 28 columns each spaced 5 metres apart. The cistern has the capacity to store 100,000 tons of water.</description>
-    <TimeStamp><when>2018-02-04T16:54:06Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T16:54:06Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.97792,41.008404</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -102,7 +102,7 @@
   <Placemark>
     <name>Valens Aqueduct</name>
     <description>It is a Roman aqueduct which was the major water-providing system of the Eastern Roman capital of Constantinople. Completed by Roman Emperor Valens in the late 4th century, it was maintained and used by the Byzantines and later the Ottomans, and remains one of the most important landmarks of the city.</description>
-    <TimeStamp><when>2018-02-24T08:05:11Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T18:05:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.955934,41.015789</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -112,7 +112,7 @@
   <Placemark>
     <name>Theodosian Walls</name>
     <description>The Walls of Constantinople was built in the 5th century. Although the other sections of the walls were less elaborate, when well-manned, they were almost impregnable for any medieval besieger, saving the city, and the Byzantine Empire with it. The advent of gunpowder siege cannons rendered the fortifications vulnerable. Ultimately the city fell from sheer weight of numbers of the Ottoman forces in 1453 after a six-week siege. The walls were largely maintained intact during most of the Ottoman period, until sections began to be dismantled in the 19th century, as the city outgrew its medieval boundaries, but many parts of the walls survived and are still standing today.</description>
-    <TimeStamp><when>2018-03-10T09:26:01Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T19:26:01Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.924386,41.019272</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -122,7 +122,7 @@
   <Placemark>
     <name>Galata Tower</name>
     <description>The Romanesque style tower was built as Christea Turris (Tower of Christ) in 1348 during an expansion of the Genoese colony in Constantinople. It was the tallest building in Istanbul at 66.9 m (51.65 m at the observation deck) when it was built. The upper section of the tower was modified in several restorations during the Ottoman period when it was used as an observation tower for spotting fires.</description>
-    <TimeStamp><when>2018-04-30T08:03:26Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T20:03:26Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.974185,41.025627</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -132,7 +132,7 @@
   <Placemark>
     <name>Rumeli Hisari</name>
     <description>Rumelian Castle is a medieval fortress built between 1451 and 1452 on the orders of Ottoman Sultan Mehmed II. After the Ottoman conquest of the city of Constantinople, Rumelihisarı served as a customs checkpoint and occasional prison.</description>
-    <TimeStamp><when>2018-04-01T10:47:19Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T20:47:19Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>29.055801,41.084715</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -142,7 +142,7 @@
   <Placemark>
     <name>Grand Bazar</name>
     <description>The Grand Bazaar is one of the largest and oldest covered markets in the world, with 61 covered streets and over 4,000 shops which attract between 250,000 and 400,000 visitors daily. The construction of the future Grand Bazaar's core started during the winter of 1455–56, shortly after the Ottoman conquest of Constantinople.</description>
-    <TimeStamp><when>2018-04-30T11:11:01Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T21:11:01Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>28.969962,41.01011</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -152,7 +152,7 @@
   <Placemark>
     <name>Egyptian (Spice) Bazaar</name>
     <description>There are several documents suggesting the name of the bazaar was first «New Bazaar». The building itself is part of the complex of the New Mosque, and got its name «Egyptian Bazaar» because it was built with the revenues from the Ottoman eyalet of Egypt in 1660. The bazaar was (and still is) the center for spice trade, Turkish delight and other sweets.</description>
-    <TimeStamp><when>2018-02-04T07:55:20Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T21:55:20Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>28.971142,41.016139</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -171,7 +171,7 @@
   </Placemark>
   <Placemark>
     <name>Eminonu</name>
-    <TimeStamp><when>2018-05-06T06:32:13Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-06T07:32:13Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.970437,41.018827</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -180,7 +180,7 @@
   </Placemark>
   <Placemark>
     <name>Bosphorus Brewing Company</name>
-    <TimeStamp><when>2018-04-28T04:59:08Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-06T07:59:08Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>29.006228,41.066525</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -189,7 +189,7 @@
   </Placemark>
   <Placemark>
     <name>Craft Beer Lab</name>
-    <TimeStamp><when>2018-05-03T12:12:04Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-06T12:12:04Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>29.002985,41.042327</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

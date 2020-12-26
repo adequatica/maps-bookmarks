@@ -59,21 +59,9 @@
   </Style>
   <name>Portugal</name>
   <visibility>0</visibility>
-  <ExtendedData xmlns:mwm="https://maps.me">
-    <mwm:name>
-      <mwm:lang code="default">Portugal</mwm:lang>
-    </mwm:name>
-    <mwm:annotation>
-    </mwm:annotation>
-    <mwm:description>
-      <mwm:lang code="default"></mwm:lang>
-    </mwm:description>
-    <mwm:lastModified>2019-01-17T20:07:04Z</mwm:lastModified>
-    <mwm:accessRules>Local</mwm:accessRules>
-  </ExtendedData>
   <Placemark>
     <name>Monument to the Discoveries</name>
-    <TimeStamp><when>2018-07-15T07:02:49Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-30T07:02:49Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.2057224,38.693588</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -82,7 +70,7 @@
   </Placemark>
   <Placemark>
     <name>Navy Museum</name>
-    <TimeStamp><when>2018-07-15T07:04:36Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-30T07:04:36Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.2093286,38.697146</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -91,7 +79,7 @@
   </Placemark>
   <Placemark>
     <name>Jerónimos Monastery</name>
-    <TimeStamp><when>2018-12-15T20:35:32Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-30T07:35:32Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.2065311,38.69813</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -100,7 +88,7 @@
   </Placemark>
   <Placemark>
     <name>Belém Tower</name>
-    <TimeStamp><when>2018-10-28T07:50:22Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-30T07:50:22Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.2159108,38.691616</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -109,7 +97,7 @@
   </Placemark>
   <Placemark>
     <name>Pastéis de Belém</name>
-    <TimeStamp><when>2018-12-24T22:07:14Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-30T07:57:14Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-9.2033124,38.697482</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -128,7 +116,7 @@
   <Placemark>
     <name>Cascais</name>
     <description>40–50 min from Lisboa by train.</description>
-    <TimeStamp><when>2018-10-14T06:51:40Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-31T06:51:40Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-9.4180393,38.700808</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -138,7 +126,7 @@
   <Placemark>
     <name>Cais do Sodré</name>
     <description>Watch out, some trains could pass through Belém without stop.</description>
-    <TimeStamp><when>2018-11-11T08:08:57Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-31T08:08:57Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-9.1451165,38.706049</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -148,7 +136,7 @@
   <Placemark>
     <name>Rossio</name>
     <description>40–50 min from Lisboa by train.</description>
-    <TimeStamp><when>2019-01-01T16:15:23Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-31T09:15:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-9.1419435,38.714671</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -157,7 +145,7 @@
   </Placemark>
   <Placemark>
     <name>Gare do Oriente</name>
-    <TimeStamp><when>2018-10-14T06:38:48Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-31T10:38:48Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-9.0988954,38.767794</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -167,7 +155,7 @@
   <Placemark>
     <name>Pala do Pavilhão de Portugal</name>
     <description>The Portugal pavilion at the Expo 1998.</description>
-    <TimeStamp><when>2019-01-05T11:02:29Z</when></TimeStamp>
+    <TimeStamp><when>2018-12-31T11:02:29Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.0950585,38.765844</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -176,7 +164,7 @@
   </Placemark>
   <Placemark>
     <name>National Azulejo Museum</name>
-    <TimeStamp><when>2018-12-01T17:38:30Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-01T07:38:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.1137417,38.724844</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -185,7 +173,7 @@
   </Placemark>
   <Placemark>
     <name>Calouste Gulbenkian Museum</name>
-    <TimeStamp><when>2018-11-17T14:42:00Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-01T07:42:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.1535092,38.737795</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -194,7 +182,7 @@
   </Placemark>
   <Placemark>
     <name>Santa Justa Lift</name>
-    <TimeStamp><when>2018-10-28T07:57:25Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-01T07:57:25Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.1393659,38.712111</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -203,7 +191,7 @@
   </Placemark>
   <Placemark>
     <name>Castelo de São Jorge</name>
-    <TimeStamp><when>2018-10-28T07:28:40Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-02T07:28:40Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.1336105,38.713966</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -222,7 +210,7 @@
   </Placemark>
   <Placemark>
     <name>Delirium Cafe Lisboa</name>
-    <TimeStamp><when>2018-12-30T18:04:50Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-02T21:04:50Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>-9.1396059,38.71042</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -232,7 +220,7 @@
   <Placemark>
     <name>TimeOut Market Lisboa</name>
     <description>Overpriced: too expensive, too overcrowded.</description>
-    <TimeStamp><when>2018-12-24T22:05:55Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-02T22:05:55Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-9.1459722,38.70697</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -241,7 +229,7 @@
   </Placemark>
   <Placemark>
     <name>A Brasileira</name>
-    <TimeStamp><when>2018-12-15T21:10:48Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-03T08:10:48Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-9.1420374,38.710694</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -250,7 +238,7 @@
   </Placemark>
   <Placemark>
     <name>Fabrica da Nata</name>
-    <TimeStamp><when>2019-01-02T08:10:55Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-03T08:10:55Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-9.1410449,38.715794</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -259,7 +247,7 @@
   </Placemark>
   <Placemark>
     <name>Duque Brewpub</name>
-    <TimeStamp><when>2018-12-16T16:31:10Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-03T16:31:10Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>-9.1424933,38.713122</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -268,7 +256,7 @@
   </Placemark>
   <Placemark>
     <name>Outro Lado</name>
-    <TimeStamp><when>2018-12-29T17:06:33Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-03T17:06:33Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>-9.1340068,38.709422</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -278,7 +266,7 @@
   <Placemark>
     <name>Sintra</name>
     <description>434 bus to Pena.</description>
-    <TimeStamp><when>2018-10-14T06:41:30Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-04T06:41:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-9.3852815,38.799441</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -287,7 +275,7 @@
   </Placemark>
   <Placemark>
     <name>Initiation well</name>
-    <TimeStamp><when>2018-12-23T09:17:36Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-04T09:17:36Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.3969062,38.794533</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -296,7 +284,7 @@
   </Placemark>
   <Placemark>
     <name>Quinta da Regaleira</name>
-    <TimeStamp><when>2018-11-11T17:18:18Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-04T17:18:18Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>-9.3961726,38.795147</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -314,7 +302,7 @@
   </Placemark>
   <Placemark>
     <name>Palácio da Pena</name>
-    <TimeStamp><when>2019-01-16T20:25:31Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-04T20:25:31Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.390257,38.78742</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -323,7 +311,7 @@
   </Placemark>
   <Placemark>
     <name>Castelo dos Mouros</name>
-    <TimeStamp><when>2018-11-11T07:57:46Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-04T20:57:46Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.3893102,38.792674</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -332,7 +320,7 @@
   </Placemark>
   <Placemark>
     <name>Cabo da Roca</name>
-    <TimeStamp><when>2019-01-16T20:46:59Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-05T21:46:59Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>-9.4988516,38.780496</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -341,7 +329,7 @@
   </Placemark>
   <Placemark>
     <name>Farol da Nazaré</name>
-    <TimeStamp><when>2019-01-12T10:20:15Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-05T22:20:15Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-9.0853462,39.604425</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -350,8 +338,7 @@
   </Placemark>
   <Placemark>
     <name>Bus Station Nazaré</name>
-
-    <TimeStamp><when>2018-11-20T06:51:51Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-05T22:51:51Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-9.0687755,39.596894</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -360,7 +347,7 @@
   </Placemark>
   <Placemark>
     <name>Rede Expressos</name>
-    <TimeStamp><when>2018-12-21T06:50:04Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-06T06:50:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-8.5990241,41.149841</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -369,7 +356,7 @@
   </Placemark>
   <Placemark>
     <name>Guimarães</name>
-    <TimeStamp><when>2019-01-04T18:17:42Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-06T07:17:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-8.2948911,41.435238</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -378,7 +365,7 @@
   </Placemark>
   <Placemark>
     <name>Castelo de Guimarães</name>
-    <TimeStamp><when>2018-10-14T06:57:05Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-06T07:57:05Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-8.2903931,41.447887</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -387,7 +374,7 @@
   </Placemark>
   <Placemark>
     <name>Jardim do Palácio Vila Flor</name>
-    <TimeStamp><when>2019-01-04T18:53:15Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-06T08:53:15Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>-8.2947383,41.437737</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -396,7 +383,7 @@
   </Placemark>
   <Placemark>
     <name>Pregaria de Guimarães</name>
-    <TimeStamp><when>2019-01-05T17:08:18Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-06T09:08:18Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-8.2950574,41.440172</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -405,7 +392,7 @@
   </Placemark>
   <Placemark>
     <name>Pastelaria Brasilia</name>
-    <TimeStamp><when>2019-01-06T17:14:56Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-06T09:14:56Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-8.2915505,41.441734</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -414,7 +401,7 @@
   </Placemark>
   <Placemark>
     <name>Central de Camionagem</name>
-    <TimeStamp><when>2019-01-06T20:08:04Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-06T10:08:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-8.302809,41.441107</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -423,7 +410,7 @@
   </Placemark>
   <Placemark>
     <name>Central de Camionagem</name>
-    <TimeStamp><when>2019-01-06T18:40:47Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-06T10:40:47Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-8.4260056,41.555412</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -433,7 +420,7 @@
   <Placemark>
     <name>João XXI-I</name>
     <description>2 bus to Bom Jesus.</description>
-    <TimeStamp><when>2019-01-04T18:22:40Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-07T10:22:40Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-8.4163174,41.548419</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -461,7 +448,7 @@
   <Placemark>
     <name>Porto - São Bento</name>
     <description>Massive azulejo inside.</description>
-    <TimeStamp><when>2018-11-20T05:30:48Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-08T05:30:48Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-8.6095237,41.14548</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -470,7 +457,7 @@
   </Placemark>
   <Placemark>
     <name>Ponte Luís I</name>
-    <TimeStamp><when>2018-10-14T06:59:04Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-08T06:59:04Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-8.6093372,41.139647</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -479,7 +466,7 @@
   </Placemark>
   <Placemark>
     <name>Casa da Música</name>
-    <TimeStamp><when>2018-10-21T08:34:19Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-08T08:34:19Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-8.6307802,41.158827</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -488,7 +475,7 @@
   </Placemark>
   <Placemark>
     <name>Clerics Tower</name>
-    <TimeStamp><when>2019-01-09T21:49:24Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-09T09:49:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-8.6146453,41.145651</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -497,7 +484,7 @@
   </Placemark>
   <Placemark>
     <name>Miradouro da Vitoria</name>
-    <TimeStamp><when>2019-01-08T14:59:40Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-09T14:59:40Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-8.6157665,41.143123</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -508,7 +495,7 @@
   <Placemark>
     <name>Igreja do Carmo</name>
     <description>Azulejo.</description>
-    <TimeStamp><when>2019-01-09T08:21:22Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-09T18:21:22Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-8.6162547,41.147474</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -519,7 +506,7 @@
   <Placemark>
     <name>Igreja Paroquial de Santo Ildefonso</name>
     <description>Azulejo.</description>
-    <TimeStamp><when>2019-01-04T20:06:29Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-09T20:06:29Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-8.6065652,41.14622</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -530,7 +517,7 @@
   <Placemark>
     <name>Capela das Almas</name>
     <description>Azulejo.</description>
-    <TimeStamp><when>2019-01-08T21:40:29Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-09T21:40:29Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-8.6055473,41.149834</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -541,7 +528,7 @@
   <Placemark>
     <name>Pérola Bolhão</name>
     <description>Art Nouveau azulejo.</description>
-    <TimeStamp><when>2019-01-09T14:59:50Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-09T21:59:50Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-8.6067127,41.148335</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -551,7 +538,7 @@
   <Placemark>
     <name>Café Majestic</name>
     <description>Art Nouveau interior, very expensive (espresso = 4€).</description>
-    <TimeStamp><when>2019-01-08T20:46:11Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-09T22:46:11Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-8.6064803,41.147109</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -561,7 +548,7 @@
   <Placemark>
     <name>Café Santiago</name>
     <description>The best francesinha.</description>
-    <TimeStamp><when>2018-12-15T21:13:00Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-09T23:13:00Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-8.6047775,41.146447</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -571,7 +558,7 @@
   </Placemark>
   <Placemark>
     <name>Fábrica da Nata</name>
-    <TimeStamp><when>2019-01-08T20:41:42Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-10T16:41:42Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-8.6061561,41.149079</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -589,7 +576,7 @@
   </Placemark>
   <Placemark>
     <name>A Fábrica da Picaria</name>
-    <TimeStamp><when>2019-01-08T18:43:56Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-10T18:43:56Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>-8.6129394,41.149445</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -598,7 +585,7 @@
   </Placemark>
   <Placemark>
     <name>Carmo Brewery</name>
-    <TimeStamp><when>2019-01-10T15:51:22Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-10T18:51:22Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>-8.6159113,41.147635</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -607,7 +594,7 @@
   </Placemark>
   <Placemark>
     <name>Calem</name>
-    <TimeStamp><when>2019-01-08T15:37:01Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-10T19:37:01Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>-8.6109787,41.138024</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -616,7 +603,7 @@
   </Placemark>
   <Placemark>
     <name>Sandeman</name>
-    <TimeStamp><when>2019-01-08T11:49:08Z</when></TimeStamp>
+    <TimeStamp><when>2019-01-10T19:49:08Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>-8.6124794,41.137496</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -625,7 +612,7 @@
   </Placemark>
   <Placemark>
     <name>Taylor’s</name>
-    <TimeStamp><when>2018-11-11T13:15:19Z</when></TimeStamp>
+    <TimeStamp><when>2018-11-10T20:15:19Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>-8.6143235,41.134377</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

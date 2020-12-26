@@ -95,7 +95,7 @@
   </Placemark>
   <Placemark>
     <name>Roza Peak</name>
-    <TimeStamp><when>2019-09-09T05:14:22Z</when></TimeStamp>
+    <TimeStamp><when>2019-09-22T05:14:22Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>40.310063,43.625286</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -115,7 +115,7 @@
   </Placemark>
   <Placemark>
     <name>Riders Lodge</name>
-    <TimeStamp><when>2019-09-09T05:13:04Z</when></TimeStamp>
+    <TimeStamp><when>2019-09-22T15:13:04Z</when></TimeStamp>
     <styleUrl>#placemark-blue</styleUrl>
     <Point><coordinates>40.320191,43.660839</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

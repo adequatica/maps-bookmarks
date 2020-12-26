@@ -79,7 +79,7 @@
   </Placemark>
   <Placemark>
     <name>Armistice</name>
-    <TimeStamp><when>2017-03-17T18:27:45Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-17T19:27:45Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>2.9063438,49.427864</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -88,7 +88,7 @@
   </Placemark>
   <Placemark>
     <name>D Day</name>
-    <TimeStamp><when>2017-03-17T18:30:22Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-17T19:30:22Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-0.87968814,49.370722</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -97,7 +97,7 @@
   </Placemark>
   <Placemark>
     <name>Mont-Saint-Michel</name>
-    <TimeStamp><when>2017-03-17T18:29:28Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-17T19:39:28Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-1.512609,48.635856</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

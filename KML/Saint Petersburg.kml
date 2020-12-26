@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Yandex</name>
-    <TimeStamp><when>2017-02-02T18:16:22Z</when></TimeStamp>
+    <TimeStamp><when>2016-07-02T15:32:26Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.405166,59.958564</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -75,7 +75,7 @@
   </Placemark>
   <Placemark>
     <name>Peter and Paul Fortress</name>
-    <TimeStamp><when>2017-05-15T06:58:20Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T05:58:20Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.316557,59.948538</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -90,7 +90,7 @@
   <Placemark>
     <name>Pushkin Apartment Museum</name>
     <description>Entrance only with excursion.</description>
-    <TimeStamp><when>2016-03-20T16:53:03Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T06:53:03Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.321336,59.941163</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -104,7 +104,7 @@
   </Placemark>
   <Placemark>
     <name>Museum of Arctic and Antarctic</name>
-    <TimeStamp><when>2018-04-06T06:27:36Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T07:27:36Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.353681,59.92746</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -119,7 +119,7 @@
   <Placemark>
     <name>Zodchego Rossi Street</name>
     <description>Its width equals the height of the buildings on both sides – 22 meters, and its length is ten times greater – 220 meters.</description>
-    <TimeStamp><when>2014-08-03T08:19:02Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T08:19:02Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.335565,59.930313</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -133,7 +133,7 @@
   <Placemark>
     <name>Repina Street</name>
     <description>The narrowest street in Petersburg.</description>
-    <TimeStamp><when>2016-10-10T19:36:41Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T09:36:41Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.28702,59.94316</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -146,7 +146,7 @@
   </Placemark>
   <Placemark>
     <name>Aurora Cruiser</name>
-    <TimeStamp><when>2017-02-03T07:05:49Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T10:05:49Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.337809,59.955416</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -161,7 +161,7 @@
   </Placemark>
   <Placemark>
     <name>Icebreaker Krasin</name>
-    <TimeStamp><when>2020-07-25T05:37:57Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T10:37:57Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.268957,59.927821</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -178,7 +178,7 @@
   </Placemark>
   <Placemark>
     <name>Tschischik-Pyschik</name>
-    <TimeStamp><when>2017-02-26T06:18:31Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T11:18:31Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.338017,59.9417</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -191,7 +191,7 @@
   </Placemark>
   <Placemark>
     <name>Elissey cat</name>
-    <TimeStamp><when>2017-02-02T18:14:30Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T12:14:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.337652,59.934402</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -204,7 +204,7 @@
   </Placemark>
   <Placemark>
     <name>Five corners</name>
-    <TimeStamp><when>2019-05-29T04:39:51Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T12:39:51Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.34247,59.926228</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -217,7 +217,7 @@
   </Placemark>
   <Placemark>
     <name>Water column</name>
-    <TimeStamp><when>2019-06-23T04:36:22Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T14:36:22Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.307727,59.931543</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -230,7 +230,7 @@
   </Placemark>
   <Placemark>
     <name>Singer House</name>
-    <TimeStamp><when>2016-07-29T05:09:40Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T15:09:40Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.325891,59.935864</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -244,7 +244,7 @@
   </Placemark>
   <Placemark>
     <name>Au Pont Rouge</name>
-    <TimeStamp><when>2020-07-25T07:06:46Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T17:06:46Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.314709,59.933206</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -258,7 +258,7 @@
   </Placemark>
   <Placemark>
     <name>Rodina Cinema</name>
-    <TimeStamp><when>2016-08-06T11:59:24Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T17:59:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.341772,59.936273</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -272,7 +272,7 @@
   </Placemark>
   <Placemark>
     <name>New Holland</name>
-    <TimeStamp><when>2016-08-24T19:04:38Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T19:04:38Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.286594,59.929565</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -285,7 +285,7 @@
   </Placemark>
   <Placemark>
     <name>Kamchatka</name>
-    <TimeStamp><when>2019-06-18T13:44:32Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-01T19:44:32Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.301188,59.952006</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -298,7 +298,7 @@
   </Placemark>
   <Placemark>
     <name>Botanical garden</name>
-    <TimeStamp><when>2014-08-04T03:05:00Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-02T03:05:00Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>30.325274,59.970043</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -312,7 +312,7 @@
   </Placemark>
   <Placemark>
     <name>Flea market</name>
-    <TimeStamp><when>2017-02-03T07:04:12Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-02T07:04:12Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>30.3116,60.019695</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -327,7 +327,7 @@
   <Placemark>
     <name>Pyshechnaya</name>
     <description>15₽.</description>
-    <TimeStamp><when>2017-02-02T18:09:38Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-02T08:09:38Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.322613,59.937577</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -342,7 +342,7 @@
   <Placemark>
     <name>Metropole</name>
     <description>40 min by foot to Moskovsky railway station.</description>
-    <TimeStamp><when>2014-07-11T11:16:12Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-02T11:16:12Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.333645,59.93329</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -356,7 +356,7 @@
   </Placemark>
   <Placemark>
     <name>Bekitzer</name>
-    <TimeStamp><when>2017-05-15T06:53:54Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T06:53:54Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.342684,59.926608</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -370,7 +370,7 @@
   </Placemark>
   <Placemark>
     <name>At Larisa</name>
-    <TimeStamp><when>2017-02-03T07:03:35Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T07:03:35Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.342518,59.926916</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -384,7 +384,7 @@
   </Placemark>
   <Placemark>
     <name><![CDATA[Camorra Pizza&Birra]]></name>
-    <TimeStamp><when>2017-02-02T18:19:11Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T08:19:11Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.358914,59.938027</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -399,7 +399,7 @@
   </Placemark>
   <Placemark>
     <name>Forno Bravo</name>
-    <TimeStamp><when>2017-02-03T06:59:26Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T08:59:26Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.312413,59.965211</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -414,7 +414,7 @@
   </Placemark>
   <Placemark>
     <name>Pizza 22 cm</name>
-    <TimeStamp><when>2017-05-15T06:50:03Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T09:50:03Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.358354,59.935759</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -429,7 +429,7 @@
   </Placemark>
   <Placemark>
     <name>Jack and Chan</name>
-    <TimeStamp><when>2016-07-29T07:56:07Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T09:56:07Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.336714,59.937295</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -444,7 +444,7 @@
   <Placemark>
     <name>I’m Thankful for Today</name>
     <description>All hipsters have a breakfast here from 10:00 and from 11:00 on Sunday.</description>
-    <TimeStamp><when>2016-03-27T10:06:38Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T10:06:38Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.319006,59.930652</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -459,7 +459,7 @@
   <Placemark>
     <name>Clean plates society</name>
     <description>Nourishing breakfast from 11 till 12 and till 15:00 on weekends.</description>
-    <TimeStamp><when>2017-02-02T18:15:09Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T10:15:09Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.314092,59.93365</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -473,7 +473,7 @@
   </Placemark>
   <Placemark>
     <name>Byuro</name>
-    <TimeStamp><when>2017-02-02T18:20:49Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T10:20:49Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.355696,59.935806</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -488,7 +488,7 @@
   </Placemark>
   <Placemark>
     <name>Fidel</name>
-    <TimeStamp><when>2016-05-09T18:56:10Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T10:56:10Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.327653,59.933023</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -502,7 +502,7 @@
   </Placemark>
   <Placemark>
     <name>Dickens</name>
-    <TimeStamp><when>2014-07-11T10:39:45Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T11:39:45Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.31915,59.921577</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -516,7 +516,7 @@
   </Placemark>
   <Placemark>
     <name>Sidreria</name>
-    <TimeStamp><when>2016-05-08T21:56:57Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T11:56:57Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.345439,59.941449</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -530,7 +530,7 @@
   </Placemark>
   <Placemark>
     <name>Cider and Nancy</name>
-    <TimeStamp><when>2017-02-02T18:17:52Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T12:17:52Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.357965,59.938904</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -545,7 +545,7 @@
   </Placemark>
   <Placemark>
     <name>Pivnaya Karta</name>
-    <TimeStamp><when>2016-02-13T20:55:21Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T12:55:21Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.360966,59.943349</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -559,7 +559,7 @@
   </Placemark>
   <Placemark>
     <name>Trappist</name>
-    <TimeStamp><when>2016-02-13T20:42:03Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T20:42:03Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.363399,59.941555</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -573,7 +573,7 @@
   </Placemark>
   <Placemark>
     <name>RedRum</name>
-    <TimeStamp><when>2017-03-05T06:58:05Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T20:58:05Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.356999,59.938922</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -587,7 +587,7 @@
   </Placemark>
   <Placemark>
     <name>Breaking Bad</name>
-    <TimeStamp><when>2016-07-15T13:41:48Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T21:41:48Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.3028,59.950824</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -601,7 +601,7 @@
   </Placemark>
   <Placemark>
     <name>Bakunin</name>
-    <TimeStamp><when>2016-02-13T20:02:40Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T22:02:40Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.371167,59.930636</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -615,7 +615,7 @@
   </Placemark>
   <Placemark>
     <name><![CDATA[Rockets & Bishops]]></name>
-    <TimeStamp><when>2016-08-21T15:35:29Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T22:35:29Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.319899,59.930045</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -629,7 +629,7 @@
   </Placemark>
   <Placemark>
     <name>Viderzhka</name>
-    <TimeStamp><when>2018-02-24T07:39:55Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T22:39:55Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.355642,59.921943</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -643,7 +643,7 @@
   </Placemark>
   <Placemark>
     <name>Beergeek</name>
-    <TimeStamp><when>2016-02-13T20:49:17Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T22:49:17Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.342793,59.936804</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -657,7 +657,7 @@
   </Placemark>
   <Placemark>
     <name>Vse Tvoyi Drouzia</name>
-    <TimeStamp><when>2017-02-03T07:09:40Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T23:09:40Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.308427,59.927611</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -671,7 +671,7 @@
   </Placemark>
   <Placemark>
     <name>Khroniki</name>
-    <TimeStamp><when>2017-09-28T18:54:55Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-03T23:54:55Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.356865,59.938924</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -727,7 +727,7 @@
   </Placemark>
   <Placemark>
     <name>Guzva</name>
-    <TimeStamp><when>2019-06-21T23:16:52Z</when></TimeStamp>
+    <TimeStamp><when>2019-06-13T13:16:52Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.343642,59.92681</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -769,7 +769,7 @@
   </Placemark>
   <Placemark>
     <name>Fartuk</name>
-    <TimeStamp><when>2019-06-14T05:43:06Z</when></TimeStamp>
+    <TimeStamp><when>2019-06-14T08:43:06Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.343701,59.929037</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -783,7 +783,7 @@
   </Placemark>
   <Placemark>
     <name>Jawsspot</name>
-    <TimeStamp><when>2019-03-09T06:19:55Z</when></TimeStamp>
+    <TimeStamp><when>2019-07-09T06:19:55Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.355352,59.936912</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -797,7 +797,7 @@
   </Placemark>
   <Placemark>
     <name>Buterbrodskybar</name>
-    <TimeStamp><when>2020-07-06T10:52:39Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-06T01:52:39Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.290622,59.946004</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

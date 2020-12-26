@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Barcelona-Sants</name>
-    <TimeStamp><when>2017-03-20T17:23:23Z</when></TimeStamp>
+    <TimeStamp><when>2015-03-20T17:23:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.1400045,41.379008</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -71,7 +71,7 @@
   <Placemark>
     <name>Casa Vicents</name>
     <description>Antoni Gaudí: 1883–1888</description>
-    <TimeStamp><when>2017-03-20T19:10:32Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T14:10:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.1506556,41.403394</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -81,7 +81,7 @@
   <Placemark>
     <name>Palau Güell</name>
     <description>Antoni Gaudí: 1886–1889</description>
-    <TimeStamp><when>2015-07-23T15:48:59Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T14:48:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.1742053,41.378804</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -91,7 +91,7 @@
   <Placemark>
     <name>Sagrada Família</name>
     <description>Antoni Gaudí: 1883–incomplete.</description>
-    <TimeStamp><when>2015-07-23T15:49:08Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T14:49:08Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.1743207,41.403555</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -131,7 +131,7 @@
   <Placemark>
     <name>Casa Milà</name>
     <description>Antoni Gaudí: 1906–1910</description>
-    <TimeStamp><when>2015-07-23T15:48:41Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T16:48:41Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.1619021,41.3954</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -140,7 +140,7 @@
   </Placemark>
   <Placemark>
     <name>Picasso Museum</name>
-    <TimeStamp><when>2017-03-20T17:21:18Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T17:21:18Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>2.181281,41.38516</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -149,7 +149,7 @@
   </Placemark>
   <Placemark>
     <name>Gat del Raval</name>
-    <TimeStamp><when>2015-07-23T07:43:51Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T17:43:51Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>2.169938,41.378082</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -158,7 +158,7 @@
   </Placemark>
   <Placemark>
     <name>Cat Pound</name>
-    <TimeStamp><when>2015-07-23T15:57:01Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T17:57:01Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>2.1707827,41.380763</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -168,7 +168,7 @@
   <Placemark>
     <name>La Boqueria</name>
     <description>8:00–20:00</description>
-    <TimeStamp><when>2015-07-23T15:52:07Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T18:52:07Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>2.1715808,41.38173</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -177,7 +177,7 @@
   </Placemark>
   <Placemark>
     <name>La Paradeta (El Born)</name>
-    <TimeStamp><when>2015-07-23T15:50:01Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-23T19:50:01Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>2.1840061,41.3862</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -205,7 +205,7 @@
   <Placemark>
     <name>Nevermind</name>
     <description>Punk-rock skate bar with a ramp inside; bottle of beer – 1,5€.</description>
-    <TimeStamp><when>2015-07-23T15:54:40Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-20T17:54:40Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>2.1665361,41.385082</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -214,7 +214,7 @@
   </Placemark>
   <Placemark>
     <name>Oviso</name>
-    <TimeStamp><when>2015-07-23T15:55:11Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-20T17:55:11Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>2.1770699,41.380676</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -224,7 +224,7 @@
   <Placemark>
     <name>Ámbar</name>
     <description>Have bottled local craft beer.</description>
-    <TimeStamp><when>2015-07-23T15:55:58Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-20T17:55:58Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>2.1707829,41.377766</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -234,7 +234,7 @@
   <Placemark>
     <name>Montjuic</name>
     <description>View of the port of Barcelona – Spain's third and European's ninth largest container port.</description>
-    <TimeStamp><when>2015-07-26T01:57:55Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-20T17:57:55Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>2.167524,41.363173</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

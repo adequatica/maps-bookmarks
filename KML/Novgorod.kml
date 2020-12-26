@@ -72,7 +72,7 @@
   </Placemark>
   <Placemark>
     <name>Novgorod Kremlin</name>
-    <TimeStamp><when>2020-07-05T16:12:38Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-07T16:12:38Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>31.275227,58.520925</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -82,7 +82,7 @@
   </Placemark>
   <Placemark>
     <name>Yaroslav’s Court</name>
-    <TimeStamp><when>2020-07-07T08:19:23Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-07T18:19:23Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>31.285022,58.518814</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -104,7 +104,7 @@
   </Placemark>
   <Placemark>
     <name>Fyodor Dostoevsky Theater of Dramatic Art</name>
-    <TimeStamp><when>2020-07-21T11:29:20Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-21T12:29:20Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>31.281825,58.529753</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -114,7 +114,7 @@
   </Placemark>
   <Placemark>
     <name>Staraya Russa</name>
-    <TimeStamp><when>2020-07-06T06:44:43Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-22T06:44:43Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>31.342748,58.000241</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -125,7 +125,7 @@
   </Placemark>
   <Placemark>
     <name>Dostoevsky House Museum</name>
-    <TimeStamp><when>2020-07-06T06:46:03Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-22T06:46:03Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>31.357289,57.98129</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -136,7 +136,7 @@
   </Placemark>
   <Placemark>
     <name>Brothers Karamazov Museum</name>
-    <TimeStamp><when>2020-07-28T07:42:34Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-22T07:42:34Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>31.355268,57.985875</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -147,7 +147,7 @@
   </Placemark>
   <Placemark>
     <name>Mycroft Pub</name>
-    <TimeStamp><when>2020-07-21T12:01:51Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-23T12:01:51Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>31.26722,58.525005</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -158,7 +158,7 @@
   </Placemark>
   <Placemark>
     <name>My Kitchen</name>
-    <TimeStamp><when>2020-07-21T11:12:33Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-23T12:12:33Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>31.292231,58.525715</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

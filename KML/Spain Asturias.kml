@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Estación ALSA</name>
-    <TimeStamp><when>2017-03-18T18:26:26Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-20T18:17:26Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-5.6671644,43.538891</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -70,7 +70,7 @@
   </Placemark>
   <Placemark>
     <name>Estación de Gijón/Xixón</name>
-    <TimeStamp><when>2017-03-18T18:26:09Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-20T18:26:29Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-5.67562,43.537715</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -79,7 +79,7 @@
   </Placemark>
   <Placemark>
     <name>Gijón</name>
-    <TimeStamp><when>2017-03-18T18:31:47Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-20T18:31:47Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-5.6650629,43.544074</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -88,7 +88,7 @@
   </Placemark>
   <Placemark>
     <name>Elogio del Horizonte</name>
-    <TimeStamp><when>2017-03-18T18:26:53Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-20T18:36:53Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-5.6630405,43.54908</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -97,7 +97,7 @@
   </Placemark>
   <Placemark>
     <name>La Casona de Jovellanos</name>
-    <TimeStamp><when>2017-03-18T18:44:32Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-20T18:44:32Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>-5.6628165,43.545759</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -106,7 +106,7 @@
   </Placemark>
   <Placemark>
     <name>IPA</name>
-    <TimeStamp><when>2017-03-18T18:27:46Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-20T18:47:46Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>-5.6568768,43.540069</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

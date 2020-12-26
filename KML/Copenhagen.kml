@@ -80,7 +80,7 @@
   </Placemark>
   <Placemark>
     <name>Christiania</name>
-    <TimeStamp><when>2017-03-17T19:37:42Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-13T10:36:42Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.597578,55.674201</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -89,7 +89,7 @@
   </Placemark>
   <Placemark>
     <name>Pusher Street</name>
-    <TimeStamp><when>2017-03-17T19:36:05Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-13T10:37:05Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>12.599707,55.673559</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -98,7 +98,7 @@
   </Placemark>
   <Placemark>
     <name>Botanical Garden</name>
-    <TimeStamp><when>2017-03-14T07:51:12Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-13T10:51:12Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>12.574004,55.686925</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -107,7 +107,7 @@
   </Placemark>
   <Placemark>
     <name>Nørrebro Bryghus</name>
-    <TimeStamp><when>2017-03-13T09:51:48Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-13T10:51:48Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>12.563908,55.690218</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -126,7 +126,7 @@
   <Placemark>
     <name>Kronborg Castle</name>
     <description>Renaissance castles immortalized as Elsinore in William Shakespeare's play Hamlet.</description>
-    <TimeStamp><when>2017-03-13T09:53:11Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-13T20:53:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.621747,56.038865</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

@@ -108,7 +108,7 @@
   </Placemark>
   <Placemark>
     <name>Termibus</name>
-    <TimeStamp><when>2015-07-24T07:07:33Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-24T07:14:33Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-2.9493691,43.261202</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -118,7 +118,7 @@
   <Placemark>
     <name>Moyúa Plaza</name>
     <description>Find bus to Bakio.</description>
-    <TimeStamp><when>2017-03-20T08:00:45Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-24T08:00:45Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-2.9350099,43.263008</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -127,7 +127,7 @@
   </Placemark>
   <Placemark>
     <name>Guggenheim Museum</name>
-    <TimeStamp><when>2015-07-24T07:11:43Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-24T08:11:43Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-2.9335682,43.268555</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -137,7 +137,7 @@
   <Placemark>
     <name>Euskal Museoa</name>
     <description>The Basque Museum: Tuesday to Saturday: 11-17.</description>
-    <TimeStamp><when>2015-07-24T07:10:23Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-24T09:10:23Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-2.921914,43.257967</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -147,7 +147,7 @@
   <Placemark>
     <name>Puente Colgante de Bizkaia</name>
     <description>It is two 160 m-long spans rest on two 61 m-high lattice-frame towers made completely of iron like Eiffel Tower – the first UNESCO Industrial Heritage site in Spain: 0,35€.</description>
-    <TimeStamp><when>2015-07-24T07:12:15Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-24T09:12:15Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-3.0171083,43.323177</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -156,7 +156,7 @@
   </Placemark>
   <Placemark>
     <name>Mercado de La Ribera</name>
-    <TimeStamp><when>2017-03-18T18:35:04Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-24T09:35:04Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>-2.9242797,43.255474</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -166,7 +166,7 @@
   <Placemark>
     <name>Plaza Nueva</name>
     <description>It is the only place on the square to visit for pintxos for a valuable price.</description>
-    <TimeStamp><when>2017-03-18T18:35:42Z</when></TimeStamp>
+    <TimeStamp><when>2015-07-24T09:35:42Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-2.9223137,43.258979</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

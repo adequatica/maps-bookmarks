@@ -74,7 +74,7 @@
   <Placemark>
     <name>Дворец культуры имени Кирова</name>
     <description>1931-1937.</description>
-    <TimeStamp><when>2020-07-08T08:14:05Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T08:14:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.254325,59.933703</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -85,7 +85,7 @@
   <Placemark>
     <name>Фабрика-кухня Василеостровского района</name>
     <description>1929-1931.</description>
-    <TimeStamp><when>2020-07-08T11:08:05Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T11:08:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.260157,59.932034</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -96,7 +96,7 @@
   <Placemark>
     <name>Водонапорная башня завода «Красный гвоздильщик»</name>
     <description>1929-1931.</description>
-    <TimeStamp><when>2020-07-08T08:21:55Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T12:21:55Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.264903,59.928338</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -108,7 +108,7 @@
   <Placemark>
     <name>Дворец культуры имени Горького</name>
     <description>1925-1927.</description>
-    <TimeStamp><when>2020-07-08T13:15:04Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T13:15:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.275821,59.90045</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -119,7 +119,7 @@
   <Placemark>
     <name>Универмаг и фабрика-кухня Кировского района</name>
     <description>1929-1931.</description>
-    <TimeStamp><when>2020-07-14T18:58:58Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T13:58:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.272613,59.899881</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -130,7 +130,7 @@
   <Placemark>
     <name>Дом технической учебы</name>
     <description>1930-1932.</description>
-    <TimeStamp><when>2020-07-08T08:10:32Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T14:10:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.277211,59.900307</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -141,7 +141,7 @@
   <Placemark>
     <name>Жилмассив на Тракторной улице</name>
     <description>1925-1927.</description>
-    <TimeStamp><when>2020-07-14T11:56:41Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T14:56:41Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.278933,59.89857</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -152,7 +152,7 @@
   <Placemark>
     <name>Кировский райсовет</name>
     <description>1930-1935.</description>
-    <TimeStamp><when>2020-07-14T13:10:03Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T15:10:03Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.278753,59.89456</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -163,7 +163,7 @@
   <Placemark>
     <name>Техническая школа</name>
     <description>1930-1932.</description>
-    <TimeStamp><when>2020-07-24T09:15:30Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T15:15:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.273248,59.888675</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -174,7 +174,7 @@
   <Placemark>
     <name>Серафимовский участок</name>
     <description>1925-1928.</description>
-    <TimeStamp><when>2020-07-24T09:14:50Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T16:14:50Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.269737,59.889252</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -185,7 +185,7 @@
   <Placemark>
     <name>Ушаковские бани</name>
     <description>1928-1930.</description>
-    <TimeStamp><when>2020-07-08T08:09:35Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T18:09:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.26854,59.893848</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -196,7 +196,7 @@
   <Placemark>
     <name>Профилакторий Кировского района</name>
     <description>1928-1930.</description>
-    <TimeStamp><when>2020-07-14T18:59:45Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T18:56:45Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.271455,59.895071</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -207,7 +207,7 @@
   <Placemark>
     <name>Школа имени 10-летия Октября</name>
     <description>1925-1927.</description>
-    <TimeStamp><when>2020-07-14T18:56:04Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-18T18:59:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.274655,59.897456</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -219,7 +219,7 @@
   <Placemark>
     <name>Трикотажная фабрика «Красное знамя»</name>
     <description>1926-1930.</description>
-    <TimeStamp><when>2020-07-08T08:05:38Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T08:05:38Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.281789,59.961198</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -230,7 +230,7 @@
   <Placemark>
     <name>Левашовский хлебозавод</name>
     <description>1931-1933.</description>
-    <TimeStamp><when>2020-07-08T08:06:58Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T08:06:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.284339,59.965893</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -241,7 +241,7 @@
   <Placemark>
     <name>Петроградская АТС</name>
     <description>1932.</description>
-    <TimeStamp><when>2020-07-24T06:21:02Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T08:21:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.30945,59.960492</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -252,7 +252,7 @@
   <Placemark>
     <name>Академия железнодорожного транспорта</name>
     <description>1931-1933.</description>
-    <TimeStamp><when>2020-07-14T19:09:13Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T09:09:13Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.323008,59.956272</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -263,7 +263,7 @@
   <Placemark>
     <name>Дом-коммуна Общества политкаторжанин</name>
     <description>1929-1933.</description>
-    <TimeStamp><when>2020-07-14T13:44:53Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T10:44:53Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.32809,59.952641</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -274,7 +274,7 @@
   <Placemark>
     <name>Первый жилой дом Ленсовета</name>
     <description>1931-1935.</description>
-    <TimeStamp><when>2020-07-08T08:04:28Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T11:04:28Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.312485,59.968668</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -285,7 +285,7 @@
   <Placemark>
     <name>Завод «Полиграфмаш»</name>
     <description>1930-1931.</description>
-    <TimeStamp><when>2020-07-14T19:14:42Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T11:14:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.314762,59.969398</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -296,7 +296,7 @@
   <Placemark>
     <name>Кооперативный дом совторгслужащих</name>
     <description>1930-1932.</description>
-    <TimeStamp><when>2020-07-14T19:13:12Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T12:13:12Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.307508,59.971652</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -307,7 +307,7 @@
   <Placemark>
     <name>Дворец культуры имени Ленсовета</name>
     <description>1931-1938.</description>
-    <TimeStamp><when>2020-07-24T13:45:24Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T13:45:24Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.309335,59.966971</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -319,7 +319,7 @@
   <Placemark>
     <name>Клуб Политехнического института имени Калинина</name>
     <description>1929-1932.</description>
-    <TimeStamp><when>2020-07-26T11:05:54Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T14:05:54Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.347202,59.98633</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -330,7 +330,7 @@
   <Placemark>
     <name>Школа</name>
     <description>1930-1932.</description>
-    <TimeStamp><when>2020-07-24T09:22:17Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T14:22:17Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.349458,59.986941</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -341,7 +341,7 @@
   <Placemark>
     <name>Жилмассив на Лесном пр. 65</name>
     <description>Студенческий городок Политехнического института, 1930-1933.</description>
-    <TimeStamp><when>2020-07-26T11:05:10Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T15:05:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342267,59.986167</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -352,7 +352,7 @@
   <Placemark>
     <name>Жилмассив на Лесном пр. 61</name>
     <description>Дома для специалистов (для советской интеллектуальной элиты), 1932.</description>
-    <TimeStamp><when>2020-07-24T09:20:01Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T15:20:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342991,59.984243</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -363,7 +363,7 @@
   <Placemark>
     <name>Жилмассив на Лесном пр. 59</name>
     <description>Городок текстильщиков, 1929-1931.</description>
-    <TimeStamp><when>2020-07-24T09:19:43Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T15:29:43Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.343412,59.982844</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -374,7 +374,7 @@
   <Placemark>
     <name>Жилмассив на Лесном пр. 39</name>
     <description>Батенинский жилмассив, 1930-е.</description>
-    <TimeStamp><when>2020-07-24T09:19:26Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T15:39:26Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.344111,59.981559</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -385,7 +385,7 @@
   <Placemark>
     <name>Жилмассив на Лесном пр. 37</name>
     <description>Батенинский жилмассив, 1930-е.</description>
-    <TimeStamp><when>2020-07-24T09:19:06Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T15:49:06Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.345073,59.979686</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -396,7 +396,7 @@
   <Placemark>
     <name>Бабуринский жилмассив</name>
     <description>1927-1930.</description>
-    <TimeStamp><when>2020-07-24T09:16:27Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T16:16:27Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.345042,59.972073</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -407,7 +407,7 @@
   <Placemark>
     <name>Выборгская фабрика-кухня</name>
     <description>1929-1930.</description>
-    <TimeStamp><when>2020-07-08T08:03:59Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-19T18:03:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342521,59.969702</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -419,7 +419,7 @@
   <Placemark>
     <name>Некрасовский телефонный узел</name>
     <description>1933.</description>
-    <TimeStamp><when>2020-07-24T07:53:30Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-20T07:53:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.351472,59.938756</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -430,7 +430,7 @@
   <Placemark>
     <name>Здание ведомства внутренних дел</name>
     <description>1933.</description>
-    <TimeStamp><when>2020-07-26T11:59:14Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-20T11:59:14Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.349548,59.946801</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -441,7 +441,7 @@
   <Placemark>
     <name>Здание НКВД</name>
     <description>1931-1932.</description>
-    <TimeStamp><when>2020-07-14T19:17:32Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-20T19:17:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.35053,59.948502</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -452,7 +452,7 @@
   <Placemark>
     <name>Дом-коммуна инженеров и писателей</name>
     <description>1931. Экспериментальный первый дом-коммуна предназначался для инженеров и писателей. Первый этаж был занят помещениями общего пользования (детские комнаты, библиотека-читальня, столовая на 200 мест с кухонным блоком). Позже здание было перепланировано, помещения первого этажа переделаны в квартиры.</description>
-    <TimeStamp><when>2020-07-23T14:12:18Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-20T20:12:18Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.344827,59.931076</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

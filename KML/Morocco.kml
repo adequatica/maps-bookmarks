@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Jamaa el-Fna</name>
-    <TimeStamp><when>2016-12-17T14:23:00Z</when></TimeStamp>
+    <TimeStamp><when>2016-12-28T14:23:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-7.9886096,31.625989</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -70,7 +70,7 @@
   </Placemark>
   <Placemark>
     <name>El Badi Palace</name>
-    <TimeStamp><when>2016-12-30T15:13:17Z</when></TimeStamp>
+    <TimeStamp><when>2016-12-29T05:13:17Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-7.985331,31.618203</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -80,7 +80,7 @@
   <Placemark>
     <name>Madrasa Ben Youssef</name>
     <description>Built in 1565 by the Saadian sultan Abdallah al-Ghalib.</description>
-    <TimeStamp><when>2016-12-25T06:48:56Z</when></TimeStamp>
+    <TimeStamp><when>2016-12-29T06:48:56Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-7.986336,31.631964</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -90,7 +90,7 @@
   <Placemark>
     <name>Almoravid Koubba</name>
     <description>The oldest building (1117) of Almoravid dynasty.</description>
-    <TimeStamp><when>2016-12-25T10:07:11Z</when></TimeStamp>
+    <TimeStamp><when>2016-12-29T07:07:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-7.9870378,31.631509</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -100,7 +100,7 @@
   <Placemark>
     <name>Koutoubia Mosque</name>
     <description>The largest mosque in Marrakesh. The minaret is 77 meters. It was completed under the reign of the Berber Almohad Caliph Yaqub al-Mansur (1184–1199).</description>
-    <TimeStamp><when>2016-12-25T06:42:25Z</when></TimeStamp>
+    <TimeStamp><when>2016-12-29T07:42:25Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-7.9935985,31.623736</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -110,7 +110,7 @@
   <Placemark>
     <name>Majorelle Garden</name>
     <description>Since 1980 the garden has been owned by Yves Saint-Laurent.</description>
-    <TimeStamp><when>2016-12-25T06:42:07Z</when></TimeStamp>
+    <TimeStamp><when>2016-12-30T06:42:07Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>-8.0029286,31.64144</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -119,7 +119,7 @@
   </Placemark>
   <Placemark>
     <name>Gare Supratours</name>
-    <TimeStamp><when>2016-12-25T10:14:34Z</when></TimeStamp>
+    <TimeStamp><when>2016-12-31T10:14:34Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-8.0189776,31.62979</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -128,7 +128,7 @@
   </Placemark>
   <Placemark>
     <name>Supratours Merzouga</name>
-    <TimeStamp><when>2017-03-17T05:19:22Z</when></TimeStamp>
+    <TimeStamp><when>2016-12-31T15:19:22Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-4.0103115,31.097057</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -137,7 +137,7 @@
   </Placemark>
   <Placemark>
     <name>Oasis</name>
-    <TimeStamp><when>2017-01-02T16:05:40Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-01T16:05:40Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>-3.9611469,31.102425</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -147,7 +147,7 @@
   <Placemark>
     <name>Mellah</name>
     <description>Jewish quarter; established in 1438 when the jews were driven from the old part of Fez.</description>
-    <TimeStamp><when>2017-03-19T09:59:02Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-04T03:59:02Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-4.9905382,34.05257</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -167,7 +167,7 @@
   <Placemark>
     <name>Bab Boujeloud</name>
     <description>«The Blue Gate» that leads to the old medina, built in 1913.</description>
-    <TimeStamp><when>2016-12-25T14:24:14Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-04T04:44:14Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-4.9840017,34.061778</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -177,7 +177,7 @@
   <Placemark>
     <name>Quaraouiyine</name>
     <description>The university of Al Quaraouiyine is the oldest existing university established in 859.</description>
-    <TimeStamp><when>2016-12-25T14:48:41Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-04T04:48:41Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-4.9733694,34.064816</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -196,7 +196,7 @@
   <Placemark>
     <name>R'cif</name>
     <description>Taxi to gare de train.</description>
-    <TimeStamp><when>2017-05-09T09:08:07Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-04T09:08:07Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-4.9728357,34.062167</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -205,7 +205,7 @@
   </Placemark>
   <Placemark>
     <name>Gare de Fes</name>
-    <TimeStamp><when>2016-12-25T14:59:08Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-04T14:59:08Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-5.0052475,34.04722</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -224,7 +224,7 @@
   <Placemark>
     <name>Bab el Mansour</name>
     <description>The main gate between Meknes Medina and Imperial City District, finished in 1732 by Sultan Moulay Ismail.</description>
-    <TimeStamp><when>2016-12-25T15:30:42Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-05T15:30:42Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-5.5647295,33.892571</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -234,7 +234,7 @@
   <Placemark>
     <name>Volubilis</name>
     <description>Founded in 3rd century BC under Roman rule.</description>
-    <TimeStamp><when>2016-12-17T14:28:20Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-05T16:28:20Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-5.553255,34.070804</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -244,7 +244,7 @@
   <Placemark>
     <name>Bus to Volubilis</name>
     <description>Bus #15 to Moulay Idriss.</description>
-    <TimeStamp><when>2017-01-05T13:28:39Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-05T17:28:39Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-5.5663227,33.890057</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -264,7 +264,7 @@
   <Placemark>
     <name>Gare Routiere</name>
     <description>Bus to Dardara at 12:00 and 24:00, then take grand taxi from Dardara to Chefchaouen.</description>
-    <TimeStamp><when>2017-01-05T11:41:32Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-05T21:41:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-5.5750587,33.890433</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -273,7 +273,7 @@
   </Placemark>
   <Placemark>
     <name>Gare Routière</name>
-    <TimeStamp><when>2017-01-20T18:51:04Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-05T21:51:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-5.2748926,35.167679</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -282,7 +282,7 @@
   </Placemark>
   <Placemark>
     <name>Kasbah</name>
-    <TimeStamp><when>2016-12-25T15:40:56Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-07T05:40:56Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-5.2617981,35.168602</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -292,7 +292,7 @@
   <Placemark>
     <name>Sfenj</name>
     <description>Local donuts.</description>
-    <TimeStamp><when>2017-03-17T05:16:26Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-07T06:16:26Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-5.2640431,35.169992</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -301,7 +301,7 @@
   </Placemark>
   <Placemark>
     <name>La Botica de la Abuela Alladin</name>
-    <TimeStamp><when>2017-03-17T05:15:40Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-07T07:15:40Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>-5.2620936,35.169213</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -310,7 +310,7 @@
   </Placemark>
   <Placemark>
     <name><![CDATA[Grands Taxis Tetouan & Tanger]]></name>
-    <TimeStamp><when>2017-03-17T05:20:24Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-07T07:20:24Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-5.2693646,35.168857</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -319,7 +319,7 @@
   </Placemark>
   <Placemark>
     <name>Gare de Tanger Ville</name>
-    <TimeStamp><when>2016-12-25T10:16:42Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-08T10:16:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-5.7861968,35.771749</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -328,7 +328,7 @@
   </Placemark>
   <Placemark>
     <name>Casa Voyageurs</name>
-    <TimeStamp><when>2016-12-25T10:15:42Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-08T11:15:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-7.5906583,33.589412</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -338,7 +338,7 @@
   <Placemark>
     <name>Hassan II Mosque</name>
     <description>It is the largest mosque in Morocco and the 13th largest in the world. It was completed in 1993 and it has the world’s tallest minaret: 210 meters.</description>
-    <TimeStamp><when>2016-12-17T14:16:19Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-09T14:16:19Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-7.6323988,33.608534</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -347,7 +347,7 @@
   </Placemark>
   <Placemark>
     <name>Phare El Hank</name>
-    <TimeStamp><when>2017-01-20T18:51:33Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-09T18:51:33Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-7.6547309,33.609988</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -357,7 +357,7 @@
   <Placemark>
     <name>Gare Oasis</name>
     <description>Transfer station from Mohammed V International Airport to Marrakesh.</description>
-    <TimeStamp><when>2016-12-28T03:54:01Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-10T13:54:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-7.6313849,33.554663</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

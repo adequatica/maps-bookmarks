@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Kurort</name>
-    <TimeStamp><when>2017-05-15T05:16:01Z</when></TimeStamp>
+    <TimeStamp><when>2016-07-12T05:16:01Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>29.952755,60.111068</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -72,7 +72,7 @@
   </Placemark>
   <Placemark>
     <name>Vyborg</name>
-    <TimeStamp><when>2017-05-15T04:53:03Z</when></TimeStamp>
+    <TimeStamp><when>2016-07-12T05:53:03Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.751257,60.715488</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -84,7 +84,7 @@
   <Placemark>
     <name>Vyborg Library</name>
     <description>Built from 1927 to 1935 by the Finnish architect Alvar Aalto and one of the major examples of 1920s functionalist architectural design.</description>
-    <TimeStamp><when>2016-10-01T06:11:07Z</when></TimeStamp>
+    <TimeStamp><when>2016-07-12T06:11:07Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.747291,60.709024</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -105,7 +105,7 @@
   <Placemark>
     <name>The oldest house</name>
     <description>XVI</description>
-    <TimeStamp><when>2016-10-18T06:21:01Z</when></TimeStamp>
+    <TimeStamp><when>2016-07-12T08:21:01Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.733863,60.712318</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -115,7 +115,7 @@
   </Placemark>
   <Placemark>
     <name>Vyborg Castle</name>
-    <TimeStamp><when>2016-07-12T07:54:06Z</when></TimeStamp>
+    <TimeStamp><when>2016-07-12T08:54:06Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.729081,60.7157</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -125,7 +125,7 @@
   </Placemark>
   <Placemark>
     <name>Monrepos</name>
-    <TimeStamp><when>2016-07-12T07:54:43Z</when></TimeStamp>
+    <TimeStamp><when>2016-07-12T08:54:43Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>28.725613,60.730383</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -145,7 +145,7 @@
   </Placemark>
   <Placemark>
     <name>Oreshyok Fortress</name>
-    <TimeStamp><when>2016-07-12T11:25:51Z</when></TimeStamp>
+    <TimeStamp><when>2017-09-30T11:23:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>31.03839,59.953768</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -155,7 +155,7 @@
   </Placemark>
   <Placemark>
     <name>Oranienbaum</name>
-    <TimeStamp><when>2016-07-12T11:24:23Z</when></TimeStamp>
+    <TimeStamp><when>2017-09-30T11:24:23Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>29.752585,59.916998</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -166,7 +166,7 @@
   <Placemark>
     <name>Peterhof</name>
     <description>Taxi from Avtovo.</description>
-    <TimeStamp><when>2016-07-12T11:24:35Z</when></TimeStamp>
+    <TimeStamp><when>2017-09-30T11:24:35Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>29.91199,59.884088</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -176,7 +176,7 @@
   </Placemark>
   <Placemark>
     <name>Gothic chapel</name>
-    <TimeStamp><when>2016-09-13T08:22:02Z</when></TimeStamp>
+    <TimeStamp><when>2017-09-30T18:22:02Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>29.930932,59.880653</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -187,7 +187,7 @@
   </Placemark>
   <Placemark>
     <name>Gatchina</name>
-    <TimeStamp><when>2016-07-12T11:25:22Z</when></TimeStamp>
+    <TimeStamp><when>2017-09-30T18:25:22Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.108028,59.563938</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -197,7 +197,7 @@
   </Placemark>
   <Placemark>
     <name>Pavlovsk</name>
-    <TimeStamp><when>2017-02-07T19:37:26Z</when></TimeStamp>
+    <TimeStamp><when>2017-09-30T19:37:26Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.434515,59.692862</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -207,7 +207,7 @@
   </Placemark>
   <Placemark>
     <name>Tsarskoye Selo</name>
-    <TimeStamp><when>2016-07-12T07:56:25Z</when></TimeStamp>
+    <TimeStamp><when>2017-09-30T19:56:25Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.402404,59.715502</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -217,11 +217,6 @@
   </Placemark>
   <Placemark>
     <name>Koporye</name>
-    <description>Из Ломоносова:
-681 туда: 9:50, 11:10, 15:00, 17:50, 20:05, 22:00;
-681 обратно: 6:30, 7:45, 12:30, 15:10, 17:30, 20:00;
-685 туда: 8:30, 13:00, 19:00;
-685 обратно: 6:00, 11:00, 16:00.</description>
     <TimeStamp><when>2018-07-21T08:41:05Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>29.031704,59.709148</coordinates></Point>

@@ -72,7 +72,7 @@
     <name>Kato Paphos</name>
     <description>Bus to airport: 612 ~ 30 min;
 Bus to Aphrodite’s Stone: 630 ~ 45 min</description>
-    <TimeStamp><when>2017-10-14T13:47:31Z</when></TimeStamp>
+    <TimeStamp><when>2017-10-08T06:47:31Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>32.411429,34.756649</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -92,7 +92,7 @@ Bus to Aphrodite’s Stone: 630 ~ 45 min</description>
     <name>Karavella Bus Station</name>
     <description>Bus to Polis: 645 ~ 50 min;
 Bus to Limassol ~ 60 min</description>
-    <TimeStamp><when>2017-10-15T04:38:10Z</when></TimeStamp>
+    <TimeStamp><when>2017-10-14T04:38:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>32.422673,34.778424</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -111,7 +111,7 @@ Bus to Limassol ~ 60 min</description>
   </Placemark>
   <Placemark>
     <name>Limassol Medieval Castle</name>
-    <TimeStamp><when>2017-10-12T06:44:14Z</when></TimeStamp>
+    <TimeStamp><when>2017-10-14T16:44:14Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>33.041614,34.672252</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -121,7 +121,7 @@ Bus to Limassol ~ 60 min</description>
   <Placemark>
     <name>Polis Chrysoxous</name>
     <description>Bus to Bath of Aphrodite: 622 ~ 30 min</description>
-    <TimeStamp><when>2017-10-14T13:48:46Z</when></TimeStamp>
+    <TimeStamp><when>2017-10-14T16:48:46Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>32.425747,35.033756</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -130,7 +130,7 @@ Bus to Limassol ~ 60 min</description>
   </Placemark>
   <Placemark>
     <name>Baths of Aphrodite</name>
-    <TimeStamp><when>2017-10-14T14:22:56Z</when></TimeStamp>
+    <TimeStamp><when>2017-10-14T18:22:56Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>32.343854,35.05636</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

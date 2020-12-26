@@ -1,8 +1,8 @@
 # Point of Interests
 
-During the last decade I saved almost a thousand places where I have been and will be glad if someone will find them useful.
+For the last decade I saved almost a thousand places where I have been and will be glad if someone will find this bookmarks useful.
 
-I've been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined and became completely unusable.
+I have used [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined by the new owner and became completely unusable.
 
 I converted KML files into GPX for migration bookmarks to another app and now they could be imported to [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
 
@@ -71,7 +71,7 @@ I converted KML files into GPX for migration bookmarks to another app and now th
 
 ### «Constructivism in Leningrad» based on articles:
 
-* Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «[Коло](http://www.kolohouse.com/avant-garde)», 2018
+* Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «Коло», 2018
 * [Авангард в архитектуре Ленинграда](https://ru.wikipedia.org/wiki/Авангард_в_архитектуре_Ленинграда)
 * [Архитектурный стиль Конструктивизм. Архитектурный сайт Санкт-Петербурга](https://www.citywalls.ru/search-archstyle300.html)
 * [Overshadowed by palaces: A guide to Leningrad Constructivism](https://strelkamag.com/en/article/guide-to-petersburg-konstruktivism)
@@ -80,7 +80,7 @@ I converted KML files into GPX for migration bookmarks to another app and now th
 * [Ленинградский конструктивизм. Мечта о социалистической утопии 90 лет спустя](https://les.media/articles/657756-leningradskiy-konstruktivizm)
 
 ### «Dostoevsky in Saint Petersburg» based on:
-* [My own research](https://medium.com/@adequatica/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)
+* [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316)
 
 ### «Hemingway in Spain» based on articles:
 * Prado Museum, one of the favourite place of the author, does not pinned because of its obvious prominence
@@ -99,13 +99,13 @@ I converted KML files into GPX for migration bookmarks to another app and now th
 * [La guia de Hemingway en Pamplona](http://www.ernesthemingway.es/index.php?view=article&id=17%3Ala-guia-de-hemingway-en-pamplona)
 
 ### «Moscow Castles» based on:
-* [My own research](https://medium.com/@adequatica/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653)
+* [My own research](https://adequatica.medium.com/moscow-castles-d5f655b74df9)
 
 ### «Mountainboard Parks» based on:
-* [My own experience](https://medium.com/@adequatica/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f)
+* [My own experience](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46)
 
 ### «Достоевский в Петербурге» based on:
-* [Собственное исследование](https://medium.com/@adequatica/dostoevsky-in-petersburg-d7dfba1804b?source=friends_link&sk=4d01b558a68f5bb42ddafadcb66c2912)
+* [Собственное исследование](https://adequatica.medium.com/dostoevsky-in-petersburg-d7dfba1804b)
 
 ### «Места княза Кропоткина» based on:
-* [Собственное исследование](https://medium.com/@adequatica/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
+* [Собственное исследование](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b)

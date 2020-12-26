@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Haarlem</name>
-    <TimeStamp><when>2017-07-19T07:28:42Z</when></TimeStamp>
+    <TimeStamp><when>2013-07-31T07:28:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>4.6385788,52.388077</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -70,7 +70,7 @@
   </Placemark>
   <Placemark>
     <name>Frans Hals Museum</name>
-    <TimeStamp><when>2017-07-19T10:36:39Z</when></TimeStamp>
+    <TimeStamp><when>2013-07-31T10:36:39Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>4.6336891,52.376606</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -79,7 +79,7 @@
   </Placemark>
   <Placemark>
     <name>Zandvoort aan Zee</name>
-    <TimeStamp><when>2017-05-18T08:00:42Z</when></TimeStamp>
+    <TimeStamp><when>2013-07-31T11:00:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>4.5317303,52.375587</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -89,7 +89,7 @@
   <Placemark>
     <name>Jheronimus Bosch Art Center</name>
     <description>11-17:30</description>
-    <TimeStamp><when>2017-05-06T17:30:00Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T17:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>5.3121646,51.688093</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -98,7 +98,7 @@
   </Placemark>
   <Placemark>
     <name>Hieronymus Bosch huis</name>
-    <TimeStamp><when>2017-05-07T14:17:59Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T18:17:59Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>5.3046853,51.688947</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -107,7 +107,7 @@
   </Placemark>
   <Placemark>
     <name>Jan de Groot</name>
-    <TimeStamp><when>2017-07-06T04:39:08Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T18:39:08Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>5.2966185,51.690226</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -117,7 +117,7 @@
   <Placemark>
     <name>Bar le Duc</name>
     <description>Brouwerij 't Kolleke, try homemade triple.</description>
-    <TimeStamp><when>2017-07-05T13:07:04Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T19:07:04Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>5.3003361,51.689774</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -126,7 +126,7 @@
   </Placemark>
   <Placemark>
     <name>Thornbridge</name>
-    <TimeStamp><when>2017-07-05T13:02:50Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T20:02:50Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>5.2963262,51.691894</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -135,7 +135,7 @@
   </Placemark>
   <Placemark>
     <name>Citadel 's-Hertogenbosch</name>
-    <TimeStamp><when>2017-07-19T07:46:04Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T20:46:04Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>5.3031899,51.695138</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -144,7 +144,7 @@
   </Placemark>
   <Placemark>
     <name>'s-Hertogenbosch</name>
-    <TimeStamp><when>2017-05-07T14:18:20Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T21:18:20Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>5.2937083,51.690517</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -153,7 +153,7 @@
   </Placemark>
   <Placemark>
     <name>Utrecht Centraal</name>
-    <TimeStamp><when>2017-07-18T14:56:50Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T21:56:50Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>5.1098214,52.089393</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -162,7 +162,7 @@
   </Placemark>
   <Placemark>
     <name>Kafé België</name>
-    <TimeStamp><when>2017-07-18T14:56:19Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T21:56:59Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>5.1215186,52.089035</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -171,7 +171,7 @@
   </Placemark>
   <Placemark>
     <name>Rietveld-Schröderhuis</name>
-    <TimeStamp><when>2017-07-17T20:44:20Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-18T22:44:20Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>5.1475762,52.085332</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -180,7 +180,7 @@
   </Placemark>
   <Placemark>
     <name>Rotterdam Centraal</name>
-    <TimeStamp><when>2017-07-01T09:44:06Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-19T09:44:06Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>4.468693,51.924959</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -189,7 +189,7 @@
   </Placemark>
   <Placemark>
     <name>Markthal</name>
-    <TimeStamp><when>2017-07-06T05:36:01Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-19T10:36:01Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>4.4870206,51.920201</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -198,7 +198,7 @@
   </Placemark>
   <Placemark>
     <name>Kubuswoningen</name>
-    <TimeStamp><when>2017-07-06T04:48:56Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-19T10:48:56Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>4.4901266,51.920395</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -207,7 +207,7 @@
   </Placemark>
   <Placemark>
     <name>Den Haag Centraal</name>
-    <TimeStamp><when>2017-07-01T09:56:50Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-21T09:56:50Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>4.3245484,52.080844</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -216,7 +216,7 @@
   </Placemark>
   <Placemark>
     <name>Atrium City Hall</name>
-    <TimeStamp><when>2017-07-01T10:08:07Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-21T10:08:07Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>4.317108,52.07777</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -225,7 +225,7 @@
   </Placemark>
   <Placemark>
     <name>Mauritshuis</name>
-    <TimeStamp><when>2017-07-21T08:39:10Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-21T10:39:10Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>4.3142984,52.080401</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -234,7 +234,7 @@
   </Placemark>
   <Placemark>
     <name>Cafe de la Gare</name>
-    <TimeStamp><when>2017-07-01T10:13:55Z</when></TimeStamp>
+    <TimeStamp><when>2017-07-21T11:13:55Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>4.3116711,52.084259</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

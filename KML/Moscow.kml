@@ -75,7 +75,7 @@
   </Placemark>
   <Placemark>
     <name>Hippodrome</name>
-    <TimeStamp><when>2017-02-01T16:57:39Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T08:57:39Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>37.55948,55.778839</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -88,7 +88,7 @@
   </Placemark>
   <Placemark>
     <name>GlavPivMag</name>
-    <TimeStamp><when>2017-01-30T17:35:19Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T09:35:19Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.629514,55.743339</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -102,7 +102,7 @@
   </Placemark>
   <Placemark>
     <name>Khinkali Point</name>
-    <TimeStamp><when>2017-01-31T18:04:45Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T10:04:45Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.637689,55.754607</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -117,7 +117,7 @@
   </Placemark>
   <Placemark>
     <name>Brisket BBQ</name>
-    <TimeStamp><when>2017-08-27T06:25:22Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T10:25:22Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.583889,55.742016</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -131,7 +131,7 @@
   </Placemark>
   <Placemark>
     <name>El Asador</name>
-    <TimeStamp><when>2017-02-02T05:38:22Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T10:38:22Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.624597,55.734998</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -146,7 +146,7 @@
   </Placemark>
   <Placemark>
     <name><![CDATA[St.Peters & St.Anton]]></name>
-    <TimeStamp><when>2014-04-08T12:27:49Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T11:27:49Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.609746,55.756409</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -160,7 +160,7 @@
   </Placemark>
   <Placemark>
     <name>Pod Muhoy</name>
-    <TimeStamp><when>2017-01-29T08:18:18Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T12:18:18Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.609282,55.765547</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -174,7 +174,7 @@
   </Placemark>
   <Placemark>
     <name>Bobby Dazzler</name>
-    <TimeStamp><when>2017-01-31T17:54:39Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T12:54:39Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.635272,55.76759</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -188,7 +188,7 @@
   </Placemark>
   <Placemark>
     <name>Lambic</name>
-    <TimeStamp><when>2017-01-30T08:23:14Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T13:23:14Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.654013,55.754573</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -202,7 +202,7 @@
   </Placemark>
   <Placemark>
     <name>Lambic</name>
-    <TimeStamp><when>2017-01-30T08:25:48Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T13:25:48Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.640669,55.766541</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -216,7 +216,7 @@
   </Placemark>
   <Placemark>
     <name>Lumberjack</name>
-    <TimeStamp><when>2017-01-30T17:38:24Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T13:38:24Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.635208,55.756315</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -230,7 +230,7 @@
   </Placemark>
   <Placemark>
     <name>Enthusiast</name>
-    <TimeStamp><when>2017-01-30T17:35:54Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T14:35:54Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.61408,55.763848</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -244,7 +244,7 @@
   </Placemark>
   <Placemark>
     <name>Beermarket</name>
-    <TimeStamp><when>2017-01-29T08:18:02Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T15:18:02Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.608523,55.765061</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -258,7 +258,7 @@
   </Placemark>
   <Placemark>
     <name>Pivbar</name>
-    <TimeStamp><when>2017-01-30T17:48:18Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T15:48:18Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.597204,55.76999</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -272,7 +272,7 @@
   </Placemark>
   <Placemark>
     <name>Varka</name>
-    <TimeStamp><when>2015-09-16T06:03:35Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T16:03:35Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.655285,55.742116</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -286,7 +286,7 @@
   </Placemark>
   <Placemark>
     <name>GlavPivMag 2</name>
-    <TimeStamp><when>2017-01-30T17:51:27Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T16:31:27Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.646095,55.760825</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -300,7 +300,7 @@
   </Placemark>
   <Placemark>
     <name>Vse Tvoyi Drouzia</name>
-    <TimeStamp><when>2017-01-30T17:39:50Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T16:39:50Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.606798,55.762678</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -314,7 +314,7 @@
   </Placemark>
   <Placemark>
     <name>Craft Republic</name>
-    <TimeStamp><when>2014-12-12T20:20:24Z</when></TimeStamp>
+    <TimeStamp><when>2017-01-30T17:20:24Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.606342,55.762615</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -356,7 +356,7 @@
   </Placemark>
   <Placemark>
     <name>Dogma</name>
-    <TimeStamp><when>2017-10-28T14:14:57Z</when></TimeStamp>
+    <TimeStamp><when>2017-02-28T14:14:57Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>37.637367,55.754889</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -511,7 +511,7 @@
   </Placemark>
   <Placemark>
     <name>Shirokuyu na Shirokuyu</name>
-    <TimeStamp><when>2018-09-23T10:01:34Z</when></TimeStamp>
+    <TimeStamp><when>2018-10-23T10:01:34Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.636235,55.76151</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -639,7 +639,7 @@
   </Placemark>
   <Placemark>
     <name>Pizza22cm</name>
-    <TimeStamp><when>2019-07-11T19:54:55Z</when></TimeStamp>
+    <TimeStamp><when>2019-11-11T19:54:55Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>37.638121,55.754551</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -670,7 +670,7 @@
     <name>Sila Vetra</name>
     <TimeStamp><when>2020-06-22T09:07:14Z</when></TimeStamp>
     <styleUrl>#placemark-blue</styleUrl>
-    <Point><coordinates>37.438715,55.804097</coordinates></Point>
+    <Point><coordinates>37.43871,55.80410</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
       <mwm:featureTypes>
         <mwm:value>leisure-marina</mwm:value>

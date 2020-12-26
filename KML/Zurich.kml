@@ -80,7 +80,7 @@
   <Placemark>
     <name>14, Spiegelgasse</name>
     <description>During the First World War, Lenin with his wife Nadeshda Krupskaja lived here for about a year.</description>
-    <TimeStamp><when>2015-05-02T07:05:30Z</when></TimeStamp>
+    <TimeStamp><when>2015-05-02T08:05:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>8.5449869,47.371918</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -89,7 +89,7 @@
   </Placemark>
   <Placemark>
     <name>Museum der Zeitmessung Beyer</name>
-    <TimeStamp><when>2017-03-14T05:41:07Z</when></TimeStamp>
+    <TimeStamp><when>2015-05-02T08:41:07Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>8.5385429,47.370924</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -99,7 +99,7 @@
   <Placemark>
     <name>Alter Botanischer Garten</name>
     <description>Free entrance.</description>
-    <TimeStamp><when>2017-03-14T05:38:25Z</when></TimeStamp>
+    <TimeStamp><when>2015-05-02T09:38:25Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>8.5337713,47.3711</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -109,7 +109,7 @@
   <Placemark>
     <name>Stadthausanlage</name>
     <description>Flea market during the weekend.</description>
-    <TimeStamp><when>2015-05-24T12:19:20Z</when></TimeStamp>
+    <TimeStamp><when>2015-05-02T12:19:20Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>8.540812,47.367139</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Vienna State Opera</name>
-    <TimeStamp><when>2014-12-18T05:58:16Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-02T05:50:16Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>16.369212,48.203273</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -70,7 +70,7 @@
   </Placemark>
   <Placemark>
     <name>Mozarthaus Vienna</name>
-    <TimeStamp><when>2017-03-14T05:51:07Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-02T05:51:07Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>16.374936,48.20821</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -79,7 +79,7 @@
   </Placemark>
   <Placemark>
     <name>Plague Column</name>
-    <TimeStamp><when>2014-12-18T05:53:04Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-02T05:53:04Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>16.369794,48.208716</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -88,7 +88,7 @@
   </Placemark>
   <Placemark>
     <name>Flakturm Augarten</name>
-    <TimeStamp><when>2014-12-21T15:03:32Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-02T15:03:32Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>16.373288,48.225819</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -97,7 +97,7 @@
   </Placemark>
   <Placemark>
     <name>Cafe Central</name>
-    <TimeStamp><when>2014-12-21T16:41:26Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-02T15:41:26Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>16.365425,48.210384</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -106,7 +106,7 @@
   </Placemark>
   <Placemark>
     <name>Café Hawelka</name>
-    <TimeStamp><when>2014-12-21T16:40:18Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-02T16:40:18Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>16.369834,48.207942</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -116,7 +116,7 @@
   <Placemark>
     <name>Ohel Moshe</name>
     <description>Jewish bakery.</description>
-    <TimeStamp><when>2014-12-21T15:29:30Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-03T05:09:30Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>16.378416,48.215501</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -125,7 +125,7 @@
   </Placemark>
   <Placemark>
     <name>Schlosspark Schönbrunn</name>
-    <TimeStamp><when>2017-03-15T05:12:42Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-03T05:12:42Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>16.308768,48.180694</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -134,7 +134,7 @@
   </Placemark>
   <Placemark>
     <name>1516 Brewing Company</name>
-    <TimeStamp><when>2014-12-21T15:53:32Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-03T15:53:32Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>16.37308,48.203343</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
@@ -143,7 +143,7 @@
   </Placemark>
   <Placemark>
     <name>Känguruh</name>
-    <TimeStamp><when>2014-12-21T16:33:00Z</when></TimeStamp>
+    <TimeStamp><when>2015-01-03T16:33:00Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>16.341743,48.193885</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">
