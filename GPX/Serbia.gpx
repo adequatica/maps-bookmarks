@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Serbia</name>
 </metadata>
@@ -15,33 +15,33 @@
   <name>Plejeskavica</name>
   <time>2017-05-08T06:18:08Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="45.252482" lon="19.872161">
   <name>Da Mario</name>
   <time>2017-05-08T06:38:47Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="45.251127" lon="19.863272">
   <name>Petrovaradin Fortress</name>
   <time>2017-05-08T11:51:02Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="45.264904" lon="19.830275">
   <name>Železnička Stanica</name>
   <time>2017-05-08T15:28:32Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="45.104209" lon="19.713404">
   <name>Beli Kamen</name>
@@ -71,81 +71,81 @@
   <name>Spomenik borcima Radničkog bataljona</name>
   <time>2018-09-04T22:55:17Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="43.853561" lon="19.839309">
   <name>Uzice</name>
   <time>2018-09-05T00:29:15Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="44.810219" lon="20.454401">
   <name>Belgrade Bus Station</name>
   <time>2018-09-15T15:29:22Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="44.823696" lon="20.44986">
   <name>Kalemegdan</name>
   <time>2018-09-15T18:57:08Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="44.817191" lon="20.463859">
   <name>Skadarska</name>
   <time>2018-09-15T18:59:09Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="44.805146" lon="20.470753">
   <name>Музеј Николе Тесле</name>
   <time>2018-09-15T19:20:10Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="44.816761" lon="20.466418">
   <name>To Je To</name>
   <time>2018-09-16T10:09:27Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="44.817364" lon="20.46597">
   <name>Једно место</name>
   <time>2018-09-16T10:13:18Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="44.817594" lon="20.461257">
   <name>Драма ћевапи</name>
   <time>2018-09-16T10:32:33Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="44.81248" lon="20.460501">
   <name>Нови лесковац</name>
   <time>2018-09-16T10:59:14Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="44.822154" lon="20.460129">
   <name>Krafter</name>
@@ -161,6 +161,6 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
 </wpt>
 </gpx>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Spain Asturias</name>
 </metadata>
@@ -7,33 +7,33 @@
   <name>Estación ALSA</name>
   <time>2015-07-20T18:17:26Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="43.537715" lon="-5.67562">
   <name>Estación de Gijón/Xixón</name>
   <time>2015-07-20T18:26:29Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="43.544074" lon="-5.6650629">
   <name>Gijón</name>
   <time>2015-07-20T18:31:47Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="43.54908" lon="-5.6630405">
   <name>Elogio del Horizonte</name>
   <time>2015-07-20T18:36:53Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="43.545759" lon="-5.6628165">
   <name>La Casona de Jovellanos</name>
@@ -41,7 +41,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
 </wpt>
 <wpt lat="43.540069" lon="-5.6568768">
   <name>IPA</name>

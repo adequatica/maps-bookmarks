@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Dublin</name>
 </metadata>
@@ -7,57 +7,57 @@
   <name>Spire of Dublin</name>
   <time>2018-10-02T21:44:05Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="53.341851" lon="-6.286736">
   <name>Guinness Storehouse</name>
   <time>2018-10-03T08:24:29Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="53.346911" lon="-6.2414791">
   <name>Samuel Beckett Bridge</name>
   <time>2018-10-03T12:01:19Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="53.339532" lon="-6.271485">
   <name>St. Patrick’s Cathedral</name>
   <time>2018-10-03T20:31:04Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="53.343" lon="-6.2675264">
   <name>Dublin Castle</name>
   <time>2018-10-03T20:52:16Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="53.343733" lon="-6.2544476">
   <name>Trinity College</name>
   <time>2018-10-03T21:30:29Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="53.340801" lon="-6.2505543">
   <name>Oscar Wilde Memorial</name>
   <time>2018-10-04T15:33:52Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="53.338081" lon="-6.259061">
   <name>Saint Stephen’s Green</name>
@@ -73,7 +73,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>The first pun in Dublin where I entered.</desc>
 </wpt>
 <wpt lat="53.338134" lon="-6.2542048">
@@ -82,7 +82,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
 </wpt>
 <wpt lat="53.344977" lon="-6.2763518">
   <name>Brazen Head</name>
@@ -90,7 +90,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>Officially the oldest pub in Ireland, The Brazen Head dates all the way back to 1198, and it has left a lasting impression on Irish popular culture. James Joyce made reference to it in Ulysses.</desc>
 </wpt>
 <wpt lat="53.345904" lon="-6.2596283">
@@ -99,7 +99,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>One of Dublin’s finest, original Victoria pubs, The Palace Bar was established in 1823 and became the favourite watering hole of the Irish media throughout the 1940s and 50s.</desc>
 </wpt>
 <wpt lat="53.345554" lon="-6.2620288">
@@ -108,7 +108,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
 </wpt>
 <wpt lat="53.345466" lon="-6.2642014">
   <name>The Temple Bar</name>
@@ -116,7 +116,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>Established in 1840, this pub is among the most frequently visited in the country.</desc>
 </wpt>
 <wpt lat="53.345129" lon="-6.2674268">
@@ -131,41 +131,41 @@
   <name>Dublin Connolly</name>
   <time>2018-10-06T07:26:58Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="53.389112" lon="-6.0743734">
   <name>Howth</name>
   <time>2018-10-06T15:42:02Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="53.386221" lon="-6.079416">
   <name>Howth Castle</name>
   <time>2018-10-06T17:36:30Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="53.343929" lon="-6.2742704">
   <name>Medieval City Wall</name>
   <time>2018-10-06T20:47:35Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="53.343011" lon="-6.2700889">
   <name>Leo Burdock’s</name>
   <time>2018-10-06T22:24:32Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
   <desc>Very very big portions of fish and chips for 10,25€ Take away only.</desc>
 </wpt>
 </gpx>

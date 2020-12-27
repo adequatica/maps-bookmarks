@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Zurich</name>
 </metadata>
@@ -7,34 +7,34 @@
   <name>Lindenhof</name>
   <time>2015-05-02T07:06:51Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="47.371291" lon="8.5413887">
   <name>Römische Bäder</name>
   <time>2015-05-02T07:07:55Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="47.371918" lon="8.5449869">
   <name>14, Spiegelgasse</name>
   <time>2015-05-02T08:05:30Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>During the First World War, Lenin with his wife Nadeshda Krupskaja lived here for about a year.</desc>
 </wpt>
 <wpt lat="47.370924" lon="8.5385429">
   <name>Museum der Zeitmessung Beyer</name>
   <time>2015-05-02T08:41:07Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="47.3711" lon="8.5337713">
   <name>Alter Botanischer Garten</name>

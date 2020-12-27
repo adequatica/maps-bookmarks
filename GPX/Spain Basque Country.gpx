@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Spain Basque Country</name>
 </metadata>
@@ -7,17 +7,17 @@
   <name>Parada de Autobuses Pio XII Donostia</name>
   <time>2015-07-24T07:02:18Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="43.323103" lon="-1.9850667">
   <name>Bodega Donostiarra</name>
   <time>2015-07-24T07:06:43Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
   <desc>Corner bar with delightful pintxos per 2€.</desc>
 </wpt>
 <wpt lat="43.323253" lon="-1.9814055">
@@ -33,76 +33,76 @@
   <name>Bakio</name>
   <time>2015-07-24T07:12:33Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="43.447355" lon="-2.7849242">
   <name>Gaztelugatxe</name>
   <time>2015-07-24T07:13:21Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="43.261202" lon="-2.9493691">
   <name>Termibus</name>
   <time>2015-07-24T07:14:33Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="43.263008" lon="-2.9350099">
   <name>Moyúa Plaza</name>
   <time>2015-07-24T08:00:45Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Find bus to Bakio.</desc>
 </wpt>
 <wpt lat="43.268555" lon="-2.9335682">
   <name>Guggenheim Museum</name>
   <time>2015-07-24T08:11:43Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="43.257967" lon="-2.921914">
   <name>Euskal Museoa</name>
   <time>2015-07-24T09:10:23Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>The Basque Museum: Tuesday to Saturday: 11-17.</desc>
 </wpt>
 <wpt lat="43.323177" lon="-3.0171083">
   <name>Puente Colgante de Bizkaia</name>
   <time>2015-07-24T09:12:15Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>It is two 160 m-long spans rest on two 61 m-high lattice-frame towers made completely of iron like Eiffel Tower – the first UNESCO Industrial Heritage site in Spain: 0,35€.</desc>
 </wpt>
 <wpt lat="43.255474" lon="-2.9242797">
   <name>Mercado de La Ribera</name>
   <time>2015-07-24T09:35:04Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ffb300</color>
   </extensions>
-  <type>29</type>
+  <type>0</type>
 </wpt>
 <wpt lat="43.258979" lon="-2.9223137">
   <name>Plaza Nueva</name>
   <time>2015-07-24T09:35:42Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
   <desc>It is the only place on the square to visit for pintxos for a valuable price.</desc>
 </wpt>
 </gpx>

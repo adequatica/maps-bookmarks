@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Cyprus</name>
 </metadata>
@@ -7,17 +7,17 @@
   <name>Fort of Paphos</name>
   <time>2017-10-08T06:39:01Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="34.756649" lon="32.411429">
   <name>Kato Paphos</name>
   <time>2017-10-08T06:47:31Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Bus to airport: 612 ~ 30 min;
 Bus to Aphrodite’s Stone: 630 ~ 45 min</desc>
 </wpt>
@@ -33,9 +33,9 @@ Bus to Aphrodite’s Stone: 630 ~ 45 min</desc>
   <name>Karavella Bus Station</name>
   <time>2017-10-14T04:38:10Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Bus to Polis: 645 ~ 50 min;
 Bus to Limassol ~ 60 min</desc>
 </wpt>
@@ -43,26 +43,26 @@ Bus to Limassol ~ 60 min</desc>
   <name>EMEL Central Station</name>
   <time>2017-10-14T14:11:35Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Bus to Paphos ~ 60 min</desc>
 </wpt>
 <wpt lat="34.672252" lon="33.041614">
   <name>Limassol Medieval Castle</name>
   <time>2017-10-14T16:44:14Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="35.033756" lon="32.425747">
   <name>Polis Chrysoxous</name>
   <time>2017-10-14T16:48:46Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Bus to Bath of Aphrodite: 622 ~ 30 min</desc>
 </wpt>
 <wpt lat="35.05636" lon="32.343854">

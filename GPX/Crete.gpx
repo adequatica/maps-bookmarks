@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Crete</name>
 </metadata>
@@ -7,44 +7,44 @@
   <name>Koules</name>
   <time>2017-10-17T05:41:21Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>The fortress is first attested in the early 13th century and was built to protect the Venetian harbour. It predates the second Venetian fortifications around the city and acquired its final form over the period 1523-1540, in replacement of an older fortress destroyed by earthquakes.</desc>
 </wpt>
 <wpt lat="35.29808" lon="25.162947">
   <name>Knossos Palace</name>
   <time>2017-10-17T05:43:00Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>The centre of Minoan civilisation and the scene of thrilling legends, such as the myth of the Labyrinth with the Minotaur. The earliest traces of inhabitation in the area of the palace go back to the Neolithic period (7000-3000 BC) and continued to be occupied in the Pre-Palace period (3000-1900 BC), at the end of which the area was leveled for the erection of a large palace. This first palace was destroyed, probably by an earthquake, about 1700 BC. The second larger palace was built on the ruins of the old one. It was partially destroyed about 1450 BC and abandoned at some unknown time at the end of the Late Bronze Age (1380-1100 BC). Extensive excavation and reconstruction of the site began in 1900 and continued for 35 years by the English archaeologist Sir Arthur Evans.</desc>
 </wpt>
 <wpt lat="35.338907" lon="25.137168">
   <name>Archaeological Museum</name>
   <time>2017-10-18T06:02:00Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="35.339791" lon="25.134171">
   <name>The Venetian loggia</name>
   <time>2017-11-06T14:24:33Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>This is a two-storeay Venetian mansion completed in 1628, which used to be a meeting place for the nobles of Crete.</desc>
 </wpt>
 <wpt lat="35.340863" lon="25.139142">
   <name>Bus Station A</name>
   <time>2017-11-06T14:24:59Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="35.339607" lon="25.135803">
   <name>Crop</name>

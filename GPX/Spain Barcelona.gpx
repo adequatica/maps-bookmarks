@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Spain Barcelona</name>
 </metadata>
@@ -7,44 +7,44 @@
   <name>Barcelona-Sants</name>
   <time>2015-03-20T17:23:23Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="41.403394" lon="2.1506556">
   <name>Casa Vicents</name>
   <time>2015-07-23T14:10:32Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Antoni Gaudí: 1883–1888</desc>
 </wpt>
 <wpt lat="41.378804" lon="2.1742053">
   <name>Palau Güell</name>
   <time>2015-07-23T14:48:59Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Antoni Gaudí: 1886–1889</desc>
 </wpt>
 <wpt lat="41.403555" lon="2.1743207">
   <name>Sagrada Família</name>
   <time>2015-07-23T14:49:08Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Antoni Gaudí: 1883–incomplete.</desc>
 </wpt>
 <wpt lat="41.390841" lon="2.1729125">
   <name>Casa Calvet</name>
   <time>2015-07-23T15:08:54Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Antoni Gaudí: 1898–1900</desc>
 </wpt>
 <wpt lat="41.414156" lon="2.1516131">
@@ -60,68 +60,68 @@
   <name>Casa Batlló</name>
   <time>2015-07-23T15:48:51Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Antoni Gaudí: 1904–1906</desc>
 </wpt>
 <wpt lat="41.3954" lon="2.1619021">
   <name>Casa Milà</name>
   <time>2015-07-23T16:48:41Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Antoni Gaudí: 1906–1910</desc>
 </wpt>
 <wpt lat="41.38516" lon="2.181281">
   <name>Picasso Museum</name>
   <time>2015-07-23T17:21:18Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="41.378082" lon="2.169938">
   <name>Gat del Raval</name>
   <time>2015-07-23T17:43:51Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="41.380763" lon="2.1707827">
   <name>Cat Pound</name>
   <time>2015-07-23T17:57:01Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="41.38173" lon="2.1715808">
   <name>La Boqueria</name>
   <time>2015-07-23T18:52:07Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ffb300</color>
   </extensions>
-  <type>29</type>
+  <type>0</type>
   <desc>8:00–20:00</desc>
 </wpt>
 <wpt lat="41.3862" lon="2.1840061">
   <name>La Paradeta (El Born)</name>
   <time>2015-07-23T19:50:01Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="41.404432" lon="2.1734329">
   <name>La Paradeta (Sagrada Familia)</name>
   <time>2017-03-20T17:17:42Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="41.382677" lon="2.1633773">
   <name>Fábrica Moritz Barcelona</name>
@@ -129,7 +129,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
 </wpt>
 <wpt lat="41.385082" lon="2.1665361">
   <name>Nevermind</name>
@@ -137,7 +137,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>Punk-rock skate bar with a ramp inside; bottle of beer – 1,5€.</desc>
 </wpt>
 <wpt lat="41.380676" lon="2.1770699">
@@ -146,7 +146,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
 </wpt>
 <wpt lat="41.377766" lon="2.1707829">
   <name>Ámbar</name>
@@ -154,7 +154,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>Have bottled local craft beer.</desc>
 </wpt>
 <wpt lat="41.363173" lon="2.167524">
@@ -170,8 +170,8 @@
   <name>Estació de França</name>
   <time>2017-03-20T19:25:50Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 </gpx>

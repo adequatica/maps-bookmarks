@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Paris</name>
 </metadata>
@@ -7,105 +7,105 @@
   <name>Eiffel Tower</name>
   <time>2015-05-10T05:32:12Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.873784" lon="2.2950255">
   <name>Arc de Triomphe de l'Étoile</name>
   <time>2015-05-10T09:16:58Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.852938" lon="2.3498713">
   <name>Cathédrale Notre-Dame de Paris</name>
   <time>2015-05-10T10:07:51Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.860512" lon="2.3524274">
   <name>Centre Pompidou</name>
   <time>2015-05-10T10:32:43Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.86331" lon="2.3369537">
   <name>Palais Royal</name>
   <time>2015-05-10T10:39:02Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.884079" lon="2.3324074">
   <name>Moulin Rouge</name>
   <time>2015-05-10T10:39:42Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.886796" lon="2.3430263">
   <name>Basilique du Sacré-Cœur</name>
   <time>2015-05-10T10:42:33Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.876655" lon="2.2633258">
   <name>Fondation Louis Vuitton</name>
   <time>2015-05-10T11:33:39Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.853083" lon="2.3391424">
   <name>Cour du Commerce</name>
   <time>2015-05-10T12:29:43Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.859919" lon="2.3265253">
   <name>Musée D’orsay</name>
   <time>2015-05-10T13:42:20Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.80372" lon="2.124335">
   <name>Versailles</name>
   <time>2015-05-10T14:38:19Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.898006" lon="2.0960592">
   <name>Saint-Germain-en-Laye</name>
   <time>2015-05-10T14:39:33Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="48.842514" lon="2.4357341">
   <name>Château de Vincennes</name>
   <time>2015-05-10T14:57:36Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>Free entrance till 16:30.</desc>
 </wpt>
 <wpt lat="48.857404" lon="2.3402073">
@@ -193,7 +193,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>Open from noon to midnight, small choose craft ot Belgina beers 3€ per 0,33 bottle, biodynamic vines.</desc>
 </wpt>
 <wpt lat="48.842339" lon="2.3498471">
@@ -202,24 +202,24 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>Belgian beers, 5,50€ per pint on happy hour: 16-20.</desc>
 </wpt>
 <wpt lat="48.842797" lon="2.3495923">
   <name>Au Petit Grec</name>
   <time>2015-05-10T21:15:46Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
   <desc>Crêpe oeu jambon fromage – 5€.</desc>
 </wpt>
 <wpt lat="48.880511" lon="2.3547609">
   <name>Gare du Nord</name>
   <time>2017-05-13T09:05:03Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 </gpx>

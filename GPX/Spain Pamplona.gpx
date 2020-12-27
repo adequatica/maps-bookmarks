@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Spain Pamplona</name>
 </metadata>
@@ -7,87 +7,87 @@
   <name>1. Corals</name>
   <time>2015-07-23T15:59:44Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>Bulls are held and released at the sound of the rocket at 8:00; the distance ~ 875 m.</desc>
 </wpt>
 <wpt lat="42.819358" lon="-1.6458692">
   <name>2. Hornacina de San Fermín</name>
   <time>2015-07-23T16:00:58Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>Santo Domingo street (280 m), in front of the museum, there is an area without a fence to see the start of the run – the fastest and dangerous section.</desc>
 </wpt>
 <wpt lat="42.818229" lon="-1.6439903">
   <name>3: Town Hall Square</name>
   <time>2015-07-23T17:11:35Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>The safest place from the City hall to the corner of Mercades street.</desc>
 </wpt>
 <wpt lat="42.818472" lon="-1.6430016">
   <name>4: La Curva</name>
   <time>2015-07-23T18:08:51Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>The route curves at 90° angle into Estafeta street.</desc>
 </wpt>
 <wpt lat="42.81724" lon="-1.6420112">
   <name>5: Estafeta Kalea</name>
   <time>2015-07-23T19:03:17Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>300 m straight street.</desc>
 </wpt>
 <wpt lat="42.815984" lon="-1.6411102">
   <name>6: Telefonica</name>
   <time>2015-07-23T19:13:12Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>Less than 100 m with a double section of protection barriers – opens wide then quickly narrows into a tunnel «Callejon».</desc>
 </wpt>
 <wpt lat="42.816039" lon="-1.6397949">
   <name>7: Bullring of Pamplona</name>
   <time>2015-07-23T19:14:01Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="42.815842" lon="-1.6405155">
   <name>Ernest Hemingway Statue</name>
   <time>2015-07-23T20:05:27Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="42.816577" lon="-1.6468482">
   <name>Left Luggage Office</name>
   <time>2015-07-23T20:05:28Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#2196f3</color>
   </extensions>
-  <type>29</type>
+  <type>0</type>
   <desc>Price per item of baggage for 24 hours is 4,6€.</desc>
 </wpt>
 <wpt lat="42.811577" lon="-1.6453958">
   <name>Pamplona Bus Station</name>
   <time>2015-07-23T20:06:46Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 </gpx>

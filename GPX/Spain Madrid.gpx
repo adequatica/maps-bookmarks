@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
   <name>Spain Madrid</name>
 </metadata>
@@ -7,51 +7,51 @@
   <name>Plaza de toros de Las Ventas</name>
   <time>2013-05-05T19:21:52Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>Hemingway liked sitting in section 9 (sombra).</desc>
 </wpt>
 <wpt lat="40.414715" lon="-3.6924939">
   <name>Museo del Prado</name>
   <time>2013-05-05T19:27:49Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
   <desc>Free admission from 6 p.m. to 8 p.m.</desc>
 </wpt>
 <wpt lat="40.418541" lon="-3.6925905">
   <name>Correos</name>
   <time>2015-07-05T06:28:28Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="40.417899" lon="-3.7143334">
   <name>Royal Palace</name>
   <time>2015-07-05T07:22:12Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="40.424019" lon="-3.7177648">
   <name>The Temple of Debod</name>
   <time>2015-07-06T07:41:38Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#e91e63</color>
   </extensions>
-  <type>29</type>
+  <type>72</type>
 </wpt>
 <wpt lat="40.427897" lon="-3.7219124">
   <name>Teleférico de Madrid</name>
   <time>2015-07-06T08:24:18Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
   <desc>Round trip for two – 11,8€.</desc>
 </wpt>
 <wpt lat="40.411169" lon="-3.6907585">
@@ -74,42 +74,42 @@
   <name>El Rastro</name>
   <time>2015-07-06T10:30:46Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ffb300</color>
   </extensions>
-  <type>29</type>
+  <type>0</type>
   <desc>Flea market at Sunday from 9 a.m.</desc>
 </wpt>
 <wpt lat="40.411651" lon="-3.6986228">
   <name>Mercado de Antón Martín</name>
   <time>2015-07-06T11:29:08Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ffb300</color>
   </extensions>
-  <type>29</type>
+  <type>0</type>
 </wpt>
 <wpt lat="40.405523" lon="-3.6898586">
   <name>Puerta de Atocha</name>
   <time>2015-07-06T12:27:10Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#607d8b</color>
   </extensions>
-  <type>29</type>
+  <type>73</type>
 </wpt>
 <wpt lat="40.412225" lon="-3.6991243">
   <name>Museo del Jamón</name>
   <time>2015-07-06T12:42:30Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="40.425443" lon="-3.6746787">
   <name>Museo del Jamón</name>
   <time>2015-07-06T13:38:41Z</time>
   <extensions>
-    <color>#3f51b5</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>29</type>
+  <type>27</type>
 </wpt>
 <wpt lat="40.408167" lon="-3.6998217">
   <name>Casa de Asturias</name>
@@ -117,7 +117,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
 </wpt>
 <wpt lat="40.42497" lon="-3.7252531">
   <name>Casa Mingo</name>
@@ -125,7 +125,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>Sidra (sweet) – 1,35€.</desc>
 </wpt>
 <wpt lat="40.41459" lon="-3.7082197">
@@ -134,7 +134,7 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
-  <type>29</type>
+  <type>26</type>
   <desc>Sidra (acid) served by hand – 1,5€; bottle – 5€.</desc>
 </wpt>
 </gpx>
