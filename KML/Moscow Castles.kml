@@ -112,7 +112,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
   <Placemark>
     <name>17. Sretensky Monastery</name>
     <description>Founded in 1397, the existing brick fence was built in the 1990’s.</description>
-    <TimeStamp><when>12020-02-18T04:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-18T04:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.629822,55.765564</coordinates></Point>
     <ExtendedData xmlns:mwm="https://maps.me">

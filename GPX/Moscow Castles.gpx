@@ -33,7 +33,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
 </wpt>
 <wpt lat="55.765564" lon="37.629822">
   <name>17. Sretensky Monastery</name>
-  <time>12020-02-18T04:00:00Z</time>
+  <time>2020-02-18T04:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -109,7 +109,7 @@ For the first time the wooden fence was replaced by stone one in 1671. For the s
 The convent was completely burned down a few times: in 1514, 1547 and during Time of Troubles. The barbican church and masonry walls of Naryshkin Baroque style have survived to the present day.</desc>
 </wpt>
 <wpt lat="55.71452" lon="37.602065">
-  <name>9. Donskoy Monastery</name>
+  <name>09. Donskoy Monastery</name>
   <time>2020-02-18T12:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -119,7 +119,7 @@ The convent was completely burned down a few times: in 1514, 1547 and during Tim
 It was supposed to defend southern approaches to the Moscow Kremlin, but soon lost its defensive importance and its walls were reshaped in Muscovite Baroque style like Novodevichy Convent.</desc>
 </wpt>
 <wpt lat="55.726043" lon="37.555878">
-  <name>8. Novodevichy Convent</name>
+  <name>08. Novodevichy Convent</name>
   <time>2020-02-18T13:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -129,7 +129,7 @@ It was supposed to defend southern approaches to the Moscow Kremlin, but soon lo
 The contemporary walls and towers were erected during the reign of Boris Godunov (1598–1605). The battlements have the same shape as Moscow Kremlin's one. There are four round towers on the corners and eight square towers between them, all towers of each type are the same. The convent territory is UNESCO World Heritage Site.</desc>
 </wpt>
 <wpt lat="55.73175" lon="37.656613">
-  <name>7. Novospassky Monastery</name>
+  <name>07. Novospassky Monastery</name>
   <time>2020-02-18T13:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -139,7 +139,7 @@ The contemporary walls and towers were erected during the reign of Boris Godunov
 The current place of the monastery was chosen by Ivan IV to protect south-east approaches to the capital. In 1521, 1571 and 1591 the monastery successfully repulsed the attack of Crimean Tatars.</desc>
 </wpt>
 <wpt lat="55.713792" lon="37.656749">
-  <name>6. Simonov Monastery</name>
+  <name>06. Simonov Monastery</name>
   <time>2020-02-18T14:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -149,7 +149,7 @@ The current place of the monastery was chosen by Ivan IV to protect south-east a
 The monastery was established by monk Feodor, a nephew of Sergius of Radonezh. In 1379 it was moved to a new place to protect strategic paths to the Moscow river. In 1591 the monastery repulsed the attack of Gazi Giray. Two of three remaining towers and the walls have machicolation and seem to be built in the 40’s of the 17th century. The corner tower «Dulo Tower» has 16 faces and three tiers of loopholes.</desc>
 </wpt>
 <wpt lat="55.748834" lon="37.670544">
-  <name>5. Andronikov Monastery</name>
+  <name>05. Andronikov Monastery</name>
   <time>2020-02-18T15:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -159,7 +159,7 @@ The monastery was established by monk Feodor, a nephew of Sergius of Radonezh. I
 Due to dangerous location the monastery has been ransacked a number of times: in 1368 and 1371 by Lithuanian’s duke Algirdas, in 1382 by Tokhtamysh, in 1408 by Edigu, in 1451 by Sayid Ahmad, in 1571 by Devlet Giray, in 1611 by polish and in 1812 by Napoleon. Nevertheless, the inner katholikon (1420) survived, even the frescoes by Andrei Rublev and Daniil Chyorny remain visible on its walls.</desc>
 </wpt>
 <wpt lat="55.7669" lon="37.615362">
-  <name>4. Vysokopetrovsky Monastery</name>
+  <name>04. Vysokopetrovsky Monastery</name>
   <time>2020-02-18T16:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -169,7 +169,7 @@ Due to dangerous location the monastery has been ransacked a number of times: in
 This monastery defended Moscow from the north. In 1680–1690 it was completely rebuilt by Naryshkin boyars.</desc>
 </wpt>
 <wpt lat="55.710802" lon="37.629727">
-  <name>3. Danilov Monastery</name>
+  <name>03. Danilov Monastery</name>
   <time>2020-02-18T17:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -206,7 +206,7 @@ After foundation the place was changed a few times according to advantageous str
   <desc>It was an additional defensive line around Kremlin build from 1534 to 1539 and originally featured 13 towers and six gates. Unfortunately, the wall was demolished in 1930’s and only two curtains remained. One of two remaining parts is located near Zaryadye.</desc>
 </wpt>
 <wpt lat="55.749423" lon="37.615982">
-  <name>1. Moscow Kremlin</name>
+  <name>01. Moscow Kremlin</name>
   <time>2020-02-18T21:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
