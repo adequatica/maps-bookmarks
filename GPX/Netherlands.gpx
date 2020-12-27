@@ -1,145 +1,168 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Netherlands</name>
+</metadata>
 <wpt lat="52.388077" lon="4.6385788">
   <name>Haarlem</name>
-  <time>2017-07-19T07:28:42Z</time>
+  <time>2013-07-31T07:28:42Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="52.376606" lon="4.6336891">
   <name>Frans Hals Museum</name>
-  <time>2017-07-19T10:36:39Z</time>
+  <time>2013-07-31T10:36:39Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="52.375587" lon="4.5317303">
   <name>Zandvoort aan Zee</name>
-  <time>2017-05-18T08:00:42Z</time>
+  <time>2013-07-31T11:00:42Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="51.688093" lon="5.3121646">
   <name>Jheronimus Bosch Art Center</name>
-  <time>2017-05-06T17:30:00Z</time>
+  <time>2017-07-18T17:30:00Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>11-17:30</desc>
 </wpt>
 <wpt lat="51.688947" lon="5.3046853">
   <name>Hieronymus Bosch huis</name>
-  <time>2017-05-07T14:17:59Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="51.690226" lon="5.2966185">
-  <name>Jan de Groot</name>
-  <time>2017-07-06T04:39:08Z</time>
-  <extensions>
-    <color>#ff5722</color>
-  </extensions>
-</wpt>
-<wpt lat="51.689774" lon="5.3003361">
-  <name>Bar le Duc</name>
-  <time>2017-07-05T13:07:04Z</time>
+  <time>2017-07-18T18:17:59Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="51.690226" lon="5.2966185">
+  <name>Jan de Groot</name>
+  <time>2017-07-18T18:39:08Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="51.689774" lon="5.3003361">
+  <name>Bar le Duc</name>
+  <time>2017-07-18T19:07:04Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
   <desc>Brouwerij 't Kolleke, try homemade triple.</desc>
 </wpt>
 <wpt lat="51.691894" lon="5.2963262">
   <name>Thornbridge</name>
-  <time>2017-07-05T13:02:50Z</time>
+  <time>2017-07-18T20:02:50Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
 </wpt>
 <wpt lat="51.695138" lon="5.3031899">
   <name>Citadel 's-Hertogenbosch</name>
-  <time>2017-07-19T07:46:04Z</time>
+  <time>2017-07-18T20:46:04Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="51.690517" lon="5.2937083">
   <name>'s-Hertogenbosch</name>
-  <time>2017-05-07T14:18:20Z</time>
+  <time>2017-07-18T21:18:20Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="52.089393" lon="5.1098214">
   <name>Utrecht Centraal</name>
-  <time>2017-07-18T14:56:50Z</time>
+  <time>2017-07-18T21:56:50Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="52.089035" lon="5.1215186">
   <name>Kafé België</name>
-  <time>2017-07-18T14:56:19Z</time>
+  <time>2017-07-18T21:56:59Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="52.085332" lon="5.1475762">
   <name>Rietveld-Schröderhuis</name>
-  <time>2017-07-17T20:44:20Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="51.924959" lon="4.468693">
-  <name>Rotterdam Centraal</name>
-  <time>2017-07-01T09:44:06Z</time>
-  <extensions>
-    <color>#607d8b</color>
-  </extensions>
-</wpt>
-<wpt lat="51.920201" lon="4.4870206">
-  <name>Markthal</name>
-  <time>2017-07-06T05:36:01Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="51.920395" lon="4.4901266">
-  <name>Kubuswoningen</name>
-  <time>2017-07-06T04:48:56Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="52.080844" lon="4.3245484">
-  <name>Den Haag Centraal</name>
-  <time>2017-07-01T09:56:50Z</time>
-  <extensions>
-    <color>#607d8b</color>
-  </extensions>
-</wpt>
-<wpt lat="52.07777" lon="4.317108">
-  <name>Atrium City Hall</name>
-  <time>2017-07-01T10:08:07Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="52.080401" lon="4.3142984">
-  <name>Mauritshuis</name>
-  <time>2017-07-21T08:39:10Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="52.084259" lon="4.3116711">
-  <name>Cafe de la Gare</name>
-  <time>2017-07-01T10:13:55Z</time>
+  <time>2017-07-18T22:44:20Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="51.924959" lon="4.468693">
+  <name>Rotterdam Centraal</name>
+  <time>2017-07-19T09:44:06Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="51.920201" lon="4.4870206">
+  <name>Markthal</name>
+  <time>2017-07-19T10:36:01Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="51.920395" lon="4.4901266">
+  <name>Kubuswoningen</name>
+  <time>2017-07-19T10:48:56Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="52.080844" lon="4.3245484">
+  <name>Den Haag Centraal</name>
+  <time>2017-07-21T09:56:50Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="52.07777" lon="4.317108">
+  <name>Atrium City Hall</name>
+  <time>2017-07-21T10:08:07Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="52.080401" lon="4.3142984">
+  <name>Mauritshuis</name>
+  <time>2017-07-21T10:39:10Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="52.084259" lon="4.3116711">
+  <name>Cafe de la Gare</name>
+  <time>2017-07-21T11:13:55Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
 </wpt>
 </gpx>

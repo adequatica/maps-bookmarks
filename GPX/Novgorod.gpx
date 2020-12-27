@@ -1,74 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Novgorod</name>
+</metadata>
 <wpt lat="58.526745" lon="31.251248">
   <name>Veliky Novgorod</name>
   <time>2020-07-06T06:39:32Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="58.520925" lon="31.275227">
   <name>Novgorod Kremlin</name>
-  <time>2020-07-05T16:12:38Z</time>
+  <time>2020-07-07T16:12:38Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="58.518814" lon="31.285022">
   <name>Yaroslav’s Court</name>
-  <time>2020-07-07T08:19:23Z</time>
+  <time>2020-07-07T18:19:23Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="58.517435" lon="31.295578">
   <name>Church of the Transfiguration of Our Saviour on Ilyina Street</name>
   <time>2020-07-21T12:01:39Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Contain works by Theophanes the Greek.</desc>
 </wpt>
 <wpt lat="58.529753" lon="31.281825">
   <name>Fyodor Dostoevsky Theater of Dramatic Art</name>
-  <time>2020-07-21T11:29:20Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="58.000241" lon="31.342748">
-  <name>Staraya Russa</name>
-  <time>2020-07-06T06:44:43Z</time>
-  <extensions>
-    <color>#607d8b</color>
-  </extensions>
-</wpt>
-<wpt lat="57.98129" lon="31.357289">
-  <name>Dostoevsky House Museum</name>
-  <time>2020-07-06T06:46:03Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="57.985875" lon="31.355268">
-  <name>Brothers Karamazov Museum</name>
-  <time>2020-07-28T07:42:34Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="58.525005" lon="31.26722">
-  <name>Mycroft Pub</name>
-  <time>2020-07-21T12:01:51Z</time>
+  <time>2020-07-21T12:29:20Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="58.000241" lon="31.342748">
+  <name>Staraya Russa</name>
+  <time>2020-07-22T06:44:43Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="57.98129" lon="31.357289">
+  <name>Dostoevsky House Museum</name>
+  <time>2020-07-22T06:46:03Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="57.985875" lon="31.355268">
+  <name>Brothers Karamazov Museum</name>
+  <time>2020-07-22T07:42:34Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="58.525005" lon="31.26722">
+  <name>Mycroft Pub</name>
+  <time>2020-07-23T12:01:51Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="58.525715" lon="31.292231">
   <name>My Kitchen</name>
-  <time>2020-07-21T11:12:33Z</time>
+  <time>2020-07-23T12:12:33Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 </gpx>

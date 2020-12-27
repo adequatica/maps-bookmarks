@@ -1,205 +1,236 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Rome</name>
+</metadata>
 <wpt lat="41.836815" lon="12.465225">
   <name>Colosseo Quadrato</name>
-  <time>2019-10-25T05:49:55Z</time>
+  <time>2019-12-29T05:49:55Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>A prime example of fascist-era rational architecture.</desc>
 </wpt>
 <wpt lat="41.902161" lon="12.453713">
   <name>Basilica Sancti Petri</name>
-  <time>2019-12-30T06:27:35Z</time>
+  <time>2019-12-29T06:27:35Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.90688" lon="12.453836">
   <name>Entrance to Musei Vaticani</name>
-  <time>2020-01-08T08:30:11Z</time>
+  <time>2019-12-29T08:20:11Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.903076" lon="12.466331">
   <name>Castel Sant’Angelo</name>
-  <time>2019-10-05T00:20:53Z</time>
+  <time>2019-12-29T08:20:53Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.904824" lon="12.477799">
   <name>Ferrari Store</name>
-  <time>2020-01-08T08:38:43Z</time>
+  <time>2019-12-29T09:38:43Z</time>
   <extensions>
-    <color>#ffb300</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.905439" lon="12.480505">
   <name>Palazzo Malta</name>
-  <time>2019-07-20T07:41:24Z</time>
+  <time>2019-12-29T09:41:24Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Headquarter of the Sovereign Military Order of Malta.</desc>
 </wpt>
 <wpt lat="41.906049" lon="12.482884">
   <name>Spanish Steps</name>
-  <time>2019-08-26T06:10:29Z</time>
+  <time>2019-12-29T10:10:29Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.929096" lon="12.474862">
   <name>Auditorium Parco della Musica</name>
-  <time>2019-10-03T06:22:35Z</time>
+  <time>2019-12-29T10:22:35Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.928882" lon="12.466311">
   <name>MAXXI Museo nazionale delle arti del XXI secolo</name>
-  <time>2019-10-03T06:21:10Z</time>
+  <time>2019-12-29T11:21:10Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Contemporary architecture by Zaha Hadid.</desc>
 </wpt>
 <wpt lat="41.890373" lon="12.492624">
   <name>Colosseo</name>
-  <time>2019-07-20T07:55:51Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.889769" lon="12.490667">
-  <name>Arco di Costantino</name>
-  <time>2019-08-28T05:34:24Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.890669" lon="12.488577">
-  <name>Arco di Tito</name>
-  <time>2019-12-31T07:54:03Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.892834" lon="12.484739">
-  <name>Arco di Settimio Severo</name>
-  <time>2019-12-30T14:04:26Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.893268" lon="12.483718">
-  <name>Lupa capitolina</name>
-  <time>2019-12-30T14:13:57Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.895822" lon="12.484268">
-  <name>Colonna di Traiano</name>
-  <time>2019-12-30T15:57:38Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.900848" lon="12.479989">
-  <name>Colonna di Marco Aurelio</name>
-  <time>2020-01-08T08:13:13Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.900971" lon="12.48328">
-  <name>Fountana di Trevi</name>
-  <time>2019-07-20T07:57:47Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.898626" lon="12.476833">
-  <name>Pantheon</name>
-  <time>2019-07-21T11:34:09Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.892351" lon="12.470759">
-  <name>Ponte Sisto</name>
-  <time>2019-11-04T10:16:40Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.891417" lon="12.468564">
-  <name>Dar Poeta</name>
-  <time>2019-10-25T06:33:12Z</time>
-  <extensions>
-    <color>#ff5722</color>
-  </extensions>
-</wpt>
-<wpt lat="41.891729" lon="12.469178">
-  <name>Ma Che Siete Venuti A Fà</name>
-  <time>2019-10-07T17:56:04Z</time>
-  <extensions>
-    <color>#9c27b0</color>
-  </extensions>
-</wpt>
-<wpt lat="41.896688" lon="12.498575">
-  <name>Birreria Marconi</name>
-  <time>2020-01-02T14:02:47Z</time>
+  <time>2019-12-30T07:55:51Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.889769" lon="12.490667">
+  <name>Arco di Costantino</name>
+  <time>2019-12-30T08:34:24Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.890669" lon="12.488577">
+  <name>Arco di Tito</name>
+  <time>2019-12-30T08:54:03Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.892834" lon="12.484739">
+  <name>Arco di Settimio Severo</name>
+  <time>2019-12-30T09:04:26Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.893268" lon="12.483718">
+  <name>Lupa capitolina</name>
+  <time>2019-12-30T09:13:57Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.895822" lon="12.484268">
+  <name>Colonna di Traiano</name>
+  <time>2019-12-30T09:57:38Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.900848" lon="12.479989">
+  <name>Colonna di Marco Aurelio</name>
+  <time>2019-12-30T10:13:13Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.900971" lon="12.48328">
+  <name>Fountana di Trevi</name>
+  <time>2019-12-31T07:57:47Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.898626" lon="12.476833">
+  <name>Pantheon</name>
+  <time>2019-12-31T08:34:09Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.892351" lon="12.470759">
+  <name>Ponte Sisto</name>
+  <time>2019-12-31T10:16:40Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.891417" lon="12.468564">
+  <name>Dar Poeta</name>
+  <time>2019-12-31T10:33:12Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.891729" lon="12.469178">
+  <name>Ma Che Siete Venuti A Fà</name>
+  <time>2019-12-31T10:56:04Z</time>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <type>28</type>
+</wpt>
+<wpt lat="41.896688" lon="12.498575">
+  <name>Birreria Marconi</name>
+  <time>2019-12-31T14:02:47Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
   <desc>Have two kinds of bottled craft beer and make the best Aperol Spritz.</desc>
 </wpt>
 <wpt lat="41.899812" lon="12.482049">
   <name>Galleria Sciarra</name>
-  <time>2020-01-04T06:07:41Z</time>
+  <time>2019-12-31T16:07:41Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.853106" lon="12.519503">
   <name>Via Appia Antica</name>
-  <time>2019-10-25T05:43:14Z</time>
+  <time>2020-01-02T05:43:14Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>2300-year-old Roman road.</desc>
 </wpt>
 <wpt lat="41.858881" lon="12.510731">
   <name>Catacombe di San Callisto</name>
-  <time>2019-12-20T14:07:34Z</time>
+  <time>2020-01-02T14:07:34Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>By Public Transport from Metro B to the stop Colosseo or Circo Massimo (bus stop: Terme Caracalla/Porta Capena). From here continue on bus 118 (direction Appia/Villa Dei Quintili) to the stop Catacombe di San Callisto.</desc>
 </wpt>
 <wpt lat="41.876438" lon="12.48085">
   <name>Piramide di Caio Cestio</name>
-  <time>2019-10-25T05:42:39Z</time>
+  <time>2020-01-02T15:42:39Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.889322" lon="12.49762">
   <name>Basilica di San Clemente</name>
-  <time>2020-01-02T15:18:41Z</time>
+  <time>2020-01-02T16:18:41Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.901177" lon="12.501723">
   <name>Roma Termini</name>
   <time>2020-01-02T19:17:43Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 </gpx>

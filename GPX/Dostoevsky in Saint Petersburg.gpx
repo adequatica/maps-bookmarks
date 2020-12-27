@@ -1,563 +1,636 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Dostoevsky in Saint Petersburg</name>
+</metadata>
 <wpt lat="59.933185" lon="30.343365">
   <name>70. Anichkov Bridge</name>
-  <time>2018-09-25T07:07:51Z</time>
+  <time>2019-05-19T07:00:51Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Andrey Antonovich von Lembke of the novel «Demons» was met by a fellow in the late autumn.</desc>
 </wpt>
 <wpt lat="59.906952" lon="30.307373">
   <name>69. Varshavskiy railway station</name>
-  <time>2019-04-07T09:42:51Z</time>
+  <time>2019-05-19T07:10:51Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Knyaz Myshkin arrived at this railway station from Europe.</desc>
 </wpt>
 <wpt lat="59.919634" lon="30.329462">
   <name>68. Vitebsky railway station</name>
-  <time>2016-10-23T15:13:42Z</time>
+  <time>2019-05-19T07:20:42Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Dostoevsky didn’t name a station, but this is the only railway station that the heroes of the novel «Idiot» could go to Pavlovsk.</desc>
 </wpt>
 <wpt lat="59.944578" lon="30.335094">
   <name>67. Summer Garden</name>
-  <time>2016-09-25T15:52:20Z</time>
+  <time>2019-05-19T07:30:20Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Knyaz Myshkin sat on a bench under a linden tree.</desc>
 </wpt>
 <wpt lat="59.903038" lon="30.263509">
   <name>66. Yekateringof Park</name>
-  <time>2016-09-25T15:51:41Z</time>
+  <time>2019-05-19T07:40:41Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Parfyon Rogozhin and Nastasya Filipovna went there to celebrate her birthday.</desc>
 </wpt>
 <wpt lat="59.929967" lon="30.320506">
   <name>65. Rogozhin House</name>
-  <time>2016-09-25T15:47:48Z</time>
+  <time>2019-05-19T07:50:48Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Parfyon Rogozhin lived there: «This house was big, dark, three floors, without any architecture, dirty-green».</desc>
 </wpt>
 <wpt lat="59.94343" lon="30.350931">
   <name>64. General Epanchin House</name>
-  <time>2017-05-29T08:17:18Z</time>
+  <time>2019-05-19T08:00:18Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>General lived in his own house away from Liteyniy avenue and near the Transfiguration Cathedral. However, the Epanchin’s house could be located directly on the opposite side of the Transfiguration square: Ulitsa Ryleyeva, 1.</desc>
 </wpt>
 <wpt lat="59.925695" lon="30.342212">
   <name>63. Five Corners</name>
-  <time>2017-02-26T06:14:16Z</time>
+  <time>2019-05-19T08:10:16Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Nastasya Filipovna Barashkova of the novel «Idiot» lived there. Near this place was the first Raskolnikov’s apartment, as his friend Razumikhin said.</desc>
 </wpt>
 <wpt lat="59.928865" lon="30.308397">
   <name>62. Bakaleev House</name>
-  <time>2017-10-01T13:39:46Z</time>
+  <time>2019-05-19T08:20:46Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Former «Varvarinskaya Hotel», where Luzhin settled Raskolnikov’s mother and sister. There was Miller’s confectionery, where Ivan Petrovich of the novel «Humiliated and Insulted» met oldster Smith.</desc>
 </wpt>
 <wpt lat="59.926467" lon="30.308208">
   <name>61. Voznesenskiy Bridge</name>
-  <time>2016-10-14T15:53:29Z</time>
+  <time>2019-05-19T08:30:29Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Raskolnikov had stood on the bridge and saw how a woman tried to drown herself. Here Katerina Ivanovna has gone crazy. Ivan Petrovich of the novel «Humiliated and Insulted» saw how Nellie begged.</desc>
 </wpt>
 <wpt lat="59.922983" lon="30.313115">
   <name>60. Yusupov Garden</name>
-  <time>2016-10-15T08:21:43Z</time>
+  <time>2019-05-19T08:40:43Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Raskolnikov passed it by during his walks.</desc>
 </wpt>
 <wpt lat="59.925239" lon="30.315901">
   <name>59. Brothel</name>
-  <time>2017-10-01T19:33:42Z</time>
+  <time>2019-05-19T08:50:42Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>A side street where Raskolnikov met prostitutes.</desc>
 </wpt>
 <wpt lat="59.921846" lon="30.305794">
   <name>58. Police Department**</name>
-  <time>2017-02-26T06:08:26Z</time>
+  <time>2019-05-19T09:00:26Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>According to one version Raskolnikov talked with Porfiriy Petrovich in the former Spasskaya police station. According to another version their talk took place in the former Kazan police station (Naberezhnaya Kanala Griboyedova, 99).</desc>
 </wpt>
 <wpt lat="59.927015" lon="30.300737">
   <name>57. Police Department*</name>
-  <time>2016-10-16T07:33:58Z</time>
+  <time>2019-05-19T09:10:58Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>According to one version Raskolnikov had a conversation with Porfiriy Petrovich in the former Kazan police station, it’s a quarter of a mile from his house, as mentioned in the novel. According to another version their conversation took place in the former Spasskaya police station (Sadovaya ulitsa, 58).</desc>
 </wpt>
 <wpt lat="59.930826" lon="30.307901">
   <name>56. Raskolnikov’s Stash</name>
-  <time>2016-10-20T17:15:24Z</time>
+  <time>2019-05-19T09:20:24Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Raskolnikov hid stolen things and the wallet from the murdered old lady under a stone in this courtyard. The courtyard doesn't exist, the house in this place was rebuilt in 1950.</desc>
 </wpt>
 <wpt lat="59.927711" lon="30.316414">
   <name>55. Pereulok Grivtsova</name>
-  <time>2017-10-01T13:37:27Z</time>
+  <time>2019-05-19T09:30:27Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Raskolnikov overheard the conversation with Lizaveta.</desc>
 </wpt>
 <wpt lat="59.924817" lon="30.303112">
   <name>54. Old Moneylender Lady House</name>
-  <time>2016-09-25T15:19:55Z</time>
+  <time>2019-05-19T09:40:55Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>There were «730 steps» from the gates of Raskolnikov’s house to the old moneylender lady Alyona Ivanovna.</desc>
 </wpt>
 <wpt lat="59.926354" lon="30.310702">
   <name>53. Sonya Marmeladova House</name>
-  <time>2016-09-25T15:12:28Z</time>
+  <time>2019-05-19T09:50:28Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Sonya Marmeladova rented a room on the third floor.</desc>
 </wpt>
 <wpt lat="59.927691" lon="30.310662">
   <name>52. Raskolnikov House</name>
-  <time>2016-09-25T15:08:40Z</time>
+  <time>2019-05-19T10:00:40Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>On the fourth floor there was an apartment where Rodion rented a tiny room.</desc>
 </wpt>
 <wpt lat="59.924683" lon="30.318343">
   <name>51. Vyazemskaya Lavla</name>
-  <time>2019-04-07T18:53:23Z</time>
+  <time>2019-05-19T10:10:23Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>It was a group of houses between Sennaya square and the Fontanka river in the XIX century, where cheap taverns and rooming houses were settled. Svidrigailov mentioned that he spent a night there.</desc>
 </wpt>
 <wpt lat="59.922214" lon="30.307361">
   <name>50. Cristal Palace</name>
-  <time>2017-10-01T19:34:19Z</time>
+  <time>2019-05-19T10:20:19Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Tavern where Raskolnikov listened to Svidrigailov’s story.</desc>
 </wpt>
 <wpt lat="59.926964" lon="30.318633">
   <name>49. Sennaya Square</name>
-  <time>2016-10-23T15:12:42Z</time>
+  <time>2019-05-19T10:30:42Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Mentioned multiple times in the novel «Crime and Punishment».</desc>
 </wpt>
 <wpt lat="59.933194" lon="30.298095">
   <name>48. Konnogvardeyskiy Boulevard</name>
-  <time>2016-10-22T15:21:37Z</time>
+  <time>2019-05-19T10:40:37Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Raskolnikov met a drunk girl on a bench.</desc>
 </wpt>
 <wpt lat="59.925821" lon="30.313625">
   <name>47. Kokushkin Bridge</name>
-  <time>2016-10-08T08:06:03Z</time>
+  <time>2019-05-19T10:50:03Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Raskolnikov passed over the bridge on the way to an old moneylender lady.</desc>
 </wpt>
 <wpt lat="59.933112" lon="30.331046">
   <name>46. Gostiny Dvor</name>
-  <time>2019-04-07T09:41:49Z</time>
+  <time>2019-05-19T11:00:49Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The main character of the novel «Notes from the Underground» tried to buy a beaver collar for his coat.</desc>
 </wpt>
 <wpt lat="59.935216" lon="30.316771">
   <name>45. Borel Restaurant</name>
-  <time>2019-04-07T09:35:41Z</time>
+  <time>2019-05-19T11:10:41Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Ivan Petrovich and knyaz Valkovsky went to dinner.</desc>
 </wpt>
 <wpt lat="59.924568" lon="30.29574">
   <name>44. Torgovyy Brindge</name>
-  <time>2019-04-07T09:36:16Z</time>
+  <time>2019-05-19T11:20:16Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Ivan Petrovich and knyaz Valkovsky went to countess, who lived nearby.</desc>
 </wpt>
 <wpt lat="59.923607" lon="30.3204">
   <name>43. Natasha Ikhmeneva House</name>
-  <time>2019-04-07T09:40:16Z</time>
+  <time>2019-05-19T11:30:16Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Natasha Ikhmeneva of the novel «Humiliated and Insulted» presumably could live there.</desc>
 </wpt>
 <wpt lat="59.934418" lon="30.278528">
   <name>42. 13th Line of Vasilyevsky Ostrov</name>
-  <time>2019-04-07T09:39:27Z</time>
+  <time>2019-05-19T11:40:27Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Ikhmenev’s family (Nikolai Sergeyevich and Anna Andreyevna) lived there.</desc>
 </wpt>
 <wpt lat="59.937804" lon="30.284801">
   <name>41. 6th Line of Vasilyevsky Ostrov</name>
-  <time>2019-04-12T21:31:13Z</time>
+  <time>2019-05-19T11:50:13Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>There was a house of Bubnova, where Nellie lived after the death of her mother.</desc>
 </wpt>
 <wpt lat="59.929267" lon="30.305262">
   <name>40. Smith House</name>
-  <time>2019-04-07T19:09:32Z</time>
+  <time>2019-05-19T12:00:32Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Oldster Smith and later Ivan Petrovich of the novel «Humiliated and Insulted» lived there.</desc>
 </wpt>
 <wpt lat="59.936642" lon="30.355072">
   <name>39. Shestilavochnaya ulitsa</name>
-  <time>2018-09-25T05:48:49Z</time>
+  <time>2019-05-19T12:10:49Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>A titular councillor Golyadkin of the novel «Double» and Filipp Filippych Masloboyev of the novel «Humiliated and Insulted» lived there.</desc>
 </wpt>
 <wpt lat="59.927478" lon="30.347719">
   <name>38. Dostoevsky’s monument</name>
-  <time>2016-10-17T17:42:28Z</time>
+  <time>2019-05-19T12:20:28Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The monument was opened in 1997.</desc>
 </wpt>
 <wpt lat="59.922955" lon="30.386581">
   <name>37. Dostoevsky’s grave</name>
-  <time>2016-10-15T21:28:18Z</time>
+  <time>2019-05-19T12:30:18Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Dostoevsky was buried February 14th (February 1st by the Old Style date) 1881 in the Tikhvin Cemetery. His tombstone is inscribed with lines from the New Testament: Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it dies, it bringeth forth much fruit. – John 12:24.</desc>
 </wpt>
 <wpt lat="59.927382" lon="30.350661">
   <name>36. Dostoevsky Museum</name>
-  <time>2017-02-26T06:16:24Z</time>
+  <time>2019-05-19T12:40:24Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Dostoevsky had rented an apartment in this building twice, once for a very short time in 1846, and then from October 1878 until his death on February 9th (January 28th by the Old Style date), 1881. Here he wrote his last novel «The Brothers Karamazov».</desc>
 </wpt>
 <wpt lat="59.93598" lon="30.366603">
   <name>35. Strubinsky House</name>
-  <time>2016-09-25T14:31:22Z</time>
+  <time>2019-05-19T12:50:22Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>20 September 1875 – May 1878. The apartment was on the third floor with an entrance from the backyard. Finished the novel «The Adolescent», moved out after the death of his younger son.</desc>
 </wpt>
 <wpt lat="59.931413" lon="30.362554">
   <name>34. Znamenskaya Hotel</name>
-  <time>2019-03-03T08:01:21Z</time>
+  <time>2019-05-19T13:00:21Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>He stayed at the «Znamenskaya» hotel several times: from 5 to 16 February 1875, where he corrected the first part of the novel «The Adolescent», then 12–15 May 1875 and 6–9 July 1875, while returning from Ems. Then 9–11 August, 1876, where he suffered an epileptic. And passed by on the night of 19–20 July 1879.</desc>
 </wpt>
 <wpt lat="59.933073" lon="30.349923">
   <name>33. Dagmar Hotel</name>
-  <time>2019-03-03T08:00:17Z</time>
+  <time>2019-05-19T13:10:17Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>5–7 June 1875. Stopped once on the way from Staraya Russa to Bad Ems. The hotel and the room turned out to be «the worst».</desc>
 </wpt>
 <wpt lat="59.927634" lon="30.319254">
   <name>32. Former guardhouse</name>
-  <time>2016-09-25T14:24:28Z</time>
+  <time>2019-05-19T13:20:28Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>21–23 March 1874. Spent two days under arrest in military prison due to violation of censorship as an editor in «The Citizen» magazine.</desc>
 </wpt>
 <wpt lat="59.931013" lon="30.357573">
   <name>31. «The Citizen» magazine</name>
-  <time>2016-09-29T07:37:24Z</time>
+  <time>2019-05-19T13:30:24Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>1873 – April 1874. Was an editor and wrote a weekly political review column, published essays «A Writer’s Diary».</desc>
 </wpt>
 <wpt lat="59.934254" lon="30.362694">
   <name>30. Slivchansky House</name>
-  <time>2016-09-25T14:05:28Z</time>
+  <time>2019-05-19T13:40:28Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>March 1873 – May 1874. Moved to a place closer to the publishing house of «The Citizen» magazine, started working on the novel «The Adolescent». He didn’t like the owner of the house and the noise on the street.</desc>
 </wpt>
 <wpt lat="59.915092" lon="30.311606">
   <name>29. Mebes House (the old house was completely rebuilt)</name>
-  <time>2016-09-25T14:02:24Z</time>
+  <time>2019-05-19T13:50:24Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The end of August 1872 – March 1873. Finished the novel «Demons» and started editing «The Citizen» magazine. The room was on the second floor of an inside outbuilding which has not been preserved.</desc>
 </wpt>
 <wpt lat="59.929519" lon="30.307228">
   <name>28. Maximilianovskaya Hospital</name>
-  <time>2019-03-03T07:55:51Z</time>
+  <time>2019-05-19T14:00:51Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>24–26 May 1872. Returned from Staraya Russa, because of a broken arm of his three-year-old daughter Lyuba. He lived in the hospital’s inn with his wife for two days.</desc>
 </wpt>
 <wpt lat="59.91591" lon="30.322258">
   <name>27. Arkhangelsk House (the old house did not preserved)</name>
-  <time>2019-03-03T07:53:36Z</time>
+  <time>2019-05-19T14:10:36Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>22–23 August 1871 – 15 May 1872. Lived here before leaving for the summer to Staraya Russa. He posed here for the famous portrait by the painter Perov.</desc>
 </wpt>
 <wpt lat="59.924728" lon="30.310997">
   <name>26. Mickiewicz House (the old house did not preserved)</name>
-  <time>2016-09-25T13:51:24Z</time>
+  <time>2019-05-19T14:20:24Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>10 July – 22–23 August 1871. After returning from abroad he rented two rooms where his son Fyodor was born.</desc>
 </wpt>
 <wpt lat="59.937018" lon="30.321887">
   <name>25. Demut Hotel** (the old house was rebuilt)</name>
-  <time>2019-03-03T07:52:19Z</time>
+  <time>2019-05-19T14:30:19Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>8-9 July 1871. The hotel’s address is unknown to the biographers, but probably Dostoevskys could live here for two days after returning from abroad.</desc>
 </wpt>
 <wpt lat="59.937643" lon="30.322683">
   <name>24. Volkov Hotel* (the old house did not preserved)</name>
-  <time>2019-03-03T07:51:49Z</time>
+  <time>2019-05-19T14:40:49Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>8–9 July 1871. According to the memoirs of Anna Grigorievna Dostoevskaya, after returning from abroad «we stayed at a hotel on the Bolshaya Konyushennaya, but only for two days. It was inconvenient and expensive». The address is assumed, because they could also stay at the hotel «Demut»**.</desc>
 </wpt>
 <wpt lat="59.91647" lon="30.305851">
   <name>23. Trinity Cathedral</name>
-  <time>2016-09-25T13:42:00Z</time>
+  <time>2019-05-19T14:50:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>15 February 1867 married here on the same day of his release from the Omsk prison camp.</desc>
 </wpt>
 <wpt lat="59.925755" lon="30.307235">
   <name>22. Schirmer House</name>
-  <time>2016-09-25T14:44:41Z</time>
+  <time>2019-05-19T15:00:41Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>21 January – 14 April 1867. Rented a five-room apartment on the second floor before his second marriage. After that he went abroad.</desc>
 </wpt>
 <wpt lat="59.927069" lon="30.312774">
   <name>21. Alonkin House</name>
-  <time>2016-09-25T13:21:03Z</time>
+  <time>2019-05-19T15:10:03Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>20 August 1864 – 20 January 1867. Wrote novels «Crime and Punishment» and «The Gambler», met his second wife Anna Grigoryevna Snitkina.</desc>
 </wpt>
 <wpt lat="59.926795" lon="30.311756">
   <name>20. Evreinov House</name>
-  <time>2016-09-25T13:17:24Z</time>
+  <time>2019-05-19T15:20:24Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>April 1864. Stayed after the death of his first wife Maria Dmitriyevna Isaeva.</desc>
 </wpt>
 <wpt lat="59.9266" lon="30.302025">
   <name>19. Tomas House</name>
-  <time>2019-03-03T07:47:52Z</time>
+  <time>2019-05-19T15:30:52Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>At this time Dostoevsky traveled in Europe and his stepson Pavel Isaev lived at this address. The writer stayed in his stepson’s apartment during his visits to St. Petersburg in late 1863 – early 1864.</desc>
 </wpt>
 <wpt lat="59.927429" lon="30.314607">
   <name>18. Astafieva House</name>
-  <time>2016-09-25T13:12:24Z</time>
+  <time>2019-05-19T15:40:24Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>September 1861 – August 1863. Rented a five-room apartment on the second floor with a kitchen, finished novel «The House of the Dead».</desc>
 </wpt>
 <wpt lat="59.914938" lon="30.31491">
   <name>17. Politin House (the old house did not preserved)</name>
-  <time>2016-09-25T13:04:26Z</time>
+  <time>2019-05-19T15:50:26Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The end of December 1859 – late August 1861. Returned to the city after exile, worked on novels «The House of the Dead» and «Humiliated and Insulted».</desc>
 </wpt>
 <wpt lat="59.948744" lon="30.310822">
   <name>16. Peter and Paul Fortress</name>
-  <time>2016-09-25T11:34:01Z</time>
+  <time>2019-05-19T16:00:01Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>23 April 1849 – 22 December 1849. Wrote the novel «A Little Hero» in prison in the Alexeev ravelin (ravelin’s prison was destroyed in 1895). After the sentence he left St. Petersburg and retired from the literary process for 10 years.</desc>
 </wpt>
 <wpt lat="59.934361" lon="30.308628">
   <name>15. Shil House</name>
-  <time>2016-09-25T11:33:43Z</time>
+  <time>2019-05-19T16:10:43Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>February 1847 – 23 April 1849. Lived on the third floor, wrote stories «White Nights» and «Netochka Nezvanova». 23 April 1849 was arrested and imprisoned in Peter and Paul Fortress.</desc>
 </wpt>
 <wpt lat="59.925807" lon="30.304925">
   <name>14. Bolshaya Podyacheskaya ulitsa</name>
-  <time>2019-03-03T07:25:22Z</time>
+  <time>2019-05-19T16:20:22Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>January 1948 – late May 1948. Lived with his brother’s Michail family. Then they moved to Pargolovo for the summer, and in return settled back in the old apartment in the house of Shil.</desc>
 </wpt>
 <wpt lat="59.93641" lon="30.319062">
   <name>13. Wolf and Beranger</name>
-  <time>2016-10-08T05:32:43Z</time>
+  <time>2019-05-19T16:30:43Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The participants of the literary discussion group The Petrashevsky Circle gathered in the cafe «Wolf and Beranger». In spring of 1846 Dostoyevsky became acquainted with Mikhail Petrashevsky.</desc>
 </wpt>
 <wpt lat="59.940728" lon="30.290257">
   <name>12. Soloshich House</name>
-  <time>2016-09-25T11:29:40Z</time>
+  <time>2019-05-19T16:40:40Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>November 1846 – February 1847. Rented a few rooms with brothers Beketovs.</desc>
 </wpt>
 <wpt lat="59.93362" lon="30.323443">
   <name>11. Kochendorf House</name>
-  <time>2016-09-25T11:28:24Z</time>
+  <time>2019-05-19T16:50:24Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>6 September 1846 – November 1846. Finished story «Mr. Prokharchin». Met here Alexander Herzen on October 5th 1846.</desc>
 </wpt>
 <wpt lat="59.928377" lon="30.344142">
   <name>10. Pavlov House</name>
-  <time>2019-03-03T07:19:28Z</time>
+  <time>2019-05-19T17:00:28Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>May 1846. He lived here for less than a month before leaving for the summer to Revel to his brother Michael.</desc>
 </wpt>
 <wpt lat="59.927164" lon="30.350692">
   <name>09. Kuchin House</name>
-  <time>2016-09-25T14:43:23Z</time>
+  <time>2019-05-19T17:10:23Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The end of 1845 – the beginning of 1846. He lived in a three-room apartment on the first floor, windows facing Grebetskaya street (it is the 5th-7th windows to the right of the arch Dostoevsky street). Wrote the novel «The Double».</desc>
 </wpt>
 <wpt lat="59.929326" lon="30.351257">
   <name>08. Tulubev House</name>
-  <time>2017-10-03T19:26:02Z</time>
+  <time>2019-05-19T17:20:02Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Dmitry Grigorovich brought manuscript of «Poor Folk» to poet Nikolay Nekrasov. After Nekrasov finished the full work during the night he proclaimed Dostoyevsky «the New Gogol».</desc>
 </wpt>
 <wpt lat="59.933269" lon="30.347131">
   <name>07. Lerche Restaurant</name>
-  <time>2016-09-25T12:33:19Z</time>
+  <time>2019-05-19T17:30:19Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Celebrate graduation from the Main Engineering School in Lerche’s restaurant on June 30th 1843.</desc>
 </wpt>
 <wpt lat="59.927237" lon="30.320954">
   <name>06. Spas na Sennoy</name>
-  <time>2016-09-25T12:42:05Z</time>
+  <time>2019-05-19T17:40:05Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The church was visited by Dostoevsky (it was demolished during soviet period, now there is a chapel at this place). Heroes of the novel «Poor Folk» presumably inhabited this area.</desc>
 </wpt>
 <wpt lat="59.930449" lon="30.347024">
   <name>05. Pryanichnikov House</name>
-  <time>2016-09-25T11:24:47Z</time>
+  <time>2019-05-19T17:50:47Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>February 1842 – late 1845. Rented an apartment on the second floor with his brother Andrey. From 1844 to 1845 Dostoyevsky’s neighbour was Dmitry Grigorovich, to whom he read his first novel «Poor Folk» in may 1845.</desc>
 </wpt>
 <wpt lat="59.935635" lon="30.342183">
   <name>04. Setkov House (the old house preserved in a rebuilt form)</name>
-  <time>2016-09-25T11:21:29Z</time>
+  <time>2019-05-19T18:00:29Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>August 1841 – February 1842. On August 12th 1841 he was promoted to engineer warrant officer with the possibility to live privately. He and his classmate Adolph Totleben rented a small two-room apartment.</desc>
 </wpt>
 <wpt lat="59.940526" lon="30.3372">
   <name>03. Saint Michael’s Castle</name>
-  <time>2016-09-25T11:18:59Z</time>
+  <time>2019-05-19T18:10:59Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>16 January 1838 – August 1841. Studied and lived in the Main Engineering School. His favourite place was a corner cubicle by the window overlooking the Panteleimon bridge.</desc>
 </wpt>
 <wpt lat="59.927257" lon="30.357518">
   <name>02. Kostomarov boarding house (the old house did not preserved)</name>
-  <time>2016-09-25T11:18:59Z</time>
+  <time>2019-05-19T18:20:59Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>May 1837 – 16 January 1838. Prepare for exams at the Main Engineering School.</desc>
 </wpt>
 <wpt lat="59.919858" lon="30.318162">
   <name>01. Serapinskaya Hotel</name>
-  <time>2016-10-14T15:57:18Z</time>
+  <time>2019-05-19T18:30:18Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>May 1837. Stayed for a few days with his father and brother Mikhail during his first arrival to the city.</desc>
 </wpt>
 </gpx>

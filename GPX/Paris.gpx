@@ -1,196 +1,225 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Paris</name>
+</metadata>
 <wpt lat="48.858261" lon="2.2945024">
   <name>Eiffel Tower</name>
-  <time>2017-03-16T05:32:12Z</time>
+  <time>2015-05-10T05:32:12Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.873784" lon="2.2950255">
   <name>Arc de Triomphe de l'Étoile</name>
-  <time>2017-03-16T09:16:58Z</time>
+  <time>2015-05-10T09:16:58Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.852938" lon="2.3498713">
   <name>Cathédrale Notre-Dame de Paris</name>
-  <time>2017-07-16T19:07:51Z</time>
+  <time>2015-05-10T10:07:51Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.860512" lon="2.3524274">
   <name>Centre Pompidou</name>
-  <time>2015-05-11T08:32:43Z</time>
+  <time>2015-05-10T10:32:43Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.86331" lon="2.3369537">
   <name>Palais Royal</name>
-  <time>2015-05-12T07:39:02Z</time>
+  <time>2015-05-10T10:39:02Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.884079" lon="2.3324074">
   <name>Moulin Rouge</name>
-  <time>2017-03-16T05:39:42Z</time>
+  <time>2015-05-10T10:39:42Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.886796" lon="2.3430263">
   <name>Basilique du Sacré-Cœur</name>
-  <time>2017-07-16T16:42:33Z</time>
+  <time>2015-05-10T10:42:33Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.876655" lon="2.2633258">
   <name>Fondation Louis Vuitton</name>
-  <time>2017-03-16T05:33:39Z</time>
+  <time>2015-05-10T11:33:39Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.853083" lon="2.3391424">
   <name>Cour du Commerce</name>
-  <time>2017-03-16T05:29:43Z</time>
+  <time>2015-05-10T12:29:43Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.859919" lon="2.3265253">
   <name>Musée D’orsay</name>
-  <time>2015-05-11T13:42:20Z</time>
+  <time>2015-05-10T13:42:20Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.80372" lon="2.124335">
   <name>Versailles</name>
-  <time>2017-03-16T06:38:19Z</time>
+  <time>2015-05-10T14:38:19Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.898006" lon="2.0960592">
   <name>Saint-Germain-en-Laye</name>
-  <time>2017-03-16T06:39:33Z</time>
+  <time>2015-05-10T14:39:33Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.842514" lon="2.4357341">
   <name>Château de Vincennes</name>
-  <time>2015-03-08T08:57:36Z</time>
+  <time>2015-05-10T14:57:36Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Free entrance till 16:30.</desc>
 </wpt>
 <wpt lat="48.857404" lon="2.3402073">
   <name>Square du Vert Galant</name>
-  <time>2017-05-09T12:38:13Z</time>
+  <time>2015-05-10T15:38:13Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>At this location, Jacques de Molay, last Grand Master of the Knights Templar, was burned on 18 March 1314.</desc>
 </wpt>
 <wpt lat="48.894278" lon="2.3891616">
   <name>Parc de la Villette</name>
-  <time>2017-03-16T06:36:20Z</time>
+  <time>2015-05-10T16:36:20Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.843137" lon="2.3559223">
   <name>Jardin des Plantes</name>
-  <time>2015-05-16T09:03:11Z</time>
+  <time>2015-05-10T17:03:11Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="48.845954" lon="2.3720665">
   <name>Express De Lyon</name>
-  <time>2015-04-03T20:48:22Z</time>
+  <time>2015-05-10T17:48:22Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
   <desc>Bar mix of tourists and locals; in the morning works as a cafe; has main varieties of Belgian beers; pints are around 5–6€.</desc>
 </wpt>
 <wpt lat="48.861032" lon="2.350464">
   <name>La Cave à Bulles</name>
-  <time>2015-04-03T20:57:39Z</time>
+  <time>2015-05-10T17:57:39Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
   <desc>French craft beer small bottle shop: Tuesday to Saturday from 10 to 14 and from 16 to 20.</desc>
 </wpt>
 <wpt lat="48.885121" lon="2.3524006">
   <name>Brasserie de la Goutte d’Or</name>
-  <time>2017-03-16T05:41:38Z</time>
+  <time>2015-05-10T18:41:38Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
   <desc>First independent brewery and shop. Famous sort: Château Rouge – spicy amber ale, 3,5€ per 0,33 bottle.</desc>
 </wpt>
 <wpt lat="48.892252" lon="2.3469503">
   <name>Le Supercoin</name>
-  <time>2017-03-16T05:40:52Z</time>
+  <time>2015-05-10T19:40:52Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
   <desc>Away from tourists, hidden under «Le Mont Blanc», only 3 sorts on tap, have strong beverages on bar, happy hour: 17-20.</desc>
 </wpt>
 <wpt lat="48.866681" lon="2.3854937">
   <name>Les Trois 8</name>
-  <time>2015-04-03T20:20:35Z</time>
+  <time>2015-05-10T20:20:35Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
   <desc>Small bar located in trendy Belleville, 8 craft beers on tap from local breweries.</desc>
 </wpt>
 <wpt lat="48.864852" lon="2.3817815">
   <name>La Fine Mousse</name>
-  <time>2017-03-16T06:45:33Z</time>
+  <time>2015-05-10T20:45:33Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
   <desc>Cozy bar with the very best selection of craft beers on tap and one of the most expensive.</desc>
 </wpt>
 <wpt lat="48.882947" lon="2.3397674">
   <name>People Drugstore</name>
-  <time>2015-04-03T21:00:20Z</time>
+  <time>2015-05-10T21:00:20Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Open from noon to midnight, small choose craft ot Belgina beers 3€ per 0,33 bottle, biodynamic vines.</desc>
 </wpt>
 <wpt lat="48.842339" lon="2.3498471">
   <name>Le Vieux Chêne</name>
-  <time>2015-05-16T16:07:02Z</time>
+  <time>2015-05-10T21:07:02Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Belgian beers, 5,50€ per pint on happy hour: 16-20.</desc>
 </wpt>
 <wpt lat="48.842797" lon="2.3495923">
   <name>Au Petit Grec</name>
-  <time>2015-05-16T17:15:46Z</time>
+  <time>2015-05-10T21:15:46Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Crêpe oeu jambon fromage – 5€.</desc>
 </wpt>
 <wpt lat="48.880511" lon="2.3547609">
   <name>Gare du Nord</name>
   <time>2017-05-13T09:05:03Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 </gpx>

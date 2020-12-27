@@ -1,123 +1,137 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Leningrad Oblast</name>
+</metadata>
 <wpt lat="60.111068" lon="29.952755">
   <name>Kurort</name>
-  <time>2017-05-15T05:16:01Z</time>
+  <time>2016-07-12T05:16:01Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="60.715488" lon="28.751257">
   <name>Vyborg</name>
-  <time>2017-05-15T04:53:03Z</time>
+  <time>2016-07-12T05:53:03Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="60.709024" lon="28.747291">
   <name>Vyborg Library</name>
-  <time>2016-10-01T06:11:07Z</time>
+  <time>2016-07-12T06:11:07Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Built from 1927 to 1935 by the Finnish architect Alvar Aalto and one of the major examples of 1920s functionalist architectural design.</desc>
 </wpt>
 <wpt lat="60.712932" lon="28.737359">
   <name>Round tower</name>
   <time>2016-07-12T07:54:24Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="60.712318" lon="28.733863">
   <name>The oldest house</name>
-  <time>2016-10-18T06:21:01Z</time>
+  <time>2016-07-12T08:21:01Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>XVI</desc>
 </wpt>
 <wpt lat="60.7157" lon="28.729081">
   <name>Vyborg Castle</name>
-  <time>2016-07-12T07:54:06Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="60.730383" lon="28.725613">
-  <name>Monrepos</name>
-  <time>2016-07-12T07:54:43Z</time>
+  <time>2016-07-12T08:54:06Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="60.730383" lon="28.725613">
+  <name>Monrepos</name>
+  <time>2016-07-12T08:54:43Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="61.029702" lon="30.122435">
   <name>Korela Fortress</name>
   <time>2016-09-11T14:04:40Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="59.953768" lon="31.03839">
   <name>Oreshyok Fortress</name>
-  <time>2016-07-12T11:25:51Z</time>
+  <time>2017-09-30T11:23:11Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="59.916998" lon="29.752585">
   <name>Oranienbaum</name>
-  <time>2016-07-12T11:24:23Z</time>
+  <time>2017-09-30T11:24:23Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="59.884088" lon="29.91199">
   <name>Peterhof</name>
-  <time>2016-07-12T11:24:35Z</time>
+  <time>2017-09-30T11:24:35Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Taxi from Avtovo.</desc>
 </wpt>
 <wpt lat="59.880653" lon="29.930932">
   <name>Gothic chapel</name>
-  <time>2016-09-13T08:22:02Z</time>
+  <time>2017-09-30T18:22:02Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="59.563938" lon="30.108028">
   <name>Gatchina</name>
-  <time>2016-07-12T11:25:22Z</time>
+  <time>2017-09-30T18:25:22Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="59.692862" lon="30.434515">
   <name>Pavlovsk</name>
-  <time>2017-02-07T19:37:26Z</time>
+  <time>2017-09-30T19:37:26Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="59.715502" lon="30.402404">
   <name>Tsarskoye Selo</name>
-  <time>2016-07-12T07:56:25Z</time>
+  <time>2017-09-30T19:56:25Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="59.709148" lon="29.031704">
   <name>Koporye</name>
   <time>2018-07-21T08:41:05Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
-  <desc>Из Ломоносова:
-681 туда: 9:50, 11:10, 15:00, 17:50, 20:05, 22:00;
-681 обратно: 6:30, 7:45, 12:30, 15:10, 17:30, 20:00;
-685 туда: 8:30, 13:00, 19:00;
-685 обратно: 6:00, 11:00, 16:00.</desc>
+  <type>29</type>
 </wpt>
 </gpx>

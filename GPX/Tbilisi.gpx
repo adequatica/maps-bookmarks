@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Tbilisi</name>
+</metadata>
 <wpt lat="41.692296" lon="44.802202">
   <name>Veliaminov</name>
   <time>2018-11-02T15:47:51Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.687905" lon="44.808642">
   <name>Narikala</name>
-  <time>2018-09-24T04:10:11Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.701014" lon="44.803082">
-  <name>Flea Market</name>
-  <time>2018-09-27T07:09:11Z</time>
-  <extensions>
-    <color>#ffb300</color>
-  </extensions>
-</wpt>
-<wpt lat="41.685061" lon="44.803983">
-  <name>National Botanical Garden</name>
-  <time>2018-10-23T06:31:20Z</time>
+  <time>2018-11-03T04:10:11Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.701014" lon="44.803082">
+  <name>Flea Market</name>
+  <time>2018-11-03T07:09:11Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.685061" lon="44.803983">
+  <name>National Botanical Garden</name>
+  <time>2018-11-03T08:31:20Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.726888" lon="44.719051">
   <name>Nutsubidze Plateau</name>
-  <time>2018-10-21T18:04:17Z</time>
+  <time>2018-11-03T18:04:17Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.735735" lon="44.77107">
   <name>Bank of Georgia Headquarters</name>
-  <time>2018-11-06T06:55:44Z</time>
+  <time>2018-11-04T06:55:44Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.688819" lon="44.805689">
   <name>Ateshgah - Fire Temple</name>
-  <time>2018-11-05T08:34:43Z</time>
+  <time>2018-11-05T06:34:43Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.691993" lon="44.81078">
   <name>Rike</name>
-  <time>2018-09-27T07:11:58Z</time>
+  <time>2018-11-05T07:11:58Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 </gpx>

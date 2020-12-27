@@ -1,95 +1,110 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Kaliningrad</name>
+</metadata>
 <wpt lat="54.716504" lon="20.499114">
   <name>Mesto Sily</name>
   <time>2016-04-16T16:15:30Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
 </wpt>
 <wpt lat="54.706454" lon="20.51216">
   <name>Königsberg Cathedral</name>
   <time>2016-04-16T16:30:16Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The 14th-century exaple of northern Brick Gothic architecture.</desc>
 </wpt>
 <wpt lat="54.705127" lon="20.507325">
   <name>Königsberg Stock Exchange</name>
-  <time>2016-04-16T16:22:37Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="54.697288" lon="20.494676">
-  <name>Brandenburg Gate</name>
-  <time>2016-04-16T16:15:45Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="54.722633" lon="20.514071">
-  <name>Der Wrangel</name>
-  <time>2016-04-16T16:18:06Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="54.737031" lon="20.517459">
-  <name>Botanicalgarden</name>
-  <time>2016-05-01T20:34:16Z</time>
+  <time>2016-04-16T16:32:37Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="54.697288" lon="20.494676">
+  <name>Brandenburg Gate</name>
+  <time>2016-04-16T16:35:45Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="54.722633" lon="20.514071">
+  <name>Der Wrangel</name>
+  <time>2016-04-16T16:38:06Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="54.737031" lon="20.517459">
+  <name>Botanicalgarden</name>
+  <time>2016-05-01T10:34:16Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="54.7206" lon="20.509389">
   <name>Central market</name>
-  <time>2017-05-14T11:59:25Z</time>
+  <time>2016-05-01T11:59:25Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Buy smoked tuna or marlin.</desc>
 </wpt>
 <wpt lat="54.693437" lon="20.502222">
   <name>Bus terminal</name>
-  <time>2016-04-16T16:38:07Z</time>
+  <time>2016-05-16T16:38:07Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Baltiysk: 107 (1:30);
 Zelenogradsk: 140 or 141 (1:20);
 Airpot: 244 (50 min).</desc>
 </wpt>
 <wpt lat="54.638548" lon="19.891599">
   <name>Ferry</name>
-  <time>2016-04-16T16:44:56Z</time>
+  <time>2016-05-16T16:44:56Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Daily at 10, 12, 14, 16, 18, 20.</desc>
 </wpt>
 <wpt lat="54.642829" lon="19.887256">
   <name>Pillau Citadel</name>
-  <time>2017-03-13T18:52:22Z</time>
+  <time>2017-05-16T18:52:22Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="54.614433" lon="19.880986">
   <name>Neutief</name>
-  <time>2017-03-13T18:57:53Z</time>
+  <time>2017-05-16T18:57:53Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Abandoned air base.</desc>
 </wpt>
 <wpt lat="54.963195" lon="20.479463">
   <name>Friends</name>
-  <time>2016-05-03T12:06:01Z</time>
+  <time>2016-05-16T20:06:01Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Burger with pike and seaweed – 250₽.</desc>
 </wpt>
 </gpx>

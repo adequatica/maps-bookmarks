@@ -1,162 +1,185 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Hemingway in Spain</name>
+</metadata>
 <wpt lat="40.39282" lon="-3.6993121">
   <name>Matadero Madrid</name>
   <time>2017-05-20T08:01:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>It was the city's main slaughterhouse. In the late 1930s don Ernesto wrote: «Many a morning I'd get up at dawn and come down here to watch the novilleros, and sometimes even the matadors themselves, coming in to practice killing, and there would be the old women standing in line for the blood».</desc>
 </wpt>
 <wpt lat="40.41985" lon="-3.7022491">
   <name>Tryp Gran Vía</name>
   <time>2017-05-20T08:02:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>One of the spots where Hemingway stayed (the second-floor breakfast room, named for the writer, displays photos of him in various acts of masculinity like firing a gun or pulling in a huge fish from a boat).</desc>
 </wpt>
 <wpt lat="40.419669" lon="-3.6989393">
   <name>Museo Chicote</name>
   <time>2017-05-20T08:03:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Cocktail bar Hemingway frequented in the 1930s, when it was popular with international journalists.</desc>
 </wpt>
 <wpt lat="40.416173" lon="-3.7016742">
   <name>Calle de la Victoria</name>
   <time>2017-05-20T08:04:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Narrow street where Hemingway often purchased bullfighting tickets.</desc>
 </wpt>
 <wpt lat="40.414469" lon="-3.7003447">
   <name>Cerveceria Alemana</name>
   <time>2017-05-20T08:05:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>A 1904 beer hall that was such a favourite of Hemingway's that he had his own table (just to the right of the entrance, the only marble-topped table overlooking a window).</desc>
 </wpt>
 <wpt lat="40.415799" lon="-3.6995749">
   <name>La Venencia</name>
   <time>2017-05-20T08:06:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>This sherry bar was frequented by Republican sympathisers. In the late 1930s Hemingway was reporting on the war for the North American Newspaper Alliance – which would later inform «For Whom the Bell Tolls», his novel about the war – he would come here a lot to get news from the front.</desc>
 </wpt>
 <wpt lat="40.432321" lon="-3.6634375">
   <name>Plaza de toros de Las Ventas</name>
   <time>2017-05-20T08:07:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Hemingway liked sitting in section 9 (sombra).</desc>
 </wpt>
 <wpt lat="40.41548" lon="-3.6958011">
   <name>Palace Hotel</name>
   <time>2017-05-20T08:08:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Hemingway would often begin his evenings with a martini or two at the stuffy bar inside the hotel, which also appears toward the end of his novel «The Sun Also Rises».</desc>
 </wpt>
 <wpt lat="40.414175" lon="-3.707981">
   <name>El Sobrino de Botín</name>
   <time>2017-05-20T08:09:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>It's officially the world's oldest restaurant (it was founded in 1725). Jake and Brett from «The Sun Also Rises» turned up here – like Hemingway himself often did – to dine on the house specialty, roasted suckling pig, and drink several bottles of Rioja Alta.</desc>
 </wpt>
 <wpt lat="40.420431" lon="-3.701887">
   <name>Telefonica Building</name>
   <time>2017-05-20T08:10:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Hemingway sent his reports from here during the Spanish Civil War. It was one of the first skyscrapers in Europe and the Office of Foreign Press.</desc>
 </wpt>
 <wpt lat="40.419771" lon="-3.705516">
   <name>Hotel Florida (demolished)</name>
   <time>2017-05-20T08:11:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Hemingway and other writers (like John Dos Passos) made it their living and working headquarters. The hotel suffered so much damage during the Civil War that it was demolished.</desc>
 </wpt>
 <wpt lat="40.419519" lon="-3.7069845">
   <name>El Callejón (demolished)</name>
   <time>2017-05-20T08:12:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Hemingway's favourite restaurant, as he said in one of his articles published in Life magazine, it had «the best food in town». The old building on Calle de la Ternera 6 was demolished with all its history at the end of the 90s.</desc>
 </wpt>
 <wpt lat="40.41867" lon="-3.6902797">
   <name>Gaylord's Hotel (demolished)</name>
-  <time>2020-08-27T10:42:34Z</time>
+  <time>2017-05-20T08:13:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>It was one of the most important hotels for communists in Madrid, but now there is a residential building in its place. Robert Jordan, the main character in «For Whom The Bell Tolls», dreamed of bringing his love and said it once: «Too good for a city under siege». Hemingway met here with Pravda's correspondent and soviet special agent Mikhail Koltsov.</desc>
 </wpt>
 <wpt lat="40.417865" lon="-3.6962168">
   <name>Hotel Suecia</name>
   <time>2017-05-20T08:14:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Hemingway stayed here in 1959 and 1960 while working on the novel «A Dangerous Summer». 
 Ernesto Che Guevara also stayed here in 1959.</desc>
 </wpt>
 <wpt lat="42.817654" lon="-1.6427203">
   <name>Gran Hotel La Perla</name>
-  <time>2017-05-20T09:15:00Z</time>
+  <time>2017-05-20T08:15:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>It was the Hemingway's favourite hotel. He stayed here on most of his visits the Fiesta of San Fermin. He came in 1923, 1924, 1925, 1926, 1927, 1929 and 1931.</desc>
 </wpt>
 <wpt lat="42.816532" lon="-1.6418164">
   <name>Hotel Quintana</name>
-  <time>2017-05-20T09:16:00Z</time>
+  <time>2017-05-20T08:16:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>In «The Sun Also Rises» it was named the Hotel Montoya and was closed 65 years ago. The ground floor now hosts the Cervecería Tropicana.</desc>
 </wpt>
 <wpt lat="42.816503" lon="-1.6419907">
   <name>El Txoko</name>
-  <time>2017-05-20T09:17:00Z</time>
+  <time>2017-05-20T08:17:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Bar where Hemingway drank in 1959.</desc>
 </wpt>
 <wpt lat="42.817477" lon="-1.642452">
   <name>Bar Torino</name>
-  <time>2017-05-20T09:18:00Z</time>
+  <time>2017-05-20T08:18:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Hemingway described it in his book as Bar Milano: «It was a small, tough bar where you could get food and where they danced in the back room. We all sat down at a table and ordered a bottle of Fundador». It is now occupied by a branch of the savings bank Caja Navarra and the Windsor Pub.</desc>
 </wpt>
 <wpt lat="42.817434" lon="-1.643254">
   <name>Café Iruña</name>
-  <time>2017-05-20T09:19:00Z</time>
+  <time>2017-05-20T08:19:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="42.815842" lon="-1.6405155">
   <name>Ernest Hemingway Statue</name>
-  <time>2017-05-20T09:20:00Z</time>
+  <time>2017-05-20T08:20:00Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 </gpx>

@@ -1,185 +1,213 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="mmkml2gpx 0.2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Portugal</name>
+</metadata>
 <wpt lat="38.693588" lon="-9.2057224">
   <name>Monument to the Discoveries</name>
-  <time>2018-07-15T07:02:49Z</time>
+  <time>2018-12-30T07:02:49Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.697146" lon="-9.2093286">
   <name>Navy Museum</name>
-  <time>2018-07-15T07:04:36Z</time>
+  <time>2018-12-30T07:04:36Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.69813" lon="-9.2065311">
   <name>Jerónimos Monastery</name>
-  <time>2018-12-15T20:35:32Z</time>
+  <time>2018-12-30T07:35:32Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.691616" lon="-9.2159108">
   <name>Belém Tower</name>
-  <time>2018-10-28T07:50:22Z</time>
+  <time>2018-12-30T07:50:22Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.697482" lon="-9.2033124">
   <name>Pastéis de Belém</name>
-  <time>2018-12-24T22:07:14Z</time>
+  <time>2018-12-30T07:57:14Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.696274" lon="-9.1974384">
   <name>Belém</name>
   <time>2018-12-30T11:03:47Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.700808" lon="-9.4180393">
   <name>Cascais</name>
-  <time>2018-10-14T06:51:40Z</time>
+  <time>2018-12-31T06:51:40Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>40–50 min from Lisboa by train.</desc>
 </wpt>
 <wpt lat="38.706049" lon="-9.1451165">
   <name>Cais do Sodré</name>
-  <time>2018-11-11T08:08:57Z</time>
+  <time>2018-12-31T08:08:57Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Watch out, some trains could pass through Belém without stop.</desc>
 </wpt>
 <wpt lat="38.714671" lon="-9.1419435">
   <name>Rossio</name>
-  <time>2019-01-01T16:15:23Z</time>
+  <time>2018-12-31T09:15:23Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>40–50 min from Lisboa by train.</desc>
 </wpt>
 <wpt lat="38.767794" lon="-9.0988954">
   <name>Gare do Oriente</name>
-  <time>2018-10-14T06:38:48Z</time>
+  <time>2018-12-31T10:38:48Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.765844" lon="-9.0950585">
   <name>Pala do Pavilhão de Portugal</name>
-  <time>2019-01-05T11:02:29Z</time>
+  <time>2018-12-31T11:02:29Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The Portugal pavilion at the Expo 1998.</desc>
 </wpt>
 <wpt lat="38.724844" lon="-9.1137417">
   <name>National Azulejo Museum</name>
-  <time>2018-12-01T17:38:30Z</time>
+  <time>2019-01-01T07:38:30Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.737795" lon="-9.1535092">
   <name>Calouste Gulbenkian Museum</name>
-  <time>2018-11-17T14:42:00Z</time>
+  <time>2019-01-01T07:42:00Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.712111" lon="-9.1393659">
   <name>Santa Justa Lift</name>
-  <time>2018-10-28T07:57:25Z</time>
+  <time>2019-01-01T07:57:25Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.713966" lon="-9.1336105">
   <name>Castelo de São Jorge</name>
-  <time>2018-10-28T07:28:40Z</time>
+  <time>2019-01-02T07:28:40Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.711954" lon="-9.1300546">
   <name>Portas do Sol</name>
   <time>2019-01-02T20:04:57Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.71042" lon="-9.1396059">
   <name>Delirium Cafe Lisboa</name>
-  <time>2018-12-30T18:04:50Z</time>
+  <time>2019-01-02T21:04:50Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.70697" lon="-9.1459722">
   <name>TimeOut Market Lisboa</name>
-  <time>2018-12-24T22:05:55Z</time>
+  <time>2019-01-02T22:05:55Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Overpriced: too expensive, too overcrowded.</desc>
 </wpt>
 <wpt lat="38.710694" lon="-9.1420374">
   <name>A Brasileira</name>
-  <time>2018-12-15T21:10:48Z</time>
+  <time>2019-01-03T08:10:48Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.715794" lon="-9.1410449">
   <name>Fabrica da Nata</name>
-  <time>2019-01-02T08:10:55Z</time>
+  <time>2019-01-03T08:10:55Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.713122" lon="-9.1424933">
   <name>Duque Brewpub</name>
-  <time>2018-12-16T16:31:10Z</time>
+  <time>2019-01-03T16:31:10Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
 </wpt>
 <wpt lat="38.709422" lon="-9.1340068">
   <name>Outro Lado</name>
-  <time>2018-12-29T17:06:33Z</time>
+  <time>2019-01-03T17:06:33Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
 </wpt>
 <wpt lat="38.799441" lon="-9.3852815">
   <name>Sintra</name>
-  <time>2018-10-14T06:41:30Z</time>
+  <time>2019-01-04T06:41:30Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>434 bus to Pena.</desc>
 </wpt>
 <wpt lat="38.794533" lon="-9.3969062">
   <name>Initiation well</name>
-  <time>2018-12-23T09:17:36Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="38.795147" lon="-9.3961726">
-  <name>Quinta da Regaleira</name>
-  <time>2018-11-11T17:18:18Z</time>
+  <time>2019-01-04T09:17:36Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="38.795147" lon="-9.3961726">
+  <name>Quinta da Regaleira</name>
+  <time>2019-01-04T17:18:18Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.785458" lon="-9.3923411">
   <name>Parque da Pena</name>
@@ -187,210 +215,239 @@
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.78742" lon="-9.390257">
   <name>Palácio da Pena</name>
-  <time>2019-01-16T20:25:31Z</time>
+  <time>2019-01-04T20:25:31Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.792674" lon="-9.3893102">
   <name>Castelo dos Mouros</name>
-  <time>2018-11-11T07:57:46Z</time>
+  <time>2019-01-04T20:57:46Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="38.780496" lon="-9.4988516">
   <name>Cabo da Roca</name>
-  <time>2019-01-16T20:46:59Z</time>
+  <time>2019-01-05T21:46:59Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="39.604425" lon="-9.0853462">
   <name>Farol da Nazaré</name>
-  <time>2019-01-12T10:20:15Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="39.596894" lon="-9.0687755">
-  <name>Bus Station Nazaré</name>
-  <time>2018-11-20T06:51:51Z</time>
-  <extensions>
-    <color>#607d8b</color>
-  </extensions>
-</wpt>
-<wpt lat="41.149841" lon="-8.5990241">
-  <name>Rede Expressos</name>
-  <time>2018-12-21T06:50:04Z</time>
-  <extensions>
-    <color>#607d8b</color>
-  </extensions>
-</wpt>
-<wpt lat="41.435238" lon="-8.2948911">
-  <name>Guimarães</name>
-  <time>2019-01-04T18:17:42Z</time>
-  <extensions>
-    <color>#607d8b</color>
-  </extensions>
-</wpt>
-<wpt lat="41.447887" lon="-8.2903931">
-  <name>Castelo de Guimarães</name>
-  <time>2018-10-14T06:57:05Z</time>
-  <extensions>
-    <color>#e91e63</color>
-  </extensions>
-</wpt>
-<wpt lat="41.437737" lon="-8.2947383">
-  <name>Jardim do Palácio Vila Flor</name>
-  <time>2019-01-04T18:53:15Z</time>
+  <time>2019-01-05T22:20:15Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="39.596894" lon="-9.0687755">
+  <name>Bus Station Nazaré</name>
+  <time>2019-01-05T22:51:51Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.149841" lon="-8.5990241">
+  <name>Rede Expressos</name>
+  <time>2019-01-06T06:50:04Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.435238" lon="-8.2948911">
+  <name>Guimarães</name>
+  <time>2019-01-06T07:17:42Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.447887" lon="-8.2903931">
+  <name>Castelo de Guimarães</name>
+  <time>2019-01-06T07:57:05Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
+</wpt>
+<wpt lat="41.437737" lon="-8.2947383">
+  <name>Jardim do Palácio Vila Flor</name>
+  <time>2019-01-06T08:53:15Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.440172" lon="-8.2950574">
   <name>Pregaria de Guimarães</name>
-  <time>2019-01-05T17:08:18Z</time>
+  <time>2019-01-06T09:08:18Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.441734" lon="-8.2915505">
   <name>Pastelaria Brasilia</name>
-  <time>2019-01-06T17:14:56Z</time>
+  <time>2019-01-06T09:14:56Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.441107" lon="-8.302809">
   <name>Central de Camionagem</name>
-  <time>2019-01-06T20:08:04Z</time>
+  <time>2019-01-06T10:08:04Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.555412" lon="-8.4260056">
   <name>Central de Camionagem</name>
-  <time>2019-01-06T18:40:47Z</time>
+  <time>2019-01-06T10:40:47Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.548419" lon="-8.4163174">
   <name>João XXI-I</name>
-  <time>2019-01-04T18:22:40Z</time>
+  <time>2019-01-07T10:22:40Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>2 bus to Bom Jesus.</desc>
 </wpt>
 <wpt lat="41.554454" lon="-8.3795229">
   <name>Miradouro do Bom Jesus</name>
   <time>2019-01-07T13:07:42Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.546256" lon="-8.4296252">
   <name>Termas Romanas de Maximinos</name>
   <time>2019-01-07T15:50:14Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.14548" lon="-8.6095237">
   <name>Porto - São Bento</name>
-  <time>2018-11-20T05:30:48Z</time>
+  <time>2019-01-08T05:30:48Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Massive azulejo inside.</desc>
 </wpt>
 <wpt lat="41.139647" lon="-8.6093372">
   <name>Ponte Luís I</name>
-  <time>2018-10-14T06:59:04Z</time>
+  <time>2019-01-08T06:59:04Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.158827" lon="-8.6307802">
   <name>Casa da Música</name>
-  <time>2018-10-21T08:34:19Z</time>
+  <time>2019-01-08T08:34:19Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.145651" lon="-8.6146453">
   <name>Clerics Tower</name>
-  <time>2019-01-09T21:49:24Z</time>
+  <time>2019-01-09T09:49:24Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.143123" lon="-8.6157665">
   <name>Miradouro da Vitoria</name>
-  <time>2019-01-08T14:59:40Z</time>
+  <time>2019-01-09T14:59:40Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.147474" lon="-8.6162547">
   <name>Igreja do Carmo</name>
-  <time>2019-01-09T08:21:22Z</time>
+  <time>2019-01-09T18:21:22Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Azulejo.</desc>
 </wpt>
 <wpt lat="41.14622" lon="-8.6065652">
   <name>Igreja Paroquial de Santo Ildefonso</name>
-  <time>2019-01-04T20:06:29Z</time>
+  <time>2019-01-09T20:06:29Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Azulejo.</desc>
 </wpt>
 <wpt lat="41.149834" lon="-8.6055473">
   <name>Capela das Almas</name>
-  <time>2019-01-08T21:40:29Z</time>
+  <time>2019-01-09T21:40:29Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Azulejo.</desc>
 </wpt>
 <wpt lat="41.148335" lon="-8.6067127">
   <name>Pérola Bolhão</name>
-  <time>2019-01-09T14:59:50Z</time>
+  <time>2019-01-09T21:59:50Z</time>
   <extensions>
-    <color>#e91e63</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Art Nouveau azulejo.</desc>
 </wpt>
 <wpt lat="41.147109" lon="-8.6064803">
   <name>Café Majestic</name>
-  <time>2019-01-08T20:46:11Z</time>
+  <time>2019-01-09T22:46:11Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>Art Nouveau interior, very expensive (espresso = 4€).</desc>
 </wpt>
 <wpt lat="41.146447" lon="-8.6047775">
   <name>Café Santiago</name>
-  <time>2018-12-15T21:13:00Z</time>
+  <time>2019-01-09T23:13:00Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
   <desc>The best francesinha.</desc>
 </wpt>
 <wpt lat="41.149079" lon="-8.6061561">
   <name>Fábrica da Nata</name>
-  <time>2019-01-08T20:41:42Z</time>
+  <time>2019-01-10T16:41:42Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.1479" lon="-8.6082241">
   <name>Fábrica Nortada</name>
@@ -398,40 +455,46 @@
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
 </wpt>
 <wpt lat="41.149445" lon="-8.6129394">
   <name>A Fábrica da Picaria</name>
-  <time>2019-01-08T18:43:56Z</time>
+  <time>2019-01-10T18:43:56Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
 </wpt>
 <wpt lat="41.147635" lon="-8.6159113">
   <name>Carmo Brewery</name>
-  <time>2019-01-10T15:51:22Z</time>
+  <time>2019-01-10T18:51:22Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
+  <type>28</type>
 </wpt>
 <wpt lat="41.138024" lon="-8.6109787">
   <name>Calem</name>
-  <time>2019-01-08T15:37:01Z</time>
+  <time>2019-01-10T19:37:01Z</time>
   <extensions>
-    <color>#ffb300</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.137496" lon="-8.6124794">
   <name>Sandeman</name>
-  <time>2019-01-08T11:49:08Z</time>
+  <time>2019-01-10T19:49:08Z</time>
   <extensions>
-    <color>#ffb300</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 <wpt lat="41.134377" lon="-8.6143235">
   <name>Taylor’s</name>
-  <time>2018-11-11T13:15:19Z</time>
+  <time>2018-11-10T20:15:19Z</time>
   <extensions>
-    <color>#ffb300</color>
+    <color>#3f51b5</color>
   </extensions>
+  <type>29</type>
 </wpt>
 </gpx>
