@@ -78,9 +78,11 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 * [Раннесоветская архитектура авангарда на Нарвской](https://www.the-village.ru/city/route/385889-narvskaya)
 * [Неконструктивная стратегия](http://story.dp.ru/constructivism )
 * [Ленинградский конструктивизм. Мечта о социалистической утопии 90 лет спустя](https://les.media/articles/657756-leningradskiy-konstruktivizm)
+* [Фото альбом](https://yadi.sk/a/tkwa_Q-HeQO03g)
 
 ### «Dostoevsky in Saint Petersburg» based on:
 * [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316)
+* [Photo album](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Hemingway in Spain» based on articles:
 * Prado Museum, one of the favourite place of the author, does not pinned because of its obvious prominence
@@ -100,12 +102,14 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 
 ### «Moscow Castles» based on:
 * [My own research](https://adequatica.medium.com/moscow-castles-d5f655b74df9)
+* [Photo album](https://yadi.sk/a/dG9Uv4txE8L-9w)
 
 ### «Mountainboard Parks» based on:
 * [My own experience](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46)
 
 ### «Достоевский в Петербурге» based on:
 * [Собственное исследование](https://adequatica.medium.com/dostoevsky-in-petersburg-d7dfba1804b)
+* [Фото альбом](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Места княза Кропоткина» based on:
 * [Собственное исследование](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b)
