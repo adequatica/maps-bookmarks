@@ -38,7 +38,7 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 1. Morocco — 32
 1. Moscow — 50
 1. Moscow Oblast — 18
-1. Moscow Castles ✻ — 22
+1. Moscow Castles ✻ — 24
 1. Mountainboard Parks ✻ — 20
 1. Netherlands — 20
 1. Novgorod — 10

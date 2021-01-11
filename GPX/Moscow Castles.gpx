@@ -4,7 +4,7 @@
   <name>Moscow Castles</name>
 </metadata>
 <wpt lat="55.758317" lon="37.64627">
-  <name>20. Bely Gorod Wall</name>
+  <name>22. Bely Gorod Wall</name>
   <time>2020-02-18T01:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -13,7 +13,7 @@
   <desc>The defencive wall of Bely Gorod (White City) was erected in 1585–1593 and consists of 28 towers and 11 gates. In the 18th century the wall lost its fortification value and during the reign of Catherine the Great the wall was demolished and replaced by a chain of boulevards. Names of the squares through Boulevard Ring have preserved the names of the Bely Gorod’s gates. The only remaining basement of the White City’s wall at the Khokhlovskaya square.</desc>
 </wpt>
 <wpt lat="55.794307" lon="37.750355">
-  <name>19. Izmaylovo Kremlin</name>
+  <name>21. Izmaylovo Kremlin</name>
   <time>2020-02-18T02:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -23,7 +23,7 @@
 It does not have anything similar to «kremlin» as a fortified complex, because all buildings are completely new and just imitate «old Moscow» architecture with many fake (but picturesque) elements. The place does not have historical value and is used for entertainment, souvenir marketplace and a flea market on weekends.</desc>
 </wpt>
 <wpt lat="55.745792" lon="37.644824">
-  <name>18. Athonite Metochion</name>
+  <name>20. Athonite Metochion</name>
   <time>2020-02-18T03:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -32,7 +32,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
   <desc>Founded in 1595 as a church, the existing brick fence with the gates were built in 1996. The entrance is flanked by tower-like chapels.</desc>
 </wpt>
 <wpt lat="55.765564" lon="37.629822">
-  <name>17. Sretensky Monastery</name>
+  <name>19. Sretensky Monastery</name>
   <time>2020-02-18T04:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -41,13 +41,32 @@ It does not have anything similar to «kremlin» as a fortified complex, because
   <desc>Founded in 1397, the existing brick fence was built in the 1990’s.</desc>
 </wpt>
 <wpt lat="55.669246" lon="37.719147">
-  <name>16. Nikolo-Perervinsky Monastery</name>
+  <name>18. Nikolo-Perervinsky Monastery</name>
   <time>2020-02-18T05:00:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Founded in 1623, the existing brick fence was built in 1908.</desc>
+  <desc>Founded in 1623, the existing brick fence was built in 1908 — the same year as the main church was erected in Russian-Byzantine style.</desc>
+</wpt>
+<wpt lat="55.612998" lon="37.683089">
+  <name>17. Tsaritsyno Palace</name>
+  <time>2020-02-18T05:20:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>Founded in 1776 by the order of Catherine the Great, unfortified. A number of pavilions, orangeries, arbours, artificial grottos, bridges and gates were constructed in the late 18th century by Bazhenov and Kazakov.
+The architecture ensemble has no fortification value, but some decorative bridges and gates copy the features of European castles in Neo-Gothic architecture style.</desc>
+</wpt>
+<wpt lat="55.815718" lon="37.469383">
+  <name>16. Pokrovskoye-Streshnevo</name>
+  <time>2020-02-18T05:40:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>Since 1664 the area belonged to the noble family of the Streshnevs. A stone fence of red brick with massive towers in the Russian Revival style was built around the estate in 1889–1890.</desc>
 </wpt>
 <wpt lat="55.727965" lon="37.658672">
   <name>15. Krutitsy Metochion</name>
