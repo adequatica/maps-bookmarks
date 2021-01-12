@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Places Where Peter Kropotkin Lived or Been in Russia</name>
+</metadata>
+<wpt lat="56.341165" lon="37.521247">
+  <name>10. Kropotkin’s House-museum</name>
+  <time>2020-02-14T10:00:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>In May 1918, Kropotkin and his wife moved to Dmitrov, having received a «security certificate» signed by Lenin. In early 1921, he became seriously ill with pneumonia and died on February 8, 1921.</desc>
+</wpt>
+<wpt lat="55.761996" lon="37.607779">
+  <name>09. Leontyevskiy Lane</name>
+  <time>2020-02-14T10:10:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>In May 1917, after returning to Russia from emigration after the February Revolution, Peter Alexeyevich briefly lived there.</desc>
+</wpt>
+<wpt lat="59.93935" lon="30.319851">
+  <name>08. Donon Restaurant</name>
+  <time>2020-02-14T10:20:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>He hid from the gendarmes on the day of the escape: «“To Donon!” he suddenly called out to the cabman, naming one of the best St. Petersburg restaurants. “No one will ever think of looking for you at Donon,” he calmly remarked. “They will hunt for you everywhere else, but not there; and we shall have a dinner, and a drink too, in honor of the success of your escape.”»</desc>
+</wpt>
+<wpt lat="59.9426" lon="30.385311">
+  <name>07. Nikolaev Military Hospital</name>
+  <time>2020-02-14T10:30:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>With signs of scurvy, Kropotkin was transferred to the prison department of the Nikolaev Military Hospital (a two-story wing behind the main building), from where he made a daring escape on July 30, 1876.</desc>
+</wpt>
+<wpt lat="59.948679" lon="30.313593">
+  <name>06. Peter and Paul Fortress</name>
+  <time>2020-02-14T10:40:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>On March 21, 1874, Kropotkin made a sensational report to the geographical society about the existence of the Ice Age, and the next day he was arrested for belonging to a secret revolutionary circle and imprisoned in the Peter and Paul Fortress. In 1874–1876, he was imprisoned in the Trubetskoy Bastion in prison cell № 39.</desc>
+</wpt>
+<wpt lat="59.964871" lon="30.331833">
+  <name>05. Kazarmenny Lane</name>
+  <time>2020-02-14T10:50:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>Kropotkin attended the Circle of Tchaikovsky: «I was in the “Literary Committee” of the circle. We met in the same apartment which was kept by Perovskaya — in Kazarmenny lane. It was not far from Nevka river.»</desc>
+</wpt>
+<wpt lat="59.930999" lon="30.332647">
+  <name>04. Page Corps</name>
+  <time>2020-02-14T11:00:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>From 1857 to 1862, Kropotkin studied in the Page Corps and, after graduating with honors, was promoted to officer.</desc>
+</wpt>
+<wpt lat="55.746072" lon="37.593086">
+  <name>03. Malyy Vlasyevskiy Lane</name>
+  <time>2020-07-06T11:10:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>To this day, the house (№ 8) has not been preserved. Peter Alexeyevich lived in it until entering the Page Corps in 1857.</desc>
+</wpt>
+<wpt lat="55.741595" lon="37.590211">
+  <name>02. Malyy Levshinskiy Lane</name>
+  <time>2020-07-06T11:20:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>To this day, the house (№ 4) has not been preserved. Soon after the move, Pyotr Alexeyevich’s father sold this house as well. The family spent several winters in rented houses in the Old Konyushennaya quarter until a new mansion was bought in Maly Vlasyevsky lane in 1855.</desc>
+</wpt>
+<wpt lat="55.741481" lon="37.58772">
+  <name>01. Kropotkin’s House</name>
+  <time>2020-02-14T11:30:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>Pyotr Alexeyevich Kropotkin was born on December 9, 1842 into an aristocratic family in a typical manor house built by his grandmother at the beginning of the XIX century. In this period, such mansions were built up throughout the south-western part of Moscow and inhabited mainly by the nobility.
+The future anarchist lived in this house only for the first seven or eight years of his life. When his father, Prince Alexey Petrovich Kropotkin, married for the second time after the death of his first wife from consumption, he sold this house and bought another, in Malyy Levshinskiy lane.</desc>
+</wpt>
+</gpx>
