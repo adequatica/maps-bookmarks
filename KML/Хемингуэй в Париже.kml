@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Хемингуэй в Париже</name>
+  <description>Гид по Парижским местам Эрнеста Хемингуэя. Он жил в Париже с 1922 по 1928 год, а потом несколько раз возвращался на короткое время.</description>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>64. Стадион Анастази (Stade Anastasie)</name>
+    <description>В главе о боксе Хемингуэй вспоминает еще одно мистическое место, которое «оказалось очень странным боксерским клубом». Несмотря на относительно детальное описание, его трудно отметить на карте — где-то в 20-м округе Парижа.</description>
+    <TimeStamp><when>2021-03-21T22:04:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.4002969,48.869532</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>highway-residential</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>63. Кафе Наполитен (Café Napolitain)</name>
+    <description>Я не нашел свидетельств существования этого кафе, где Хемингуэй мог бы встречаться с канадским боксером Ларри Гейнсом. Оно может быть таким же вымышленным, как и писательский рабочий кабинет.</description>
+    <TimeStamp><when>2021-03-21T21:43:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3367137,48.871408</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>highway-primary</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>62. Мастерская Пикассо</name>
+    <description>Сразу после освобождения Парижа Хемингуэй отправился в мастерскую Пабло Пикассо. Но, не застав художника на месте, оставил ему в подарок ящик ручных гранат.</description>
+    <TimeStamp><when>2021-03-21T21:22:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3409824,48.854663</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>61. Квартира Сильвии Бич</name>
+    <description>Еще один адрес, «освобожденный» Хемингуэем в 1944 году. Сильвия Бич и ее партнерша Адриенна Монье проживали здесь на четвертом этаже.</description>
+    <TimeStamp><when>2021-03-21T21:01:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3386167,48.850531</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>60. Отель Ритц (Hôtel Ritz Paris)</name>
+    <description>Отель послужил кладовой для вещей Хемингуэя. В предисловии к восстановленному «подлинному» изданию «Праздника, который всегда с тобой» Шон Хемингуэй пишет: «В ноябре 1956 года администрация парижского отеля „Ритц“ убедила Эрнеста Хемингуэя забрать два небольших чемодана, которые он хранил там с марте 1928 года. В них лежали забытые вещи, оставшиеся от первых лет в Париже.»</description>
+    <TimeStamp><when>2021-03-21T20:40:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3287811,48.867901</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-hotel</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>59. Бар Хемингуэй (Bar Hemingway)</name>
+    <description>Парижский отель «Ритц» и, в особенности, его бар были «освобожден» Хемингуэем в августе 1944 года. В день «освобождения» он заказал огромное количество мартини для всех сопровождавших его солдат. 
+В 1994 году небольшой бар при отеле был переименован в «Бар Хемингуэй» в честь писателя (он останавливался в Ритце в середине 1950-х). Самый короткий путь внутрь — через отдельный вход на улице Камбон, а не через все здание отеля от парадного входа.</description>
+    <TimeStamp><when>2021-03-21T20:29:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3275714,48.868816</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>58. Отель Пайва (Hôtel de la Païva)</name>
+    <description>25 августа 1944 года Хемингуэй с отрядом полковника Дэвида Брюса вошли в оккупированный Париж. Прорвавшись к Елисейским полям, они нагрянули в оказавшийся поблизости «Travelers Club» (отелем владеет английский аристократический «клуб путешественников») и заказали шампанского.</description>
+    <TimeStamp><when>2021-03-21T20:08:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3075326,48.869159</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>57. Церковь Сен-Оноре-Эйлау (Saint-Honoré-d’Eylau)</name>
+    <description>Хемингуэй и Хэдли развелись в январе 1927 года, а в мае он женился на Полин. Она настояла на церемонии венчания в католической церкви.</description>
+    <TimeStamp><when>2021-03-21T19:57:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.2846802,48.869122</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>56. Отель Меурис (Le Meurice)</name>
+    <description>Перед отъездом из Парижа в 1926 году Эрнест и Полин провели ночь в роскошном отеле с видом на сад Тюильри.</description>
+    <TimeStamp><when>2021-03-21T19:26:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3282205,48.865275</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-hotel</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>55. Квартира Полин</name>
+    <description>Вскоре Эрнест переехал к Полин (Паулине) Пфайффер. Она тогда жила в квартире своего дяди. 
+В том же году (1926) у Хемингуэя вышел первый роман «И восходит солнце». Годом позже роман роман выйдет в Англии под названием «Фиеста».</description>
+    <TimeStamp><when>2021-03-21T19:05:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3338612,48.849477</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>54. Студия Джеральда Мерфи</name>
+    <description>Как только Эрнест и Хэдли разъехались, художник Джеральд Мерфи предложил Хемингуэю пожить в его студии (здание не сохранилось).</description>
+    <TimeStamp><when>2021-03-21T18:54:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3244654,48.836976</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>53. Отель Бовуар (Hôtel Beauvoir)</name>
+    <description>Брак Эрнеста с Хэдли начал разваливаться, когда он работал над «И восходит солнце». Она съехала от него и сняла комнату в отеле, через дорогу от «Клозери де Лила».</description>
+    <TimeStamp><when>2021-03-21T18:23:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3374097,48.839891</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-hotel</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>52. Отель Венеция (Vénétia Hôtel)</name>
+    <description>Зимой 1925–1926 годов Хемингуэи во второй раз отправились в Шрунс, но на Рождество к ним присоединилась Полин Пфайффер. Эрнест вернулся с Пфайффер в Париж, оставив Хэдли с Бамби в Австрии. 
+Писатель-биографист Аарон Эдвард Хотчнер цитирует письмо Хемингуэя: «Хэдли и Бампи остались в Шрампсе, и я сказал, что приеду, как только вернусь из Нью-Йорка. Я поселился в отеле „Венеция“ на Монпарнасе. Полина появилась в ту же минуту, как я оказался в Париже. Эти четыре дня она обвила меня, как плющ стену, водила по ночным клубам, Мишленовским ресторанам и в оперу.» Отель давным-давно не работает.</description>
+    <TimeStamp><when>2021-03-21T18:02:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3348133,48.840475</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>51. Квартира няни мистера Бамби</name>
+    <description>Хемингуэи обычно оставляли ребенка на попечение няни, мадам Анри Рорбаш.</description>
+    <TimeStamp><when>2021-03-21T17:51:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3508369,48.837836</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>50. Квартира Скотта Фицджеральда</name>
+    <description>Хемингуэй просто упомянул в книге о квартире своего друга. Вполне вероятно, он заходил к Скотту и Зельде.</description>
+    <TimeStamp><when>2021-03-21T17:20:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.2963827,48.875051</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>49. Отель Крийон (Hôtel de Crillon)</name>
+    <description>Мы мало что знаем о баре в отеле Крийон, кроме упоминания в одной из глав.</description>
+    <TimeStamp><when>2021-03-21T17:09:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3210885,48.867239</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>48. Бульвар Сен-Мишель</name>
+    <description>В одном из ресторанов (неизвестно в каком) Хемингуэй обедал с Эрнестом Уолшем, писателем американского происхождения.</description>
+    <TimeStamp><when>2021-03-21T16:48:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3401251,48.84604</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>highway-primary</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>47. Клуб Жокей (Le Jockey)</name>
+    <description>«Жокей» был первым ночным клубом на Монпарнасе. Хемингуэй не только там бывал, но и танцевал с Жозефиной Бейкер. 
+Кики с Монпарнас, знаменитая муза художников двадцатых годов, была одной из звезд этого клуба. Эрнест ее тоже знал и даже написал предисловие к ее автобиографии «Мемуары Кики».</description>
+    <TimeStamp><when>2021-03-21T16:27:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3333891,48.840551</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>  
+  <Placemark>
+    <name>46. Нью-Йоркский бар Гарри (Harry’s New York Bar)</name>
+    <description>Бар рядом с Парижской оперой был излюбленным местом отдыха многих американских экспатов, включая Хемингуэя. Утверждается, что именно здесь изобрели «Кровавую Мэри».</description>
+    <TimeStamp><when>2021-03-21T16:06:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3321043,48.869194</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>45. Негр де Тулуз (Nègre de Toulouse)</name>
+    <description>В отличие от большинства питейных заведений Монпарнаса, «Негр де Тулуз» был настоящим рестораном, куда Эрнест и Хедли ходили ужинать. Особенно Хемингуэю нравился их касcуле.</description>
+    <TimeStamp><when>2021-03-21T15:45:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3347463,48.840518</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>44. Фальстаф (Le Falstaff)</name>
+    <description>Фальстаф и Динго были любимейшими питейными заведениями Хемингуэя. Главным образом из-за того, что они считались менее модными барами по сравнению с другими кафе Монпарнаса.</description>
+    <TimeStamp><when>2021-03-21T15:24:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.326064,48.842839</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>43. Бар Динго (Dingo Bar)</name>
+    <description>Здесь (сейчас на этом месте ресторан «Auberge de Venise») в апреле 1925 года 25-летний Хемингуэй впервые встретился с 29-летним Фицджеральдом. Для Эрнеста, только начинающего писателя, было большим событием подружиться со знаменитым современником.</description>
+    <TimeStamp><when>2021-03-21T15:03:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3284431,48.841811</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>42. Куполь (La Coupole)</name>
+    <description>Самое молодое среди кафе эпохи джаза. «Куполь» был открыт в 1927 году напротив «Селекта» и был рассчитан исключительно на американскую аудиторию.</description>
+    <TimeStamp><when>2021-03-21T14:42:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.328073,48.842267</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>41. Селект (Le Select)</name>
+    <description>Еще одно знаковое кафе в районе Монпарнаса.</description>
+    <TimeStamp><when>2021-03-21T14:21:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3283841,48.842618</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>40. Кафе Ротонда (La Rôtonde)</name>
+    <description>Наряду с «Домом», «Ротонда» было чрезвычайно модным кафе в среде писателей и художников. Его, конечно же, Хемингуэй тоже критиковал.</description>
+    <TimeStamp><when>2021-03-21T14:04:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3292263,48.842345</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>39. Кафе Дом (Le Dôme)</name>
+    <description>Ресторан «Кафе Дом» было популярным местом среди богемы. Хемингуэй иногда заглядывал в него, но презирал публику, которая в нем собиралась. Несмотря на это, в «Празднике, который всегда стобой» он отвел ему целую главу про свою встречу с художником Жюлем Паскином.</description>
+    <TimeStamp><when>2021-03-21T13:39:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3290305,48.841958</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-seafood</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>38. Кафе де Флор (Café de Flore)</name>
+    <description>Это кафе находится всего в нескольких метрах от «Дё маго» — прямо напротив Липпа. Несмотря на то, что это одна из старейших парижских кофеен, в достоверных источниках нет никаких упоминаний того, что Хемингуэй проводил здесь время. Хотя некоторые интернет-ресурсы ставят его имя в список посетителей этого места наряду с Борисом Вианом, Роменом Гари и Брижит Бардо.</description>
+    <TimeStamp><when>2021-03-21T13:38:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.33263,48.854144</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>37. Дё маго (Les Deux Magot)</name>
+    <description>В 20-е годы прошлого века это был место встреч и работы многих художников и писателей. Хемингуэй, несомненно, был в их числе. Его герои из «И восходит и солнце» тоже встречались в Маго. В конце 40-х годов оно стал пристанищем экзистенциалистов: Симоны де Бовуар, Жан-Поля Сартра и Альбера Камю.</description>
+    <TimeStamp><when>2021-03-21T13:07:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3330645,48.85407</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>36. Брассери Липп (Brasserie Lipp)</name>
+    <description>Пивная Липпа была излюбленным местом Хемингуэя. Там до сих пор подают его любимое блюдо: картофельный салат с колбасой. 
+Хемингуэй описывает свой путь в пивной ресторан с особой тщательностью в рассказе «Голод был хорошим воспитателем»: начало от проспекта Обсерватории → Люксембургский сад → узкая улица Феру → площадь Сен-Сюльпис «где по-прежнему нет ресторанов, только тихая площадь с лавочками и деревьями» → улица Одеон → брассери Липп. 
+И путь назад в свой «офис»: брассери Липп → улица Бонапарт → улица Гинмер → улица Асса → улица Нотр-Дам-де-Шан → Клозери де Лила.</description>
+    <TimeStamp><when>2021-03-21T12:46:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3324101,48.853752</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>35. Клозери де Лила (La Closerie des Lilas)</name>
+    <description>Сейчас все кафе прошлых лет превратились в переполненные туристами и дорогие достопримечательности. Уже тогда Хемингуэй считал также. Ему пришлось найти собственное тихое и уютное местечко для работы, подальше от толп американских экспатов. Он был знаком со всеми официантами этого заведения. 
+Лила — место действия рассказов «Форд Мэдокс Форд и ученик дьявола» и «Эван Шипмен в Лила», оно также упоминается в «Une Génération Perdue» и «Скотт Фицджеральд». Именно здесь Скотт просил Эрнеста прочитать его новый роман «Великий Гэтсби». Здесь же была написана большая часть романа «И восходит солнце». 
+Сегодня столы в баре украшены таблички с именами знаменитостей, которые за ними сидели, в том числе и «Эрнеста Хемингуэя».</description>
+    <TimeStamp><when>2021-03-21T12:35:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.336074,48.840081</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>34. Дыра в стене (Le Trou dans le Mur)</name>
+    <description>Предположительно где-то здесь (точное место не определено) Эзра Паунд купил опиум для Ральфа Даннинга. 
+По словам краеведа Джона Бакстера, это место могло находиться на бульваре Капуцинов.</description>
+    <TimeStamp><when>2021-03-21T12:04:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3357419,48.871792</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>highway-pedestrian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>33. Студия Эзры Паунда</name>
+    <description>Поэт Эзра Паунд и его жена Дороти Шекспир жили здесь с 1921 по 1924 год. Пока Эзра жил в Париже, он и Гертруда Штайн были главными учителями Хемингуэя. Эрнест научился у Паунда умению описывать вещи, не объясняя их — показывать вещи, создавать визуальный образ без употребления прилагательных — ориентироваться на зрение, а не на слух. 
+По этому же адресу разворачивались события с Ральфом Чивером Даннингом, «поэтом, который курил опиум и забывал есть» из рассказа «Посланец зла».</description>
+    <TimeStamp><when>2021-03-21T11:43:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3314499,48.842894</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>32. Церковь Святого Люка</name>
+    <description>В возрасте пяти месяцев Джон Хэдли Никанор Хемингуэй (мистер Бамби) был крещен в маленькой часовне. Эрик «Чинк» Дорман-Смит был крестным отцом, а Гертруда Стайн — крестной матерью. Джорджио Джойс, первенец Джеймса Джойса, пел в церковном хоре.</description>
+    <TimeStamp><when>2021-03-21T11:32:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3311226,48.842394</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>31. 2-я квартира</name>
+    <description>В конце 1923 года Хемингуэй вернулся в Америку, где родился его первый ребенок. Как только мистер Бамби (Джек Хемингуэй) достаточно окреп для трансатлантического путешествия, они вернулись в Париж в феврале 1924 года. 
+Перед приездом Хемингуэев Эзра Паунд и его жена предложили им в распоряжение большую квартиру на первом этаже дома №70 по улице Нотр-Дам-де-Шан. Эрнест согласился, но Хэдли находила квартиру Паундов темной и вызывающей клаустрофобию. Для своего нового дома они выбрали квартиру на втором этаже дома №113 по той же улице (дом снесен). Месячная арендная плата составляла 650 франков (почти втрое больше, чем они платили на Кардинала Лемуана), в квартире не было электричества, а на первом этаже располагалась лесопилка. Но в то же время помещение было лучше, расположено ближе к салону Гертруды Штайн, Люксембургскому саду и в нескольких шагах от приятного кафе под названием «Клозери де Лила».</description>
+    <TimeStamp><when>2021-03-21T11:01:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3342742,48.840871</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>30. Студия Андре Массона</name>
+    <description>Во время своего первого длительного пребывания в Париже Хемингуэй познакомился с Андре Массоном через Гертруду Стайн. Иногда Эрнест посещал мастерскую Массона и Жоана Миро (сейчас на этом месте сквер со скульптурой Миро), чтобы посмотреть на их работу или ассистировать тренером по боксу. Впоследствии он купил картину Миро «Фема» за $200; через шестьдесят лет она стоила два миллиона.</description>
+    <TimeStamp><when>2021-03-21T10:30:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3053949,48.84206</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>leisure-park</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Park</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>29. Трехгорная типография (Three Mountain Press)</name>
+    <description>Друг Хемингуэя, журналист Билл Берд, купил старинный ручной печатный станок и в 1922 открыл типографию. Потом он предоставил помещение под офис журнала Форда Мэдокса Форда «Трансатлантик ревью». Эрнест часто бывал там, но Форд ему не нравился из-за личной неприязни.</description>
+    <TimeStamp><when>2021-03-21T10:29:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3576845,48.852195</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>28. Издательская компания Роберта Макалмона</name>
+    <description>В августе 1923 года Роберт Макалмон издал первую книгу Хемингуэя «Три рассказа и десять стихотворений». Эрнест не заработал на этом денег, потому что работал без гонорара, но первая публикация собрания сочинений была большим событием для молодого писателя.</description>
+    <TimeStamp><when>2021-03-21T10:08:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3386033,48.851188</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>27. Зимний велодром (Vélodrome d’Hiver)</name>
+    <description>Велогонки стали одной из причин отказа Хемингуэя от скачек. Тот же Майк Уорд показал Эрнесту шестидневные велогонки в «Вель д’Ив». 
+В июле 1942 года французская полиция по приказу нацистов использовала велодром для содержания 13000 евреев перед депортацией в концентрационные лагеря. Мемориальная доска на улице Нелатон, 7 (месте бывшего велодрома) служит памятником этому печальном инциденту.</description>
+    <TimeStamp><when>2021-03-21T09:47:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.2893982,48.853417</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>historic-monument</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>26. Площадь Лавуа</name>
+    <description>Во время обеда в кафе на площади друг Эрнеста Майк Уорд отговаривает его от ставок на скачках.</description>
+    <TimeStamp><when>2021-03-21T09:26:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3375747,48.867973</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>leisure-park</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Park</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>25. Банк Гаранти Траст Компани (Guaranty Trust Company)</name>
+    <description>Здесь находился банк (больше не существует), где у Хемингуэя был открыт счет.</description>
+    <TimeStamp><when>2021-03-21T09:05:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3357333,48.871581</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>24. Площадь Каррузель</name>
+    <description>Площадь Каррузель была последним пунктом в вечерней прогулке Эрнеста и Хэдли по городу после удачного дня и ужина в Прюнье из рассказа «Ложная весна». 
+Они думали над теорией, что арка на площади Каррузель, Триумфальная арка и Симплонские ворота в Милане стоят в одной линии. 
+После этого они «вышли из ворота Лувра, перешли улицу и стояли на мосту, облокотившись на камень и глядя вниз на реку». Мост — это пешеходный мост Искусств.</description>
+    <TimeStamp><when>2021-03-21T08:44:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3340435,48.861633</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>23. Кафе Прунье (Café Prunier)</name>
+    <description>Рыбный ресторан, который Хемингуэи могли посещать только при наличии лишних денег. Например, после выигрыша на тотализаторе.</description>
+    <TimeStamp><when>2021-03-21T08:23:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.2916915,48.872535</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-seafood</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>22. Ипподром Отей</name>
+    <description>Когда Эрнест и Хэдли отправлялись на барьерные скачки в Отей, всего за пять-шесть франков они могли выйти на открытое поле, окруженное беговой дорожкой, с хорошим обзором. 
+Некоторые заезды Хемингуэй предпочитал наблюдать с трибун.</description>
+    <TimeStamp><when>2021-03-21T08:02:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.2572519,48.854451</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>leisure-sports_centre</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>21. Ипподром Энген-Суаси</name>
+    <description>Некоторое время в Париже Хемингуэй был увлечен скачками. Во время скакового сезона он часто делал ставки на ипподромах: Отей и Энген. 
+Энген-Суаси один из старейших ипподромов Франции. Главной его особенностью является возможность проводить разные виды испытания лошадей: рысистые бега и стипль-чез.</description>
+    <TimeStamp><when>2021-03-21T07:41:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.2888027,48.983369</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>leisure-sports_centre</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>20. Северный вокзал</name>
+    <description>Эрнест Хемингуэй побывал на этом вокзале еще во время своего первого визита в Париж в мае 1918 года, когда он прибыл в Европу по пути на итальянский фронт Первой мировой войны. 
+Отсюда вместе с Хэдли они отправлялись на пригородных поездах на ипподромы Энген или Отей. В 1920-х годах в скаковые дни до ипподромов пускали выделенные поезда.</description>
+    <TimeStamp><when>2021-03-21T07:20:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3549728,48.8804</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>19. Восточный вокзал</name>
+    <description>Этим вокзалом Хемингуэй пользовался для деловых поездок.</description>
+    <TimeStamp><when>2021-03-21T07:19:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3594897,48.877097</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>18. Лионский вокзал</name>
+    <description>Хемингуэй активно пользовался поездами, пока работал иностранным корреспондентом еженедельной газеты «Торонто Стар». Отсюда он отправился в Константинополь на «Восточном экспрессе» освещать греко-турецкую войну (1919–1922). А также садился на поезд до Лиона, чтобы перегнать машину Скотта Фицджеральда. 
+Это место также связано с неприятной историей, когда первые рукописи Эрнеста были украдены у Хэдли, когда она отправилась отсюда к мужу в Швейцарию кататься на лыжах.</description>
+    <TimeStamp><when>2021-03-21T06:48:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3733486,48.844923</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-train_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>17. Сквер Вер-Галан</name>
+    <description>Во время прогулок Хемингуэй спускался в этот маленький сквер, чтобы посмотреть на рыбаков.</description>
+    <TimeStamp><when>2021-03-21T06:27:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3402073,48.857404</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>leisure-park</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Park</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>16. Отель Вольтер (Hotel du Quai Voltaire)</name>
+    <description>На самом деле Хемингуэй не имеет никакого отношения к отелю, но он упомянул о нем как о последнем рубеже букинистов.</description>
+    <TimeStamp><when>2021-03-21T06:16:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3311494,48.858768</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-hotel</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+ <Placemark>
+    <name>15. Букинисты</name>
+    <description>Время от времени Хемингуэй просматривал прилавки букинистов, которые тянутся от набережной де ла Турнель до набережной Вольтера. Эти темно-зеленые металлические ящики и сейчас прикреплены к каменным оградам набережных. 
+Писатель обычно прогуливался по левому берегу Сены после работы, наслаждаясь видами на острова Сите и Сен-Луи.</description>
+    <TimeStamp><when>2021-03-21T05:45:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3432267,48.854275</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>highway-primary</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>14. Ресторан Серебряная башня (La Tour d’Argent)</name>
+    <description>Это один из самых старых и известных ресторанов Парижа. Удостоен одной Мишленовской звезды. Хемингуэй был слишком беден, чтобы питаться там, но поблизости был местечко, где он покупал подержанные книги на английском.</description>
+    <TimeStamp><when>2021-03-21T05:24:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3549138,48.84983</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-french</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>13. Ресторан Мишо (Restaurant Michaud)</name>
+    <description>Хемингуэи время от времени бывали у Мишо (сейчас на этом месте ресторан «Le Comptoir des Saints-Pères»), но по сравнению с заведениями, где они обычно обедали, Мишо был модным и дорогим. Его часто посещал Джеймс Джойс и как пишет Хемингуэй: «Мы видели его у Мишо за ужином с семьей». В этом ресторане разворачивались события рассказа «Вопрос размера».</description>
+    <TimeStamp><when>2021-03-21T05:13:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3317985,48.856345</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>12. Шекспир и Компания (современный магазин)</name>
+    <description>Первый книжный магазин Сильвии Бич был закрыт в 1941 году при оккупации Парижа нацистами. Новый книжный с таким же названием открылся в 1951 году — историческое название и атмосфера делают его привлекательным туристическим местом. Этот магазин не имеет ничего общего с Хемингуэем, зато там можно купить там его книги.</description>
+    <TimeStamp><when>2021-03-21T04:42:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3471113,48.852578</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>shop-books</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>11. Шекспир и Компания (оригинальный магазин)</name>
+    <description>Крошечный книжный магазин «Шекспир и Компания» был основан американской эмигранткой Сильвией Бич в 1919 году. Она же выступила издателем романа «Улисс» Джеймса Джойса.</description>
+    <TimeStamp><when>2021-03-21T04:21:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3386087,48.850921</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>10. Салон Гертруды Стайн</name>
+    <description>Хемингуэй познакомился с Гертрудой Стайн в марте 1922 года, она была среди знакомых Шервуда Андерсона. Она жила со своей партнершей по имени Элис Б. Токлас и коллекционировала картины постимпрессионистов и модернистов. Эрнест и Хэдли стали частыми посетителями ее салона. Молодой Хемингуэй восхищался Стайн как наставником, но позже их пути разошлись.</description>
+    <TimeStamp><when>2021-03-21T04:10:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3293282,48.846932</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>09. Музей в Люксембургском саду</name>
+    <description>Хемингуэй часто ходил в музей «ради Сезанна, чтобы увидеть Мане, Моне и других импрессионистов».</description>
+    <TimeStamp><when>2021-03-21T03:49:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3340167,48.848597</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>08. Люксембургский сад</name>
+    <description>Сад был обычной частью пеших маршрутов Хемингуэя по городу.</description>
+    <TimeStamp><when>2021-03-21T03:28:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.336365,48.846714</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>leisure-park</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Park</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>07. Площадь Сен-Мишель</name>
+    <description>Хемингуэй не раскрывает названия кафе, в котором он работал. Зато он точно описывает путь, по которому он туда добирался: улица Кардинала Лемуана, 74 → лицей Генриха IV → Сент-Этьен-дю-Мон → площади Пантеона → бульвар Сен-Мишель → музей Клюни → бульвар Сен-Жермен → площадь Сен-Мишель. 
+Описание обратного пути не изобилует подробностями.</description>
+    <TimeStamp><when>2021-03-21T03:07:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3437867,48.853332</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>highway-pedestrian-area</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>06. Рабочий кабинет</name>
+    <description>Хемингуэй не работал дома, он снимал чердачную комнату под кабинет в старом отеле, где двадцать пять лет назад умер поэт Поль Верлен. 
+По словам биографа Хемингуэя Майкла Рейнольдса, нет никаких свидетельств того, что он арендовал какую-либо дополнительную комнату. Кажется, это вымысел, комната-кабинет упоминается только в «Празднике, который всегда с тобой».</description>
+    <TimeStamp><when>2021-03-21T02:46:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3492168,48.845483</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>05. Дез Аматёр (Café des Amateurs)</name>
+    <description>Прямо за углом от входа в подъезд находилось кафе «Дез Аматёр» (сейчас существует под названием «Café Delmas»). Эрнест называл его «выгребной ямой улицы Муфтар» и избегал этого места, потому что оно привлекало только пьяниц, проституток и проходимцев с ближайшего рынка.</description>
+    <TimeStamp><when>2021-03-21T02:25:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3494931,48.844646</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>04. 1-я квартира</name>
+    <description>9 января 1922 семья Хемингуэев переехала в квартиру на четвертом этаже дома по улице Кардинала Лемуана и жил там до августа 1923 года. Жилье помог найти Льюис Галантьер, один из друзей Шервуда Андерсона. Эрнест писал родителям, что квартира была «самым радостным местом, которое вы когда-либо видели. Мы снимаем ее с мебелью за 250 франков в месяц, около 18 долларов. Она находится на вершине высокого холма в самой старой части Парижа. Самая красивая часть Латинского квартала». В реальности квартира состояла всего из двух комнат и крошечной кухни, рядом не было станции метро и находилась она в бедном рабочем районе. Причина такого выбора заключалась в отличной цене, ведь в то время жилье в центре стоило около 1000 франков или 85 долларов в месяц. 
+На первом этаже того же здания находился танцевальный зал для рабочих или «Бал Мюзет» (сейчас не существует). Иногда Хемингуэи спускались вниз потанцевать, но, к сожалению, их раздражал шум и аккордеонная музыка, которая звучала всю ночь.</description>
+    <TimeStamp><when>2021-03-21T02:04:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3496138,48.84486</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building-address</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>03. Ресторан Ле Пре-о-Клер (Le Pré aux Clercs)</name>
+    <description>Эрнест и Хэдли ели здесь по абсурдно низким (по американским меркам) ценам: обед на двоих стоил всего двенадцать франков, а Пинар (красное вино) стоило шестьдесят сантимов за бутылку.</description>
+    <TimeStamp><when>2021-03-21T01:43:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3338236,48.855462</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>02. Кафе де ля Пэ (Café de la Paix)</name>
+    <description>Эрнест и Хэдли обедали здесь в первое Рождество в Париже. Позже Эрнест часто заглядывал сюда выпить по дороге в банк. Это кафе стало местом действия повести «Мой старик».</description>
+    <TimeStamp><when>2021-03-21T01:20:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3313292,48.870695</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-french</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>01. Гостиница Англетер (Hôtel d’Angleterre)</name>
+    <description>20 декабря 1921 года Эрнест Хемингуэй в возрасте 22 лет вместе со своей женой Хэдли впервые приехали в Париж. Они поселились в отеле, который им рекомендовал писатель Шервуд Андерсон. Сегодня отель разрешает гостям забронировать тот же номер (№14), а стеклянная витрина в фойе хранит артефакты того времени.</description>
+    <TimeStamp><when>2021-03-21T01:01:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.3332925,48.855856</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-hotel</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

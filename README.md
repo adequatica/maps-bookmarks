@@ -30,6 +30,7 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 1. Dostoevsky in Saint Petersburg ✻ — 70
 1. Dublin — 20
 1. France — 6
+1. Hemingway in Paris ✻ — 64
 1. Hemingway in Spain ✻ — 20
 1. Istanbul — 14
 1. Kaliningrad — 12
@@ -62,6 +63,7 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 1. Zurich — 6
 1. Достоевский в Петербурге ✻ — 70
 1. Места княза Кропоткина ✻ — 10
+1. Хемингуэй в Париже ✻ — 64
 
 ## ✻ References
 
@@ -71,7 +73,6 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
 
 ### «Constructivism in Leningrad» based on articles:
-
 * Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «Коло», 2018
 * [Авангард в архитектуре Ленинграда](https://ru.wikipedia.org/wiki/Авангард_в_архитектуре_Ленинграда)
 * [Архитектурный стиль Конструктивизм. Архитектурный сайт Санкт-Петербурга](https://www.citywalls.ru/search-archstyle300.html)
@@ -84,6 +85,9 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 ### «Dostoevsky in Saint Petersburg» based on:
 * [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316)
 * [Photo album](https://yadi.sk/a/KT-mFoCy_pef4g)
+
+### «Hemingway in Paris» based on:
+* [My own research](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0)
 
 ### «Hemingway in Spain» based on articles:
 * Prado Museum, one of the favourite place of the author, does not pinned because of its obvious prominence
@@ -112,8 +116,11 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 * [My own research](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b)
 
 ### «Достоевский в Петербурге» based on:
-* [Собственное исследование](https://adequatica.medium.com/dostoevsky-in-petersburg-d7dfba1804b)
+* [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/dostoevskii-v-peterburge-5e4a7fa7cc6d233fd0f6b8cd)
 * [Фото альбом](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Места княза Кропоткина» based on:
 * [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/mesta-kniazia-kropotkina-5e46f24f5bdc2e1b307d13de)
+
+### «Хемингуэй в Париже» based on:
+* [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-parije-60603281973e17400a79da2b)
