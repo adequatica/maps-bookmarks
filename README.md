@@ -42,7 +42,6 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 1. Moscow Castles ✻ — 24
 1. Mountainboard Parks ✻ — 20
 1. Netherlands — 20
-1. Novgorod — 10
 1. Paris — 26
 1. Places Where Peter Kropotkin Lived or Been in Russia ✻ — 10
 1. Portugal — 60
@@ -59,7 +58,9 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 1. Spain Madrid — 16
 1. Spain Pamplona — 10
 1. Tbilisi — 8
+1. Veliky Novgorod — 10
 1. Vienna — 10
+1. Yaroslavl — 10
 1. Zurich — 6
 1. Достоевский в Петербурге ✻ — 70
 1. Места княза Кропоткина ✻ — 10
