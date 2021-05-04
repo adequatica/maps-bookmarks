@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Yaroslavl</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Yaroslavl</name>
+    <TimeStamp><when>2021-05-01T11:10:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>39.835301,57.625602</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yaroslavl Kremlin</name>
+    <TimeStamp><when>2021-05-01T12:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>39.890031,57.620875</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Butusovsky settlement</name>
+    <TimeStamp><when>2021-05-01T13:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>39.87563,57.628859</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>landuse-residential</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Znamenskaya Tower</name>
+    <description>Власьевская (Знаменская) башня с церковью Знамения, 1658–1659</description>
+    <TimeStamp><when>2021-05-01T14:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>39.884974,57.625359</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>St. John the Baptist Church</name>
+    <description>Церковь Иоанна Предтечи в Толчкове, 1671–1687</description>
+    <TimeStamp><when>2021-05-01T15:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>39.856862,57.610913</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>St. Nicholas the Wonderworker Church</name>
+    <description>Церковь Николая Чудотворца Мокринская (храм Николы Мокрого), 1663–1672</description>
+    <TimeStamp><when>2021-05-01T16:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>39.870554,57.620074</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>St. Nicholas Nadein Church</name>
+    <description>Церковь Николая Чудотворца Надеинская (церковь Николы Надеина), 1620–1622</description>
+    <TimeStamp><when>2021-05-01T17:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>39.896007,57.62881</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Brugge</name>
+    <TimeStamp><when>2021-05-02T14:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>39.881875,57.623127</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hygge</name>
+    <TimeStamp><when>2021-05-02T19:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>39.889329,57.625757</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Jawsspot</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>St. John Chrysostom Church</name>
+    <description>Старообрядческий храм Иоанна Златоуста в Коровниках, 1649–1654</description>
+    <TimeStamp><when>2021-05-03T13:51:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>39.905946,57.611581</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
