@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Nizhny Novgorod</name>
+</metadata>
+<wpt lat="56.322165" lon="43.945692">
+  <name>Nizhny Novgorod</name>
+  <time>2021-05-08T13:48:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+</wpt>
+<wpt lat="56.328439" lon="44.001965">
+  <name>Nizhny Novgorod Kremlin</name>
+  <time>2021-05-08T14:00:00Z</time>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <type>72</type>
+</wpt>
+<wpt lat="56.323127" lon="43.999248">
+  <name>House-commune «Cultural Revolution»</name>
+  <time>2021-05-08T15:00:00Z</time>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <type>72</type>
+</wpt>
+<wpt lat="56.320461" lon="43.989131">
+  <name>House-commune «Engineering Worker»</name>
+  <time>2021-05-08T16:00:00Z</time>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <type>72</type>
+</wpt>
+<wpt lat="56.329226" lon="43.991137">
+  <name>Gorkovskaya Brewery</name>
+  <time>2021-05-08T17:00:00Z</time>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <type>28</type>
+</wpt>
+<wpt lat="56.321122" lon="43.989868">
+  <name>Bukowski</name>
+  <time>2021-05-08T18:00:00Z</time>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <type>28</type>
+</wpt>
+<wpt lat="56.330335" lon="43.99747">
+  <name>Jawsspot</name>
+  <time>2021-05-08T19:00:00Z</time>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <type>28</type>
+</wpt>
+<wpt lat="56.323044" lon="44.004537">
+  <name>Vspyshka</name>
+  <time>2021-05-09T10:00:00Z</time>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <type>27</type>
+</wpt>
+<wpt lat="56.321786" lon="44.002056">
+  <name>Yula Pizza</name>
+  <time>2021-05-09T11:00:00Z</time>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <type>27</type>
+</wpt>
+<wpt lat="56.323121" lon="44.049256">
+  <name>Pechersky Ascension Monastery</name>
+  <time>2021-05-09T12:00:00Z</time>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <type>72</type>
+</wpt>
+</gpx>
