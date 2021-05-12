@@ -42,6 +42,7 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 1. Moscow Castles ✻ — 24
 1. Mountainboard Parks ✻ — 20
 1. Netherlands — 20
+1. Nizhny Novgorod — 10
 1. Paris — 26
 1. Places Where Peter Kropotkin Was in Russia ✻ — 10
 1. Portugal — 60
