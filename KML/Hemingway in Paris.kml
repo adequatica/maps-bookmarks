@@ -326,7 +326,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
   </Placemark>  
   <Placemark>
     <name>46. Harry’s New York Bar</name>
-    <description>This bar on the right bank, near the Paris Opera, was a favourite hangout for many American expats including Hemingway. Нarry’s bar claims to have invented the Bloody Mary.</description>
+    <description>This bar on the right bank, near the Paris Opera, was a favourite hangout for many American expats including Hemingway. Harry’s bar claims to have invented the Bloody Mary.</description>
     <TimeStamp><when>2021-03-21T16:06:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3321043,48.869194</coordinates></Point>
@@ -614,7 +614,7 @@ Before Hemingways arrival Ezra Pound and his wife offered them to share their la
   </Placemark>
   <Placemark>
     <name>27. Vélodrome d’Hiver (demolished in 1959)</name>
-    <description>Сycling was the second factor in Hemingway’s refusal to horse races. A six-day cycle racing in «Vel’ d’Hiv’» (translates to «Winter Velodrome») was introduced to Ernest by Mike Ward. 
+    <description>Cycling was the second factor in Hemingway’s refusal to horse races. A six-day cycle racing in «Vel’ d’Hiv’» (translates to «Winter Velodrome») was introduced to Ernest by Mike Ward. 
 In July 1942, French police, under Nazi orders, used the velodrome to hold 13000 of Jews before deporting them to concentration camps. A plaque on the 7 Rue Nélaton (former velodrome place) serves as a memorial of this incident.</description>
     <TimeStamp><when>2021-03-21T09:47:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
