@@ -43,7 +43,7 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 1. Mountainboard Parks ✻ — 20
 1. Netherlands — 20
 1. Paris — 26
-1. Places Where Peter Kropotkin Lived or Been in Russia ✻ — 10
+1. Places Where Peter Kropotkin Was in Russia ✻ — 10
 1. Portugal — 60
 1. Prague — 18
 1. Rome — 28
@@ -113,7 +113,7 @@ I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) f
 ### «Mountainboard Parks» based on:
 * [My own experience](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46)
 
-### «Places Where Peter Kropotkin Lived or Been in Russia» based on:
+### «Places Where Peter Kropotkin Was in Russia» based on:
 * [My own research](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b)
 
 ### «Достоевский в Петербурге» based on:
