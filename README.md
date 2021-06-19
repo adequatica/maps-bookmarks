@@ -2,9 +2,11 @@
 
 For the last decade I saved almost a thousand places where I have been and will be glad if someone will find this bookmarks useful.
 
-I have used [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined by the new owner and became completely unusable.
+I have been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined by the new owner and became completely unusable.
 
-I had to [convert KML files into GPX](https://github.com/enotramone/mmkml2gpx) for migration bookmarks to another app and now they could be imported to [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
+I [converted KML files into GPX](https://github.com/enotramone/mmkml2gpx) for migrating bookmarks to another app and now they could be imported to [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
+
+Now I am using [Organic Maps](https://organicmaps.app).
 
 ## Map legend
 
