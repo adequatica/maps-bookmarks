@@ -4,56 +4,56 @@
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-blue.png</href>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-brown.png</href>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-green.png</href>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-orange.png</href>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -64,7 +64,7 @@
     <TimeStamp><when>2016-07-02T15:32:26Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.405166,59.958564</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>office</mwm:value>
       </mwm:featureTypes>
@@ -78,7 +78,7 @@
     <TimeStamp><when>2017-03-01T05:58:20Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.316557,59.948538</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
         <mwm:value>historic-castle-defensive</mwm:value>
@@ -93,7 +93,7 @@
     <TimeStamp><when>2017-03-01T06:53:03Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.321336,59.941163</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
       </mwm:featureTypes>
@@ -107,7 +107,7 @@
     <TimeStamp><when>2017-03-01T07:27:36Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.353681,59.92746</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
       </mwm:featureTypes>
@@ -122,7 +122,7 @@
     <TimeStamp><when>2017-03-01T08:19:02Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.335565,59.930313</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-residential</mwm:value>
       </mwm:featureTypes>
@@ -136,7 +136,7 @@
     <TimeStamp><when>2017-03-01T09:36:41Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.28702,59.94316</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-residential</mwm:value>
       </mwm:featureTypes>
@@ -149,7 +149,7 @@
     <TimeStamp><when>2017-03-01T10:05:49Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.337809,59.955416</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
         <mwm:value>historic-ship</mwm:value>
@@ -164,7 +164,7 @@
     <TimeStamp><when>2017-03-01T10:37:57Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.268957,59.927821</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
@@ -181,7 +181,7 @@
     <TimeStamp><when>2017-03-01T11:18:31Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.338017,59.9417</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-artwork-statue</mwm:value>
       </mwm:featureTypes>
@@ -194,7 +194,7 @@
     <TimeStamp><when>2017-03-01T12:14:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.337652,59.934402</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-artwork-statue</mwm:value>
       </mwm:featureTypes>
@@ -207,7 +207,7 @@
     <TimeStamp><when>2017-03-01T12:39:51Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.34247,59.926228</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-viewpoint</mwm:value>
       </mwm:featureTypes>
@@ -220,7 +220,7 @@
     <TimeStamp><when>2017-03-01T14:36:22Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.307727,59.931543</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -233,7 +233,7 @@
     <TimeStamp><when>2017-03-01T15:09:40Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.325891,59.935864</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
         <mwm:value>building</mwm:value>
@@ -247,7 +247,7 @@
     <TimeStamp><when>2017-03-01T17:06:46Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.314709,59.933206</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
         <mwm:value>building</mwm:value>
@@ -261,7 +261,7 @@
     <TimeStamp><when>2017-03-01T17:59:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.341772,59.936273</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cinema</mwm:value>
       </mwm:featureTypes>
@@ -274,8 +274,8 @@
     <name>New Holland</name>
     <TimeStamp><when>2017-03-01T19:04:38Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.286594,59.929565</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <Point><coordinates>30.289976,59.929587</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>place-island</mwm:value>
       </mwm:featureTypes>
@@ -288,7 +288,7 @@
     <TimeStamp><when>2017-03-01T19:44:32Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.301188,59.952006</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-memorial-plaque</mwm:value>
       </mwm:featureTypes>
@@ -301,7 +301,7 @@
     <TimeStamp><when>2017-03-02T03:05:00Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>30.325274,59.970043</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-park</mwm:value>
       </mwm:featureTypes>
@@ -315,7 +315,7 @@
     <TimeStamp><when>2017-03-02T07:04:12Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>30.3116,60.019695</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-marketplace</mwm:value>
       </mwm:featureTypes>
@@ -330,7 +330,7 @@
     <TimeStamp><when>2017-03-02T08:09:38Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.322613,59.937577</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
@@ -345,7 +345,7 @@
     <TimeStamp><when>2017-03-02T11:16:12Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.333645,59.93329</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
@@ -359,7 +359,7 @@
     <TimeStamp><when>2017-03-03T06:53:54Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.342684,59.926608</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -373,7 +373,7 @@
     <TimeStamp><when>2017-03-03T07:03:35Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.342518,59.926916</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -387,24 +387,9 @@
     <TimeStamp><when>2017-03-03T08:19:11Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.358914,59.938027</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
-        <mwm:value>cuisine-pizza</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Forno Bravo</name>
-    <TimeStamp><when>2017-03-03T08:59:26Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.312413,59.965211</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:featureTypes>
-        <mwm:value>amenity-restaurant</mwm:value>
         <mwm:value>cuisine-pizza</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
@@ -417,24 +402,10 @@
     <TimeStamp><when>2017-03-03T09:50:03Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.358354,59.935759</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
         <mwm:value>cuisine-pizza</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Jack and Chan</name>
-    <TimeStamp><when>2017-03-03T09:56:07Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.336714,59.937295</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:featureTypes>
-        <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
@@ -447,7 +418,7 @@
     <TimeStamp><when>2017-03-03T10:06:38Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.319006,59.930652</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -462,7 +433,7 @@
     <TimeStamp><when>2017-03-03T10:15:09Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.314092,59.93365</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
@@ -476,7 +447,7 @@
     <TimeStamp><when>2017-03-03T10:20:49Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.355696,59.935806</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fast_food</mwm:value>
         <mwm:value>cuisine-burger</mwm:value>
@@ -491,7 +462,7 @@
     <TimeStamp><when>2017-03-03T10:56:10Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.327653,59.933023</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -505,7 +476,7 @@
     <TimeStamp><when>2017-03-03T11:39:45Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.31915,59.921577</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -519,7 +490,7 @@
     <TimeStamp><when>2017-03-03T11:56:57Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.345439,59.941449</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -533,7 +504,7 @@
     <TimeStamp><when>2017-03-03T12:17:52Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.357965,59.938904</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
         <mwm:value>cuisine-tapas</mwm:value>
@@ -548,7 +519,7 @@
     <TimeStamp><when>2017-03-03T12:55:21Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.360966,59.943349</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -562,7 +533,7 @@
     <TimeStamp><when>2017-03-03T20:42:03Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.363399,59.941555</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
@@ -576,7 +547,7 @@
     <TimeStamp><when>2017-03-03T20:58:05Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.356999,59.938922</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -590,7 +561,7 @@
     <TimeStamp><when>2017-03-03T21:41:48Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.3028,59.950824</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -604,7 +575,7 @@
     <TimeStamp><when>2017-03-03T22:02:40Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.371167,59.930636</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -618,7 +589,7 @@
     <TimeStamp><when>2017-03-03T22:35:29Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.319899,59.930045</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -632,7 +603,7 @@
     <TimeStamp><when>2017-03-03T22:39:55Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.355642,59.921943</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -645,8 +616,8 @@
     <name>Beergeek</name>
     <TimeStamp><when>2017-03-03T22:49:17Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>30.342793,59.936804</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <Point><coordinates>30.342869,59.936875</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -660,7 +631,7 @@
     <TimeStamp><when>2017-03-03T23:09:40Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.308427,59.927611</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -674,7 +645,7 @@
     <TimeStamp><when>2017-03-03T23:54:55Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.356865,59.938924</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -688,7 +659,7 @@
     <TimeStamp><when>2018-05-19T14:48:45Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.413366,59.955719</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -702,7 +673,7 @@
     <TimeStamp><when>2018-07-21T09:25:43Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.267416,59.911197</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -716,7 +687,7 @@
     <TimeStamp><when>2019-03-09T06:21:35Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.344977,59.940953</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -730,7 +701,7 @@
     <TimeStamp><when>2019-06-13T13:16:52Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.343642,59.92681</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fast_food</mwm:value>
       </mwm:featureTypes>
@@ -744,7 +715,7 @@
     <TimeStamp><when>2019-06-13T19:16:38Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>30.347686,59.934412</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-books</mwm:value>
       </mwm:featureTypes>
@@ -757,8 +728,8 @@
     <name>Tawny Bar</name>
     <TimeStamp><when>2019-06-14T08:16:14Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>30.340876,59.940731</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <Point><coordinates>30.340831,59.940769</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -772,7 +743,7 @@
     <TimeStamp><when>2019-06-14T08:43:06Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.343701,59.929037</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
@@ -786,7 +757,7 @@
     <TimeStamp><when>2019-07-09T06:19:55Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>30.355352,59.936912</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -799,8 +770,8 @@
     <name>Buterbrodskybar</name>
     <TimeStamp><when>2020-07-06T01:52:39Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.290622,59.946004</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <Point><coordinates>30.290234,59.94612</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -814,7 +785,7 @@
     <TimeStamp><when>2020-07-06T05:51:40Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.285781,59.939501</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-marketplace</mwm:value>
       </mwm:featureTypes>
@@ -827,8 +798,8 @@
     <name>Sevcable Port</name>
     <TimeStamp><when>2020-07-06T09:48:05Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.241745,59.924345</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <Point><coordinates>30.24175,59.924252</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -837,25 +808,11 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Verlé Garden</name>
-    <TimeStamp><when>2020-07-07T07:32:33Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.314816,59.963406</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
-      <mwm:featureTypes>
-        <mwm:value>amenity-cafe</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Dead Poets</name>
     <TimeStamp><when>2020-07-25T05:33:48Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.353129,59.936084</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -869,9 +826,24 @@
     <TimeStamp><when>2020-07-27T13:34:44Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.347906,59.936018</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fast_food</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Forno Bravo</name>
+    <TimeStamp><when>2021-03-03T08:59:26Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>30.347231,59.938125</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-pizza</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>

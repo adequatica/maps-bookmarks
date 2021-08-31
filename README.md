@@ -29,14 +29,14 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
-1. Dostoevsky in Saint Petersburg ✻ — 70
+1. Dostoevsky in Saint Petersburg ✻ — 76
 1. Dublin — 20
 1. France — 6
 1. Hemingway in Paris ✻ — 64
 1. Hemingway in Spain ✻ — 20
 1. Istanbul — 14
 1. Kaliningrad — 12
-1. Leningrad Oblast — 16
+1. Leningrad Oblast — 18
 1. Montenegro — 30
 1. Morocco — 32
 1. Moscow — 50
@@ -50,7 +50,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Portugal — 60
 1. Prague — 18
 1. Rome — 28
-1. Saint Petersburg — 58
+1. Saint Petersburg — 56
 1. Serbia — 20
 1. Sicily — 14
 1. Sochi — 6
@@ -65,7 +65,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Vienna — 10
 1. Yaroslavl — 10
 1. Zurich — 6
-1. Достоевский в Петербурге ✻ — 70
+1. Достоевский в Петербурге ✻ — 76
 1. Места княза Кропоткина ✻ — 10
 1. Хемингуэй в Париже ✻ — 64
 

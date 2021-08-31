@@ -126,7 +126,7 @@
   </extensions>
   <type>72</type>
 </wpt>
-<wpt lat="59.929565" lon="30.286594">
+<wpt lat="59.929587" lon="30.289976">
   <name>New Holland</name>
   <time>2017-03-01T19:04:38Z</time>
   <extensions>
@@ -200,25 +200,9 @@
   </extensions>
   <type>27</type>
 </wpt>
-<wpt lat="59.965211" lon="30.312413">
-  <name>Forno Bravo</name>
-  <time>2017-03-03T08:59:26Z</time>
-  <extensions>
-    <color>#ff5722</color>
-  </extensions>
-  <type>27</type>
-</wpt>
 <wpt lat="59.935759" lon="30.358354">
   <name>Pizza 22 cm</name>
   <time>2017-03-03T09:50:03Z</time>
-  <extensions>
-    <color>#ff5722</color>
-  </extensions>
-  <type>27</type>
-</wpt>
-<wpt lat="59.937295" lon="30.336714">
-  <name>Jack and Chan</name>
-  <time>2017-03-03T09:56:07Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
@@ -338,7 +322,7 @@
   </extensions>
   <type>28</type>
 </wpt>
-<wpt lat="59.936804" lon="30.342793">
+<wpt lat="59.936875" lon="30.342869">
   <name>Beergeek</name>
   <time>2017-03-03T22:49:17Z</time>
   <extensions>
@@ -402,7 +386,7 @@
   </extensions>
   <type>0</type>
 </wpt>
-<wpt lat="59.940731" lon="30.340876">
+<wpt lat="59.940769" lon="30.340831">
   <name>Tawny Bar</name>
   <time>2019-06-14T08:16:14Z</time>
   <extensions>
@@ -426,7 +410,7 @@
   </extensions>
   <type>28</type>
 </wpt>
-<wpt lat="59.946004" lon="30.290622">
+<wpt lat="59.94612" lon="30.290234">
   <name>Buterbrodskybar</name>
   <time>2020-07-06T01:52:39Z</time>
   <extensions>
@@ -442,21 +426,13 @@
   </extensions>
   <type>27</type>
 </wpt>
-<wpt lat="59.924345" lon="30.241745">
+<wpt lat="59.924252" lon="30.24175">
   <name>Sevcable Port</name>
   <time>2020-07-06T09:48:05Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
   <type>72</type>
-</wpt>
-<wpt lat="59.963406" lon="30.314816">
-  <name>Verlé Garden</name>
-  <time>2020-07-07T07:32:33Z</time>
-  <extensions>
-    <color>#ff5722</color>
-  </extensions>
-  <type>27</type>
 </wpt>
 <wpt lat="59.936084" lon="30.353129">
   <name>Dead Poets</name>
@@ -469,6 +445,14 @@
 <wpt lat="59.936018" lon="30.347906">
   <name>Turbo Shawarma</name>
   <time>2020-07-27T13:34:44Z</time>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <type>27</type>
+</wpt>
+<wpt lat="59.938125" lon="30.347231">
+  <name>Forno Bravo</name>
+  <time>2021-03-03T08:59:26Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
