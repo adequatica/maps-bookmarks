@@ -4,56 +4,56 @@
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-blue.png</href>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-brown.png</href>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-green.png</href>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-orange.png</href>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -64,7 +64,7 @@
     <TimeStamp><when>2021-05-08T13:48:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>43.945692,56.322165</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>railway-station</mwm:value>
       </mwm:featureTypes>
@@ -78,7 +78,7 @@
     <TimeStamp><when>2021-05-08T14:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>44.001965,56.328439</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -91,7 +91,7 @@
     <TimeStamp><when>2021-05-08T15:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>43.999248,56.323127</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
       </mwm:featureTypes>
@@ -104,7 +104,7 @@
     <TimeStamp><when>2021-05-08T16:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>43.989131,56.320461</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
       </mwm:featureTypes>
@@ -117,7 +117,7 @@
     <TimeStamp><when>2021-05-08T17:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>43.991137,56.329226</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
@@ -131,7 +131,7 @@
     <TimeStamp><when>2021-05-08T18:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>43.989868,56.321122</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -145,7 +145,7 @@
     <TimeStamp><when>2021-05-08T19:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>43.99747,56.330335</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -159,7 +159,7 @@
     <TimeStamp><when>2021-05-09T10:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.004537,56.323044</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
@@ -173,7 +173,7 @@
     <TimeStamp><when>2021-05-09T11:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.002056,56.321786</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
@@ -187,7 +187,7 @@
     <TimeStamp><when>2021-05-09T12:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>44.049256,56.323121</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
       </mwm:featureTypes>

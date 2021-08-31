@@ -4,56 +4,56 @@
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-blue.png</href>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-brown.png</href>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-green.png</href>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-orange.png</href>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -64,7 +64,7 @@
     <TimeStamp><when>2014-09-07T14:02:30Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>19.885702,45.177635</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -73,7 +73,7 @@
     <TimeStamp><when>2017-05-08T06:18:08Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>19.88186,45.243486</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -82,7 +82,7 @@
     <TimeStamp><when>2017-05-08T06:38:47Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>19.872161,45.252482</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -91,7 +91,7 @@
     <TimeStamp><when>2017-05-08T11:51:02Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.863272,45.251127</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -100,7 +100,7 @@
     <TimeStamp><when>2017-05-08T15:28:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.830275,45.264904</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -109,7 +109,7 @@
     <TimeStamp><when>2018-09-03T09:21:34Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>19.713404,45.104209</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -118,7 +118,7 @@
     <TimeStamp><when>2018-09-03T09:55:29Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>19.400435,43.951437</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -127,7 +127,7 @@
     <TimeStamp><when>2018-09-04T16:46:37Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>19.566644,43.984294</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -136,7 +136,7 @@
     <TimeStamp><when>2018-09-04T22:55:17Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.741441,43.911506</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -145,7 +145,7 @@
     <TimeStamp><when>2018-09-05T00:29:15Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.839309,43.853561</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -154,7 +154,7 @@
     <TimeStamp><when>2018-09-15T15:29:22Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>20.454401,44.810219</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -163,7 +163,7 @@
     <TimeStamp><when>2018-09-15T18:57:08Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>20.44986,44.823696</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -172,7 +172,7 @@
     <TimeStamp><when>2018-09-15T18:59:09Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>20.463859,44.817191</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -181,7 +181,7 @@
     <TimeStamp><when>2018-09-15T19:20:10Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>20.470753,44.805146</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -190,7 +190,7 @@
     <TimeStamp><when>2018-09-16T10:09:27Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.466418,44.816761</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -199,7 +199,7 @@
     <TimeStamp><when>2018-09-16T10:13:18Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.46597,44.817364</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -208,7 +208,7 @@
     <TimeStamp><when>2018-09-16T10:32:33Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.461257,44.817594</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -217,7 +217,7 @@
     <TimeStamp><when>2018-09-16T10:59:14Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.460501,44.81248</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -226,7 +226,7 @@
     <TimeStamp><when>2018-09-16T19:19:29Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>20.460129,44.822154</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -235,7 +235,7 @@
     <TimeStamp><when>2018-09-16T19:20:50Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>20.463558,44.816894</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>

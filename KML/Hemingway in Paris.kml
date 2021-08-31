@@ -4,56 +4,56 @@
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-blue.png</href>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-brown.png</href>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-green.png</href>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-orange.png</href>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -66,7 +66,7 @@
     <TimeStamp><when>2021-03-21T22:04:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.4002969,48.869532</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-residential</mwm:value>
       </mwm:featureTypes>
@@ -80,7 +80,7 @@
     <TimeStamp><when>2021-03-21T21:43:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3367137,48.871408</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-primary</mwm:value>
       </mwm:featureTypes>
@@ -94,7 +94,7 @@
     <TimeStamp><when>2021-03-21T21:22:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3409824,48.854663</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -108,7 +108,7 @@
     <TimeStamp><when>2021-03-21T21:01:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3386167,48.850531</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -122,7 +122,7 @@
     <TimeStamp><when>2021-03-21T20:40:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3287811,48.867901</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-hotel</mwm:value>
       </mwm:featureTypes>
@@ -138,7 +138,7 @@ In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (
     <TimeStamp><when>2021-03-21T20:29:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3275714,48.868816</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -153,7 +153,7 @@ In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (
     <TimeStamp><when>2021-03-21T20:08:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3075326,48.869159</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
       </mwm:featureTypes>
@@ -167,7 +167,7 @@ In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (
     <TimeStamp><when>2021-03-21T19:57:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.2846802,48.869122</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
       </mwm:featureTypes>
@@ -182,7 +182,7 @@ In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (
     <TimeStamp><when>2021-03-21T19:26:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3282205,48.865275</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-hotel</mwm:value>
       </mwm:featureTypes>
@@ -198,7 +198,7 @@ During the same year (1926) his first full-length novel «The Sun Also Rises» w
     <TimeStamp><when>2021-03-21T19:05:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3338612,48.849477</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -212,7 +212,7 @@ During the same year (1926) his first full-length novel «The Sun Also Rises» w
     <TimeStamp><when>2021-03-21T18:54:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3244654,48.836976</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -226,7 +226,7 @@ During the same year (1926) his first full-length novel «The Sun Also Rises» w
     <TimeStamp><when>2021-03-21T18:23:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3374097,48.839891</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-hotel</mwm:value>
       </mwm:featureTypes>
@@ -242,7 +242,7 @@ A biographer A. E. Hotchner quotes: «Hadley and Bumpy stayed in Shrumps and I 
     <TimeStamp><when>2021-03-21T18:02:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3348133,48.840475</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -257,7 +257,7 @@ A biographer A. E. Hotchner quotes: «Hadley and Bumpy stayed in Shrumps and I 
     <TimeStamp><when>2021-03-21T17:51:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3508369,48.837836</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -271,7 +271,7 @@ A biographer A. E. Hotchner quotes: «Hadley and Bumpy stayed in Shrumps and I 
     <TimeStamp><when>2021-03-21T17:20:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.2963827,48.875051</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -285,7 +285,7 @@ A biographer A. E. Hotchner quotes: «Hadley and Bumpy stayed in Shrumps and I 
     <TimeStamp><when>2021-03-21T17:09:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3210885,48.867239</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -300,7 +300,7 @@ A biographer A. E. Hotchner quotes: «Hadley and Bumpy stayed in Shrumps and I 
     <TimeStamp><when>2021-03-21T16:48:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3401251,48.84604</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-primary</mwm:value>
       </mwm:featureTypes>
@@ -315,7 +315,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
     <TimeStamp><when>2021-03-21T16:27:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3333891,48.840551</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -330,7 +330,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
     <TimeStamp><when>2021-03-21T16:06:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3321043,48.869194</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -345,7 +345,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
     <TimeStamp><when>2021-03-21T15:45:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3347463,48.840518</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -360,7 +360,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
     <TimeStamp><when>2021-03-21T15:24:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.326064,48.842839</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -375,7 +375,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
     <TimeStamp><when>2021-03-21T15:03:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3284431,48.841811</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -390,7 +390,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
     <TimeStamp><when>2021-03-21T14:42:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.328073,48.842267</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
@@ -405,7 +405,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
     <TimeStamp><when>2021-03-21T14:21:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3283841,48.842618</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
@@ -421,7 +421,7 @@ In our days it remains a fashionable place — Emmanuel Macron celebrating the r
     <TimeStamp><when>2021-03-21T14:04:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3292263,48.842345</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
@@ -436,7 +436,7 @@ In our days it remains a fashionable place — Emmanuel Macron celebrating the r
     <TimeStamp><when>2021-03-21T13:39:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3290305,48.841958</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
         <mwm:value>cuisine-seafood</mwm:value>
@@ -452,7 +452,7 @@ In our days it remains a fashionable place — Emmanuel Macron celebrating the r
     <TimeStamp><when>2021-03-21T13:38:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.33263,48.854144</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
@@ -467,7 +467,7 @@ In our days it remains a fashionable place — Emmanuel Macron celebrating the r
     <TimeStamp><when>2021-03-21T13:07:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3330645,48.85407</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
@@ -484,7 +484,7 @@ And the way back to his «office»: Brasserie Lipp → Rue Bonaparte → Rue Guy
     <TimeStamp><when>2021-03-21T12:46:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3324101,48.853752</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
@@ -501,7 +501,7 @@ Today, the tables in the bar are decorated with brass plates with the names of a
     <TimeStamp><when>2021-03-21T12:35:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.336074,48.840081</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
@@ -517,7 +517,7 @@ According to John Baxter it could be on the Boulevard des Capucines.</descriptio
     <TimeStamp><when>2021-03-21T12:04:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3357419,48.871792</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-pedestrian</mwm:value>
       </mwm:featureTypes>
@@ -532,7 +532,7 @@ The events that happened to Ralph Cheever Dunning, «a poet who smoked opium and
     <TimeStamp><when>2021-03-21T11:43:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3314499,48.842894</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -546,7 +546,7 @@ The events that happened to Ralph Cheever Dunning, «a poet who smoked opium and
     <TimeStamp><when>2021-03-21T11:32:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3311226,48.842394</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -561,7 +561,7 @@ Before Hemingways arrival Ezra Pound and his wife offered them to share their la
     <TimeStamp><when>2021-03-21T11:01:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3342742,48.840871</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -575,7 +575,7 @@ Before Hemingways arrival Ezra Pound and his wife offered them to share their la
     <TimeStamp><when>2021-03-21T10:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3053949,48.84206</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-park</mwm:value>
       </mwm:featureTypes>
@@ -590,7 +590,7 @@ Before Hemingways arrival Ezra Pound and his wife offered them to share their la
     <TimeStamp><when>2021-03-21T10:29:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3576845,48.852195</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -604,7 +604,7 @@ Before Hemingways arrival Ezra Pound and his wife offered them to share their la
     <TimeStamp><when>2021-03-21T10:08:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3386033,48.851188</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -619,7 +619,7 @@ In July 1942, French police, under Nazi orders, used the velodrome to hold 13000
     <TimeStamp><when>2021-03-21T09:47:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.2893982,48.853417</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-monument</mwm:value>
       </mwm:featureTypes>
@@ -633,7 +633,7 @@ In July 1942, French police, under Nazi orders, used the velodrome to hold 13000
     <TimeStamp><when>2021-03-21T09:26:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3375747,48.867973</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-park</mwm:value>
       </mwm:featureTypes>
@@ -648,7 +648,7 @@ In July 1942, French police, under Nazi orders, used the velodrome to hold 13000
     <TimeStamp><when>2021-03-21T09:05:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3357333,48.871581</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -664,7 +664,7 @@ After that they «had come out of the gateway through the Louvre and crossed the
     <TimeStamp><when>2021-03-21T08:44:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3340435,48.861633</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -678,7 +678,7 @@ After that they «had come out of the gateway through the Louvre and crossed the
     <TimeStamp><when>2021-03-21T08:23:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.2916915,48.872535</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
         <mwm:value>cuisine-seafood</mwm:value>
@@ -695,7 +695,7 @@ Some steeplechase races he prefered to watch from the stands.</description>
     <TimeStamp><when>2021-03-21T08:02:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.2572519,48.854451</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-sports_centre</mwm:value>
       </mwm:featureTypes>
@@ -710,7 +710,7 @@ Enghien is one of the oldest race tracks in France. Its special feature is the a
     <TimeStamp><when>2021-03-21T07:41:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.2888027,48.983369</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-sports_centre</mwm:value>
       </mwm:featureTypes>
@@ -725,7 +725,7 @@ Later, with Hadley, he took the train from this station to the suburbs to go to 
     <TimeStamp><when>2021-03-21T07:20:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3549728,48.8804</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>railway-station</mwm:value>
       </mwm:featureTypes>
@@ -740,7 +740,7 @@ Later, with Hadley, he took the train from this station to the suburbs to go to 
     <TimeStamp><when>2021-03-21T07:19:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3594897,48.877097</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>railway-station</mwm:value>
       </mwm:featureTypes>
@@ -756,7 +756,7 @@ This place is also associated with a bad story, when Ernest’s first manuscript
     <TimeStamp><when>2021-03-21T06:48:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3733486,48.844923</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-train_station</mwm:value>
       </mwm:featureTypes>
@@ -771,7 +771,7 @@ This place is also associated with a bad story, when Ernest’s first manuscript
     <TimeStamp><when>2021-03-21T06:27:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3402073,48.857404</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-park</mwm:value>
       </mwm:featureTypes>
@@ -786,7 +786,7 @@ This place is also associated with a bad story, when Ernest’s first manuscript
     <TimeStamp><when>2021-03-21T06:16:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3311494,48.858768</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-hotel</mwm:value>
       </mwm:featureTypes>
@@ -802,7 +802,7 @@ Also he walked along the embankments of the left bank when he finished his work,
     <TimeStamp><when>2021-03-21T05:45:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3432267,48.854275</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-primary</mwm:value>
       </mwm:featureTypes>
@@ -816,7 +816,7 @@ Also he walked along the embankments of the left bank when he finished his work,
     <TimeStamp><when>2021-03-21T05:24:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3549138,48.84983</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
         <mwm:value>cuisine-french</mwm:value>
@@ -832,7 +832,7 @@ Also he walked along the embankments of the left bank when he finished his work,
     <TimeStamp><when>2021-03-21T05:13:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3317985,48.856345</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
@@ -847,7 +847,7 @@ Also he walked along the embankments of the left bank when he finished his work,
     <TimeStamp><when>2021-03-21T04:42:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3471113,48.852578</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-books</mwm:value>
       </mwm:featureTypes>
@@ -862,7 +862,7 @@ Also he walked along the embankments of the left bank when he finished his work,
     <TimeStamp><when>2021-03-21T04:21:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3386087,48.850921</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -876,7 +876,7 @@ Also he walked along the embankments of the left bank when he finished his work,
     <TimeStamp><when>2021-03-21T04:10:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3293282,48.846932</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -890,7 +890,7 @@ Also he walked along the embankments of the left bank when he finished his work,
     <TimeStamp><when>2021-03-21T03:49:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3340167,48.848597</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
         <mwm:value>building</mwm:value>
@@ -906,7 +906,7 @@ Also he walked along the embankments of the left bank when he finished his work,
     <TimeStamp><when>2021-03-21T03:28:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.336365,48.846714</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-park</mwm:value>
       </mwm:featureTypes>
@@ -922,7 +922,7 @@ The description of the return way is not so detailed.</description>
     <TimeStamp><when>2021-03-21T03:07:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3437867,48.853332</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-pedestrian-area</mwm:value>
       </mwm:featureTypes>
@@ -937,7 +937,7 @@ According to Hemingway’s biographer Michael Reynolds, there is no evidence tha
     <TimeStamp><when>2021-03-21T02:46:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3492168,48.845483</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -951,7 +951,7 @@ According to Hemingway’s biographer Michael Reynolds, there is no evidence tha
     <TimeStamp><when>2021-03-21T02:25:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3494931,48.844646</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -967,7 +967,7 @@ At the ground floor of the same building, there was a workmen’s dance hall, or
     <TimeStamp><when>2021-03-21T02:04:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3496138,48.84486</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-address</mwm:value>
       </mwm:featureTypes>
@@ -981,7 +981,7 @@ At the ground floor of the same building, there was a workmen’s dance hall, or
     <TimeStamp><when>2021-03-21T01:43:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3338236,48.855462</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
@@ -996,7 +996,7 @@ At the ground floor of the same building, there was a workmen’s dance hall, or
     <TimeStamp><when>2021-03-21T01:20:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3313292,48.870695</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
         <mwm:value>cuisine-french</mwm:value>
@@ -1012,7 +1012,7 @@ At the ground floor of the same building, there was a workmen’s dance hall, or
     <TimeStamp><when>2021-03-21T01:01:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3332925,48.855856</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-hotel</mwm:value>
       </mwm:featureTypes>

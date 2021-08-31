@@ -4,56 +4,56 @@
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-blue.png</href>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-brown.png</href>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-green.png</href>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-orange.png</href>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -64,7 +64,7 @@
     <TimeStamp><when>2017-10-08T06:39:01Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>32.406952,34.753659</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -75,7 +75,7 @@ Bus to Aphrodite’s Stone: 630 ~ 45 min</description>
     <TimeStamp><when>2017-10-08T06:47:31Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>32.411429,34.756649</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -84,7 +84,7 @@ Bus to Aphrodite’s Stone: 630 ~ 45 min</description>
     <TimeStamp><when>2017-10-08T07:17:38Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>32.627071,34.66409</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -95,7 +95,7 @@ Bus to Limassol ~ 60 min</description>
     <TimeStamp><when>2017-10-14T04:38:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>32.422673,34.778424</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -105,7 +105,7 @@ Bus to Limassol ~ 60 min</description>
     <TimeStamp><when>2017-10-14T14:11:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>33.03718,34.678541</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -114,7 +114,7 @@ Bus to Limassol ~ 60 min</description>
     <TimeStamp><when>2017-10-14T16:44:14Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>33.041614,34.672252</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -124,7 +124,7 @@ Bus to Limassol ~ 60 min</description>
     <TimeStamp><when>2017-10-14T16:48:46Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>32.425747,35.033756</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
@@ -133,7 +133,7 @@ Bus to Limassol ~ 60 min</description>
     <TimeStamp><when>2017-10-14T18:22:56Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>32.343854,35.05636</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>

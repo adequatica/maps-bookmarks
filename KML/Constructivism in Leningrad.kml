@@ -4,56 +4,56 @@
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-blue.png</href>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-brown.png</href>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-green.png</href>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-orange.png</href>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -66,7 +66,7 @@
     <TimeStamp><when>2020-07-18T07:30:52Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.271591,59.949511</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -77,7 +77,7 @@
     <TimeStamp><when>2020-07-18T08:14:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.254325,59.933703</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -88,7 +88,7 @@
     <TimeStamp><when>2020-07-18T11:08:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.260157,59.932034</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -99,7 +99,7 @@
     <TimeStamp><when>2020-07-18T12:21:55Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.264903,59.928338</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -111,7 +111,7 @@
     <TimeStamp><when>2020-07-18T13:15:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.275821,59.90045</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -122,7 +122,7 @@
     <TimeStamp><when>2020-07-18T13:58:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.272613,59.899881</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -133,7 +133,7 @@
     <TimeStamp><when>2020-07-18T14:10:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.277211,59.900307</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -144,7 +144,7 @@
     <TimeStamp><when>2020-07-18T14:56:41Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.278933,59.89857</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -155,7 +155,7 @@
     <TimeStamp><when>2020-07-18T15:10:03Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.278753,59.89456</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -166,7 +166,7 @@
     <TimeStamp><when>2020-07-18T15:15:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.273248,59.888675</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -177,7 +177,7 @@
     <TimeStamp><when>2020-07-18T16:14:50Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.269737,59.889252</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -188,7 +188,7 @@
     <TimeStamp><when>2020-07-18T18:09:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.26854,59.893848</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -199,7 +199,7 @@
     <TimeStamp><when>2020-07-18T18:56:45Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.271455,59.895071</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -210,7 +210,7 @@
     <TimeStamp><when>2020-07-18T18:59:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.274655,59.897456</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -222,7 +222,7 @@
     <TimeStamp><when>2020-07-19T08:05:38Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.281789,59.961198</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -233,7 +233,7 @@
     <TimeStamp><when>2020-07-19T08:06:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.284339,59.965893</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -244,7 +244,7 @@
     <TimeStamp><when>2020-07-19T08:21:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.30945,59.960492</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -255,7 +255,7 @@
     <TimeStamp><when>2020-07-19T09:09:13Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.323008,59.956272</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -266,7 +266,7 @@
     <TimeStamp><when>2020-07-19T10:44:53Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.32809,59.952641</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -277,7 +277,7 @@
     <TimeStamp><when>2020-07-19T11:04:28Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.312485,59.968668</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -288,7 +288,7 @@
     <TimeStamp><when>2020-07-19T11:14:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.314762,59.969398</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -299,7 +299,7 @@
     <TimeStamp><when>2020-07-19T12:13:12Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.307508,59.971652</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -310,7 +310,7 @@
     <TimeStamp><when>2020-07-19T13:45:24Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.309335,59.966971</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -322,7 +322,7 @@
     <TimeStamp><when>2020-07-19T14:05:54Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.347202,59.98633</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -333,7 +333,7 @@
     <TimeStamp><when>2020-07-19T14:22:17Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.349458,59.986941</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -344,7 +344,7 @@
     <TimeStamp><when>2020-07-19T15:05:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342267,59.986167</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -355,7 +355,7 @@
     <TimeStamp><when>2020-07-19T15:20:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342991,59.984243</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -366,7 +366,7 @@
     <TimeStamp><when>2020-07-19T15:29:43Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.343412,59.982844</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -377,7 +377,7 @@
     <TimeStamp><when>2020-07-19T15:39:26Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.344111,59.981559</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -388,7 +388,7 @@
     <TimeStamp><when>2020-07-19T15:49:06Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.345073,59.979686</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -399,7 +399,7 @@
     <TimeStamp><when>2020-07-19T16:16:27Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.345042,59.972073</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -410,7 +410,7 @@
     <TimeStamp><when>2020-07-19T18:03:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342521,59.969702</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -422,7 +422,7 @@
     <TimeStamp><when>2020-07-20T07:53:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.351472,59.938756</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -433,7 +433,7 @@
     <TimeStamp><when>2020-07-20T11:59:14Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.349548,59.946801</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -444,7 +444,7 @@
     <TimeStamp><when>2020-07-20T19:17:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.35053,59.948502</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
@@ -455,7 +455,7 @@
     <TimeStamp><when>2020-07-20T20:12:18Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.344827,59.931076</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>

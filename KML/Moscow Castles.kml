@@ -4,56 +4,56 @@
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-blue.png</href>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-brown.png</href>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-green.png</href>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-orange.png</href>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -66,7 +66,7 @@
     <TimeStamp><when>2020-02-18T01:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.64627,55.758317</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-archaeological_site</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -83,7 +83,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
     <TimeStamp><when>2020-02-18T02:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.750355,55.794307</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -98,7 +98,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
     <TimeStamp><when>2020-02-18T03:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.644824,55.745792</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>building</mwm:value>
@@ -115,7 +115,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
     <TimeStamp><when>2020-02-18T04:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.629822,55.765564</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -131,7 +131,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
     <TimeStamp><when>2020-02-18T05:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.719147,55.669246</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -148,7 +148,7 @@ The architecture ensemble has no fortification value, but some decorative bridge
     <TimeStamp><when>2020-02-18T05:20:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.683089,55.612998</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -163,7 +163,7 @@ The architecture ensemble has no fortification value, but some decorative bridge
     <TimeStamp><when>2020-02-18T05:40:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.469383,55.815718</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -179,7 +179,7 @@ Krutitsy was established as an ecclesiastical estate of Russian Orthodox Church 
     <TimeStamp><when>2020-02-18T06:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.658672,55.727965</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -195,7 +195,7 @@ In the 16th century the number of unfortified royal estates appeared around Mosc
     <TimeStamp><when>2020-02-18T07:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.665768,55.669333</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -210,7 +210,7 @@ In the 16th century the number of unfortified royal estates appeared around Mosc
     <TimeStamp><when>2020-02-18T08:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.670652,55.738148</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -227,7 +227,7 @@ In 1530 the monastery was moved to its existing place and became a convent. In 1
     <TimeStamp><when>2020-02-18T09:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.639984,55.754467</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -244,7 +244,7 @@ For the first time the wooden fence was replaced by stone one in 1671. For the s
     <TimeStamp><when>2020-02-18T10:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.624726,55.765679</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -261,7 +261,7 @@ The convent was completely burned down a few times: in 1514, 1547 and during Tim
     <TimeStamp><when>2020-02-18T11:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.599708,55.739751</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -278,7 +278,7 @@ It was supposed to defend southern approaches to the Moscow Kremlin, but soon lo
     <TimeStamp><when>2020-02-18T12:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.602065,55.71452</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -295,7 +295,7 @@ The contemporary walls and towers were erected during the reign of Boris Godunov
     <TimeStamp><when>2020-02-18T13:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.555878,55.726043</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -312,7 +312,7 @@ The current place of the monastery was chosen by Ivan IV to protect south-east a
     <TimeStamp><when>2020-02-18T13:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.656613,55.73175</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -329,7 +329,7 @@ The monastery was established by monk Feodor, a nephew of Sergius of Radonezh. I
     <TimeStamp><when>2020-02-18T14:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.656749,55.713792</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -346,7 +346,7 @@ Due to dangerous location the monastery has been ransacked a number of times: in
     <TimeStamp><when>2020-02-18T15:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.670544,55.748834</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -363,7 +363,7 @@ This monastery defended Moscow from the north. In 1680–1690 it was completely 
     <TimeStamp><when>2020-02-18T16:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.615362,55.7669</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -380,7 +380,7 @@ After foundation the place was changed a few times according to advantageous str
     <TimeStamp><when>2020-02-18T17:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.629727,55.710802</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -396,7 +396,7 @@ After foundation the place was changed a few times according to advantageous str
     <TimeStamp><when>2020-02-18T18:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.620534,55.756795</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -412,7 +412,7 @@ After foundation the place was changed a few times according to advantageous str
     <TimeStamp><when>2020-02-18T19:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.622513,55.758831</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -428,7 +428,7 @@ After foundation the place was changed a few times according to advantageous str
     <TimeStamp><when>2020-02-18T20:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.632478,55.751212</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -443,7 +443,7 @@ After foundation the place was changed a few times according to advantageous str
     <TimeStamp><when>2020-02-18T21:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.615982,55.749423</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-castle-defensive</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>

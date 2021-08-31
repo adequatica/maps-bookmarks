@@ -4,56 +4,56 @@
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-red.png</href>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-blue">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-blue.png</href>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-purple">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-purple.png</href>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-yellow">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-pink">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-pink.png</href>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-brown.png</href>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-green.png</href>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>http://maps.me/placemarks/placemark-orange.png</href>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -65,7 +65,7 @@
     <TimeStamp><when>2019-12-29T05:49:55Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.465225,41.836815</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
         <mwm:value>amenity-arts_centre</mwm:value>
@@ -81,7 +81,7 @@
     <TimeStamp><when>2019-12-29T06:27:35Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.453713,41.902161</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -96,7 +96,7 @@
     <TimeStamp><when>2019-12-29T08:20:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.453836,41.90688</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>entrance</mwm:value>
       </mwm:featureTypes>
@@ -109,7 +109,7 @@
     <TimeStamp><when>2019-12-29T08:20:53Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.466331,41.903076</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-castle-defensive</mwm:value>
         <mwm:value>tourism-museum</mwm:value>
@@ -124,7 +124,7 @@
     <TimeStamp><when>2019-12-29T09:38:43Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>12.477799,41.904824</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-clothes</mwm:value>
       </mwm:featureTypes>
@@ -139,7 +139,7 @@
     <TimeStamp><when>2019-12-29T09:41:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.480505,41.905439</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
       </mwm:featureTypes>
@@ -152,7 +152,7 @@
     <TimeStamp><when>2019-12-29T10:10:29Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.482884,41.906049</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
@@ -166,7 +166,7 @@
     <TimeStamp><when>2019-12-29T10:22:35Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.474862,41.929096</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>landuse-recreation_ground</mwm:value>
       </mwm:featureTypes>
@@ -180,7 +180,7 @@
     <TimeStamp><when>2019-12-29T11:21:10Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.466311,41.928882</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
         <mwm:value>building</mwm:value>
@@ -195,7 +195,7 @@
     <TimeStamp><when>2019-12-30T07:55:51Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.492624,41.890373</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>
         <mwm:value>historic-archaeological_site</mwm:value>
@@ -210,7 +210,7 @@
     <TimeStamp><when>2019-12-30T08:34:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.490667,41.889769</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-monument</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -225,7 +225,7 @@
     <TimeStamp><when>2019-12-30T08:54:03Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.488577,41.890669</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-monument</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -240,7 +240,7 @@
     <TimeStamp><when>2019-12-30T09:04:26Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.484739,41.892834</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-monument</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -255,7 +255,7 @@
     <TimeStamp><when>2019-12-30T09:13:57Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.483718,41.893268</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-artwork-statue</mwm:value>
       </mwm:featureTypes>
@@ -269,7 +269,7 @@
     <TimeStamp><when>2019-12-30T09:57:38Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.484268,41.895822</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-monument</mwm:value>
         <mwm:value>tourism-artwork-sculpture</mwm:value>
@@ -284,7 +284,7 @@
     <TimeStamp><when>2019-12-30T10:13:13Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.479989,41.900848</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-monument</mwm:value>
         <mwm:value>tourism-artwork-sculpture</mwm:value>
@@ -299,7 +299,7 @@
     <TimeStamp><when>2019-12-31T07:57:47Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.48328,41.900971</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fountain</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -314,7 +314,7 @@
     <TimeStamp><when>2019-12-31T08:34:09Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.476833,41.898626</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-monument</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -330,7 +330,7 @@
     <TimeStamp><when>2019-12-31T10:16:40Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.470759,41.892351</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-pedestrian-bridge</mwm:value>
       </mwm:featureTypes>
@@ -343,7 +343,7 @@
     <TimeStamp><when>2019-12-31T10:33:12Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>12.468564,41.891417</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
         <mwm:value>cuisine-pizza</mwm:value>
@@ -358,7 +358,7 @@
     <TimeStamp><when>2019-12-31T10:56:04Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>12.469178,41.891729</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
@@ -373,7 +373,7 @@
     <TimeStamp><when>2019-12-31T14:02:47Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>12.498575,41.896688</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
         <mwm:value>cuisine-italian</mwm:value>
@@ -388,7 +388,7 @@
     <TimeStamp><when>2019-12-31T16:07:41Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.482049,41.899812</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-pedestrian-tunnel</mwm:value>
       </mwm:featureTypes>
@@ -402,7 +402,7 @@
     <TimeStamp><when>2020-01-02T05:43:14Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.519503,41.853106</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-residential</mwm:value>
       </mwm:featureTypes>
@@ -416,7 +416,7 @@
     <TimeStamp><when>2020-01-02T14:07:34Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.510731,41.858881</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-archaeological_site</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -431,7 +431,7 @@
     <TimeStamp><when>2020-01-02T15:42:39Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.48085,41.876438</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-tomb</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -446,7 +446,7 @@
     <TimeStamp><when>2020-01-02T16:18:41Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.49762,41.889322</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-place_of_worship-christian</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
@@ -461,7 +461,7 @@
     <TimeStamp><when>2020-01-02T19:17:43Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>12.501723,41.901177</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://maps.me">
+    <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>railway-station</mwm:value>
         <mwm:value>building-train_station</mwm:value>
