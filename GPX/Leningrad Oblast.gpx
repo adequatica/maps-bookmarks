@@ -133,17 +133,17 @@
   </extensions>
   <type>72</type>
 </wpt>
-<wpt lat="59.848668" lon="30.321213">
-  <name>Bus №39 to Pulkovo</name>
-  <time>2020-07-28T07:58:20Z</time>
+<wpt lat="59.997434" lon="32.297998">
+  <name>Ladoga Fortress</name>
+  <time>2021-08-30T09:54:07Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
-  <type>73</type>
+  <type>72</type>
 </wpt>
 <wpt lat="60.053327" lon="30.33574">
-  <name>Taxi №407 to Kronstadt</name>
-  <time>2021-08-30T08:36:57Z</time>
+  <name>Taxi № 407 to Kronstadt</name>
+  <time>2021-08-31T08:36:57Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>

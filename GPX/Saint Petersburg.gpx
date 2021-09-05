@@ -444,7 +444,7 @@
 </wpt>
 <wpt lat="59.936018" lon="30.347906">
   <name>Turbo Shawarma</name>
-  <time>2020-07-27T13:34:44Z</time>
+  <time>2020-07-26T13:34:44Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
@@ -452,10 +452,18 @@
 </wpt>
 <wpt lat="59.938125" lon="30.347231">
   <name>Forno Bravo</name>
-  <time>2021-03-03T08:59:26Z</time>
+  <time>2020-07-27T18:59:26Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
   <type>27</type>
+</wpt>
+<wpt lat="59.853472" lon="30.322758">
+  <name>Bus № 39 to Pulkovo</name>
+  <time>2020-07-28T07:58:20Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
 </wpt>
 </gpx>

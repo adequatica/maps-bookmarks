@@ -288,22 +288,23 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Bus №39 to Pulkovo</name>
-    <TimeStamp><when>2020-07-28T07:58:20Z</when></TimeStamp>
+    <name>Ladoga Fortress</name>
+    <TimeStamp><when>2021-08-30T09:54:07Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.321213,59.848668</coordinates></Point>
+    <Point><coordinates>32.297998,59.997434</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>highway-bus_stop</mwm:value>
+        <mwm:value>tourism-attraction</mwm:value>
+        <mwm:value>historic-castle-defensive</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Transport</mwm:icon>
+      <mwm:icon>Museum</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Taxi №407 to Kronstadt</name>
-    <TimeStamp><when>2021-08-30T08:36:57Z</when></TimeStamp>
+    <name>Taxi № 407 to Kronstadt</name>
+    <TimeStamp><when>2021-08-31T08:36:57Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.33574,60.053327</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">

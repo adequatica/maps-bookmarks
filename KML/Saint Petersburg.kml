@@ -166,10 +166,8 @@
     <Point><coordinates>30.268957,59.927821</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-      <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
         <mwm:value>historic-ship</mwm:value>
-      </mwm:featureTypes>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Museum</mwm:icon>
@@ -823,7 +821,7 @@
   </Placemark>
   <Placemark>
     <name>Turbo Shawarma</name>
-    <TimeStamp><when>2020-07-27T13:34:44Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-26T13:34:44Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.347906,59.936018</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -837,7 +835,7 @@
   </Placemark>
   <Placemark>
     <name>Forno Bravo</name>
-    <TimeStamp><when>2021-03-03T08:59:26Z</when></TimeStamp>
+    <TimeStamp><when>2020-07-27T18:59:26Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>30.347231,59.938125</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -847,6 +845,20 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bus № 39 to Pulkovo</name>
+    <TimeStamp><when>2020-07-28T07:58:20Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.322758,59.853472</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
