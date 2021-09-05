@@ -32,7 +32,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Dostoevsky in Saint Petersburg ✻ — 76
 1. Dublin — 20
 1. France — 6
-1. Hemingway in Paris ✻ — 64
+1. Hemingway in Paris ✻ — 66
 1. Hemingway in Spain ✻ — 20
 1. Istanbul — 14
 1. Kaliningrad — 12
@@ -67,7 +67,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Zurich — 6
 1. Достоевский в Петербурге ✻ — 76
 1. Места княза Кропоткина ✻ — 10
-1. Хемингуэй в Париже ✻ — 64
+1. Хемингуэй в Париже ✻ — 66
 
 ## ✻ References
 

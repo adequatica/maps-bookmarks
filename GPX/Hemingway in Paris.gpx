@@ -4,26 +4,26 @@
   <name>Hemingway in Paris</name>
 </metadata>
 <wpt lat="48.869532" lon="2.4002969">
-  <name>64. Stade Anastasie (somewhere in the 20th arrondissement, now does not exist)</name>
-  <time>2021-03-21T22:04:00Z</time>
+  <name>66. Stade Anastasie (somewhere in the 20th arrondissement, now does not exist)</name>
+  <time>2021-03-21T22:46:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>In the same chapter about boxing, Hemingway reminisces another mystical place, the Stade Anastasie, which «had turned out to be a very strange fight club». Despite the relatively detailed description, the location is unable to be marked on the map — somewhere in the 20th arrondissement of Paris.</desc>
+  <desc>In the same chapter about boxing, Hemingway reminisces about another mystical place, the Stade Anastasie, which «had turned out to be a very strange fight club». Despite the relatively detailed description, the location is unable to be marked on the map — somewhere in the 20th arrondissement of Paris.</desc>
 </wpt>
 <wpt lat="48.871408" lon="2.3367137">
-  <name>63. Café Napolitain (somewhere on the Boulevard des Italiens, probably did not exist)</name>
-  <time>2021-03-21T21:43:00Z</time>
+  <name>65. Café Napolitain (somewhere on the Boulevard des Italiens, probably did not exist)</name>
+  <time>2021-03-21T22:25:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>I did not find any evidence of the existence of this cafe where Hemingway met with canadian boxer Larry Gains. It could be the same fiction as a writing room.</desc>
+  <desc>I did not find any evidence of the existence of this cafe where Hemingway met with Canadian boxer Larry Gains. It could be the same fiction as a writing room.</desc>
 </wpt>
 <wpt lat="48.854663" lon="2.3409824">
-  <name>62. Picasso’s studio</name>
-  <time>2021-03-21T21:22:00Z</time>
+  <name>64. Picasso’s studio</name>
+  <time>2021-03-21T22:04:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -31,8 +31,8 @@
   <desc>Just after Paris was liberated, Hemingway went to Picasso’s studio. But when he did not find Picasso in place, he left a case of hand grenades as a gift.</desc>
 </wpt>
 <wpt lat="48.850531" lon="2.3386167">
-  <name>61. Sylvia Beach’s apartment</name>
-  <time>2021-03-21T21:01:00Z</time>
+  <name>63. Sylvia Beach’s apartment</name>
+  <time>2021-03-21T21:43:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -40,8 +40,8 @@
   <desc>Another address that was liberated by Hemingway in 1944. Sylvia Beach and Adrienne Monnier shared the fourth-floor apartment here.</desc>
 </wpt>
 <wpt lat="48.867901" lon="2.3287811">
-  <name>60. Hôtel Ritz Paris</name>
-  <time>2021-03-21T20:40:00Z</time>
+  <name>62. Hôtel Ritz Paris</name>
+  <time>2021-03-21T21:22:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -49,8 +49,8 @@
   <desc>The hotel served as a storeroom for Hemingway’s stuff. In the introduction to the restored edition of «A Moveable Feast» Seán Hemingway writes: «In November 1956, the management of the Ritz Hotel in Paris convinced Ernest Hemingway to repossess two small steamer trunks that he stored there in March 1928. The trunks contained forgotten remnants from his first years in Paris.»</desc>
 </wpt>
 <wpt lat="48.868816" lon="2.3275714">
-  <name>59. Bar Hemingway</name>
-  <time>2021-03-21T20:29:00Z</time>
+  <name>61. Bar Hemingway</name>
+  <time>2021-03-21T21:01:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -59,17 +59,26 @@
 In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (he stayed in Ritz in the mid-1950s). The easiest way inside is via the entrance on the Rue Cambon, rather than having to go through the entire hotel from the main entrance.</desc>
 </wpt>
 <wpt lat="48.869159" lon="2.3075326">
-  <name>58. Hôtel de la Païva (Travellers Club)</name>
-  <time>2021-03-21T20:08:00Z</time>
+  <name>60. Hôtel de la Païva (Travellers Club)</name>
+  <time>2021-03-21T20:40:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>In August 25, 1944, Hemingway and the crew with a colonel David Bruce, entered occupied Paris. After he broke through to the Champs-Élysées, he visited the «Travellers Club» and ordered a bottle of champagne.</desc>
+  <desc>On August 25, 1944, Hemingway and the crew with a colonel, David Bruce, entered occupied Paris. After he broke through to the Champs-Élysées, he visited the «Travellers Club» and ordered a bottle of champagne.</desc>
+</wpt>
+<wpt lat="48.869159" lon="2.3075326">
+  <name>59. Hotel Paris-Dinard (closed a long time ago)</name>
+  <time>2021-03-21T20:19:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>On March 10, 1937, Ernest Hemingway, matador Sidney Franklin and poet Evan Shipman, stayed here before they went to the Spanish Civil War as journalists.</desc>
 </wpt>
 <wpt lat="48.869122" lon="2.2846802">
-  <name>57. Saint-Honoré-d’Eylau Church</name>
-  <time>2021-03-21T19:57:00Z</time>
+  <name>58. Saint-Honoré-d’Eylau Church</name>
+  <time>2021-03-21T20:08:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -77,17 +86,17 @@ In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (
   <desc>Hemingway and Hadley divorced in January 1927. And in May he married Pauline. She insisted on holding a Catholic ceremony at the church of Saint-Honoré-d’Eylau.</desc>
 </wpt>
 <wpt lat="48.865275" lon="2.3282205">
-  <name>56. Le Meurice</name>
-  <time>2021-03-21T19:26:00Z</time>
+  <name>57. Le Meurice</name>
+  <time>2021-03-21T19:57:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Before leaving Paris in 1926, Ernest and Pauline spent the last night at the luxury hotel Le Meurice with the view on the Tuileries Garden.</desc>
+  <desc>Before leaving Paris in 1926, Ernest and Pauline spent the last night at the luxury hotel Le Meurice with the view of the Tuileries Garden.</desc>
 </wpt>
 <wpt lat="48.849477" lon="2.3338612">
-  <name>55. Pauline’s apartment</name>
-  <time>2021-03-21T19:05:00Z</time>
+  <name>56. Pauline’s apartment</name>
+  <time>2021-03-21T19:26:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -96,8 +105,8 @@ In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (
 During the same year (1926) his first full-length novel «The Sun Also Rises» was published in the United States by Scribner’s. A year later, the novel will be published in London under the title «Fiesta».</desc>
 </wpt>
 <wpt lat="48.836976" lon="2.3244654">
-  <name>54. Gerald Murphy’s studio (old building no longer exists)</name>
-  <time>2021-03-21T18:54:00Z</time>
+  <name>55. Gerald Murphy’s studio (old building no longer exists)</name>
+  <time>2021-03-21T19:05:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -105,8 +114,8 @@ During the same year (1926) his first full-length novel «The Sun Also Rises» w
   <desc>As soon as Ernest and Hadley separated their residences, a painter Gerald Murphy offered Hemingway to use his studio as a living place.</desc>
 </wpt>
 <wpt lat="48.839891" lon="2.3374097">
-  <name>53. Hôtel Beauvoir</name>
-  <time>2021-03-21T18:23:00Z</time>
+  <name>54. Hôtel Beauvoir</name>
+  <time>2021-03-21T18:54:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
@@ -114,14 +123,23 @@ During the same year (1926) his first full-length novel «The Sun Also Rises» w
   <desc>Ernest’s marriage with Hadley began to break down while he was working on «The Sun Also Rises». She moved out of their sawmill apartment and found a room at the Hôtel Beauvoir, across the Avenue from Closerie des Lilas.</desc>
 </wpt>
 <wpt lat="48.840475" lon="2.3348133">
-  <name>52. Vénétia Hôtel (closed a long time ago)</name>
-  <time>2021-03-21T18:02:00Z</time>
+  <name>53. Vénétia Hôtel (closed a long time ago)</name>
+  <time>2021-03-21T18:23:00Z</time>
   <extensions>
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
   <desc>In the winter 1925–1926 Hemingways went to the Schruns for the second time, but that Christmas they were joined by Pauline Pfeiffer. Ernest returned with Pfeiffer to Paris, leaving Hadley with Bumby in Austria. 
 A biographer A. E. Hotchner quotes: «Hadley and Bumpy stayed in Shrumps and I said I’d return as soon as I got back from New York. I checked into the Hôtel Vénétia in Montparnasse. Pauline showed up the minute I stepped foot in Paris. Those four days she clung to me like ivy on a wall, taking me to nightclubs, Michelin restaurants, the Paris Opéra.»</desc>
+</wpt>
+<wpt lat="48.859919" lon="2.3265253">
+  <name>52. Musée d’Orsay</name>
+  <time>2021-03-21T18:02:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>At the beginning of the last century it was a railway station Gare d’Orsay. From here trains went south on which Hemingway and his characters got to Spain.</desc>
 </wpt>
 <wpt lat="48.837836" lon="2.3508369">
   <name>51. Femme de ménage’s apartment</name>
@@ -194,7 +212,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Falstaff and Dingo were favorite drinking spots of Hemingway, because they were less trendy bars than others Montparnasse cafes.</desc>
+  <desc>Falstaff and Dingo were favorite drinking spots of Hemingway, because they were less trendy bars than other Montparnasse cafes.</desc>
 </wpt>
 <wpt lat="48.841811" lon="2.3284431">
   <name>43. Dingo Bar (now occupied by Auberge de Venise)</name>
@@ -221,7 +239,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Another significant cafe on Montparnasse.</desc>
+  <desc>Another significant cafe in Montparnasse.</desc>
 </wpt>
 <wpt lat="48.842345" lon="2.3292263">
   <name>40. La Rôtonde</name>
@@ -231,7 +249,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
   </extensions>
   <type>73</type>
   <desc>Along with the Dome the «Café de la Rotonde» was an extremely popular café among writers and painters (especially Pablo Picasso). Of course it was criticized by Hemingway for its public.
-In our days it remains a fashionable place — Emmanuel Macron celebrating the results of the first round of the 2017 French presidential election at the Rôtonde.</desc>
+These days it remains a fashionable place — Emmanuel Macron celebrating the results of the first round of the 2017 French presidential election at the Rôtonde.</desc>
 </wpt>
 <wpt lat="48.841958" lon="2.3290305">
   <name>39. Le Dôme (today it is a top fish restaurant)</name>
@@ -267,7 +285,7 @@ In our days it remains a fashionable place — Emmanuel Macron celebrating the r
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Lipp’s brasserie was a favorite Hemingway’s lunch spot. They still serve his preferred dish: cervelas sausage and potato salad (pommes a l’huile). 
+  <desc>Lipp’s brasserie was Hemingway's favorite lunch spot. They still serve his preferred dish: cervelas sausage and potato salad (pommes a l’huile). 
 Hemingway describes his way to brasserie in great detail in the «Hunger Was Good Discipline»: starting from Avenue de l’Observatoire → Jardin du Luxembourg → narrow Rue Férou → Place Saint-Sulpice «were still no restaurants, only the quiet square with its benches and trees» → Rue de l’Odéon → Brasserie Lipp. 
 And the way back to his «office»: Brasserie Lipp → Rue Bonaparte → Rue Guynemer → Rue d’Assas → Rue Notre Dame des Champs → La Closerie Des Lilas.</desc>
 </wpt>
@@ -319,7 +337,7 @@ The events that happened to Ralph Cheever Dunning, «a poet who smoked opium and
   </extensions>
   <type>73</type>
   <desc>At the end 1923 Hemingways went back to America for the birth of his first child. As soon as Mr. Bumby was strong enough for the transatlantic voyage, they returned to Paris on February 8, 1924. 
-Before Hemingways arrival Ezra Pound and his wife offered them to share their large ground-floor apartment at 70 rue Notre-Dame-des-Champs. Ernest accepted, but Hadley found the Pounds’ place dark and claustrophobic. For their new home they chose a second floor apartment at No. 113 of the same street. A month’s rent was 650 francs (almost three times what they had paid on Cardinal-Lemoine), the apartment had no electricity and there was a sawmill workshop on the ground floor. But at the same time the space was better, the location was closer to Gertude Stein’s salon, Luxembourg Gardens and a few steps from an unspoiled café called La Closerie de Lilas.</desc>
+Before Hemingways arrival Ezra Pound and his wife offered to share their large ground-floor apartment at 70 rue Notre-Dame-des-Champs. Ernest accepted, but Hadley found the Pounds’ place dark and claustrophobic. For their new home they chose a second floor apartment at № 113 of the same street. A month’s rent was 650 francs (almost three times what they had paid on Cardinal-Lemoine), the apartment had no electricity and there was a sawmill workshop on the ground floor. But at the same time the space was better, the location was closer to Gertude Stein’s salon, Luxembourg Gardens and a few steps from an unspoiled café called La Closerie de Lilas.</desc>
 </wpt>
 <wpt lat="48.84206" lon="2.3053949">
   <name>30. André Masson studio (now is a square with a Miró sculpture)</name>
@@ -337,7 +355,8 @@ Before Hemingways arrival Ezra Pound and his wife offered them to share their la
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Hemingway’s newsman friend, Bill Bird, purchased an ancient Mathieu hand press and started a printing shop in 1922. Later he provided office accommodation to Ford Madox Ford for the Transatlantic Review. Ernest was often there, but he did not like Ford for personal and financial reasons.</desc>
+  <desc>Hemingway’s newsman friend, Bill Bird, purchased an ancient Mathieu hand press and started a printing shop in 1922. Later he provided office accommodation to Ford Madox Ford for the Transatlantic Review. Ernest was often there, but he did not like Ford for personal and financial reasons. 
+  On the same island there was a Madame Lecomte’s restaurant. Nothing is known about it, except that Jake Barnes and Bill Gorton from «The Sun Also Rises» had dinner there.</desc>
 </wpt>
 <wpt lat="48.851188" lon="2.3386033">
   <name>28. Robert McAlmon’s Contact Publishing Company</name>
@@ -365,7 +384,7 @@ In July 1942, French police, under Nazi orders, used the velodrome to hold 13000
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>During the lunch in a cafe in the square, Ernest’s friend Mike Ward discourages him from betting at the races.</desc>
+  <desc>During lunch in a cafe in the square, Ernest’s friend Mike Ward discourages him from betting at the races.</desc>
 </wpt>
 <wpt lat="48.871581" lon="2.3357333">
   <name>25. Guaranty Trust Company (no longer exists)</name>
@@ -383,7 +402,7 @@ In July 1942, French police, under Nazi orders, used the velodrome to hold 13000
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Place du Carrousel was the last square in Ernest and Hadley’s walk through the evening city after a good day at the races and dinner at Prunie from the story «A False Spring». 
+  <desc>Place du Carrousel was the last square on Ernest and Hadley’s walk through the evening city after a good day at the races and dinner at Prunie from the story «A False Spring». 
 They thought about the theory that Arc du Carrousel, Arc de Triomphe and Porta Sempione in Milan are standing in one line. 
 After that they «had come out of the gateway through the Louvre and crossed the street outside and were standing on the bridge leaning on the stone and looking down at the river.» The bridge — is a pedestrian bridge Pont des Arts.</desc>
 </wpt>
@@ -516,7 +535,7 @@ Also he walked along the embankments of the left bank when he finished his work,
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Hemingway met Gertrude Stein in March, 1922, she was among Sherwood Anderson’s contacts. She lived with her companion named Alice Toklas and collected paintings by Cézanne, Matisse, Braque, Gris, Picasso and others. Ernest and Hadley soon became frequent visitors to the Stein’s salon. The young Hemingway admired Stein as a mentor, but later their friendship grew apart.</desc>
+  <desc>Hemingway met Gertrude Stein in March, 1922, she was among Sherwood Anderson’s contacts. She lived with her companion named Alice Toklas and collected paintings by Cézanne, Matisse, Braque, Gris, Picasso and others. Ernest and Hadley soon became frequent visitors to Stein’s salon. The young Hemingway admired Stein as a mentor, but later their friendship grew apart.</desc>
 </wpt>
 <wpt lat="48.848597" lon="2.3340167">
   <name>09. Musée du Luxembourg</name>
@@ -591,7 +610,7 @@ At the ground floor of the same building, there was a workmen’s dance hall, or
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Ernest and Hadley ate here on their first Christmas in Paris. Later, Ernest used to stop by for a drink on the way to his bank. This cafe became the setting for the story «My Old Man».</desc>
+  <desc>Ernest and Hadley ate here on their first Christmas in Paris. Later, Ernest used to stop by for a drink on the way to his bank. This cafe became the setting for the story «My Old Man» and was casually mentioned in his first novel.</desc>
 </wpt>
 <wpt lat="48.855856" lon="2.3332925">
   <name>01. Hôtel Jacob et Angleterre (now called Hôtel d’Angleterre)</name>
@@ -600,6 +619,6 @@ At the ground floor of the same building, there was a workmen’s dance hall, or
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>On December 20, 1921, Ernest Hemingway at the age of 22, with his wife Hadley came to Paris for the first time. Until they found an apartment, they checked into the Hôtel Jacob et Angleterre in room №14. The hotel was recommended to them by Sherwood Anderson who stayed there the previous fall. Today, Hôtel d’Angleterre still allows guests to stay in this room and a glass case in the lobby records Hemingway’s time there.</desc>
+  <desc>On December 20, 1921, Ernest Hemingway at the age of 22, with his wife Hadley came to Paris for the first time. Until they found an apartment, they checked into the Hôtel Jacob et Angleterre in room № 14. The hotel was recommended to them by Sherwood Anderson who stayed there the previous fall. Today, Hôtel d’Angleterre still allows guests to stay in this room and a glass case in the lobby records Hemingway’s time there.</desc>
 </wpt>
 </gpx>
