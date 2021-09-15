@@ -27,13 +27,13 @@
   </extensions>
   <type>28</type>
 </wpt>
-<wpt lat="55.754607" lon="37.637689">
-  <name>Khinkali Point</name>
+<wpt lat="55.760825" lon="37.646095">
+  <name>GlavPivMag 2</name>
   <time>2017-01-30T10:04:45Z</time>
   <extensions>
-    <color>#ff5722</color>
+    <color>#9c27b0</color>
   </extensions>
-  <type>27</type>
+  <type>28</type>
 </wpt>
 <wpt lat="55.742016" lon="37.583889">
   <name>Brisket BBQ</name>
@@ -126,14 +126,6 @@
 <wpt lat="55.742116" lon="37.655285">
   <name>Varka</name>
   <time>2017-01-30T16:03:35Z</time>
-  <extensions>
-    <color>#9c27b0</color>
-  </extensions>
-  <type>28</type>
-</wpt>
-<wpt lat="55.760825" lon="37.646095">
-  <name>GlavPivMag 2</name>
-  <time>2017-01-30T16:31:27Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>

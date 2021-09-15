@@ -39,7 +39,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Leningrad Oblast — 18
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow — 50
+1. Moscow — 48
 1. Moscow Oblast — 18
 1. Moscow Castles ✻ — 24
 1. Mountainboard Parks ✻ — 20
@@ -50,7 +50,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Portugal — 60
 1. Prague — 18
 1. Rome — 28
-1. Saint Petersburg — 56
+1. Saint Petersburg — 58
 1. Serbia — 20
 1. Sicily — 14
 1. Sochi — 6
