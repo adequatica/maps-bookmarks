@@ -451,19 +451,27 @@
   <type>27</type>
 </wpt>
 <wpt lat="59.938125" lon="30.347231">
-  <name>Forno Bravo</name>
+  <name>Forno Bravo Centrale</name>
   <time>2020-07-27T18:59:26Z</time>
   <extensions>
     <color>#ff5722</color>
   </extensions>
   <type>27</type>
 </wpt>
-<wpt lat="59.853472" lon="30.322758">
-  <name>Bus № 39 to Pulkovo</name>
-  <time>2020-07-28T07:58:20Z</time>
+<wpt lat="59.943147" lon="30.353636">
+  <name>Cake &amp; Breakfast</name>
+  <time>2021-09-12T08:55:33Z</time>
   <extensions>
-    <color>#607d8b</color>
+    <color>#ff5722</color>
   </extensions>
-  <type>73</type>
+  <type>27</type>
+</wpt>
+<wpt lat="59.93943" lon="30.358099">
+  <name>Spontan</name>
+  <time>2021-09-13T18:05:22Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>26</type>
 </wpt>
 </gpx>
