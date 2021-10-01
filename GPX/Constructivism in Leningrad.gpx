@@ -3,6 +3,96 @@
 <metadata>
   <name>Constructivism in Leningrad</name>
 </metadata>
+<wpt lat="59.88511" lon="30.318271">
+  <name>Администрация Московского района</name>
+  <time>2021-09-04T09:42:01Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1931-1935, Фомин И. И., Даугуль В. Г., Серебровский Б. М.</desc>
+</wpt>
+<wpt lat="59.886801" lon="30.318701">
+  <name>Дом культуры имени Ильича</name>
+  <time>2021-09-04T09:48:36Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1929-1931, Демков Н. Ф.</desc>
+</wpt>
+<wpt lat="59.89349" lon="30.317847">
+  <name>Дом культуры союза кожевников</name>
+  <time>2021-09-04T09:51:00Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1929-1931, Рейзман М. С.</desc>
+</wpt>
+<wpt lat="59.890965" lon="30.320372">
+  <name>Заставная пожарная часть</name>
+  <time>2021-09-04T09:57:24Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1925-1926, Бурышкин Д. П.</desc>
+</wpt>
+<wpt lat="59.89513" lon="30.409251">
+  <name>Мореходное училище</name>
+  <time>2021-09-13T10:46:22Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1932-1933, Демков Н. Ф.</desc>
+</wpt>
+<wpt lat="59.893309" lon="30.426197">
+  <name>Школа</name>
+  <time>2021-09-13T10:45:41Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1927-1929, Симонов Г. А.</desc>
+</wpt>
+<wpt lat="59.892627" lon="30.411546">
+  <name>Профилакторий Текстильщица</name>
+  <time>2021-09-13T10:44:16Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1928-1930, под руководством Руднева Л. В.</desc>
+</wpt>
+<wpt lat="59.895011" lon="30.4342">
+  <name>Дом культуры текстильщиков</name>
+  <time>2021-09-13T10:42:19Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1926-1927, Овсянников С. И.</desc>
+</wpt>
+<wpt lat="59.892434" lon="30.42802">
+  <name>Жилмассив рабочих-текстильщиков</name>
+  <time>2021-09-13T10:36:23Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1926-1929, Бурышкин Д. П., Тверской Л. М.</desc>
+</wpt>
+<wpt lat="59.897002" lon="30.428746">
+  <name>Палевский жилмассив</name>
+  <time>2021-09-13T09:49:02Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1925-1928, Зазерский А. И., Рыбин Н. Ф.</desc>
+</wpt>
 <wpt lat="59.949511" lon="30.271591">
   <name>Корпус завода имени Козицкого</name>
   <time>2020-07-18T07:30:52Z</time>
@@ -10,7 +100,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1930-е.</desc>
+  <desc>1930-е, Гимпель А. А., Серк Л. А.</desc>
 </wpt>
 <wpt lat="59.933703" lon="30.254325">
   <name>Дворец культуры имени Кирова</name>
@@ -19,7 +109,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1931-1937.</desc>
+  <desc>1931-1937, Троцкий Н. А., Казак С. Н.</desc>
 </wpt>
 <wpt lat="59.932034" lon="30.260157">
   <name>Фабрика-кухня Василеостровского района</name>
@@ -28,7 +118,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1929-1931.</desc>
+  <desc>1929-1931, Барутчев А. К., Гильтер И. А., Меерзон И. А., Рубанчик Я. О.</desc>
 </wpt>
 <wpt lat="59.928338" lon="30.264903">
   <name>Водонапорная башня завода «Красный гвоздильщик»</name>
@@ -37,7 +127,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1929-1931.</desc>
+  <desc>1929-1931, Чернихов Я. Г.</desc>
 </wpt>
 <wpt lat="59.90045" lon="30.275821">
   <name>Дворец культуры имени Горького</name>
@@ -46,7 +136,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1925-1927.</desc>
+  <desc>1925-1927, Гегелло А. И., Кричевский Д. Л.</desc>
 </wpt>
 <wpt lat="59.899881" lon="30.272613">
   <name>Универмаг и фабрика-кухня Кировского района</name>
@@ -55,7 +145,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1929-1931.</desc>
+  <desc>1929-1931, Барутчев А. К., Гильтер И. А., Меерзон И. А., Рубанчик Я. О.</desc>
 </wpt>
 <wpt lat="59.900307" lon="30.277211">
   <name>Дом технической учебы</name>
@@ -64,7 +154,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1930-1932.</desc>
+  <desc>1930-1932, Гегелло А. И., Кричевский Д. Л.</desc>
 </wpt>
 <wpt lat="59.89857" lon="30.278933">
   <name>Жилмассив на Тракторной улице</name>
@@ -73,7 +163,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1925-1927.</desc>
+  <desc>1925-1927, Гегелло А. И., Никольский А. С., Симонов Г. А.</desc>
 </wpt>
 <wpt lat="59.89456" lon="30.278753">
   <name>Кировский райсовет</name>
@@ -82,7 +172,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1930-1935.</desc>
+  <desc>1930-1935, Троцкий Н. А.</desc>
 </wpt>
 <wpt lat="59.888675" lon="30.273248">
   <name>Техническая школа</name>
@@ -91,7 +181,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1930-1932.</desc>
+  <desc>1930-1932, Фомин И. И.</desc>
 </wpt>
 <wpt lat="59.889252" lon="30.269737">
   <name>Серафимовский участок</name>
@@ -100,7 +190,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1925-1928.</desc>
+  <desc>1925-1928, Гегелло А. И., Никольский А. С., Симонов Г. А.</desc>
 </wpt>
 <wpt lat="59.893848" lon="30.26854">
   <name>Ушаковские бани</name>
@@ -109,7 +199,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1928-1930.</desc>
+  <desc>1928-1930, Никольский А. С.</desc>
 </wpt>
 <wpt lat="59.895071" lon="30.271455">
   <name>Профилакторий Кировского района</name>
@@ -118,7 +208,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1928-1930.</desc>
+  <desc>1928-1930, под руководством Руднева Л. В.</desc>
 </wpt>
 <wpt lat="59.897456" lon="30.274655">
   <name>Школа имени 10-летия Октября</name>
@@ -127,7 +217,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1925-1927.</desc>
+  <desc>1925-1927, Никольский А. С.</desc>
 </wpt>
 <wpt lat="59.961198" lon="30.281789">
   <name>Трикотажная фабрика «Красное знамя»</name>
@@ -136,7 +226,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1926-1930.</desc>
+  <desc>1926-1930, немецкий архитектор Эрих Мендельсон.</desc>
 </wpt>
 <wpt lat="59.965893" lon="30.284339">
   <name>Левашовский хлебозавод</name>
@@ -145,7 +235,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1931-1933.</desc>
+  <desc>1931-1933, инж. Марсаков Г. П.</desc>
 </wpt>
 <wpt lat="59.960492" lon="30.30945">
   <name>Петроградская АТС</name>
@@ -154,7 +244,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1932.</desc>
+  <desc>1932, Никольский А. С.</desc>
 </wpt>
 <wpt lat="59.956272" lon="30.323008">
   <name>Академия железнодорожного транспорта</name>
@@ -163,7 +253,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1931-1933.</desc>
+  <desc>1931-1933, Симонов Г. А., Абросимов П. В., Хряков А. Ф.</desc>
 </wpt>
 <wpt lat="59.952641" lon="30.32809">
   <name>Дом-коммуна Общества политкаторжанин</name>
@@ -172,7 +262,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1929-1933.</desc>
+  <desc>1929-1933, Симонов Г. А., Абросимов П. В., Хряков А. Ф.</desc>
 </wpt>
 <wpt lat="59.968668" lon="30.312485">
   <name>Первый жилой дом Ленсовета</name>
@@ -181,7 +271,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1931-1935.</desc>
+  <desc>1931-1935, Левинсон Е. А., Фомин И. И.</desc>
 </wpt>
 <wpt lat="59.969398" lon="30.314762">
   <name>Завод «Полиграфмаш»</name>
@@ -190,7 +280,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1930-1931.</desc>
+  <desc>1930-1931, Лансере Н. Е.</desc>
 </wpt>
 <wpt lat="59.971652" lon="30.307508">
   <name>Кооперативный дом совторгслужащих</name>
@@ -199,7 +289,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1930-1932.</desc>
+  <desc>1930-1932, Левинсон Е. А., Соколов А. М.</desc>
 </wpt>
 <wpt lat="59.966971" lon="30.309335">
   <name>Дворец культуры имени Ленсовета</name>
@@ -208,7 +298,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1931-1938.</desc>
+  <desc>1931-1938, Левинсон Е. А., Мунц В. О.</desc>
 </wpt>
 <wpt lat="59.98633" lon="30.347202">
   <name>Клуб Политехнического института имени Калинина</name>
@@ -217,7 +307,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1929-1932.</desc>
+  <desc>1929-1932, Фельгер М. Д., Бровцев С. Е., Петров А. В., инж. Сахновский К. В.</desc>
 </wpt>
 <wpt lat="59.986941" lon="30.349458">
   <name>Школа</name>
@@ -226,7 +316,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1930-1932.</desc>
+  <desc>1930-1932, Мунц В. О.</desc>
 </wpt>
 <wpt lat="59.986167" lon="30.342267">
   <name>Жилмассив на Лесном пр. 65</name>
@@ -235,7 +325,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Студенческий городок Политехнического института, 1930-1933.</desc>
+  <desc>1930-1933, студенческий городок Политехнического института.</desc>
 </wpt>
 <wpt lat="59.984243" lon="30.342991">
   <name>Жилмассив на Лесном пр. 61</name>
@@ -244,7 +334,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Дома для специалистов (для советской интеллектуальной элиты), 1932.</desc>
+  <desc>1932, дома для специалистов (для советской интеллектуальной элиты).</desc>
 </wpt>
 <wpt lat="59.982844" lon="30.343412">
   <name>Жилмассив на Лесном пр. 59</name>
@@ -280,7 +370,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1927-1930.</desc>
+  <desc>1927-1930, Симонов Г. А., Каценленбоген Т. Д., Жуковская В. А.</desc>
 </wpt>
 <wpt lat="59.969702" lon="30.342521">
   <name>Выборгская фабрика-кухня</name>
@@ -289,7 +379,25 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1929-1930.</desc>
+  <desc>1929-1930, Барутчев А. К., Гильтер И. А., Меерзон И. А., Рубанчик Я. О.</desc>
+</wpt>
+<wpt lat="59.965697" lon="30.351341">
+  <name>Выборгская пожарная часть</name>
+  <time>2020-07-19T19:12:15Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1930, Симонов Г. А., инж. Капцюг И. Г.</desc>
+</wpt>
+<wpt lat="59.918934" lon="30.325181">
+  <name>Пожарная часть на Загородном проспекте</name>
+  <time>2020-07-20T07:21:01Z</time>
+  <extensions>
+    <color>#607d8b</color>
+  </extensions>
+  <type>73</type>
+  <desc>1930-1931, Капцюг И. Г.</desc>
 </wpt>
 <wpt lat="59.938756" lon="30.351472">
   <name>Некрасовский телефонный узел</name>
@@ -298,7 +406,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1933.</desc>
+  <desc>1928-1930, Никольский А. С.</desc>
 </wpt>
 <wpt lat="59.946801" lon="30.349548">
   <name>Здание ведомства внутренних дел</name>
@@ -307,7 +415,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1933.</desc>
+  <desc>1933, Безпалов И. Ф.</desc>
 </wpt>
 <wpt lat="59.948502" lon="30.35053">
   <name>Здание НКВД</name>
@@ -316,7 +424,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1931-1932.</desc>
+  <desc>1931-1932, Троцкий Н. А., Гегелло А. И., Оль А. А.</desc>
 </wpt>
 <wpt lat="59.931076" lon="30.344827">
   <name>Дом-коммуна инженеров и писателей</name>

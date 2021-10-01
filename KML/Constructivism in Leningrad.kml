@@ -59,10 +59,122 @@
   </Style>
   <name>Constructivism in Leningrad</name>
   <visibility>0</visibility>
+  <!-- Московский район -->
+  <Placemark>
+    <name>Администрация Московского района</name>
+    <description>1931-1935, Фомин И. И., Даугуль В. Г., Серебровский Б. М.</description>
+    <TimeStamp><when>2021-09-04T09:42:01Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.318271,59.88511</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом культуры имени Ильича</name>
+    <description>1929-1931, Демков Н. Ф.</description>
+    <TimeStamp><when>2021-09-04T09:48:36Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.318701,59.886801</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом культуры союза кожевников</name>
+    <description>1929-1931, Рейзман М. С.</description>
+    <TimeStamp><when>2021-09-04T09:51:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.317847,59.89349</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Заставная пожарная часть</name>
+    <description>1925-1926, Бурышкин Д. П.</description>
+    <TimeStamp><when>2021-09-04T09:57:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.320372,59.890965</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <!-- Невский район -->
+  <Placemark>
+    <name>Мореходное училище</name>
+    <description>1932-1933, Демков Н. Ф.</description>
+    <TimeStamp><when>2021-09-13T10:46:22Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.409251,59.89513</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Школа</name>
+    <description>1927-1929, Симонов Г. А.</description>
+    <TimeStamp><when>2021-09-13T10:45:41Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.426197,59.893309</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Профилакторий Текстильщица</name>
+    <description>1928-1930, под руководством Руднева Л. В.</description>
+    <TimeStamp><when>2021-09-13T10:44:16Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.411546,59.892627</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом культуры текстильщиков</name>
+    <description>1926-1927, Овсянников С. И.</description>
+    <TimeStamp><when>2021-09-13T10:42:19Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.4342,59.895011</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Жилмассив рабочих-текстильщиков</name>
+    <description>1926-1929, Бурышкин Д. П., Тверской Л. М.</description>
+    <TimeStamp><when>2021-09-13T10:36:23Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.42802,59.892434</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Палевский жилмассив</name>
+    <description>1925-1928, Зазерский А. И., Рыбин Н. Ф.</description>
+    <TimeStamp><when>2021-09-13T09:49:02Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.428746,59.897002</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
   <!-- Василеостровский район -->
   <Placemark>
     <name>Корпус завода имени Козицкого</name>
-    <description>1930-е.</description>
+    <description>1930-е, Гимпель А. А., Серк Л. А.</description>
     <TimeStamp><when>2020-07-18T07:30:52Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.271591,59.949511</coordinates></Point>
@@ -73,7 +185,7 @@
   </Placemark>
   <Placemark>
     <name>Дворец культуры имени Кирова</name>
-    <description>1931-1937.</description>
+    <description>1931-1937, Троцкий Н. А., Казак С. Н.</description>
     <TimeStamp><when>2020-07-18T08:14:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.254325,59.933703</coordinates></Point>
@@ -84,7 +196,7 @@
   </Placemark>
   <Placemark>
     <name>Фабрика-кухня Василеостровского района</name>
-    <description>1929-1931.</description>
+    <description>1929-1931, Барутчев А. К., Гильтер И. А., Меерзон И. А., Рубанчик Я. О.</description>
     <TimeStamp><when>2020-07-18T11:08:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.260157,59.932034</coordinates></Point>
@@ -95,7 +207,7 @@
   </Placemark>
   <Placemark>
     <name>Водонапорная башня завода «Красный гвоздильщик»</name>
-    <description>1929-1931.</description>
+    <description>1929-1931, Чернихов Я. Г.</description>
     <TimeStamp><when>2020-07-18T12:21:55Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.264903,59.928338</coordinates></Point>
@@ -107,7 +219,7 @@
   <!-- Кировский район -->
   <Placemark>
     <name>Дворец культуры имени Горького</name>
-    <description>1925-1927.</description>
+    <description>1925-1927, Гегелло А. И., Кричевский Д. Л.</description>
     <TimeStamp><when>2020-07-18T13:15:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.275821,59.90045</coordinates></Point>
@@ -118,7 +230,7 @@
   </Placemark>
   <Placemark>
     <name>Универмаг и фабрика-кухня Кировского района</name>
-    <description>1929-1931.</description>
+    <description>1929-1931, Барутчев А. К., Гильтер И. А., Меерзон И. А., Рубанчик Я. О.</description>
     <TimeStamp><when>2020-07-18T13:58:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.272613,59.899881</coordinates></Point>
@@ -129,7 +241,7 @@
   </Placemark>
   <Placemark>
     <name>Дом технической учебы</name>
-    <description>1930-1932.</description>
+    <description>1930-1932, Гегелло А. И., Кричевский Д. Л.</description>
     <TimeStamp><when>2020-07-18T14:10:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.277211,59.900307</coordinates></Point>
@@ -140,7 +252,7 @@
   </Placemark>
   <Placemark>
     <name>Жилмассив на Тракторной улице</name>
-    <description>1925-1927.</description>
+    <description>1925-1927, Гегелло А. И., Никольский А. С., Симонов Г. А.</description>
     <TimeStamp><when>2020-07-18T14:56:41Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.278933,59.89857</coordinates></Point>
@@ -151,7 +263,7 @@
   </Placemark>
   <Placemark>
     <name>Кировский райсовет</name>
-    <description>1930-1935.</description>
+    <description>1930-1935, Троцкий Н. А.</description>
     <TimeStamp><when>2020-07-18T15:10:03Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.278753,59.89456</coordinates></Point>
@@ -162,7 +274,7 @@
   </Placemark>
   <Placemark>
     <name>Техническая школа</name>
-    <description>1930-1932.</description>
+    <description>1930-1932, Фомин И. И.</description>
     <TimeStamp><when>2020-07-18T15:15:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.273248,59.888675</coordinates></Point>
@@ -173,7 +285,7 @@
   </Placemark>
   <Placemark>
     <name>Серафимовский участок</name>
-    <description>1925-1928.</description>
+    <description>1925-1928, Гегелло А. И., Никольский А. С., Симонов Г. А.</description>
     <TimeStamp><when>2020-07-18T16:14:50Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.269737,59.889252</coordinates></Point>
@@ -184,7 +296,7 @@
   </Placemark>
   <Placemark>
     <name>Ушаковские бани</name>
-    <description>1928-1930.</description>
+    <description>1928-1930, Никольский А. С.</description>
     <TimeStamp><when>2020-07-18T18:09:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.26854,59.893848</coordinates></Point>
@@ -195,7 +307,7 @@
   </Placemark>
   <Placemark>
     <name>Профилакторий Кировского района</name>
-    <description>1928-1930.</description>
+    <description>1928-1930, под руководством Руднева Л. В.</description>
     <TimeStamp><when>2020-07-18T18:56:45Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.271455,59.895071</coordinates></Point>
@@ -206,7 +318,7 @@
   </Placemark>
   <Placemark>
     <name>Школа имени 10-летия Октября</name>
-    <description>1925-1927.</description>
+    <description>1925-1927, Никольский А. С.</description>
     <TimeStamp><when>2020-07-18T18:59:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.274655,59.897456</coordinates></Point>
@@ -218,7 +330,7 @@
   <!-- Петроградская сторона -->
   <Placemark>
     <name>Трикотажная фабрика «Красное знамя»</name>
-    <description>1926-1930.</description>
+    <description>1926-1930, немецкий архитектор Эрих Мендельсон.</description>
     <TimeStamp><when>2020-07-19T08:05:38Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.281789,59.961198</coordinates></Point>
@@ -229,7 +341,7 @@
   </Placemark>
   <Placemark>
     <name>Левашовский хлебозавод</name>
-    <description>1931-1933.</description>
+    <description>1931-1933, инж. Марсаков Г. П.</description>
     <TimeStamp><when>2020-07-19T08:06:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.284339,59.965893</coordinates></Point>
@@ -240,7 +352,7 @@
   </Placemark>
   <Placemark>
     <name>Петроградская АТС</name>
-    <description>1932.</description>
+    <description>1932, Никольский А. С.</description>
     <TimeStamp><when>2020-07-19T08:21:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.30945,59.960492</coordinates></Point>
@@ -251,7 +363,7 @@
   </Placemark>
   <Placemark>
     <name>Академия железнодорожного транспорта</name>
-    <description>1931-1933.</description>
+    <description>1931-1933, Симонов Г. А., Абросимов П. В., Хряков А. Ф.</description>
     <TimeStamp><when>2020-07-19T09:09:13Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.323008,59.956272</coordinates></Point>
@@ -262,7 +374,7 @@
   </Placemark>
   <Placemark>
     <name>Дом-коммуна Общества политкаторжанин</name>
-    <description>1929-1933.</description>
+    <description>1929-1933, Симонов Г. А., Абросимов П. В., Хряков А. Ф.</description>
     <TimeStamp><when>2020-07-19T10:44:53Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.32809,59.952641</coordinates></Point>
@@ -273,7 +385,7 @@
   </Placemark>
   <Placemark>
     <name>Первый жилой дом Ленсовета</name>
-    <description>1931-1935.</description>
+    <description>1931-1935, Левинсон Е. А., Фомин И. И.</description>
     <TimeStamp><when>2020-07-19T11:04:28Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.312485,59.968668</coordinates></Point>
@@ -284,7 +396,7 @@
   </Placemark>
   <Placemark>
     <name>Завод «Полиграфмаш»</name>
-    <description>1930-1931.</description>
+    <description>1930-1931, Лансере Н. Е.</description>
     <TimeStamp><when>2020-07-19T11:14:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.314762,59.969398</coordinates></Point>
@@ -295,7 +407,7 @@
   </Placemark>
   <Placemark>
     <name>Кооперативный дом совторгслужащих</name>
-    <description>1930-1932.</description>
+    <description>1930-1932, Левинсон Е. А., Соколов А. М.</description>
     <TimeStamp><when>2020-07-19T12:13:12Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.307508,59.971652</coordinates></Point>
@@ -306,7 +418,7 @@
   </Placemark>
   <Placemark>
     <name>Дворец культуры имени Ленсовета</name>
-    <description>1931-1938.</description>
+    <description>1931-1938, Левинсон Е. А., Мунц В. О.</description>
     <TimeStamp><when>2020-07-19T13:45:24Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.309335,59.966971</coordinates></Point>
@@ -318,7 +430,7 @@
   <!-- Выборгская сторона -->
   <Placemark>
     <name>Клуб Политехнического института имени Калинина</name>
-    <description>1929-1932.</description>
+    <description>1929-1932, Фельгер М. Д., Бровцев С. Е., Петров А. В., инж. Сахновский К. В.</description>
     <TimeStamp><when>2020-07-19T14:05:54Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.347202,59.98633</coordinates></Point>
@@ -329,7 +441,7 @@
   </Placemark>
   <Placemark>
     <name>Школа</name>
-    <description>1930-1932.</description>
+    <description>1930-1932, Мунц В. О.</description>
     <TimeStamp><when>2020-07-19T14:22:17Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.349458,59.986941</coordinates></Point>
@@ -340,7 +452,7 @@
   </Placemark>
   <Placemark>
     <name>Жилмассив на Лесном пр. 65</name>
-    <description>Студенческий городок Политехнического института, 1930-1933.</description>
+    <description>1930-1933, студенческий городок Политехнического института.</description>
     <TimeStamp><when>2020-07-19T15:05:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342267,59.986167</coordinates></Point>
@@ -351,7 +463,7 @@
   </Placemark>
   <Placemark>
     <name>Жилмассив на Лесном пр. 61</name>
-    <description>Дома для специалистов (для советской интеллектуальной элиты), 1932.</description>
+    <description>1932, дома для специалистов (для советской интеллектуальной элиты).</description>
     <TimeStamp><when>2020-07-19T15:20:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342991,59.984243</coordinates></Point>
@@ -395,7 +507,7 @@
   </Placemark>
   <Placemark>
     <name>Бабуринский жилмассив</name>
-    <description>1927-1930.</description>
+    <description>1927-1930, Симонов Г. А., Каценленбоген Т. Д., Жуковская В. А.</description>
     <TimeStamp><when>2020-07-19T16:16:27Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.345042,59.972073</coordinates></Point>
@@ -406,7 +518,7 @@
   </Placemark>
   <Placemark>
     <name>Выборгская фабрика-кухня</name>
-    <description>1929-1930.</description>
+    <description>1929-1930, Барутчев А. К., Гильтер И. А., Меерзон И. А., Рубанчик Я. О.</description>
     <TimeStamp><when>2020-07-19T18:03:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342521,59.969702</coordinates></Point>
@@ -415,10 +527,32 @@
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
+  <Placemark>
+    <name>Выборгская пожарная часть</name>
+    <description>1930, Симонов Г. А., инж. Капцюг И. Г.</description>
+    <TimeStamp><when>2020-07-19T19:12:15Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.351341,59.965697</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
   <!-- Центральный район -->
   <Placemark>
+    <name>Пожарная часть на Загородном проспекте</name>
+    <description>1930-1931, Капцюг И. Г.</description>
+    <TimeStamp><when>2020-07-20T07:21:01Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.325181,59.918934</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Некрасовский телефонный узел</name>
-    <description>1933.</description>
+    <description>1928-1930, Никольский А. С.</description>
     <TimeStamp><when>2020-07-20T07:53:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.351472,59.938756</coordinates></Point>
@@ -429,7 +563,7 @@
   </Placemark>
   <Placemark>
     <name>Здание ведомства внутренних дел</name>
-    <description>1933.</description>
+    <description>1933, Безпалов И. Ф.</description>
     <TimeStamp><when>2020-07-20T11:59:14Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.349548,59.946801</coordinates></Point>
@@ -440,7 +574,7 @@
   </Placemark>
   <Placemark>
     <name>Здание НКВД</name>
-    <description>1931-1932.</description>
+    <description>1931-1932, Троцкий Н. А., Гегелло А. И., Оль А. А.</description>
     <TimeStamp><when>2020-07-20T19:17:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.35053,59.948502</coordinates></Point>
