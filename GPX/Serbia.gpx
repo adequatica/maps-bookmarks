@@ -19,7 +19,7 @@
   </extensions>
   <type>27</type>
 </wpt>
-<wpt lat="45.252482" lon="19.872161">
+<wpt lat="45.252483" lon="19.872161">
   <name>Da Mario</name>
   <time>2017-05-08T06:38:47Z</time>
   <extensions>
@@ -35,7 +35,7 @@
   </extensions>
   <type>72</type>
 </wpt>
-<wpt lat="45.264904" lon="19.830275">
+<wpt lat="45.265532" lon="19.829775">
   <name>Železnička Stanica</name>
   <time>2017-05-08T15:28:32Z</time>
   <extensions>
@@ -43,9 +43,25 @@
   </extensions>
   <type>73</type>
 </wpt>
-<wpt lat="45.104209" lon="19.713404">
-  <name>Beli Kamen</name>
-  <time>2018-09-03T09:21:34Z</time>
+<wpt lat="45.104142" lon="19.713347">
+  <name>Бели Камен</name>
+  <time>2018-08-31T17:15:46Z</time>
+  <extensions>
+    <color>#2196f3</color>
+  </extensions>
+  <type>0</type>
+</wpt>
+<wpt lat="45.172479" lon="19.912727">
+  <name>Планинарски дом «Стражилово»</name>
+  <time>2019-09-02T18:38:15Z</time>
+  <extensions>
+    <color>#2196f3</color>
+  </extensions>
+  <type>0</type>
+</wpt>
+<wpt lat="45.166758" lon="19.913663">
+  <name>Гроб Бранка Радичевића</name>
+  <time>2019-09-03T11:49:32Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
@@ -53,29 +69,29 @@
 </wpt>
 <wpt lat="43.951437" lon="19.400435">
   <name>Бањска стена</name>
-  <time>2018-09-03T09:55:29Z</time>
+  <time>2018-09-04T09:55:29Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
   <type>29</type>
 </wpt>
-<wpt lat="43.984294" lon="19.566644">
-  <name>Drina River House</name>
+<wpt lat="43.984301" lon="19.566617">
+  <name>Кућица на стени</name>
   <time>2018-09-04T16:46:37Z</time>
   <extensions>
     <color>#3f51b5</color>
   </extensions>
   <type>29</type>
 </wpt>
-<wpt lat="43.911506" lon="19.741441">
-  <name>Spomenik borcima Radničkog bataljona</name>
+<wpt lat="43.911607" lon="19.741502">
+  <name>Споменик борцима Радничког батаљона Кадињача</name>
   <time>2018-09-04T22:55:17Z</time>
   <extensions>
     <color>#e91e63</color>
   </extensions>
   <type>72</type>
 </wpt>
-<wpt lat="43.853561" lon="19.839309">
+<wpt lat="43.853447" lon="19.839695">
   <name>Uzice</name>
   <time>2018-09-05T00:29:15Z</time>
   <extensions>
@@ -91,8 +107,8 @@
   </extensions>
   <type>73</type>
 </wpt>
-<wpt lat="44.823696" lon="20.44986">
-  <name>Kalemegdan</name>
+<wpt lat="44.823768" lon="20.449842">
+  <name>Београдска Тврђава</name>
   <time>2018-09-15T18:57:08Z</time>
   <extensions>
     <color>#e91e63</color>
@@ -100,7 +116,7 @@
   <type>72</type>
 </wpt>
 <wpt lat="44.817191" lon="20.463859">
-  <name>Skadarska</name>
+  <name>Скадарлија</name>
   <time>2018-09-15T18:59:09Z</time>
   <extensions>
     <color>#e91e63</color>
@@ -139,21 +155,21 @@
   </extensions>
   <type>27</type>
 </wpt>
-<wpt lat="44.81248" lon="20.460501">
-  <name>Нови лесковац</name>
-  <time>2018-09-16T10:59:14Z</time>
-  <extensions>
-    <color>#ff5722</color>
-  </extensions>
-  <type>27</type>
-</wpt>
-<wpt lat="44.822154" lon="20.460129">
+<wpt lat="44.822212" lon="20.46012">
   <name>Krafter</name>
-  <time>2018-09-16T19:19:29Z</time>
+  <time>2018-09-16T10:59:14Z</time>
   <extensions>
     <color>#9c27b0</color>
   </extensions>
   <type>28</type>
+</wpt>
+<wpt lat="44.812135" lon="20.469194">
+  <name>Јездић ракија</name>
+  <time>2018-09-16T19:19:29Z</time>
+  <extensions>
+    <color>#3f51b5</color>
+  </extensions>
+  <type>26</type>
 </wpt>
 <wpt lat="44.816894" lon="20.463558">
   <name>Задруга</name>

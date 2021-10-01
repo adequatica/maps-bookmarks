@@ -25,7 +25,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Berlin — 48
 1. Bowie in Berlin ✻ — 10
 1. Bratislava — 10
-1. Constructivism in Leningrad ✻ — 36
+1. Constructivism in Leningrad ✻ — 48
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
@@ -51,7 +51,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Prague — 18
 1. Rome — 28
 1. Saint Petersburg — 58
-1. Serbia — 20
+1. Serbia — 22
 1. Sicily — 14
 1. Sochi — 6
 1. Spain Asturias — 6
