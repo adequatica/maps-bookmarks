@@ -104,7 +104,7 @@
     <name>GlavPivMag 2</name>
     <TimeStamp><when>2017-01-30T10:04:45Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.646095,55.760825</coordinates></Point>
+    <Point><coordinates>37.646085,55.760844</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -259,7 +259,7 @@
     <name>Pivbar</name>
     <TimeStamp><when>2017-01-30T15:48:18Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>37.597204,55.76999</coordinates></Point>
+    <Point><coordinates>37.597196,55.769984</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -484,7 +484,7 @@
     <name>O’Donoghue’s</name>
     <TimeStamp><when>2018-10-07T07:57:08Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.629079,55.740845</coordinates></Point>
+    <Point><coordinates>37.629106,55.740848</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>

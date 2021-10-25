@@ -27,7 +27,7 @@
   </extensions>
   <type>28</type>
 </wpt>
-<wpt lat="55.760825" lon="37.646095">
+<wpt lat="55.760844" lon="37.646085">
   <name>GlavPivMag 2</name>
   <time>2017-01-30T10:04:45Z</time>
   <extensions>
@@ -115,7 +115,7 @@
   </extensions>
   <type>28</type>
 </wpt>
-<wpt lat="55.76999" lon="37.597204">
+<wpt lat="55.769984" lon="37.597196">
   <name>Pivbar</name>
   <time>2017-01-30T15:48:18Z</time>
   <extensions>
@@ -243,7 +243,7 @@
   </extensions>
   <type>26</type>
 </wpt>
-<wpt lat="55.740845" lon="37.629079">
+<wpt lat="55.740848" lon="37.629106">
   <name>O’Donoghue’s</name>
   <time>2018-10-07T07:57:08Z</time>
   <extensions>
