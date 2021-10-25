@@ -4,9 +4,7 @@ For the last decade I saved almost a thousand places where I have been and wil
 
 I have been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined by the new owner and became completely unusable.
 
-I [converted KML files into GPX](https://github.com/enotramone/mmkml2gpx) for migrating bookmarks to another app and now they could be imported to [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
-
-Now I am using [Organic Maps](https://organicmaps.app).
+Now I am using [Organic Maps](https://organicmaps.app). And additionally [converted KML files into GPX](https://github.com/enotramone/mmkml2gpx) to be able to import bookmarks to another apps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
 
 ## Map legend
 
@@ -51,7 +49,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Prague — 18
 1. Rome — 28
 1. Saint Petersburg — 58
-1. Serbia — 22
+1. Serbia — 28
 1. Sicily — 14
 1. Sochi — 6
 1. Spain Asturias — 6

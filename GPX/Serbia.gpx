@@ -11,8 +11,8 @@
   </extensions>
   <type>29</type>
 </wpt>
-<wpt lat="45.243486" lon="19.88186">
-  <name>Plejeskavica</name>
+<wpt lat="45.243299" lon="19.881911">
+  <name>Index Andela</name>
   <time>2017-05-08T06:18:08Z</time>
   <extensions>
     <color>#ff5722</color>
@@ -178,5 +178,53 @@
     <color>#3f51b5</color>
   </extensions>
   <type>26</type>
+</wpt>
+<wpt lat="45.256496" lon="19.851838">
+  <name>Музеј Војводине</name>
+  <time>2021-10-21T19:14:44Z</time>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <type>72</type>
+</wpt>
+<wpt lat="45.393074" lon="19.221604">
+  <name>Bač Fortress</name>
+  <time>2021-10-22T06:59:31Z</time>
+  <extensions>
+    <color>#e91e63</color>
+  </extensions>
+  <type>72</type>
+</wpt>
+<wpt lat="45.254821" lon="19.862499">
+  <name>Mačak</name>
+  <time>2021-10-23T07:43:57Z</time>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <type>27</type>
+</wpt>
+<wpt lat="45.257904" lon="19.842133">
+  <name>Mazut Beer Shop</name>
+  <time>2021-10-23T12:59:21Z</time>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <type>28</type>
+</wpt>
+<wpt lat="45.256291" lon="19.848128">
+  <name>BeerCuz Pivnica</name>
+  <time>2021-10-23T15:00:00Z</time>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <type>28</type>
+</wpt>
+<wpt lat="45.256498" lon="19.84615">
+  <name>Kurtoš Kolač NS</name>
+  <time>2021-10-23T19:14:15Z</time>
+  <extensions>
+    <color>#ff5722</color>
+  </extensions>
+  <type>27</type>
 </wpt>
 </gpx>
