@@ -19,16 +19,8 @@
   </extensions>
   <type>72</type>
 </wpt>
-<wpt lat="55.743339" lon="37.629514">
-  <name>GlavPivMag</name>
-  <time>2017-01-30T09:35:19Z</time>
-  <extensions>
-    <color>#9c27b0</color>
-  </extensions>
-  <type>28</type>
-</wpt>
 <wpt lat="55.760844" lon="37.646085">
-  <name>GlavPivMag 2</name>
+  <name>GlavPivMag</name>
   <time>2017-01-30T10:04:45Z</time>
   <extensions>
     <color>#9c27b0</color>
@@ -387,5 +379,13 @@
     <color>#3f51b5</color>
   </extensions>
   <type>26</type>
+</wpt>
+<wpt lat="55.745524" lon="37.627022">
+  <name>Salden’s taphouse</name>
+  <time>2021-11-19T04:38:27Z</time>
+  <extensions>
+    <color>#9c27b0</color>
+  </extensions>
+  <type>28</type>
 </wpt>
 </gpx>
