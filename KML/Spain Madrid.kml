@@ -61,20 +61,28 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Plaza de toros de Las Ventas</name>
-    <description>Hemingway liked sitting in section 9 (sombra).</description>
-    <TimeStamp><when>2013-05-05T19:21:52Z</when></TimeStamp>
+    <TimeStamp><when>2013-05-05T21:23:16Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>-3.6632954,40.432136</coordinates></Point>
+    <Point><coordinates>-3.6634375,40.432321</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Museo del Prado</name>
-    <description>Free admission from 6 p.m. to 8 p.m.</description>
-    <TimeStamp><when>2013-05-05T19:27:49Z</when></TimeStamp>
+    <description>Free admission from 18:00 to 20:00.</description>
+    <TimeStamp><when>2013-05-06T12:55:58Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>-3.6924939,40.414715</coordinates></Point>
+    <Point><coordinates>-3.6924751,40.414614</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>El Manantial</name>
+    <TimeStamp><when>2013-05-06T22:27:12Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-3.7031772,40.418078</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -98,25 +106,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>The Temple of Debod</name>
-    <TimeStamp><when>2015-07-06T07:41:38Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>-3.7177648,40.424019</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Teleférico de Madrid</name>
-    <description>Round trip for two – 11,8€.</description>
-    <TimeStamp><when>2015-07-06T08:24:18Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>-3.7219124,40.427897</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Real Jardín Botánico de Madrid</name>
     <TimeStamp><when>2015-07-06T09:36:25Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
@@ -135,20 +124,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>El Rastro</name>
-    <description>Flea market at Sunday from 9 a.m.</description>
-    <TimeStamp><when>2015-07-06T10:30:46Z</when></TimeStamp>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>-3.7072836,40.41024</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Mercado de Antón Martín</name>
     <TimeStamp><when>2015-07-06T11:29:08Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>-3.6986228,40.411651</coordinates></Point>
+    <Point><coordinates>-3.6986724,40.41159</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -157,7 +136,7 @@
     <name>Puerta de Atocha</name>
     <TimeStamp><when>2015-07-06T12:27:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>-3.6898586,40.405523</coordinates></Point>
+    <Point><coordinates>-3.6900182,40.405683</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -182,6 +161,7 @@
   </Placemark>
   <Placemark>
     <name>Casa de Asturias</name>
+    <description>Served sweet sidra.</description>
     <TimeStamp><when>2015-07-06T14:29:27Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>-3.6998217,40.408167</coordinates></Point>

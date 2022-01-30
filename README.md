@@ -56,7 +56,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 1. Spain Barcelona — 20
 1. Spain Basque Country — 12
 1. Spain Cantabria — 8
-1. Spain Madrid — 16
+1. Spain Madrid — 14
 1. Spain Pamplona — 10
 1. Tbilisi — 8
 1. Veliky Novgorod — 10
@@ -91,21 +91,8 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 ### «Hemingway in Paris» based on:
 * [My own research](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0)
 
-### «Hemingway in Spain» based on articles:
-* Prado Museum, one of the favourite place of the author, does not pinned because of its obvious prominence
-* [Blood, Sand, Sherry: Hemingway’s Madrid](https://www.nytimes.com/2011/06/19/travel/a-tour-of-hemingways-madrid.html)
-* [How to Visit Hemingway’s Madrid Like a Local](https://untappedcities.com/2012/03/13/how-to-visit-hemingways-madrid-like-a-local/)
-* [Ernest Hemingway’s Favourite Madrid Haunts](https://theculturetrip.com/europe/spain/articles/ernest-hemingways-8-favourite-madrid-haunts/)
-* [Seeking Out the Seldom-Seen Madrid of Hemingway](https://www.washingtonpost.com/archive/lifestyle/travel/1986/06/01/seeking-out-the-seldom-seen-madrid-of-hemingway/deab1e4f-c5e3-430d-84fd-3c51397d88a1/)
-* [Hemingway’s Madrid, 50 years after his death](https://english.elpais.com/elpais/2011/07/13/inenglish/1310534441_850210.html)
-* [El Madrid de Hemingway](http://manuelblasdos.blogspot.com/2012/10/el-madrid-de-hemingway.html)
-* [Hemingway en la Calle de la Ternera](http://antiguoscafesdemadrid.blogspot.com/2017/05/hemingway-en-la-calle-de-la-ternera.html)
-* [Dos hoteles de la Guerra Civil](https://elpais.com/diario/2003/12/07/domingo/1070772758_850215.html)
-* [The Earth Endureth Forever: Hemingway in Spain](https://albavolunteer.org/2016/06/the-earth-endureth-forever-ernest-hemingway-and-the-spanish-civil-war/)
-* [Following “Papa” Hemingway Through His Beloved Spain](https://www.chicagotribune.com/news/ct-xpm-1987-10-04-8703150386-story.html)
-* [The old man and the city: Hemingway’s love affair with Pamplona](https://www.independent.co.uk/travel/europe/the-old-man-and-the-city-hemingways-love-affair-with-pamplona-2305392.html)
-* [Following Hemingway’s Steps in Pamplona](http://www.turismo.navarra.es/eng/organice-viaje/recurso.aspx?o=4798)
-* [La guia de Hemingway en Pamplona](http://www.ernesthemingway.es/index.php?view=article&id=17%3Ala-guia-de-hemingway-en-pamplona)
+### «Hemingway in Spain» based on:
+* [My own research]()
 
 ### «Moscow Castles» based on:
 * [My own research](https://adequatica.medium.com/moscow-castles-d5f655b74df9)
