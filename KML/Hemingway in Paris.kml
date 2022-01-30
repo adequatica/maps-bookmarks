@@ -693,7 +693,7 @@ In July 1942, French police, under Nazi orders, used the velodrome to hold 13000
   </Placemark>
   <Placemark>
     <name>24. Place du Carrousel</name>
-    <description>Place du Carrousel was the last square on Ernest and Hadley’s walk through the evening city after a good day at the races and dinner at Prunie from the story «A False Spring». 
+    <description>Place du Carrousel was part of Ernest and Hadley’s walk through the evening city after a good day at the races and dinner at Prunie (16 avenue Victor Hugo near Place Charles de Gaulle) from the story «A False Spring». 
 They thought about the theory that Arc du Carrousel, Arc de Triomphe and Porta Sempione in Milan are standing in one line. 
 After that they «had come out of the gateway through the Louvre and crossed the street outside and were standing on the bridge leaning on the stone and looking down at the river.» The bridge — is a pedestrian bridge Pont des Arts.</description>
     <TimeStamp><when>2021-03-21T08:44:00Z</when></TimeStamp>
@@ -709,7 +709,7 @@ After that they «had come out of the gateway through the Louvre and crossed the
   </Placemark>
   <Placemark>
     <name>23. Café Prunier</name>
-    <description>A fish restaurant that the Hemingways could only visit if they had extra money. For example, after winning on a sweepstake.</description>
+    <description>A fish restaurant that Hemingways could only visit if they had extra money. For example, after winning on a sweepstake.</description>
     <TimeStamp><when>2021-03-21T08:23:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.2916915,48.872535</coordinates></Point>

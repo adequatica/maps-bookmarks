@@ -80,6 +80,7 @@
   </Placemark>
     <Placemark>
     <name>El Manantial</name>
+    <description>Traditional sidrería.</description>
     <TimeStamp><when>2013-05-06T22:27:12Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-3.7031772,40.418078</coordinates></Point>
