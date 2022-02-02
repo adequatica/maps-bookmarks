@@ -86,24 +86,24 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 * [Фото альбом](https://yadi.sk/a/tkwa_Q-HeQO03g)
 
 ### «Dostoevsky in Saint Petersburg» based on:
-* [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316)
+* [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)
 * [Photo album](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Hemingway in Paris» based on:
-* [My own research](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0)
+* [My own research](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0?source=friends_link&sk=a3eaecf784f6ba3324830efd1291cb64)
 
 ### «Hemingway in Spain» based on:
-* [My own research](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3)
+* [My own research](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3?source=friends_link&sk=76d0a9875b23dfac95445a36cef02acd)
 
 ### «Moscow Castles» based on:
-* [My own research](https://adequatica.medium.com/moscow-castles-d5f655b74df9)
+* [My own research](https://adequatica.medium.com/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653)
 * [Photo album](https://yadi.sk/a/dG9Uv4txE8L-9w)
 
 ### «Mountainboard Parks» based on:
-* [My own experience](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46)
+* [My own experience](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f)
 
 ### «Places Where Peter Kropotkin Was in Russia» based on:
-* [My own research](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b)
+* [My own research](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
 
 ### «Достоевский в Петербурге» based on:
 * [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/dostoevskii-v-peterburge-5e4a7fa7cc6d233fd0f6b8cd)
