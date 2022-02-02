@@ -31,7 +31,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 1. Dublin — 20
 1. France — 6
 1. Hemingway in Paris ✻ — 66
-1. Hemingway in Spain ✻ — 20
+1. Hemingway in Spain ✻ — 60
 1. Istanbul — 14
 1. Kaliningrad — 12
 1. Leningrad Oblast — 18
@@ -65,6 +65,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 1. Zurich — 6
 1. Достоевский в Петербурге ✻ — 76
 1. Места княза Кропоткина ✻ — 10
+1. Хемингуэй в Испании ✻ — 60
 1. Хемингуэй в Париже ✻ — 66
 
 ## ✻ References
@@ -92,7 +93,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 * [My own research](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0)
 
 ### «Hemingway in Spain» based on:
-* [My own research]()
+* [My own research](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3)
 
 ### «Moscow Castles» based on:
 * [My own research](https://adequatica.medium.com/moscow-castles-d5f655b74df9)
@@ -110,6 +111,9 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 
 ### «Места княза Кропоткина» based on:
 * [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/mesta-kniazia-kropotkina-5e46f24f5bdc2e1b307d13de)
+
+### «Хемингуэй в Испании» based on:
+* [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-ispanii-61fa91c79ffea83fbe42cf37)
 
 ### «Хемингуэй в Париже» based on:
 * [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-parije-60603281973e17400a79da2b)
