@@ -58,7 +58,7 @@
     </IconStyle>
   </Style>
   <name>Places Where Peter Kropotkin Was in Russia</name>
-  <description>The famous revolutionary anarchist, political scientist, geographer, publicist, philosopher and creator of the ideology of anarcho-communism. He spent only half of his life in Russia and 40 years in exile.</description>
+  <description>The famous revolutionary, political scientist, geographer, publicist, philosopher and theorist of the ideology of anarcho-communism. He spent only half of his life in Russia and 40 years in exile.</description>
   <visibility>0</visibility>
   <Placemark>
     <name>10. Kropotkin’s House-museum</name>
@@ -132,7 +132,8 @@
   </Placemark>
   <Placemark>
     <name>03. Malyy Vlasyevskiy Lane</name>
-    <description>To this day, the house (№ 8) has not been preserved. Peter Alexeyevich lived in it until entering the Page Corps in 1857.</description>
+    <description>To this day, the house (№ 8) has not been preserved. Peter Alexeyevich lived in it until entering the Page Corps in 1857. 
+On a parallel street — Starokonyushenny Lane, 19 — there was a «Church of John the Baptist in the Starokonyushennaya sloboda» in which the funeral service of the old prince Alexey Petrovich Kropotkin (1805–1871) was held. It was demolished in 1933.</description>
     <TimeStamp><when>2020-02-14T03:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.593086,55.746072</coordinates></Point>
@@ -153,7 +154,7 @@
   <Placemark>
     <name>01. Kropotkin’s House</name>
     <description>Pyotr Alexeyevich Kropotkin was born on December 9, 1842 into an aristocratic family in a typical manor house built by his grandmother at the beginning of the XIX century. In this period, such mansions were built up throughout the south-western part of Moscow and inhabited mainly by the nobility.
-The future anarchist lived in this house only for the first seven or eight years of his life. When his father, Prince Alexey Petrovich Kropotkin, married for the second time after the death of his first wife from consumption, he sold this house and bought another, in Malyy Levshinskiy lane.</description>
+He lived in this house only for the first seven or eight years of his life. When his father, Prince Alexey Petrovich Kropotkin, married for the second time after the death of his first wife from consumption, he sold this house and bought another, in Malyy Levshinskiy lane.</description>
     <TimeStamp><when>2020-02-14T01:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.58772,55.741481</coordinates></Point>
