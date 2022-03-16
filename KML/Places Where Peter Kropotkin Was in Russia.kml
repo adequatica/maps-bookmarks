@@ -62,7 +62,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>10. Kropotkin’s House-museum</name>
-    <description>In May 1918, Kropotkin and his wife moved to Dmitrov, having received a «security certificate» signed by Lenin. In early 1921, he became seriously ill with pneumonia and died on February 8, 1921.</description>
+    <description>In May 1918, Kropotkin and his wife moved to Dmitrov, having received a «security certificate» signed by Lenin. In early 1921, he became seriously ill with pneumonia and died on February 8, 1921, at the age of 78.</description>
     <TimeStamp><when>2020-02-14T10:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.521247,56.341165</coordinates></Point>
@@ -112,7 +112,7 @@
   </Placemark>
   <Placemark>
     <name>05. Kazarmenny Lane</name>
-    <description>Kropotkin attended the Circle of Tchaikovsky: «I was in the “Literary Committee” of the circle. We met in the same apartment which was kept by Perovskaya — in Kazarmenny lane. It was not far from Nevka river.»</description>
+    <description>Kropotkin attended the Circle of Tchaikovsky: «I was in the “Literary Committee” of the circle. We met in the same apartment which was kept by Perovskaya — in Kazarmenny lane. It was not far from the Nevka river.»</description>
     <TimeStamp><when>2020-02-14T05:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.331833,59.964871</coordinates></Point>
