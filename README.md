@@ -32,7 +32,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 1. France — 6
 1. Hemingway in Paris ✻ — 66
 1. Hemingway in Spain ✻ — 60
-1. Istanbul — 14
+1. Istanbul — 16
 1. Kaliningrad — 12
 1. Leningrad Oblast — 18
 1. Montenegro — 30
@@ -49,7 +49,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 1. Prague — 18
 1. Rome — 28
 1. Saint Petersburg — 58
-1. Serbia — 28
+1. Serbia — 32
 1. Sicily — 14
 1. Sochi — 6
 1. Spain Asturias — 6

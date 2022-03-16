@@ -64,19 +64,29 @@
     <description>From the date of its construction in 537, and until 1453, it served as an Orthodox cathedral, except between 1204 and 1261, when it was converted by the Forth Crusaders to a Roman Catholic cathedral under the Latin Empire. The building was later converted into an Ottoman mosque from 1453 until 1931. It was then secularized and opened as a museum on 1 February 1935. Famous in particular for its massive dome, it is considered the epitome of Byzantine architecture. It remained the world's largest cathedral for nearly a thousand years, until Seville Cathedral was completed in 1520.</description>
     <TimeStamp><when>2018-02-04T06:51:23Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>28.979969,41.008481</coordinates></Point>
+    <Point><coordinates>28.979997,41.008509</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-muslim</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Islam</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Blue Mosque</name>
-    <description>The Sultan Ahmed Mosque was constructed between 1609 and 1616. The design incorporates some Byzantine Christian elements with traditional Islamic architecture and is considered to be the last great mosque of the classical period of Ottoman architecture.</description>
+    <name>Sultan Ahmed Mosque</name>
+    <description>The Blue Mosque was constructed between 1609 and 1616. The design incorporates some Byzantine Christian elements with traditional Islamic architecture and is considered to be the last great mosque of the classical period of Ottoman architecture.</description>
     <TimeStamp><when>2018-04-01T06:54:02Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>28.976871,41.005262</coordinates></Point>
+    <Point><coordinates>28.976653,41.005417</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-muslim</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Islam</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -84,9 +94,14 @@
     <description>Ottoman imperial mosque was built on the order of Sultan Süleyman (Süleyman the Magnificent) in 1557. It blends Islamic and Byzantine architectural elements: it combines tall minarets with large domed buildings supported by half domes in the style of Hagia Sophia. It is the second largest mosque in the city.</description>
     <TimeStamp><when>2018-05-03T12:14:26Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>28.963838,41.016242</coordinates></Point>
+    <Point><coordinates>28.963832,41.016237</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-muslim</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Islam</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -96,7 +111,11 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.97792,41.008404</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -104,9 +123,13 @@
     <description>It is a Roman aqueduct which was the major water-providing system of the Eastern Roman capital of Constantinople. Completed by Roman Emperor Valens in the late 4th century, it was maintained and used by the Byzantines and later the Ottomans, and remains one of the most important landmarks of the city.</description>
     <TimeStamp><when>2018-05-03T18:05:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>28.955934,41.015789</coordinates></Point>
+    <Point><coordinates>28.955299,41.016119</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -116,27 +139,39 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.924386,41.019272</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Galata Tower</name>
-    <description>The Romanesque style tower was built as Christea Turris (Tower of Christ) in 1348 during an expansion of the Genoese colony in Constantinople. It was the tallest building in Istanbul at 66.9 m (51.65 m at the observation deck) when it was built. The upper section of the tower was modified in several restorations during the Ottoman period when it was used as an observation tower for spotting fires.</description>
-    <TimeStamp><when>2018-05-03T20:03:26Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>28.974185,41.025627</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Rumeli Hisari</name>
     <description>Rumelian Castle is a medieval fortress built between 1451 and 1452 on the orders of Ottoman Sultan Mehmed II. After the Ottoman conquest of the city of Constantinople, Rumelihisarı served as a customs checkpoint and occasional prison.</description>
+    <TimeStamp><when>2018-05-03T20:03:26Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>29.056486,41.085097</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle-defensive</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Galata Tower</name>
+    <description>The Romanesque style tower was built as Christea Turris (Tower of Christ) in 1348 during an expansion of the Genoese colony in Constantinople. It was the tallest building in Istanbul at 66.9 m (51.65 m at the observation deck) when it was built. The upper section of the tower was modified in several restorations during the Ottoman period when it was used as an observation tower for spotting fires.</description>
     <TimeStamp><when>2018-05-03T20:47:19Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>29.055801,41.084715</coordinates></Point>
+    <Point><coordinates>28.974218,41.025646</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -146,7 +181,12 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>28.969962,41.01011</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-marketplace</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -156,26 +196,41 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>28.971142,41.016139</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-marketplace</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Havabus Airport Bus</name>
-    <description>15 TRY</description>
+    <description>Bus to/from SAW (Sabiha Gökçen), run every 30 min, 37.5 liras (pay in the bus).</description>
     <TimeStamp><when>2018-05-06T06:47:46Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.984861,41.04107</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Eminonu</name>
+    <name>Eminönü</name>
     <TimeStamp><when>2018-05-06T07:32:13Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.970437,41.018827</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-ferry_terminal</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -184,16 +239,55 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>29.006228,41.066525</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Craft Beer Lab</name>
     <TimeStamp><when>2018-05-06T12:12:04Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>29.002985,41.042327</coordinates></Point>
+    <Point><coordinates>29.002993,41.042326</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>A Hidden Bee</name>
+    <TimeStamp><when>2022-03-10T17:47:54Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>28.97741,41.028099</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-clothes</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ehlitat Lokantasi</name>
+    <TimeStamp><when>2022-03-11T16:13:08Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>28.978295,41.035318</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-turkish</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
 </Document>
