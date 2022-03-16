@@ -30,6 +30,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 1. Dostoevsky in Saint Petersburg ✻ — 76
 1. Dublin — 20
 1. France — 6
+1. Hemingway in Istanbul ✻ — 6
 1. Hemingway in Paris ✻ — 66
 1. Hemingway in Spain ✻ — 60
 1. Istanbul — 16
@@ -67,6 +68,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 1. Места княза Кропоткина ✻ — 10
 1. Хемингуэй в Испании ✻ — 60
 1. Хемингуэй в Париже ✻ — 66
+1. Хемингуэй в Стамбуле ✻ — 6
 
 ## ✻ References
 
@@ -88,6 +90,9 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 ### «Dostoevsky in Saint Petersburg» based on:
 * [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)
 * [Photo album](https://yadi.sk/a/KT-mFoCy_pef4g)
+
+### «Hemingway in Istanbul» based on:
+* [My own research]()
 
 ### «Hemingway in Paris» based on:
 * [My own research](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0?source=friends_link&sk=a3eaecf784f6ba3324830efd1291cb64)
@@ -117,3 +122,6 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 
 ### «Хемингуэй в Париже» based on:
 * [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-parije-60603281973e17400a79da2b)
+
+### «Хемингуэй в Стамбуле» based on:
+* [Собственное исследование]()
