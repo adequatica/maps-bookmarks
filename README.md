@@ -23,7 +23,6 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 1. Berlin — 48
 1. Bowie in Berlin ✻ — 10
 1. Bratislava — 10
-1. Constructivism in Leningrad ✻ — 48
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
@@ -65,6 +64,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 1. Yaroslavl — 10
 1. Zurich — 6
 1. Достоевский в Петербурге ✻ — 76
+1. Конструктивизм в Ленинграде ✻ — 48
 1. Места княза Кропоткина ✻ — 10
 1. Хемингуэй в Испании ✻ — 60
 1. Хемингуэй в Париже ✻ — 66
@@ -76,16 +76,6 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 * [The Berlin landmarks that inspired Bowie](https://www.ft.com/content/b20113b0-8753-11e3-9c5c-00144feab7de)
 * [A tour of Bowie’s Berlin years](https://fotostrasse.com/david-bowies-berlin/)
 * [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
-
-### «Constructivism in Leningrad» based on articles:
-* Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «Коло», 2018
-* [Авангард в архитектуре Ленинграда](https://ru.wikipedia.org/wiki/Авангард_в_архитектуре_Ленинграда)
-* [Архитектурный стиль Конструктивизм. Архитектурный сайт Санкт-Петербурга](https://www.citywalls.ru/search-archstyle300.html)
-* [Overshadowed by palaces: A guide to Leningrad Constructivism](https://strelkamag.com/en/article/guide-to-petersburg-konstruktivism)
-* [Раннесоветская архитектура авангарда на Нарвской](https://www.the-village.ru/city/route/385889-narvskaya)
-* [Неконструктивная стратегия](http://story.dp.ru/constructivism )
-* [Ленинградский конструктивизм. Мечта о социалистической утопии 90 лет спустя](https://les.media/articles/657756-leningradskiy-konstruktivizm)
-* [Фото альбом](https://yadi.sk/a/tkwa_Q-HeQO03g)
 
 ### «Dostoevsky in Saint Petersburg» based on:
 * [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)
@@ -113,6 +103,16 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 ### «Достоевский в Петербурге» based on:
 * Собственное исследование: [часть 1](https://telegra.ph/Dostoevskij-v-Peterburge-04-22) и [часть 2](https://telegra.ph/Dostoevskij-v-Peterburge-04-22-2)
 * [Фото альбом](https://yadi.sk/a/KT-mFoCy_pef4g)
+
+### «Конструктивизм в Ленинграде» based on articles:
+* Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «Коло», 2018
+* [Авангард в архитектуре Ленинграда](https://ru.wikipedia.org/wiki/Авангард_в_архитектуре_Ленинграда)
+* [Архитектурный стиль Конструктивизм. Архитектурный сайт Санкт-Петербурга](https://www.citywalls.ru/search-archstyle300.html)
+* [Overshadowed by palaces: A guide to Leningrad Constructivism](https://strelkamag.com/en/article/guide-to-petersburg-konstruktivism)
+* [Раннесоветская архитектура авангарда на Нарвской](https://www.the-village.ru/city/route/385889-narvskaya)
+* [Неконструктивная стратегия](http://story.dp.ru/constructivism )
+* [Ленинградский конструктивизм. Мечта о социалистической утопии 90 лет спустя](https://les.media/articles/657756-leningradskiy-konstruktivizm)
+* [Фото альбом](https://yadi.sk/a/tkwa_Q-HeQO03g)
 
 ### «Места княза Кропоткина» based on:
 * [Собственное исследование](https://telegra.ph/Mesta-knyazya-Kropotkina-04-22)
