@@ -82,7 +82,7 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 * [Photo album](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Hemingway in Istanbul» based on:
-* [My own research]()
+* [My own research](https://adequatica.medium.com/hemingway-in-istanbul-9e8f4fc3e6bf?source=friends_link&sk=b4df8f13335b7d4fd9fb42dee5be290e)
 
 ### «Hemingway in Paris» based on:
 * [My own research](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0?source=friends_link&sk=a3eaecf784f6ba3324830efd1291cb64)
