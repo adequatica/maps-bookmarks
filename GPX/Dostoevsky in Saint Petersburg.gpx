@@ -19,7 +19,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Velchaninov meets Trusotsky: «he met for the first time, on the street, somewhere at the corner of Podyacheskaya and Meshchanskaya, a gentleman with a crape on his hat». But in reality (today Bolshaya Podyachnaya and Kazanskaya streets) these streets do not intersect!, because they are located on different sides of the Griboyedov Canal.</desc>
+  <desc>Velchaninov meets Trusotsky: «he met for the first time, on the street, somewhere at the corner of Podyacheskaya and Meshchanskaya, a gentleman with a crape on his hat». But in real life (today Bolshaya Podyachnaya and Kazanskaya streets) these streets do not intersect!, because they are located on different sides of the Griboyedov Canal.</desc>
 </wpt>
 <wpt lat="59.936186" lon="30.319658">
   <name>74. Police Bridge (Green Bridge)</name>
@@ -46,7 +46,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Dostoevsky didn’t name a station, but this is the only railway station that the heroes of the novel «Idiot» could go to Pavlovsk.</desc>
+  <desc>Dostoevsky did not name a station, but this is the only railway station that the heroes of the novel «Idiot» could go to Pavlovsk. By the way, this is the first railway station built in Russia (1837).</desc>
 </wpt>
 <wpt lat="59.944578" lon="30.335094">
   <name>71. Summer Garden</name>
@@ -130,7 +130,7 @@
   <desc>A side street where Raskolnikov met prostitutes.</desc>
 </wpt>
 <wpt lat="59.921846" lon="30.305794">
-  <name>62. Police Department**</name>
+  <name>62. Police Department</name>
   <time>2019-05-19T09:00:02Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -139,7 +139,7 @@
   <desc>According to one version Raskolnikov talked with Porfiriy Petrovich in the former Spasskaya police station. According to another version their talk took place in the former Kazan police station (Naberezhnaya Kanala Griboyedova, 99).</desc>
 </wpt>
 <wpt lat="59.927015" lon="30.300737">
-  <name>61. Police Department*</name>
+  <name>61. Police Department</name>
   <time>2019-05-19T09:10:01Z</time>
   <extensions>
     <color>#607d8b</color>
@@ -154,7 +154,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>Raskolnikov hid stolen things and the wallet from the murdered old lady under a stone in this courtyard. The courtyard doesn't exist, the house in this place was rebuilt in 1950.</desc>
+  <desc>Raskolnikov hid stolen things and the wallet from the murdered old lady under a stone in this courtyard. The courtyard does not exist, the house in this place was rebuilt in 1950.</desc>
 </wpt>
 <wpt lat="59.927711" lon="30.316414">
   <name>59. Pereulok Grivtsova</name>
@@ -406,7 +406,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>March 1873 – May 1874. Moved to a place closer to the publishing house of «The Citizen» magazine, started working on the novel «The Adolescent». He didn’t like the owner of the house and the noise on the street.</desc>
+  <desc>March 1873 – May 1874. Moved to a place closer to the publishing house of «The Citizen» magazine, started working on the novel «The Adolescent». He did not like the owner of the house and the noise on the street.</desc>
 </wpt>
 <wpt lat="59.915092" lon="30.311606">
   <name>31. Mebes House (the old house was completely rebuilt)</name>
@@ -460,7 +460,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>8–9 July 1871. According to the memoirs of Anna Grigorievna Dostoevskaya, after returning from abroad «we stayed at a hotel on the Bolshaya Konyushennaya, but only for two days. It was inconvenient and expensive». The address is assumed, because they could also stay at the hotel «Demut»**.</desc>
+  <desc>8–9 July 1871. According to the memoirs of Anna Grigorievna Dostoevskaya, after returning from abroad «we stayed at a hotel on the Bolshaya Konyushennaya, but only for two days. It was inconvenient and expensive». The address is assumed, because they could also stay at the hotel «Demut».</desc>
 </wpt>
 <wpt lat="59.91647" lon="30.305851">
   <name>25. Trinity Cathedral</name>
@@ -487,7 +487,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>1860’s. The Dostoevskys visited their close literary friend Apollon Nikolayevich Maykov in his apartments, for example, according to the memoirs of Annd Dostoevskaya: «In the evening of this day, we were invited to spend the evening with the Maykovs. Knowing this, our guests left immediately after dinner.»</desc>
+  <desc>1860’s. The Dostoevskys visited their close literary friend Apollon Nikolayevich Maykov in his apartments, for example, according to the memoirs of Annd Dostoevskaya: «In the evening of this day, we were invited to spend the evening with the Maykovs. Knowing this, our guests left immediately after dinner».</desc>
 </wpt>
 <wpt lat="59.943114" lon="30.389521">
   <name>22. Kostromskaya Ulitsa</name>
@@ -496,7 +496,7 @@
     <color>#607d8b</color>
   </extensions>
   <type>73</type>
-  <desc>3 november 1866. The first time he visited the apartment of his second wife Anna Grigoryevna Snitkina: «And I’ve been looking for you since seven o’clock. I went around the neighborhood and asked everybody. Everyone knows that there is a Kostromskaya street here, but they can’t tell you how to get into it.»</desc>
+  <desc>3 november 1866. The first time he visited the apartment of his second wife Anna Grigoryevna Snitkina: «And I’ve been looking for you since seven o’clock. I went around the neighborhood and asked everybody. Everyone knows that there is a Kostromskaya street here, but they ca not tell you how to get into it».</desc>
 </wpt>
 <wpt lat="59.927069" lon="30.312774">
   <name>21. Alonkin House</name>

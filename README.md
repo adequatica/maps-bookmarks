@@ -111,11 +111,11 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 * [My own research](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
 
 ### «Достоевский в Петербурге» based on:
-* [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/dostoevskii-v-peterburge-5e4a7fa7cc6d233fd0f6b8cd)
+* Собственное исследование: [часть 1](https://telegra.ph/Dostoevskij-v-Peterburge-04-22) и [часть 2](https://telegra.ph/Dostoevskij-v-Peterburge-04-22-2)
 * [Фото альбом](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Места княза Кропоткина» based on:
-* [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/mesta-kniazia-kropotkina-5e46f24f5bdc2e1b307d13de)
+* [Собственное исследование](https://telegra.ph/Mesta-knyazya-Kropotkina-04-22)
 
 ### «Хемингуэй в Испании» based on:
 * [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-ispanii-61fa91c79ffea83fbe42cf37)
@@ -124,4 +124,4 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 * [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-parije-60603281973e17400a79da2b)
 
 ### «Хемингуэй в Стамбуле» based on:
-* [Собственное исследование]()
+* [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-stambule-6230ed18e6c01f3d88657643)

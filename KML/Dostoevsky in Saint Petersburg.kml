@@ -72,7 +72,7 @@
   </Placemark>
   <Placemark>
     <name>75. The intersection with Kazanskaya Street</name>
-    <description>Velchaninov meets Trusotsky: «he met for the first time, on the street, somewhere at the corner of Podyacheskaya and Meshchanskaya, a gentleman with a crape on his hat». But in reality (today Bolshaya Podyachnaya and Kazanskaya streets) these streets do not intersect!, because they are located on different sides of the Griboyedov Canal.</description>
+    <description>Velchaninov meets Trusotsky: «he met for the first time, on the street, somewhere at the corner of Podyacheskaya and Meshchanskaya, a gentleman with a crape on his hat». But in real life (today Bolshaya Podyachnaya and Kazanskaya streets) these streets do not intersect!, because they are located on different sides of the Griboyedov Canal.</description>
     <TimeStamp><when>2019-05-19T07:04:15Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.313374,59.929509</coordinates></Point>
@@ -102,7 +102,7 @@
   </Placemark>
   <Placemark>
     <name>72. Vitebsky railway station</name>
-    <description>Dostoevsky didn’t name a station, but this is the only railway station that the heroes of the novel «Idiot» could go to Pavlovsk.</description>
+    <description>Dostoevsky did not name a station, but this is the only railway station that the heroes of the novel «Idiot» could go to Pavlovsk. By the way, this is the first railway station built in Russia (1837).</description>
     <TimeStamp><when>2019-05-19T07:20:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.329462,59.919634</coordinates></Point>
@@ -222,7 +222,7 @@
   </Placemark>
   <Placemark>
     <name>60. Raskolnikov’s Stash</name>
-    <description>Raskolnikov hid stolen things and the wallet from the murdered old lady under a stone in this courtyard. The courtyard doesn't exist, the house in this place was rebuilt in 1950.</description>
+    <description>Raskolnikov hid stolen things and the wallet from the murdered old lady under a stone in this courtyard. The courtyard does not exist, the house in this place was rebuilt in 1950.</description>
     <TimeStamp><when>2019-05-19T09:20:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.307901,59.930826</coordinates></Point>
@@ -502,7 +502,7 @@
   </Placemark>
   <Placemark>
     <name>32. Slivchansky House</name>
-    <description>March 1873 – May 1874. Moved to a place closer to the publishing house of «The Citizen» magazine, started working on the novel «The Adolescent». He didn’t like the owner of the house and the noise on the street.</description>
+    <description>March 1873 – May 1874. Moved to a place closer to the publishing house of «The Citizen» magazine, started working on the novel «The Adolescent». He did not like the owner of the house and the noise on the street.</description>
     <TimeStamp><when>2019-05-19T13:40:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.362694,59.934254</coordinates></Point>
@@ -551,7 +551,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>27. Demut Hotel** (the old house was rebuilt)</name>
+    <name>27. Demut Hotel (the old house was rebuilt)</name>
     <description>8-9 July 1871. The hotel’s address is unknown to the biographers, but probably Dostoevskys could live here for two days after returning from abroad.</description>
     <TimeStamp><when>2019-05-19T14:30:27Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -561,8 +561,8 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>26. Volkov Hotel* (the old house did not preserved)</name>
-    <description>8–9 July 1871. According to the memoirs of Anna Grigorievna Dostoevskaya, after returning from abroad «we stayed at a hotel on the Bolshaya Konyushennaya, but only for two days. It was inconvenient and expensive». The address is assumed, because they could also stay at the hotel «Demut»**.</description>
+    <name>26. Volkov Hotel (the old house did not preserved)</name>
+    <description>8–9 July 1871. According to the memoirs of Anna Grigorievna Dostoevskaya, after returning from abroad «we stayed at a hotel on the Bolshaya Konyushennaya, but only for two days. It was inconvenient and expensive». The address is assumed, because they could also stay at the hotel «Demut».</description>
     <TimeStamp><when>2019-05-19T14:40:26Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.322683,59.937643</coordinates></Point>
@@ -592,7 +592,7 @@
   </Placemark>
   <Placemark>
     <name>23. Derzhavin/Kukanovs/Adam House</name>
-    <description>1860’s. The Dostoevskys visited their close literary friend Apollon Nikolayevich Maykov in his apartments, for example, according to the memoirs of Annd Dostoevskaya: «In the evening of this day, we were invited to spend the evening with the Maykovs. Knowing this, our guests left immediately after dinner.»</description>
+    <description>1860’s. The Dostoevskys visited their close literary friend Apollon Nikolayevich Maykov in his apartments, for example, according to the memoirs of Annd Dostoevskaya: «In the evening of this day, we were invited to spend the evening with the Maykovs. Knowing this, our guests left immediately after dinner».</description>
     <TimeStamp><when>2019-05-19T15:02:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.310687,59.923974</coordinates></Point>
@@ -602,7 +602,7 @@
   </Placemark>
   <Placemark>
     <name>22. Kostromskaya Ulitsa</name>
-    <description>3 november 1866. The first time he visited the apartment of his second wife Anna Grigoryevna Snitkina: «And I’ve been looking for you since seven o’clock. I went around the neighborhood and asked everybody. Everyone knows that there is a Kostromskaya street here, but they can’t tell you how to get into it.»</description>
+    <description>3 november 1866. The first time he visited the apartment of his second wife Anna Grigoryevna Snitkina: «And I’ve been looking for you since seven o’clock. I went around the neighborhood and asked everybody. Everyone knows that there is a Kostromskaya street here, but they ca not tell you how to get into it».</description>
     <TimeStamp><when>2019-05-19T15:03:22Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.389521,59.943114</coordinates></Point>
@@ -752,7 +752,7 @@
   </Placemark>
   <Placemark>
     <name>07. Lerche Restaurant</name>
-    <description>Celebrate graduation from the Main Engineering School in Lerche’s restaurant on June 30th 1843.</description>
+    <description>Celebrated graduation from the Main Engineering School in Lerche’s restaurant on June 30th 1843.</description>
     <TimeStamp><when>2019-05-19T17:30:07Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.347131,59.933269</coordinates></Point>
