@@ -6,7 +6,7 @@ I have been using [maps.me](https://maps.me) app during all my travels since 201
 
 Now I am using [Organic Maps](https://organicmaps.app).
 
-[KML files can be converted to GPX](https://github.com/enotramone/mmkml2gpx) to be able to import bookmarks into other: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
+[KML files can be converted to GPX](https://github.com/enotramone/mmkml2gpx) to be able to import bookmarks into other apps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
 
 ## Map legend
 
@@ -30,11 +30,12 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Cyprus — 8
 1. Dostoevsky in Saint Petersburg ✻ — 76
 1. Dublin — 20
+1. Fethiye — 20
 1. France — 6
 1. Hemingway in Istanbul ✻ — 6
 1. Hemingway in Paris ✻ — 66
 1. Hemingway in Spain ✻ — 60
-1. Istanbul — 16
+1. Istanbul — 26
 1. Kaliningrad — 12
 1. Leningrad Oblast — 18
 1. Montenegro — 30
@@ -49,6 +50,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Places Where Peter Kropotkin Was in Russia ✻ — 10
 1. Portugal — 60
 1. Prague — 18
+1. Rhodes — 8
 1. Rome — 28
 1. Saint Petersburg — 58
 1. Serbia — 32
