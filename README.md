@@ -118,10 +118,10 @@ Now I am using [Organic Maps](https://organicmaps.app). And additionally [conver
 * [Собственное исследование](https://telegra.ph/Mesta-knyazya-Kropotkina-04-22)
 
 ### «Хемингуэй в Испании» based on:
-* [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-ispanii-61fa91c79ffea83fbe42cf37)
+* Собственное исследование: [часть 1](https://telegra.ph/Heminguehj-v-Ispanii-04-24) и [часть 2](https://telegra.ph/Heminguehj-v-Ispanii-04-24-2)
 
 ### «Хемингуэй в Париже» based on:
-* [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-parije-60603281973e17400a79da2b)
+* Собственное исследование: [часть 1](https://telegra.ph/Heminguehj-v-Parizhe-04-24) и [часть 2](https://telegra.ph/Heminguehj-v-Parizhe-04-24-2)
 
 ### «Хемингуэй в Стамбуле» based on:
-* [Собственное исследование](https://zen.yandex.ru/media/id/5e450a69080a7476f0b7b278/heminguei-v-stambule-6230ed18e6c01f3d88657643)
+* [Собственное исследование](https://telegra.ph/Heminguehj-v-Stambule-04-24)
