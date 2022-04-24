@@ -60,7 +60,7 @@
   <name>Bowie in Berlin</name>
   <visibility>0</visibility>
   <Placemark>
-    <name>David Bowie's apartment</name>
+    <name>David Bowie’s apartment</name>
     <description>David Bowie moved in an apartment on Hauptstrasse 155 in Schönenerg in 1976 and recorded Berlin Trilogy: Low (1977), "Heroes" (1977) and Lodger (1979).</description>
     <TimeStamp><when>2017-03-18T12:14:56Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -121,7 +121,7 @@
   </Placemark>
   <Placemark>
     <name>Forsthaus Paulsborn</name>
-    <description>It is one of the Berlin's most atmospheric hidden restaurants. David Bowie was there once on Christmas.</description>
+    <description>It is one of the Berlin’s most atmospheric hidden restaurants. David Bowie was there once on Christmas.</description>
     <TimeStamp><when>2017-03-18T17:17:34Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.256204,52.466371</coordinates></Point>
@@ -131,7 +131,7 @@
   </Placemark>
   <Placemark>
     <name>SO36</name>
-    <description>The Berlin's version of New York's CBGB.</description>
+    <description>The Berlin’s version of New York’s CBGB.</description>
     <TimeStamp><when>2017-03-18T18:17:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.422162,52.500391</coordinates></Point>
@@ -151,7 +151,7 @@
   </Placemark>
   <Placemark>
     <name>Bösebrücke</name>
-    <description>The place where the wall fell back in 1989 and part of the lyrics of David Bowie's song «Where are we now?»</description>
+    <description>The place where the wall fell back in 1989 and part of the lyrics of David Bowie’s song «Where are we now?»</description>
     <TimeStamp><when>2017-03-18T23:12:44Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.398164,52.554737</coordinates></Point>

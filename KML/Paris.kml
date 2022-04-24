@@ -69,7 +69,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Arc de Triomphe de l'Étoile</name>
+    <name>Arc de Triomphe de l’Étoile</name>
     <TimeStamp><when>2015-05-10T09:16:58Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>2.2950255,48.873784</coordinates></Point>

@@ -125,7 +125,7 @@
   </Placemark>
   <Placemark>
     <name>Kronborg Castle</name>
-    <description>Renaissance castles immortalized as Elsinore in William Shakespeare's play Hamlet.</description>
+    <description>Renaissance castles immortalized as Elsinore in William Shakespeare’s play Hamlet.</description>
     <TimeStamp><when>2017-03-13T20:53:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>12.621747,56.038865</coordinates></Point>

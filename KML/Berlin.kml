@@ -135,7 +135,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Former Hitler's Bunker</name>
+    <name>Former Hitler’s Bunker</name>
     <description>Nothing remains, only an information sign and parking.</description>
     <TimeStamp><when>2015-11-05T09:12:13Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -361,7 +361,7 @@
   </Placemark>
   <Placemark>
     <name>Baumhaus an der Mauer</name>
-    <description>Guerrilla garden started in the 80's right by the Wall now stands on the border between Kreuzberg and Mitte.</description>
+    <description>Guerrilla garden started in the 80’s right by the Wall now stands on the border between Kreuzberg and Mitte.</description>
     <TimeStamp><when>2015-11-05T13:16:38Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>13.427011,52.505892</coordinates></Point>
@@ -449,7 +449,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Mustafa's Gemüse Kebap</name>
+    <name>Mustafa’s Gemüse Kebap</name>
     <description>The most popular kebabs in all Europe, the long queue stands all day.</description>
     <TimeStamp><when>2015-11-05T14:44:11Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
@@ -490,7 +490,7 @@
   </Placemark>
   <Placemark>
     <name>Heidenpeters</name>
-    <description>Microbrewery in the corner on a farmer's fair.</description>
+    <description>Microbrewery in the corner on a farmer’s fair.</description>
     <TimeStamp><when>2015-11-05T15:20:49Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>13.431372,52.502049</coordinates></Point>
@@ -510,7 +510,7 @@
   </Placemark>
   <Placemark>
     <name>Am Lokdepot</name>
-    <description>The radiant red residential block, it's clear what qualities make a good building.</description>
+    <description>The radiant red residential block, it’s clear what qualities make a good building.</description>
     <TimeStamp><when>2015-11-05T15:44:31Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>13.373423,52.486921</coordinates></Point>

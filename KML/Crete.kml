@@ -61,7 +61,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Koules</name>
-    <description>The fortress is first attested in the early 13th century and was built to protect the Venetian harbour. It predates the second Venetian fortifications around the city and acquired its final form over the period 1523-1540, in replacement of an older fortress destroyed by earthquakes.</description>
+    <description>The fortress is first attested in the early 13th century and was built to protect the Venetian harbour. It predates the second Venetian fortifications around the city and acquired its final form over the period 1523–1540, in replacement of an older fortress destroyed by earthquakes.</description>
     <TimeStamp><when>2017-10-17T05:41:21Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>25.137115,35.344532</coordinates></Point>
@@ -71,7 +71,7 @@
   </Placemark>
   <Placemark>
     <name>Knossos Palace</name>
-    <description>The centre of Minoan civilisation and the scene of thrilling legends, such as the myth of the Labyrinth with the Minotaur. The earliest traces of inhabitation in the area of the palace go back to the Neolithic period (7000-3000 BC) and continued to be occupied in the Pre-Palace period (3000-1900 BC), at the end of which the area was leveled for the erection of a large palace. This first palace was destroyed, probably by an earthquake, about 1700 BC. The second larger palace was built on the ruins of the old one. It was partially destroyed about 1450 BC and abandoned at some unknown time at the end of the Late Bronze Age (1380-1100 BC). Extensive excavation and reconstruction of the site began in 1900 and continued for 35 years by the English archaeologist Sir Arthur Evans.</description>
+    <description>The centre of Minoan civilisation and the scene of thrilling legends, such as the myth of the Labyrinth with the Minotaur. The earliest traces of inhabitation in the area of the palace go back to the Neolithic period (7000–3000 BC) and continued to be occupied in the Pre-Palace period (3000–1900 BC), at the end of which the area was leveled for the erection of a large palace. This first palace was destroyed, probably by an earthquake, about 1700 BC. The second larger palace was built on the ruins of the old one. It was partially destroyed about 1450 BC and abandoned at some unknown time at the end of the Late Bronze Age (1380–1100 BC). Extensive excavation and reconstruction of the site began in 1900 and continued for 35 years by the English archaeologist Sir Arthur Evans.</description>
     <TimeStamp><when>2017-10-17T05:43:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>25.162947,35.29808</coordinates></Point>

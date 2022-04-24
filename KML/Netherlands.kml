@@ -116,7 +116,7 @@
   </Placemark>
   <Placemark>
     <name>Bar le Duc</name>
-    <description>Brouwerij 't Kolleke, try homemade triple.</description>
+    <description>Brouwerij ’t Kolleke, try homemade triple.</description>
     <TimeStamp><when>2017-07-18T19:07:04Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>5.3003361,51.689774</coordinates></Point>
@@ -134,7 +134,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Citadel 's-Hertogenbosch</name>
+    <name>Citadel ’s-Hertogenbosch</name>
     <TimeStamp><when>2017-07-18T20:46:04Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>5.3031899,51.695138</coordinates></Point>
@@ -143,7 +143,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>'s-Hertogenbosch</name>
+    <name>’s-Hertogenbosch</name>
     <TimeStamp><when>2017-07-18T21:18:20Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>5.2937083,51.690517</coordinates></Point>

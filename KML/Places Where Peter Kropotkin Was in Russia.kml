@@ -112,7 +112,7 @@
   </Placemark>
   <Placemark>
     <name>05. Kazarmenny Lane</name>
-    <description>Kropotkin attended the Circle of Tchaikovsky: «I was in the “Literary Committee” of the circle. We met in the same apartment which was kept by Perovskaya — in Kazarmenny lane. It was not far from the Nevka river.»</description>
+    <description>Kropotkin attended the Circle of Tchaikovsky: «I was in the “Literary Committee” of the circle. We met in the same apartment which was kept by Perovskaya — in Kazarmenny lane. It was not far from the Nevka river».</description>
     <TimeStamp><when>2020-02-14T05:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.331833,59.964871</coordinates></Point>

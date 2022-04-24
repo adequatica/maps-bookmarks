@@ -118,7 +118,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>San Nicolò l'Arena</name>
+    <name>San Nicolò l’Arena</name>
     <TimeStamp><when>2020-01-04T18:59:01Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>15.080051,37.50429</coordinates></Point>

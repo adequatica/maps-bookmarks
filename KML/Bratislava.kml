@@ -98,7 +98,7 @@
   </Placemark>
   <Placemark>
     <name>Námestie Slobody</name>
-    <description>Freedom square; the square's centerpiece is the ugly Fountain of Union. It is the biggest and fountain in the whole Slovak Republic, but now is out of order.</description>
+    <description>Freedom square; the square’s centerpiece is the ugly Fountain of Union. It is the biggest and fountain in the whole Slovak Republic, but now is out of order.</description>
     <TimeStamp><when>2015-01-12T10:11:53Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>17.111708,48.152125</coordinates></Point>
