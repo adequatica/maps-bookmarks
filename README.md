@@ -4,17 +4,19 @@ For the last decade I saved almost a thousand places where I have been and wil
 
 I have been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined by the new owner and became completely unusable.
 
-Now I am using [Organic Maps](https://organicmaps.app). And additionally [converted KML files into GPX](https://github.com/enotramone/mmkml2gpx) to be able to import bookmarks to another apps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
+Now I am using [Organic Maps](https://organicmaps.app).
+
+[KML files can be converted to GPX](https://github.com/enotramone/mmkml2gpx) to be able to import bookmarks into other: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
 
 ## Map legend
 
 * Red — sightseeings;
 * Orange — cafés, restaurants, fast food;
-* Yellow (*Gray for Guru Maps*) — shops, markets, fairs;
+* Yellow — shops, markets, fairs;
 * Green — parks, botanical gardens, mountainboard parks;
 * Purple — bars or pubs;
-* Brown (*Emerald for Guru and Magenta for OsmAnd*) — craft beer bars or bootle shops and breweries;
-* Pink (*Gray for Guru and OsmAnd*) — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
+* Brown — craft beer bars or bootle shops;
+* Pink — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
 
 ## Lists of bookmarks
 
