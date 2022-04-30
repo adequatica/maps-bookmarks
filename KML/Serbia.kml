@@ -230,7 +230,7 @@
     <name>Belgrade Bus Station</name>
     <TimeStamp><when>2018-09-15T15:29:22Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>20.454401,44.810219</coordinates></Point>
+    <Point><coordinates>20.454246,44.810076</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bus_station</mwm:value>
@@ -415,7 +415,7 @@
     <name>Mazut Beer Shop</name>
     <TimeStamp><when>2021-10-23T12:59:21Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>19.842133,45.257904</coordinates></Point>
+    <Point><coordinates>19.842128,45.257911</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-alcohol</mwm:value>
@@ -454,19 +454,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Mileva Maric Einstein House</name>
-    <TimeStamp><when>2022-03-06T11:26:14Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.840997,45.26206</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>building</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Зелени Венац</name>
     <description>Finish stop of bus 72 from airport, 45 min, 150 dinars.</description>
     <TimeStamp><when>2022-03-06T23:17:25Z</when></TimeStamp>
@@ -492,21 +479,6 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Lulu Pekare</name>
-    <description>Fancy bakery.</description>
-    <TimeStamp><when>2022-03-09T11:14:15Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.462437,44.815821</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>shop-bakery</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Shop</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
