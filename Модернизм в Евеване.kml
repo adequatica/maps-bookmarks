@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Модернизм в Евеване</name>
+  <visibility>0</visibility>
+  <description>### «Soviet Modernism in Yerevan» based on articles:
+* [Модернизм Еревана: 10 важных зданий](https://34travel.me/post/modernizm-erevana)
+* [Архитектура Армении в стиле модернизма](https://journal.tinkoff.ru/list/modern-erevan/)
+* [Guide to Yerevan Soviet Architecture](https://www.mywanderlust.pl/yerevan-soviet-architecture/)
+* [Ереван — Полюбить советскую архитектуру](https://sovietarch.strelka.com/ru/city/yerevan) / [A guide to Soviet modernism in Yerevan](https://strelkamag.com/en/article/yerevan-modernism)
+* [Железный фонтан, дом шахмат и другие чудесные памятники армянского модернизма](https://daily.afisha.ru/cities/3822-zheleznyy-fontan-dom-shahmat-i-drugie-udivitelnye-postroyki-armyanskogo-moderni/)
+* [Фото альбом]()</description>
+  <Placemark>
+    <name>Дом 1/3 на улице Павстоса Бузанда</name>
+    <description>Это, должно быть, поздний советский модернизм.</description>
+    <TimeStamp><when>2022-04-24T16:48:39Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.51718,40.17563</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом-музей Арама Хачатуряна</name>
+    <description>1982, Эдуард Алтунян. Модернистский фасад поверх особняка, где когда-то проживал старший брат композитора Вагинак вместе со своей семьей, где часто останавливался сам Арам Хачатурян.</description>
+    <TimeStamp><when>2022-04-23T06:04:57Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.513347,40.190266</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>«Бочки»</name>
+    <description>1980-е, Джим Торосян и Геворг Арамян. Композиция из пяти глухих цилиндрических форм, расположенных вдоль улицы Сарьяна, изначально строилась для музея современного искусства. Сейчас в зданиях расположились галлереи.</description>
+    <TimeStamp><when>2022-04-20T19:30:36Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.505255,40.179809</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Забор на улице Пароняна</name>
+    <description>Начало 1980-х, Эдуард Тангян. Бетонный забор стал визитной карточкой архитектора Эдуарда Тангяна. Его длина ~ 300 метров, он идет от перекрестка улиц Прошяна и Пароняна (с этой стороны его запрещено фотографировать из-за охраняемого объекта за оградой) до отеля «Раздан».</description>
+    <TimeStamp><when>2022-04-19T19:15:45Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.504549,40.186613</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>barrier-wall</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Спортивно-концертный комплекс имени Карена Демирчяна</name>
+    <description>1980–1983, Артур Тарханян, Грач Погосян, Спартак Хачикян и Гурген Мушегян. Комплекс начали проектировать еще в 1976 году, но из-за пожара после открытия последовала реконструкция, которая завершилась к концу 1987 году. Фасад здания украшает массивный барельеф из оранжевого вулканического туфа.</description>
+    <TimeStamp><when>2022-04-19T19:08:16Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.483385,40.188201</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Вестибюль станции метро «Площадь Республики»</name>
+    <description>1981, Джим Торосян и Мкртыч Минасян.</description>
+    <TimeStamp><when>2022-04-19T19:33:15Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.516016,40.178612</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fountain</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Water</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Станция метро «Еритасардакян»</name>
+    <description>1972 — 7 марта 1981, Спартак Кнтехцян, Альберт Зурабян и Илья Манучарян.</description>
+    <TimeStamp><when>2022-04-19T17:59:58Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.521222,40.1872</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station-subway</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Станция метро «Маршал Баграмян»</name>
+    <description>Открыта 7 марта 1981, Спартак Кнтехцян и Альберт Зурабян. «С проспекта Баграмяна можно увидеть только его как бы парящий над землёй массивный козырёк, сделанный из составных сечений. Объём вестибюля симметрично разделён на две части промежуточным мостиком. Он связывает парк и проспект и расположен прямо по центральной оси президентского дома, создавая тем самым контрастный диалог между модернизмом и классицизмом».</description>
+    <TimeStamp><when>2022-04-21T17:42:25Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.506025,40.191643</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station-subway</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Аэропорта «Звартноц»</name>
+    <description>1971–1980, Артур Тарханян, Спартак Хачикян и Левон Черкезян. Сейчас здание законсервировано, а с начала 2000-х пассажиров обслуживает новый терминал.</description>
+    <TimeStamp><when>2022-04-22T19:41:55Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.397491,40.152847</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>aeroway-terminal</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Жилой дом на улице Исраеляна</name>
+    <description>1979, Ашот Алексанян. «Ансамбль состоит из двух отдельно стоящих недалеко друг от друга массивов по три и четыре блока соответственно. Это интересные, раздробленные прямоугольные объёмы с полосатой фактурой из оранжевого туфа и светлого фельзита по всему периметру зданий».</description>
+    <TimeStamp><when>2022-04-19T17:51:45Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.501618,40.177974</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Национальный центр камерной музыки имени Комитаса</name>
+    <description>1977, Степан Кюркчян.</description>
+    <TimeStamp><when>2022-04-19T19:22:31Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.523208,40.185418</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-theatre</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>9-й корпус политехнического университета Армении</name>
+    <description>1976, Арташес Мамиджанян.</description>
+    <TimeStamp><when>2022-04-19T19:09:42Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.521561,40.19014</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-university</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Бывшая международная телефонная станция</name>
+    <description>1972–1976, Армен Агалян и Григорий Григорян.</description>
+    <TimeStamp><when>2022-04-19T19:07:18Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.530508,40.209622</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Кинотеатр «Россия»</name>
+    <description>1971–1974, Грач Погосян, Артур Тарханян и Спартак Хачикян. В 80-е «Россия» была самым большим кинотеатром в Армении — состояла из трёх залов на 1600, 1000 и 280 мест, которые размещались в двух изогнутых крыльях. После распада Союза кинотеатр пришел в запустение, сейчас здание отдано под торговый центр.</description>
+    <TimeStamp><when>2022-04-19T17:58:54Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.512879,40.172011</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-mall</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Жилой дом «Орбита»</name>
+    <description>1973, Левон Балаян и Мартин Товмасян. В доме на перекрёстке проспекта Маштоца с улицей Амиряна в советское время находился магазин «Орбита». «Симметричное здание из панелей, облицованных коричневым туфом, делают выразительнее белые балконы, расположенные с четырёх сторон. Здание поставлено на стилобат, углы которого были решены популярным для этого периода приёмом — вогнутыми открытыми углами».</description>
+    <TimeStamp><when>2022-04-19T17:48:53Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.507077,40.181065</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Правительственное здание № 3</name>
+    <description>1970-е.</description>
+    <TimeStamp><when>2022-04-19T19:25:53Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.516835,40.178041</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Республиканский кадастр</name>
+    <description>1970-е, Армен Агалян. «Здание представляет собой прямоугольный вытянутый объём, поставленный поперёк проспекта, который будто бы собран из ажурных панелей и поставлен на условный стилобат там, где расположен вход. Серое здание смягчается оранжевыми вставками, которые добавляют в его аскетичный облик яркие акценты. Объём стилобата имеет вытянутую горизонтальную прямоугольную форму и расположен уже не поперёк, а вдоль проспекта».</description>
+    <TimeStamp><when>2022-04-19T17:53:22Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.508101,40.207026</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Архитектурный комплекс «Каскад»</name>
+    <description>С 1971 по сегодняшний день (не достроен), Джим Торосян в соавторстве с Саркисом Гюрзадяном и Асланом Мхитаряном.</description>
+    <TimeStamp><when>2022-04-20T19:28:58Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.515651,40.1917</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Стадион «Раздан»</name>
+    <description>1970–1971, Корюн Акопян и Гурген Мушегян. Стадион построен в ущелье реки Раздан. В 1970-е годы он был домашней ареной футбольной команды «Арарат». В настоящее время находится в закрытом состоянии.</description>
+    <TimeStamp><when>2022-04-21T06:05:13Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.494669,40.180384</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>leisure-stadium</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дом шахмат имени Тиграна Петросяна</name>
+    <description>1970, Жанна Мещерякова. Первый камень в фундамент здания заложил сам двукратный чемпион мир Тигран Петросян. Фасад здания украшают семью железных шахматных фигур работы скульптора Давида Ереванци.</description>
+    <TimeStamp><when>2022-04-19T18:02:48Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.524303,40.180414</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Летний зал кинотеатра «Москва»</name>
+    <description>1966–1968, Спартак Кнтехцян и Тельман Геворгян. Считается шедевром армянского модернизма. «Особенностью кинотеатра явился его средовой характер [здание расположено за основной частью здания кинотеатра „Москва“, во дворе], что не всегда присуще модернистским композициям, часто стремящимся к доминированию в пространстве.» Сейчас находится в полузаброшенном состоянии.</description>
+    <TimeStamp><when>2022-04-19T17:55:35Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.517584,40.181768</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cinema</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Мемориальный комплекс «Цицернакаберд»</name>
+    <description>1965–1967, Сашур Калашян и Артур Тарханян. Мемориальный комплекс посвящен жертвам геноцида армян 1915 года. В центре мемориала расположен усеченный конус из 12 базальтовых плит, сбоку — 44-метровая стела в форме шпиля, который разломан на две части.</description>
+    <TimeStamp><when>2022-04-19T17:57:49Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.490505,40.185811</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-memorial</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Кардиологический центр</name>
+    <description>Вторая половина 1960-х, Джим Торосян. «Здание — уникальный пример больничной архитектуры позднесоветского периода, где весь больничный комплекс сконцентрирован в одном объёме. Изящная прямоугольная пластина центра стремится к максимальной чистоте и стерильности форм. Весь объём подчёркнут равномерными вертикальными полосами из светлого фельзитового туфа, а косые балконы на фасаде облицованы тёмным базальтом. Архитектор спроектировал и территорию перед зданием, однако ландшафтный дизайн практически не сохранился.»</description>
+    <TimeStamp><when>2022-04-19T17:45:34Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.53453,40.210605</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Жилой дом на пересечении проспекта Маштоца с улицей Сарьяна</name>
+    <description>1964, Армен Зарян. Одно из первых модернистских жилых зданий Еревана.</description>
+    <TimeStamp><when>2022-04-19T17:47:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.506077,40.180244</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Научно-исследовательский институт строительства и архитектуры</name>
+    <description>1957–1962, Мартин Микаелян. Комплекс научно-исследовательских зданий АрмНИИСА — пример применения классических форм модернизма. Сегодня находится в полузаброшенном состоянии.</description>
+    <TimeStamp><when>2022-04-21T12:21:44Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.534762,40.206337</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Станция канатной дороги</name>
+    <description>1962. В своё время канатная дорога соединяла центральное плато с районом Норк-Мараш. Сегодня находится в заброшенном состоянии.</description>
+    <TimeStamp><when>2022-04-21T17:51:50Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.527044,40.185928</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

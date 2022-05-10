@@ -68,8 +68,10 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Yaroslavl — 10
 1. Zurich — 6
 1. Достоевский в Петербурге ✻ — 76
+1. Конструктивизм в Ереване ✻ — 22
 1. Конструктивизм в Ленинграде ✻ — 48
 1. Места княза Кропоткина ✻ — 10
+1. Модернизм в Евеване ✻ — 28
 1. Хемингуэй в Испании ✻ — 60
 1. Хемингуэй в Париже ✻ — 66
 1. Хемингуэй в Стамбуле ✻ — 6
@@ -108,6 +110,10 @@ Now I am using [Organic Maps](https://organicmaps.app).
 * Собственное исследование: [часть 1](https://telegra.ph/Dostoevskij-v-Peterburge-04-22) и [часть 2](https://telegra.ph/Dostoevskij-v-Peterburge-04-22-2)
 * [Фото альбом](https://yadi.sk/a/KT-mFoCy_pef4g)
 
+### «Конструктивизм в Ереване» based on articles:
+* [Армянский конструктивизм](http://test.journals.sci.am/index.php/nuaca2/article/view/3403)
+* [The Constructivist Project](http://theconstructivistproject.com/)
+
 ### «Конструктивизм в Ленинграде» based on articles:
 * Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «Коло», 2018
 * [Авангард в архитектуре Ленинграда](https://ru.wikipedia.org/wiki/Авангард_в_архитектуре_Ленинграда)
@@ -120,6 +126,13 @@ Now I am using [Organic Maps](https://organicmaps.app).
 
 ### «Места княза Кропоткина» based on:
 * [Собственное исследование](https://telegra.ph/Mesta-knyazya-Kropotkina-04-22)
+
+### «Модернизм в Ереване» based on articles:
+* [Модернизм Еревана: 10 важных зданий](https://34travel.me/post/modernizm-erevana)
+* [14 необычных модернистских построек Еревана](https://journal.tinkoff.ru/list/modern-erevan/)
+* [Guide to Yerevan Soviet architecture](https://www.mywanderlust.pl/yerevan-soviet-architecture/)
+* [Ереван — Полюбить советскую архитектуру](https://sovietarch.strelka.com/ru/city/yerevan), [A guide to Soviet modernism in Yerevan](https://strelkamag.com/en/article/yerevan-modernism)
+* [Железный фонтан, дом шахмат и другие чудесные памятники армянского модернизма](https://daily.afisha.ru/cities/3822-zheleznyy-fontan-dom-shahmat-i-drugie-udivitelnye-postroyki-armyanskogo-moderni/)
 
 ### «Хемингуэй в Испании» based on:
 * Собственное исследование: [часть 1](https://telegra.ph/Heminguehj-v-Ispanii-04-24) и [часть 2](https://telegra.ph/Heminguehj-v-Ispanii-04-24-2)
