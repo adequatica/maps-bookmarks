@@ -301,21 +301,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Социально-экономический техникум</name>
-    <description>1931. Здание было реконструировано и полностью перестроено.</description>
-    <TimeStamp><when>2022-04-20T09:05:13Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>44.514244,40.173677</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-university</mwm:value>
-        <mwm:value>building</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Жилой дом на улице Агаяна</name>
     <description>1930-е. Здание было реконструировано c небольшими изменениями.</description>
     <TimeStamp><when>2022-04-20T08:44:31Z</when></TimeStamp>
@@ -407,20 +392,6 @@
     <TimeStamp><when>2022-04-20T02:48:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.498041,40.181573</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>building</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Баня с бассейном</name>
-    <description>1929, Николай Буаятин. Здание было реконструировано, добавились надстройки и пристройки.</description>
-    <TimeStamp><when>2022-04-20T01:46:53Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>44.51048,40.17351</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
