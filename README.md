@@ -66,6 +66,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Veliky Novgorod — 10
 1. Vienna — 10
 1. Yaroslavl — 10
+1. Yerevan — 14
 1. Zurich — 6
 1. Достоевский в Петербурге ✻ — 76
 1. Конструктивизм в Ереване ✻ — 20
