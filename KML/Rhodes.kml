@@ -201,7 +201,7 @@
     <name><![CDATA[George & Maria Art of Falafel]]></name>
     <TimeStamp><when>2022-04-09T13:29:35Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.220684,36.451319</coordinates></Point>
+    <Point><coordinates>28.220681,36.451304</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -215,7 +215,7 @@
     <name>Pizza Street 99</name>
     <TimeStamp><when>2022-04-09T16:35:53Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.224325,36.447432</coordinates></Point>
+    <Point><coordinates>28.224321,36.447321</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fast_food</mwm:value>

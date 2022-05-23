@@ -219,21 +219,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Havabus Airport Bus</name>
-    <description>Bus to/from SAW (Sabiha Gökçen) runs every 30 min, ~ 45–65 min depends on traffic, 52.5 liras (pay in the bus).</description>
-    <TimeStamp><when>2018-05-06T06:47:46Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>28.984861,41.04107</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>highway-bus_stop</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Transport</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Eminönü</name>
     <description>Bosphorus cruise tour runs every hour, ~ 1 h 45 min, 60 liras (pay in the kiosk).</description>
     <TimeStamp><when>2018-05-06T07:32:13Z</when></TimeStamp>
@@ -277,11 +262,25 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Irishpub James Joyce</name>
-    <description>Pint of Guinness = 56 liras.</description>
+    <name>A Hidden Bee</name>
+    <TimeStamp><when>2018-05-06T17:47:54Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>28.97741,41.028099</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-clothes</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Irish Pub The James Joyce</name>
+    <description>Pint of Guinness = 56 liras (March 2022).</description>
     <TimeStamp><when>2022-03-10T17:47:54Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>28.978387,41.035077</coordinates></Point>
+    <Point><coordinates>28.978451,41.035069</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -295,7 +294,7 @@
     <name>Ehlitat Lokantasi</name>
     <TimeStamp><when>2022-03-11T16:13:08Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.978295,41.035318</coordinates></Point>
+    <Point><coordinates>28.978285,41.035292</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -308,10 +307,10 @@
   </Placemark>
   <Placemark>
     <name>Bursa Kebapçisi</name>
-    <description>Authentic and calm kebap restaurant, fair prices.</description>
+    <description>Authentic and quite kebap restaurant, fair prices.</description>
     <TimeStamp><when>2022-03-12T12:43:42Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.980345,41.035535</coordinates></Point>
+    <Point><coordinates>2022-05-23T14:59:48Z</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -324,10 +323,10 @@
   </Placemark>
   <Placemark>
     <name>Lades Menemen</name>
-    <description>Different menemens = 38 liras, turkish coffee = 20 liras, chai = 5–8 liras.</description>
+    <description>Different menemens = 38 liras (March 2022).</description>
     <TimeStamp><when>2022-03-13T08:24:23Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.980843,41.034612</coordinates></Point>
+    <Point><coordinates>28.980843,41.034602</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -339,10 +338,10 @@
   </Placemark>
   <Placemark>
     <name>Balik Dürüm Mehmet Usta</name>
-    <description>Street food fish wrap = 40 liras.</description>
+    <description>Street food fish wrap = 40 liras (March 2022).</description>
     <TimeStamp><when>2022-03-14T17:07:54Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.978609,41.024434</coordinates></Point>
+    <Point><coordinates>28.978617,41.024426</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fast_food</mwm:value>
@@ -356,7 +355,7 @@
     <name>Köşkeroğlu Karaköy</name>
     <TimeStamp><when>2022-03-15T17:08:36Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.977051,41.022965</coordinates></Point>
+    <Point><coordinates>28.977491,41.023287</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -410,10 +409,9 @@
   </Placemark>
   <Placemark>
     <name>Bira Fabrikasi</name>
-    <description>Turkish craft beer «Gara Guzu» in 0.33 bottles = 60 liras.</description>
     <TimeStamp><when>2022-04-16T16:52:00Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>29.026272,40.987553</coordinates></Point>
+    <Point><coordinates>29.026283,40.987571</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -434,6 +432,34 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bus Havabüs to Sabiha Gokcen Airport (SAW)</name>
+    <TimeStamp><when>2022-05-23T15:00:27Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>28.98495,41.041064</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bus Havaist to Istanbul Airport (ITA)</name>
+    <TimeStamp><when>2022-05-23T15:00:39Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>28.985561,41.04092</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

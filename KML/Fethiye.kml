@@ -134,7 +134,7 @@
     <description>Free admission!</description>
     <TimeStamp><when>2022-03-22T11:58:10Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>29.116904,36.623053</coordinates></Point>
+    <Point><coordinates>29.116805,36.623023</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
@@ -148,7 +148,7 @@
     <name>Fethiye Börekçisi</name>
     <TimeStamp><when>2022-03-22T15:45:27Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>29.113499,36.622892</coordinates></Point>
+    <Point><coordinates>29.113527,36.622836</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-bakery</mwm:value>
@@ -176,7 +176,7 @@
     <name>Köşe Kahve</name>
     <TimeStamp><when>2022-03-24T09:45:51Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>29.117794,36.620362</coordinates></Point>
+    <Point><coordinates>29.1178,36.620353</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -201,10 +201,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Amyntas Tombs</name>
+    <name>Amyntas Rock Tombs</name>
     <TimeStamp><when>2022-03-26T10:14:05Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>29.11787,36.618618</coordinates></Point>
+    <Point><coordinates>29.117963,36.618709</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-archaeological_site</mwm:value>
@@ -246,7 +246,7 @@
     <name>Büyükev</name>
     <TimeStamp><when>2022-03-27T17:42:28Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>29.110321,36.621224</coordinates></Point>
+    <Point><coordinates>29.11026,36.621171</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -328,7 +328,7 @@
   </Placemark>
   <Placemark>
     <name>Old House</name>
-    <description>Efes draft = 40 liras.</description>
+    <description>Efes draft = 40 liras (April 2022).</description>
     <TimeStamp><when>2022-04-02T14:23:39Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>29.641533,36.199652</coordinates></Point>
@@ -345,7 +345,7 @@
     <name>Künefe Hane</name>
     <TimeStamp><when>2022-04-03T18:23:08Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>29.10923,36.620612</coordinates></Point>
+    <Point><coordinates>29.109142,36.620547</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -356,11 +356,11 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Aksam Simit Sarayi</name>
+    <name>Akşam Simit Sarayi</name>
     <description>Best simits in town.</description>
     <TimeStamp><when>2022-04-06T06:46:49Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>29.114583,36.623845</coordinates></Point>
+    <Point><coordinates>29.114557,36.623783</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-bakery</mwm:value>
@@ -374,7 +374,7 @@
     <name>Ferry</name>
     <TimeStamp><when>2022-04-08T08:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>29.105116,36.623636</coordinates></Point>
+    <Point><coordinates>29.10515,36.622846</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-ferry_terminal</mwm:value>
@@ -389,7 +389,7 @@
     <description>Expensive.</description>
     <TimeStamp><when>2022-04-11T09:43:25Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>29.12347,36.633958</coordinates></Point>
+    <Point><coordinates>29.123435,36.633835</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>

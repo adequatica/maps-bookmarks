@@ -35,7 +35,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Hemingway in Istanbul ✻ — 6
 1. Hemingway in Paris ✻ — 66
 1. Hemingway in Spain ✻ — 60
-1. Istanbul — 26
+1. Istanbul — 28
 1. Kaliningrad — 12
 1. Leningrad Oblast — 18
 1. Montenegro — 30
@@ -110,9 +110,10 @@ Now I am using [Organic Maps](https://organicmaps.app).
 * Собственное исследование: [часть 1](https://telegra.ph/Dostoevskij-v-Peterburge-04-22) и [часть 2](https://telegra.ph/Dostoevskij-v-Peterburge-04-22-2)
 * [Фото альбом](https://yadi.sk/a/KT-mFoCy_pef4g)
 
-### «Конструктивизм в Ереване» based on articles:
+### «Конструктивизм в Ереване» based on:
 * [Армянский конструктивизм](http://test.journals.sci.am/index.php/nuaca2/article/view/3403)
-* [The Constructivist Project](http://theconstructivistproject.com/)
+* Ереван на карте [The Constructivist Project](http://theconstructivistproject.com/ru/object) (только здания с сохранившемся историческим обликом)
+* [Фото альбом](https://yadi.sk/a/tVwNsgRxGDyzzw)
 
 ### «Конструктивизм в Ленинграде» based on articles:
 * Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «Коло», 2018
@@ -133,7 +134,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 * [Guide to Yerevan Soviet architecture](https://www.mywanderlust.pl/yerevan-soviet-architecture/)
 * [Ереван — Полюбить советскую архитектуру](https://sovietarch.strelka.com/ru/city/yerevan), [A guide to Soviet modernism in Yerevan](https://strelkamag.com/en/article/yerevan-modernism)
 * [Железный фонтан, дом шахмат и другие чудесные памятники армянского модернизма](https://daily.afisha.ru/cities/3822-zheleznyy-fontan-dom-shahmat-i-drugie-udivitelnye-postroyki-armyanskogo-moderni/)
-* [Фото альбом](https://disk.yandex.ru/a/qh5sKgMfLSW4zA)
+* [Фото альбом](https://yadi.sk/a/qh5sKgMfLSW4zA)
 
 ### «Хемингуэй в Испании» based on:
 * Собственное исследование: [часть 1](https://telegra.ph/Heminguehj-v-Ispanii-04-24) и [часть 2](https://telegra.ph/Heminguehj-v-Ispanii-04-24-2)
