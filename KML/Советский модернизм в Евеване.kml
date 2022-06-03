@@ -116,11 +116,52 @@
   <name>Советский модернизм в Евеване</name>
   <visibility>0</visibility>
   <Placemark>
-    <name>Дом 1/3 на улице Павстоса Бузанда</name>
-    <description>Поздний советский модернизм.</description>
-    <TimeStamp><when>2022-04-20T23:13:39Z</when></TimeStamp>
+    <name>Бизнес-центр «Цитадель»</name>
+    <description>1981–1990-е, Армен Агалян. Позднесоветский модернизм.</description>
+    <TimeStamp><when>2022-05-31T11:42:31Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>44.51718,40.17563</coordinates></Point>
+    <Point><coordinates>44.522264,40.189818</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Государственный театр песни Армении</name>
+    <description>Позднесоветский модернизм.</description>
+    <TimeStamp><when>2022-05-31T10:47:29Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.518587,40.174943</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-theatre</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Здание на улице Мовсеса Хоренаци</name>
+    <TimeStamp><when>2022-05-31T09:52:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.512111,40.171442</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Главпочтамт</name>
+    <TimeStamp><when>2022-04-20T23:10:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.505587,40.184823</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
@@ -131,6 +172,7 @@
   </Placemark>
   <Placemark>
     <name>Северный автовокзал</name>
+    <description>1980-е, Армен Агалян и Вардан Аветисян.</description>
     <TimeStamp><when>2022-04-20T23:08:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.569736,40.239506</coordinates></Point>
@@ -434,8 +476,23 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Академический театр имени Габриэла Сундукяна</name>
+    <description>1966, архитектор Размик Алавердян, скульптор Ара Арутюнян. Парадный вход скрыт от публики.</description>
+    <TimeStamp><when>2022-04-20T06:05:35Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.507473,40.173449</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cinema</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Летний зал кинотеатра «Москва»</name>
-    <description>1966–1968, Спартак Кнтехцян и Тельман Геворгян. Считается шедевром армянского модернизма. «Особенностью кинотеатра явился его средовой характер (здание расположено за основной частью здания кинотеатра „Москва“, во дворе), что не всегда присуще модернистским композициям, часто стремящимся к доминированию в пространстве.» Сейчас находится в полузаброшенном состоянии.</description>
+    <description>1966–1968, Спартак Кнтехцян и Тельман Геворгян. Считается шедевром армянского модернизма. «Особенностью кинотеатра явился его средовой характер (здание расположено за основной частью здания кинотеатра „Москва“, во дворе), что не всегда присуще модернистским композициям». Сейчас находится в полузаброшенном состоянии, обросло пристройками и скрыто от публики.</description>
     <TimeStamp><when>2022-04-20T05:55:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.517584,40.181768</coordinates></Point>
@@ -464,7 +521,7 @@
   </Placemark>
   <Placemark>
     <name>Кардиологический центр</name>
-    <description>Вторая половина 1960-х, Джим Торосян. «Здание — уникальный пример больничной архитектуры позднесоветского периода, где весь больничный комплекс сконцентрирован в одном объёме. Изящная прямоугольная пластина центра стремится к максимальной чистоте и стерильности форм. Весь объём подчёркнут равномерными вертикальными полосами из светлого фельзитового туфа, а косые балконы на фасаде облицованы тёмным базальтом. Архитектор спроектировал и территорию перед зданием, однако ландшафтный дизайн практически не сохранился.»</description>
+    <description>Вторая половина 1960-х, Джим Торосян. «Здание — уникальный пример больничной архитектуры позднесоветского периода, где весь больничный комплекс сконцентрирован в одном объёме. Изящная прямоугольная пластина центра стремится к максимальной чистоте и стерильности форм. Весь объём подчёркнут равномерными вертикальными полосами из светлого фельзитового туфа, а косые балконы на фасаде облицованы тёмным базальтом. Архитектор спроектировал и территорию перед зданием, однако ландшафтный дизайн практически не сохранился».</description>
     <TimeStamp><when>2022-04-20T03:45:34Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.53453,40.210605</coordinates></Point>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Armenia</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Garni</name>
+    <description>Языческий храм Гарни дает представление о кульновом зодчестве эллинистической Армении. Он был построен в 77 году Трдатом I, храм простоял в сохранности до XVII века и был разрушен сильным землетрясением 1679 года. В 1968–1975 годах храм, камни от которого почти полностью сохранились на месте, был восстановлен. 
+Храм является периптером. Его стены сухой кладки сложены из больших базальновых плит чистой тески. Капители ионического ордера украшены сильно рельефными иониками, а база относятся к аттическому типу. (Мурад Асратян, Очерк армянской архитектуры, 1985)</description>
+    <TimeStamp><when>2022-04-30T10:11:44Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.729839,40.112406</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Symphony of Stones</name>
+    <TimeStamp><when>2022-04-30T12:02:53Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.740101,40.114314</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-viewpoint</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Geghard</name>
+    <description>Этот уникальный комплекс наземных и пещерных сооружений был основан в IV веке, однако все существующие постройки относятся к XII–XII векам. Наземными в комплексе являются только глава церковь (1215 г.), гавит (1225–1230 гг.) и жилые здания. 
+Севернее гавита (притвора, который пристраивался к церкви с западной стороны), в толще скалы, вырублены в скале две пещерные церкви. Западную из них с почитаемым еще в языческие времена родником построил в 1233–1250 годах зодчий Галдзак. Выше находится также высеченный в скале жаматун Папака и Рузукан (1283 г.). 
+Все эти скальные памятники в интерьере повторяют архитектурные формы наземных сооружений, чем постигается стилистическое единство всего комплекса Гегердского монастыря. (Мурад Асратян, Очерк армянской архитектуры, 1985)</description>
+    <TimeStamp><when>2022-04-30T13:10:15Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.818564,40.140435</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dilijan Monument</name>
+    <description>Memorial for the 50th anniversary of Soviet Armenia. Built in 1970 by architects: Arthur Tarkhanyan, Seyran Avetisyan and Khoren Vatinyan.</description>
+    <TimeStamp><when>2022-05-02T10:18:46Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.867045,40.740969</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-memorial</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ijevan Wine Brandy Factory</name>
+    <TimeStamp><when>2022-05-02T11:01:38Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>45.13121,40.863375</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-alcohol</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Goshavank</name>
+    <description>Многие средневековые монастыри Армении были также и просветительными центрами — в них действовали скрипторий, хранились многочисленные рукописи. В связи с этим в XI–XIII веках в монастырях строились наряду со школами и библиотеки, книгохранилища. Они состояли из квадратного зала, с шатровыми перекрытием на перекрещивающихся арках, с нишами в стенах — для хранения рукописей. Такую форму имеют книгохранилища в монастыре Гошаванк (XIII в.). 
+В XII–XIV веках важными элементами архитектурных ансамблей являются хачкары. В эту эпоху опилку получили декларированные высокие пьедесталы, завершающие карнизы, богатую ажурную орнаментацию, часто с рельефами, став настоящими малыми архитектурными формами. Таковы хачкары Гошаванка (1291 г., мастер Павгос) и Агарцина. (Мурад Асратян, Очерк армянской архитектуры, 1985)</description>
+    <TimeStamp><when>2022-05-02T12:52:03Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.997356,40.729847</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Haghartsin</name>
+    <description>В дворцовых и монастырских ансамблях XII–XIII веках был построен ряд трапезных, расположенных, как правило, отдельно от основных построек. По форме они делятся на два типа — со сводчатым перекрытием и с срочно-сводчатым. Ко второму типу относятся памятники Аргацина (1248 г., зодчий Минас). (Мурад Асратян, Очерк армянской архитектуры, 1985)</description>
+    <TimeStamp><when>2022-05-02T13:16:09Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.890661,40.801847</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>House of Writers</name>
+    <description>Architecture (recreation center) by Gevorg Kochar and Mikael Mazmanyan, 1932. A modernist-style canteen was added in 1964.</description>
+    <TimeStamp><when>2022-05-02T14:53:04Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>45.011924,40.562742</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gyumri</name>
+    <TimeStamp><when>2022-05-07T10:22:31Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>43.860237,40.787608</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Basturma shop & grill bar]]></name>
+    <TimeStamp><when>2022-05-07T14:23:17Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>43.840721,40.78904</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Herbs and Honey</name>
+    <TimeStamp><when>2022-05-08T07:10:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>43.843744,40.786349</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Black Fortress</name>
+    <TimeStamp><when>2022-05-08T10:27:55Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.825299,40.782425</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Iron Fountain</name>
+    <description>Architecture by Artur Tarkhanyan, 1982.</description>
+    <TimeStamp><when>2022-05-08T12:24:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.849887,40.815674</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-artwork</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Khor Virap</name>
+    <description>В потерявшей независимость стране, где не было возможность строить крепости для самообороны в XVII–XVIII веках, монастыри служили целям обороны и защиты окрестного населения во время непрерывных войн и набегов. Характерным примером монастыря-крепости является простоенный в XVII монастырский комплекс Хор-Вирап. 
+В монастыре есть две церкви, влавная, купольная, стоит в центре композиции, а вторая — типа «сводчатый зал» находится в одном ряду с гражданскими постройками, не выделяясь из общей застройки. Церковь Хор-Вирапа имеет характерную для купольных залов XI–XIII веков композицию с одной парой пристенных пилонов. (Мурад Асратян, Очерк армянской архитектуры, 1985)</description>
+    <TimeStamp><when>2022-05-21T10:43:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.576154,39.878361</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Saint Hripsime Church</name>
+    <description>Церковь св. Реписме (618 г.) в Эчмиадзине — шедевр армянской архитектуры. В ней зодчий (считается, что ее архитектором являлся католикос Комитас) устранил большую толщину стен в местах сопряжения апсид с приделами, применив в этих углах трапецевидные в плане ниши. Устранение излишней массы кладки стен, помимо чисто конструктивного значения, имеет также огромный художественный эффект. (Мурад Асратян, Очерк армянской архитектуры, 1985)</description>
+    <TimeStamp><when>2022-05-21T12:31:04Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.309577,40.166973</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Echmiadzin Cathedral</name>
+    <description>Древнейшим дошедшим до нас культурным памятником Армении является Эчмиадзинский кафедральный собор, постоянный 301–303 годах Царем Трдатом III и Григором Просветителем. Этот узловой памятник христианской архитектуры неоднократно реставрировался, в том числе основательно в 484 году правителем Армении Вааном Мамиконяном. 
+На основании результатов раскопок в 1950-х годах было доказано, что его пилоны с самого начала были подпольными опорами. Другим, не менее важным результатом раскопок явилось доказательством  создания нынешней композиции при перестройке в V веке, когда в основу плана была положена форма равоконечного креста, выраженная как в организации внутреннего пространства, так и наружных масс. Здесь подкупольный квадрат имеет с каждой стороны рукав, завершающийся апсидой. (Мурад Асратян, Очерк армянской архитектуры, 1985)</description>
+    <TimeStamp><when>2022-05-21T13:44:43Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.291098,40.161843</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Zvartnots</name>
+    <description>Идея круглого объема со вписанными апсидами наиболее ярко была воплощена в храме Звартноц, построенном в 643–652 годах католикосом Нерестом II вблизи Эчмиадзина. Возведенный в качестве кафедрального собора Звартноц представляет собой новый тип культового сооружения с трехъярусной центральнокупольной композицией. 
+Звартноц состоял из трех поставленных друг на друга, уменьшающихся в диаметре цилиндров, завершенных куполом с коническим перекрытием. Он простоял свыше трех столетий (согласно летописи, собор был разрушен в Х веке). (Мурад Асратян, Очерк армянской архитектуры, 1985)</description>
+    <TimeStamp><when>2022-05-21T15:04:07Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.336616,40.159949</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-archaeological_site</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

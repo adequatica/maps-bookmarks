@@ -139,7 +139,6 @@
         <mwm:value>historic-ruins</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Sights</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -272,7 +271,7 @@
   </Placemark>
   <Placemark>
     <name>Aperitivo</name>
-    <description>A popular Armenian cafe (after 10 almost all the tables are occupied), fair prices.</description>
+    <description>A popular cafe (after 10 almost all the tables are occupied), fair prices.</description>
     <TimeStamp><when>2022-04-14T14:11:02Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.514997,40.188727</coordinates></Point>
@@ -287,7 +286,7 @@
   </Placemark>
   <Placemark>
     <name>Baguette</name>
-    <description>Croissant = 800 drams.</description>
+    <description>A French bakery, croissant = 800 drams.</description>
     <TimeStamp><when>2022-05-19T11:10:32Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.517695,40.182444</coordinates></Point>
@@ -301,16 +300,16 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Yerevan Botanical Garden</name>
-    <TimeStamp><when>2022-04-19T16:24:26Z</when></TimeStamp>
-    <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>44.557166,40.210653</coordinates></Point>
+    <name>August</name>
+    <TimeStamp><when>2022-05-31T10:11:30Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>44.515753,40.189055</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>leisure-garden</mwm:value>
+        <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Park</mwm:icon>
+      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

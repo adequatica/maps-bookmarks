@@ -117,10 +117,23 @@
   <visibility>0</visibility>
   <Placemark>
     <name>Универмаг</name>
-    <description>1936–1937 гг., Геворг Кочар, Микаэл Мазманян, Арсен Агаронян и Оганес Маркарян.</description>
-    <TimeStamp><when>2022-04-20T22:36:11Z</when></TimeStamp>
+    <description>1936–1937 гг., Геворг Кочар, Микаэл Мазманян, Арсен Агаронян и Оганес Маркарян. Постконструктивизм.</description>
+    <TimeStamp><when>2022-04-20T23:03:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.513631,40.180015</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Жилой дом на улице Налбандяна</name>
+    <TimeStamp><when>2022-04-20T22:36:11Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.518384,40.180726</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
@@ -145,7 +158,7 @@
   </Placemark>
   <Placemark>
     <name>Геологический комитет</name>
-    <description>1936. Здание было реконструировано и добавилась надстройка.</description>
+    <description>1936. Здание было реконструировано, добавилась надстройка.</description>
     <TimeStamp><when>2022-04-20T20:45:47Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.517011,40.179196</coordinates></Point>
@@ -189,7 +202,7 @@
   </Placemark>
   <Placemark>
     <name>Дом профессоров</name>
-    <description>1934. Здание было реконструировано и добавилась надстройка.</description>
+    <description>1934. Здание было реконструировано, добавилась надстройка.</description>
     <TimeStamp><when>2022-04-20T17:43:54Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.520956,40.185145</coordinates></Point>
@@ -217,10 +230,10 @@
   </Placemark>
   <Placemark>
     <name>Жилой дом на улице Анрапетутяна</name>
-    <description>1930-е. Здание было реконструировано c небольшими изменениями и добавилась надстройка.</description>
+    <description>1930-е. Здание было реконструировано c небольшими изменениями, добавилась надстройка.</description>
     <TimeStamp><when>2022-04-20T15:47:46Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>44.518921,40.178095</coordinates></Point>
+    <Point><coordinates>44.519221,40.178231</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
@@ -273,7 +286,7 @@
   </Placemark>
   <Placemark>
     <name>Общежитие зооветеринарного института</name>
-    <description>1931, Геворг Кочар. Практически неизменное состояние.</description>
+    <description>1931, Геворг Кочар. Практически неизменное состояние за исключением смены остекления, испортившего конструктивистский облик.</description>
     <TimeStamp><when>2022-04-20T11:41:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.522471,40.188497</coordinates></Point>
@@ -329,22 +342,8 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Жилой дом на углу улиц Закяна и Григора Лусаворича</name>
-    <description>Конец 1920-х — начало 1930-х годов. Здание было реконструировано, добавились пристройки и лифты.</description>
-    <TimeStamp><when>2022-04-20T06:11:10Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>44.504996,40.176387</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>building</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Жилой дом на улице Закяна</name>
-    <description>Конец 1920-х — начало 1930-х годов. Здание было отремонтировано.</description>
+    <name>Жилые дома по улице Закяна</name>
+    <description>Конец 1920-х — начало 1930-х годов. Здания были реконструированы, добавились лифты и пристройки, из-за этого сильно пострадал конструктивистский облик.</description>
     <TimeStamp><when>2022-04-20T05:09:46Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.506058,40.176903</coordinates></Point>
@@ -383,20 +382,6 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Entertainment</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Туберкулезный диспансер</name>
-    <description>1929, Каро Алабян, Геворг Кочар и Микаэл Мазманян. Здание было реконструировано и частично перестроено.</description>
-    <TimeStamp><when>2022-04-20T02:48:59Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>44.498041,40.181573</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>building</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
