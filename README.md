@@ -21,7 +21,7 @@ Now I am using [Organic Maps](https://organicmaps.app).
 ## Lists of bookmarks
 
 1. Amsterdam — 10
-1. Armenia — 17
+1. Armenia — 24
 1. Belgium — 16
 1. Berlin — 48
 1. Bowie in Berlin ✻ — 10
@@ -67,13 +67,13 @@ Now I am using [Organic Maps](https://organicmaps.app).
 1. Veliky Novgorod — 10
 1. Vienna — 10
 1. Yaroslavl — 10
-1. Yerevan — 14
+1. Yerevan — 20
 1. Zurich — 6
 1. Достоевский в Петербурге ✻ — 76
-1. Конструктивизм в Ереване ✻ — 19
+1. Конструктивизм в Ереване ✻ — 16
 1. Конструктивизм в Ленинграде ✻ — 48
 1. Места княза Кропоткина ✻ — 10
-1. Советский модернизм в Евеване ✻ — 32
+1. Советский модернизм в Евеване ✻ — 38
 1. Хемингуэй в Испании ✻ — 60
 1. Хемингуэй в Париже ✻ — 66
 1. Хемингуэй в Стамбуле ✻ — 6
@@ -113,12 +113,11 @@ Now I am using [Organic Maps](https://organicmaps.app).
 * [Фото альбом](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Конструктивизм в Ереване» based on:
-* [Армянский конструктивизм](http://test.journals.sci.am/index.php/nuaca2/article/view/3403)
-* Ереван на карте [The Constructivist Project](http://theconstructivistproject.com/ru/object) (только здания с сохранившемся историческим обликом)
+* [Собственное исследование](https://telegra.ph/Konstruktivizm-v-Erevane-07-16)
 * [Фото альбом](https://yadi.sk/a/tVwNsgRxGDyzzw)
 
 ### «Конструктивизм в Ленинграде» based on articles:
-* Кириков Б.М., Штиглиц М.С. [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «Коло», 2018
+* Кириков Б.М., Штиглиц М.С., [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «Коло», 2018
 * [Авангард в архитектуре Ленинграда](https://ru.wikipedia.org/wiki/Авангард_в_архитектуре_Ленинграда)
 * [Архитектурный стиль Конструктивизм. Архитектурный сайт Санкт-Петербурга](https://www.citywalls.ru/search-archstyle300.html)
 * [Overshadowed by palaces: A guide to Leningrad Constructivism](https://strelkamag.com/en/article/guide-to-petersburg-konstruktivism)
@@ -130,14 +129,8 @@ Now I am using [Organic Maps](https://organicmaps.app).
 ### «Места княза Кропоткина» based on:
 * [Собственное исследование](https://telegra.ph/Mesta-knyazya-Kropotkina-04-22)
 
-### «Советский модернизм в Ереване» based on articles:
-* [Regional Modernism](https://www.armarch.net/en/encyclopedia/tab-regional-modernism) and [High Modernism](https://www.armarch.net/en/encyclopedia/style-high-modernism) — ArmArch
-* [Модернизм Еревана: 10 важных зданий](https://34travel.me/post/modernizm-erevana)
-* [14 необычных модернистских построек Еревана](https://journal.tinkoff.ru/list/modern-erevan/)
-* [Guide to Yerevan Soviet architecture](https://www.mywanderlust.pl/yerevan-soviet-architecture/)
-* [Творческий портрет Артура Тарханяна](https://tatlin.ru/articles/tvorcheskij_portret_artura_tarxanyana)
-* [Ереван — Полюбить советскую архитектуру](https://sovietarch.strelka.com/ru/city/yerevan) = [A guide to Soviet modernism in Yerevan](https://strelkamag.com/en/article/yerevan-modernism)
-* [Железный фонтан, дом шахмат и другие чудесные памятники армянского модернизма](https://daily.afisha.ru/cities/3822-zheleznyy-fontan-dom-shahmat-i-drugie-udivitelnye-postroyki-armyanskogo-moderni/)
+### «Советский модернизм в Ереване» based on:
+* [Собственное исследование](https://telegra.ph/Sovetskij-modernizm-v-Erevane-07-16)
 * [Фото альбом](https://yadi.sk/a/qh5sKgMfLSW4zA)
 
 ### «Хемингуэй в Испании» based on:

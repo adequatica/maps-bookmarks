@@ -143,22 +143,8 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Jazzve</name>
-    <TimeStamp><when>2022-04-20T06:12:47Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>44.513819,40.179237</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-restaurant</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Lavash</name>
-    <description>A popular Armenian restaurant (after 18 almost all the tables are occupied), relatively affordable by Russian standards (the bill is over 10,000 drams = 2000 rubles).</description>
+    <description>A popular Armenian restaurant (after 18 almost all the tables are occupied), relatively affordable by Russian standards (the bill is over 10,000 drams ~ 2000 rubles).</description>
     <TimeStamp><when>2022-04-20T18:05:49Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.516314,40.183069</coordinates></Point>
@@ -173,6 +159,7 @@
   </Placemark>
   <Placemark>
     <name>Dargett</name>
+    <description>Apricot Ale is worth a try.</description>
     <TimeStamp><when>2022-04-21T14:07:52Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>44.508071,40.183617</coordinates></Point>
@@ -189,7 +176,7 @@
     <name>Dors</name>
     <TimeStamp><when>2022-04-21T18:50:25Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>44.510662,40.180426</coordinates></Point>
+    <Point><coordinates>44.510828,40.180393</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -201,6 +188,7 @@
   </Placemark>
   <Placemark>
     <name>Tun Lahmajo</name>
+    <description>Traditional Armenian tavern.</description>
     <TimeStamp><when>2022-04-22T11:51:26Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.51435,40.182899</coordinates></Point>
@@ -217,7 +205,7 @@
     <name>Kilikia Beer House</name>
     <TimeStamp><when>2022-04-22T14:17:43Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>44.515619,40.180543</coordinates></Point>
+    <Point><coordinates>44.515546,40.180565</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -229,9 +217,10 @@
   </Placemark>
   <Placemark>
     <name>Lumen Coffee</name>
+    <description>Modern café, excellent coffee beans and delicious cheese case.</description>
     <TimeStamp><when>2022-05-10T10:38:58Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>44.512223,40.181864</coordinates></Point>
+    <Point><coordinates>44.512317,40.181793</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -245,7 +234,7 @@
     <name>Matenadaran</name>
     <TimeStamp><when>2022-05-10T12:12:53Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>44.521009,40.192096</coordinates></Point>
+    <Point><coordinates>44.520966,40.192092</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
@@ -271,8 +260,8 @@
   </Placemark>
   <Placemark>
     <name>Aperitivo</name>
-    <description>A popular cafe (after 10 almost all the tables are occupied), fair prices.</description>
-    <TimeStamp><when>2022-04-14T14:11:02Z</when></TimeStamp>
+    <description>A popular café (after 10 almost all the tables are occupied), fair prices.</description>
+    <TimeStamp><when>2022-04-15T11:58:00Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.514997,40.188727</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -300,10 +289,114 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Green Bean</name>
+    <description>A popular café (after 10 almost all the tables are occupied, many people work remotely), fair prices.</description>
+    <TimeStamp><when>2022-05-23T09:11:01Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>44.515898,40.189465</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Greenpoint</name>
+    <description>A modern bakery, which has breakfasts.</description>
+    <TimeStamp><when>2022-05-30T11:09:23Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>44.518835,40.177518</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>August</name>
+    <description>Has a complex breakfasts in menu, but prices are a little bit above average.</description>
     <TimeStamp><when>2022-05-31T10:11:30Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.515753,40.189055</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Wine Republic</name>
+    <TimeStamp><when>2022-06-12T19:12:15Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>44.515978,40.1892</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Merlin</name>
+    <description>Coctail bar on the corner.</description>
+    <TimeStamp><when>2022-06-28T13:57:21Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>44.508999,40.187106</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yerevan Botanical Garden</name>
+    <TimeStamp><when>2022-07-02T07:27:56Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.557166,40.210653</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>leisure-garden</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Park</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hayk Coffee Roasters</name>
+    <description>Speak only English.</description>
+    <TimeStamp><when>2022-07-09T09:25:20Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>44.509206,40.187461</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Epicure</name>
+    <description>Coctail bar on a wibe street with some food.</description>
+    <TimeStamp><when>2022-07-14T19:30:15Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>44.512709,40.182809</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
