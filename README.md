@@ -4,7 +4,7 @@ For the last decade I saved almost a thousand places where I have been and wil
 
 I have been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined by the new owner and became completely unusable.
 
-Now I am using [Organic Maps](https://organicmaps.app).
+Now I am using **[Organic Maps](https://organicmaps.app)**.
 
 [KML files can be converted to GPX](https://github.com/enotramone/mmkml2gpx) to be able to import bookmarks into other apps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
 
@@ -87,33 +87,42 @@ Now I am using [Organic Maps](https://organicmaps.app).
 
 ### «Dostoevsky in Saint Petersburg» based on:
 * [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)
+* [Google Maps](https://www.google.com/maps/d/viewer?mid=1_m92Owz9aIDrt46Z5ZMKCGoJszU)
 * [Photo album](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Hemingway in Istanbul» based on:
 * [My own research](https://adequatica.medium.com/hemingway-in-istanbul-9e8f4fc3e6bf?source=friends_link&sk=b4df8f13335b7d4fd9fb42dee5be290e)
+* [Google Maps](https://www.google.com/maps/d/viewer?mid=1p0NOGh1ePRwqBwEmrKUOND-dsXmlHujR)
 
 ### «Hemingway in Paris» based on:
 * [My own research](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0?source=friends_link&sk=a3eaecf784f6ba3324830efd1291cb64)
+* [Google Maps](https://www.google.com/maps/d/viewer?mid=1hg6Hs7aTQh8HAdea_deIEvCl_8Y)
 
 ### «Hemingway in Spain» based on:
 * [My own research](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3?source=friends_link&sk=76d0a9875b23dfac95445a36cef02acd)
+* [Google Maps](https://www.google.com/maps/d/viewer?mid=1p0CMpvSdMqmDwthIM_hzZQRV33WyKckh)
 
 ### «Moscow Castles» based on:
 * [My own research](https://adequatica.medium.com/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653)
+* [Google Maps](https://www.google.com/maps/d/viewer?mid=14rmaKHZ1kutniTiL1_96bAYkjT6Jxwnb)
 * [Photo album](https://yadi.sk/a/dG9Uv4txE8L-9w)
 
 ### «Mountainboard Parks» based on:
 * [My own experience](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f)
+* [Google Maps](https://www.google.com/maps/d/viewer?mid=1tyD4TTqb97ZVnRM3YoJ_Ql9btS8)
 
 ### «Places Where Peter Kropotkin Was in Russia» based on:
 * [My own research](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
+* [Google Maps](https://www.google.com/maps/d/viewer?mid=1Ytif-yhpX6JxDeyf7tQbluaMZNZNh-KY)
 
 ### «Достоевский в Петербурге» based on:
 * Собственное исследование: [часть 1](https://telegra.ph/Dostoevskij-v-Peterburge-04-22) и [часть 2](https://telegra.ph/Dostoevskij-v-Peterburge-04-22-2)
+* [Яндекс Карты](https://yandex.ru/maps/-/CZgr4I0C)
 * [Фото альбом](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Конструктивизм в Ереване» based on:
 * [Собственное исследование](https://telegra.ph/Konstruktivizm-v-Erevane-07-16)
+* [Яндекс Карты](https://yandex.ru/maps/?um=constructor%3Ad2212dd036a0f1adcf5c8d1c4a3e0e3d94e71672c17ba301b79840d6d0e4b6cb)
 * [Фото альбом](https://yadi.sk/a/tVwNsgRxGDyzzw)
 
 ### «Конструктивизм в Ленинграде» based on articles:
@@ -128,16 +137,21 @@ Now I am using [Organic Maps](https://organicmaps.app).
 
 ### «Места княза Кропоткина» based on:
 * [Собственное исследование](https://telegra.ph/Mesta-knyazya-Kropotkina-04-22)
+* [Яндекс Карты](https://yandex.ru/maps/-/CCgb7-oV)
 
 ### «Советский модернизм в Ереване» based on:
 * [Собственное исследование](https://telegra.ph/Sovetskij-modernizm-v-Erevane-07-16)
+* [Яндекс Карты](https://yandex.ru/maps/?um=constructor%3A30b9b2cfb87b19f3b34dd4d0e6b93f1879b4d3aac9bffb5690691d98386c31c9)
 * [Фото альбом](https://yadi.sk/a/qh5sKgMfLSW4zA)
 
 ### «Хемингуэй в Испании» based on:
 * Собственное исследование: [часть 1](https://telegra.ph/Heminguehj-v-Ispanii-04-24) и [часть 2](https://telegra.ph/Heminguehj-v-Ispanii-04-24-2)
+* [Яндекс Карты](https://yandex.ru/maps/-/CCU5aUfSPC)
 
 ### «Хемингуэй в Париже» based on:
 * Собственное исследование: [часть 1](https://telegra.ph/Heminguehj-v-Parizhe-04-24) и [часть 2](https://telegra.ph/Heminguehj-v-Parizhe-04-24-2)
+* [Яндекс Карты](https://yandex.ru/maps/-/CCUU5JGvHC)
 
 ### «Хемингуэй в Стамбуле» based on:
 * [Собственное исследование](https://telegra.ph/Heminguehj-v-Stambule-04-24)
+* [Яндекс Карты](https://yandex.ru/maps/?um=constructor%3A2c7aa8157ee2b260105565c07ca04098bec3acd2b5015bac98dd6986086ce8cf)
