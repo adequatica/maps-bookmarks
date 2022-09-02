@@ -119,7 +119,7 @@
   <Placemark>
     <name>4. Orient Bar (Pera Palace Hotel)</name>
     <description>Эрнест Хемингуэй успел заглянуть в бар Orient, который расположен на первом этаже отеля Pera Palace. Сегодня фотографии писателя присутствуют в оформлении интерьера бара и отеля.</description>
-    <TimeStamp><when>2021-09-29T16:23:18Z</when></TimeStamp>
+    <TimeStamp><when>2021-09-29T14:23:18Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.97365,41.031136</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -149,7 +149,7 @@
   <Placemark>
     <name>3.1. Истикляль</name>
     <description>Как можно догадаться, «…одна узкая, грязная, крутая, мощеная булыжником улица, заполненная трамваями» — это Истикляль.</description>
-    <TimeStamp><when>2021-09-29T14:58:53Z</when></TimeStamp>
+    <TimeStamp><when>2021-09-29T15:58:53Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.977569,41.033612</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -163,7 +163,7 @@
   <Placemark>
     <name>3. Бейоглу</name>
     <description>Во время пребывания в городе Хемингуэй брал интервью у разных людей как с турецкой, так и с союзнической стороны конфликта и исследовал район Бейоглу (в то время он назывался Пера): «Пера — это европейский квартал. Он расположен на холме чуть выше Галаты, деловой квартал, и весь вытянут вдоль одной узкой, грязной, крутой, мощеной булыжником улицы, заполненной трамваями. Все общественные здания Перы похожи на квадратную библиотеку Карнеги в форме коробки…»</description>
-    <TimeStamp><when>2021-09-29T13:24:59Z</when></TimeStamp>
+    <TimeStamp><when>2021-09-29T16:24:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.973676,41.028433</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -177,7 +177,7 @@
   <Placemark>
     <name>2. Grand Hotel de Londres</name>
     <description>По прибытии Хемингуэй взял такси до Гранд-отеля de Londres, который ему порекомендовал француз, с которым он познакомился в поезде. В своем первом репортаже Хемингуэй напечатал: «Константинополь шумный, жаркий, холмистый, грязный и красивый... битком набитый военными и слухами».</description>
-    <TimeStamp><when>2021-09-29T12:56:26Z</when></TimeStamp>
+    <TimeStamp><when>2021-09-29T17:56:26Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.975235,41.032394</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -192,7 +192,7 @@
   <Placemark>
     <name>1. Вокзал Сиркеджи</name>
     <description>Вокзал Сиркеджи является конечной станцией всемирно известного поезда Восточный экспресс, который курсировал между Парижем и Стамбулом в период с 1883 по 2009 год. Именно сюда прибыл Хемингуэй 29 сентября 1922 года.</description>
-    <TimeStamp><when>2021-09-29T11:23:32Z</when></TimeStamp>
+    <TimeStamp><when>2021-09-29T18:23:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.97688,41.015227</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">

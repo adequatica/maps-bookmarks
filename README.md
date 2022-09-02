@@ -1,6 +1,6 @@
 # Point of Interests
 
-For the last decade I saved almost a thousand places where I have been and will be glad if someone will find this bookmarks useful.
+For the last decade I saved over a thousand places where I have been and will be glad if someone will find this bookmarks useful.
 
 I have been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined by the new owner and became completely unusable.
 
@@ -125,14 +125,9 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 * [Яндекс Карты](https://yandex.ru/maps/?um=constructor%3Ad2212dd036a0f1adcf5c8d1c4a3e0e3d94e71672c17ba301b79840d6d0e4b6cb)
 * [Фото альбом](https://yadi.sk/a/tVwNsgRxGDyzzw)
 
-### «Конструктивизм в Ленинграде» based on articles:
-* Кириков Б.М., Штиглиц М.С., [Архитектура ленинградского авангарда. Путеводитель](https://www.podpisnie.ru/books/arhitektura-leningradskogo-avangarda-putevoditel/) — СПб.: Издательский дом «Коло», 2018
-* [Авангард в архитектуре Ленинграда](https://ru.wikipedia.org/wiki/Авангард_в_архитектуре_Ленинграда)
-* [Архитектурный стиль Конструктивизм. Архитектурный сайт Санкт-Петербурга](https://www.citywalls.ru/search-archstyle300.html)
-* [Overshadowed by palaces: A guide to Leningrad Constructivism](https://strelkamag.com/en/article/guide-to-petersburg-konstruktivism)
-* [Раннесоветская архитектура авангарда на Нарвской](https://www.the-village.ru/city/route/385889-narvskaya)
-* [Неконструктивная стратегия](http://story.dp.ru/constructivism )
-* [Ленинградский конструктивизм. Мечта о социалистической утопии 90 лет спустя](https://les.media/articles/657756-leningradskiy-konstruktivizm)
+### «Конструктивизм в Ленинграде» based on:
+* [Собственное исследование](https://telegra.ph/Konstruktivizm-v-Leningrade-09-02)
+* [Яндекс Карты](https://yandex.ru/maps/?um=constructor%3A38b5c47b70b1ebb9c83a30a45896c37587d38d344ec3449a607fb9316e902fac)
 * [Фото альбом](https://yadi.sk/a/tkwa_Q-HeQO03g)
 
 ### «Места княза Кропоткина» based on:
