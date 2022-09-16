@@ -13,8 +13,8 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 * Red — sightseeings;
 * Orange — cafés, restaurants, fast food;
 * Yellow — shops, markets, fairs;
-* Green — parks, botanical gardens, mountainboard parks;
-* Purple — bars or pubs;
+* Green — parks, botanical gardens;
+* Purple — non-craft bars or pubs, gastronomical bars;
 * Brown — craft beer bars or bootle shops;
 * Pink — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
 
