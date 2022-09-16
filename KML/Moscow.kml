@@ -104,7 +104,7 @@
     <name>Brisket BBQ</name>
     <TimeStamp><when>2017-01-30T10:25:22Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.583889,55.742016</coordinates></Point>
+    <Point><coordinates>37.583895,55.741977</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -165,34 +165,6 @@
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Lambic</name>
-    <TimeStamp><when>2017-01-30T13:23:14Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.654013,55.754573</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-restaurant</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Lambic</name>
-    <TimeStamp><when>2017-01-30T13:25:48Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.640669,55.766541</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
@@ -551,20 +523,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Depo</name>
-    <TimeStamp><when>2019-04-28T07:21:37Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>37.592998,55.78019</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-food_court</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Beer Gik</name>
     <TimeStamp><when>2019-06-27T05:22:40Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
@@ -639,7 +597,6 @@
   </Placemark>
   <Placemark>
     <name>Manneken Pis</name>
-    <description>Try unsweetened waffles with meat or pate from 430₽.</description>
     <TimeStamp><when>2020-06-27T10:46:13Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>37.616816,55.764178</coordinates></Point>
@@ -723,10 +680,24 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Études</name>
-    <TimeStamp><when>2022-08-27T18:15:06Z</when></TimeStamp>
+    <name>Dacha Gasheka</name>
+    <TimeStamp><when>2022-09-06T20:00:02Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>37.651476,55.761498</coordinates></Point>
+    <Point><coordinates>37.601895,55.777526</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Støy</name>
+    <TimeStamp><when>2022-09-07T23:00:07Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>37.626647,55.730245</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>

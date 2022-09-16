@@ -310,9 +310,10 @@
   </Placemark>
   <Placemark>
     <name>Flea market</name>
+    <description>On weekends from 8:00 to noon lunch.</description>
     <TimeStamp><when>2017-03-02T07:04:12Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>30.3116,60.019695</coordinates></Point>
+    <Point><coordinates>30.311541,60.01979</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-marketplace</mwm:value>
@@ -342,7 +343,7 @@
     <description>40 min by foot to Moskovsky railway station.</description>
     <TimeStamp><when>2017-03-02T11:16:12Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.333645,59.93329</coordinates></Point>
+    <Point><coordinates>30.333648,59.93329</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -516,7 +517,7 @@
     <name>Pivnaya Karta</name>
     <TimeStamp><when>2017-03-03T12:55:21Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>30.360966,59.943349</coordinates></Point>
+    <Point><coordinates>30.360958,59.943272</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -768,7 +769,7 @@
     <name>Buterbrodskybar</name>
     <TimeStamp><when>2020-07-06T01:52:39Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.290234,59.94612</coordinates></Point>
+    <Point><coordinates>30.290285,59.946105</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
@@ -796,7 +797,7 @@
     <name>Sevcable Port</name>
     <TimeStamp><when>2020-07-06T09:48:05Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.24175,59.924252</coordinates></Point>
+    <Point><coordinates>30.241433,59.924787</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-attraction</mwm:value>

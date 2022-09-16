@@ -41,7 +41,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Leningrad Oblast — 18
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow — 48
+1. Moscow — 46
 1. Moscow Oblast — 18
 1. Moscow Castles ✻ — 24
 1. Mountainboard Parks ✻ — 20
