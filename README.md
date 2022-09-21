@@ -72,7 +72,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Достоевский в Петербурге ✻ — 76
 1. Конструктивизм в Ереване ✻ — 16
 1. Конструктивизм в Ленинграде ✻ — 48
-1. Места княза Кропоткина ✻ — 10
+1. Кропоткинские места ✻ — 10
 1. Советский модернизм в Евеване ✻ — 38
 1. Хемингуэй в Испании ✻ — 60
 1. Хемингуэй в Париже ✻ — 66
@@ -130,7 +130,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 * [Яндекс Карты](https://yandex.ru/maps/?um=constructor%3A38b5c47b70b1ebb9c83a30a45896c37587d38d344ec3449a607fb9316e902fac)
 * [Фото альбом](https://yadi.sk/a/tkwa_Q-HeQO03g)
 
-### «Места княза Кропоткина» based on:
+### «Кропоткинские места» based on:
 * [Собственное исследование](https://telegra.ph/Mesta-knyazya-Kropotkina-04-22)
 * [Яндекс Карты](https://yandex.ru/maps/-/CCgb7-oV)
 
