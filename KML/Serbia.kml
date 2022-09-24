@@ -490,7 +490,7 @@
     <name>Mileva Maric Einstein House</name>
     <TimeStamp><when>2022-03-14T11:56:55Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.26206,45.840997</coordinates></Point>
+    <Point><coordinates>19.840997,45.26206</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
