@@ -54,7 +54,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Rhodes — 8
 1. Rome — 28
 1. Saint Petersburg — 58
-1. Serbia — 30
+1. Serbia — 32
 1. Sicily — 14
 1. Sochi — 6
 1. Spain Asturias — 6
