@@ -131,6 +131,21 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Shamrock</name>
+    <description>Irish pub.</description>
+    <TimeStamp><when>2017-08-30T21:06:59Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>19.845897,45.256878</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Бели Камен</name>
     <TimeStamp><when>2018-08-31T17:15:46Z</when></TimeStamp>
     <styleUrl>#placemark-blue</styleUrl>
@@ -500,8 +515,23 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Yandex</name>
+    <name>Slavija Square</name>
+    <description>A1 Mini Bus from airport, 35 min, 300 dinars.</description>
     <TimeStamp><when>2022-09-21T22:01:02Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>20.465913,44.802765</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yandex</name>
+    <TimeStamp><when>2022-09-26T14:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>20.454777,44.82785</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
