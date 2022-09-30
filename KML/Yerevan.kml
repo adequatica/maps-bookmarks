@@ -144,7 +144,7 @@
   </Placemark>
   <Placemark>
     <name>Lavash</name>
-    <description>A popular Armenian restaurant (after 18 almost all the tables are occupied), relatively affordable by Russian standards (the bill is over 10,000 drams ~ 2000 rubles).</description>
+    <description>A popular Armenian restaurant (after 18 almost all the tables are occupied), the usual bill is over 10,000 drams.</description>
     <TimeStamp><when>2022-04-20T18:05:49Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.516314,40.183069</coordinates></Point>
