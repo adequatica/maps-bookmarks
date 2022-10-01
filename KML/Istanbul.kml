@@ -220,7 +220,7 @@
   </Placemark>
   <Placemark>
     <name>Eminönü</name>
-    <description>Bosphorus cruise tour runs every hour, ~ 1 h 45 min, 60 liras (pay in the kiosk).</description>
+    <description>Bosphorus cruise tour runs every hour, ~ 1 h 45 min (pay cash in the kiosk).</description>
     <TimeStamp><when>2018-05-06T07:32:13Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.970437,41.018827</coordinates></Point>
@@ -277,7 +277,7 @@
   </Placemark>
   <Placemark>
     <name>Irish Pub The James Joyce</name>
-    <description>Pint of Guinness = 56 liras (March 2022).</description>
+    <description>Pint of Guinness = 90 liras (September 2022), there you can meet a lot of English-speaking expats.</description>
     <TimeStamp><when>2022-03-10T17:47:54Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>28.978451,41.035069</coordinates></Point>
@@ -323,7 +323,6 @@
   </Placemark>
   <Placemark>
     <name>Lades Menemen</name>
-    <description>Different menemens = 38 liras (March 2022).</description>
     <TimeStamp><when>2022-03-13T08:24:23Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>28.980843,41.034602</coordinates></Point>
@@ -338,7 +337,7 @@
   </Placemark>
   <Placemark>
     <name>Balik Dürüm Mehmet Usta</name>
-    <description>Street food fish wrap = 40 liras (March 2022).</description>
+    <description>Street food fish wrap.</description>
     <TimeStamp><when>2022-03-14T17:07:54Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>28.978617,41.024426</coordinates></Point>
@@ -464,7 +463,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Bus Havaist Aksaray to Istanbul Airport (IST)</name>
+    <name>Bus Havaist Aksaray (HVIST-12) to Istanbul Airport (IST)</name>
     <TimeStamp><when>2022-05-28T21:41:27Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.949843,41.010711</coordinates></Point>
@@ -474,22 +473,6 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Transport</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Tarihi Cemberlitas Muhallebicisi</name>
-    <description>Nothing special, but opens early; fair prices (cheap, comparing with restaurants around).</description>
-    <TimeStamp><when>2022-09-29T09:11:10Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.97149,41.00796</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-restaurant</mwm:value>
-        <mwm:value>cuisine-turkish</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -517,6 +500,21 @@
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Meşhur Menemenci Cemal Polat</name>
+    <TimeStamp><when>2022-10-01T11:12:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>28.97149,41.00796</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-turkish</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
