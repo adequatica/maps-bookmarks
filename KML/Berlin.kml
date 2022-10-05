@@ -88,7 +88,7 @@
   </Placemark>
   <Placemark>
     <name>Bauhaus Archiv</name>
-    <description>Bauhaus Archive moved to Berlin in 1971 and a new building for the institution was build in 1976–1979 under the project by Walter Gropius. Museum admission prices: Wed., Thu., Fri. € 7.00 / Sat., Sun., Mon. € 8.00.</description>
+    <description>Bauhaus Archive moved to Berlin in 1971 and a new building for the institution was build in 1976–1979 under the project by Walter Gropius.</description>
     <TimeStamp><when>2015-11-05T08:24:31Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>13.353875,52.506189</coordinates></Point>
@@ -312,7 +312,7 @@
   </Placemark>
   <Placemark>
     <name>Botaic Garden</name>
-    <description>Palm house with cactuses is included in ticket € 6.</description>
+    <description>Palm house with cactuses is included in ticket.</description>
     <TimeStamp><when>2015-11-05T12:26:35Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>13.310171,52.451767</coordinates></Point>
@@ -341,7 +341,7 @@
   </Placemark>
   <Placemark>
     <name>Spandau Citadel</name>
-    <description>Fortress; one of the best-preserved renaissance military structures of Europe, dated 1559–94. Entrance inside of the castle € 4,5.</description>
+    <description>Fortress; one of the best-preserved renaissance military structures of Europe, dated 1559–94. Entrance inside of the castle is paid.</description>
     <TimeStamp><when>2015-11-05T12:54:04Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>13.212753,52.540362</coordinates></Point>
@@ -460,7 +460,7 @@
   </Placemark>
   <Placemark>
     <name>Maroush</name>
-    <description>Falafel for 5 € and oriental tea, superb authentic place.</description>
+    <description>Try falafel and oriental tea, superb authentic place.</description>
     <TimeStamp><when>2015-11-05T14:54:32Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>13.418854,52.500925</coordinates></Point>

@@ -172,7 +172,7 @@
   </Placemark>
   <Placemark>
     <name>Casa Mingo</name>
-    <description>Sidra (sweet) – 1,35€.</description>
+    <description>Served sweet sidra.</description>
     <TimeStamp><when>2015-07-06T15:25:46Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>-3.7252531,40.42497</coordinates></Point>
@@ -182,7 +182,7 @@
   </Placemark>
   <Placemark>
     <name>Maestro Villa</name>
-    <description>Sidra (acid) served by hand – 1,5€; bottle – 5€.</description>
+    <description>Sidra (acid) served by «hand» and bottle.</description>
     <TimeStamp><when>2015-07-06T16:34:15Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>-3.7082197,40.41459</coordinates></Point>

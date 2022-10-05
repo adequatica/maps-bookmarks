@@ -236,7 +236,7 @@
   </Placemark>
   <Placemark>
     <name>Leo Burdock’s</name>
-    <description>Very very big portions of fish and chips for 10,25€ Take away only.</description>
+    <description>Very very big portions of fish and chips. Take away only.</description>
     <TimeStamp><when>2018-10-06T22:24:32Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-6.2700889,53.343011</coordinates></Point>

@@ -207,7 +207,7 @@
   </Placemark>
   <Placemark>
     <name>Express De Lyon</name>
-    <description>Bar mix of tourists and locals; in the morning works as a cafe; has main varieties of Belgian beers; pints are around 5–6€.</description>
+    <description>Bar mix of tourists and locals; in the morning works as a cafe; has main varieties of Belgian beers.</description>
     <TimeStamp><when>2015-05-10T17:48:22Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>2.3720665,48.845954</coordinates></Point>
@@ -227,7 +227,7 @@
   </Placemark>
   <Placemark>
     <name>Brasserie de la Goutte d’Or</name>
-    <description>First independent brewery and shop. Famous sort: Château Rouge – spicy amber ale, 3,5€ per 0,33 bottle.</description>
+    <description>First independent brewery and shop. Famous sort: Château Rouge – spicy amber ale.</description>
     <TimeStamp><when>2015-05-10T18:41:38Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>2.3524006,48.885121</coordinates></Point>
@@ -267,7 +267,7 @@
   </Placemark>
   <Placemark>
     <name>People Drugstore</name>
-    <description>Open from noon to midnight, small choose craft ot Belgina beers 3€ per 0,33 bottle, biodynamic vines.</description>
+    <description>Open from noon to midnight, small choose of craft or Belgina beers and biodynamic vines.</description>
     <TimeStamp><when>2015-05-10T21:00:20Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>2.3397674,48.882947</coordinates></Point>
@@ -277,7 +277,7 @@
   </Placemark>
   <Placemark>
     <name>Le Vieux Chêne</name>
-    <description>Belgian beers, 5,50€ per pint on happy hour: 16-20.</description>
+    <description>Serves Belgian beers.</description>
     <TimeStamp><when>2015-05-10T21:07:02Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>2.3498471,48.842339</coordinates></Point>
@@ -287,7 +287,7 @@
   </Placemark>
   <Placemark>
     <name>Au Petit Grec</name>
-    <description>Crêpe oeu jambon fromage – 5€.</description>
+    <description>Try crêpe oeu jambon fromage.</description>
     <TimeStamp><when>2015-05-10T21:15:46Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>2.3495923,48.842797</coordinates></Point>

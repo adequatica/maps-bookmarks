@@ -117,7 +117,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Železnička Stanica</name>
+    <name>Novi Sad Železnička Stanica</name>
     <TimeStamp><when>2017-05-08T15:28:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.829775,45.265532</coordinates></Point>
@@ -360,7 +360,7 @@
   </Placemark>
   <Placemark>
     <name>Задруга</name>
-    <description>Rakia shot for 250 dinars.</description>
+    <description>Try rakia on the street.</description>
     <TimeStamp><when>2018-09-16T19:20:50Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>20.463558,44.816894</coordinates></Point>
@@ -459,7 +459,7 @@
   </Placemark>
   <Placemark>
     <name>Зелени Венац</name>
-    <description>Finish stop of bus 72 from airport, 45 min, 150 dinars.</description>
+    <description>Finish stop of bus 72 from airport, ~ 45 min.</description>
     <TimeStamp><when>2022-03-06T23:17:25Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>20.456789,44.814</coordinates></Point>
@@ -469,20 +469,6 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Transport</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>LULU Pekare</name>
-    <TimeStamp><when>2022-03-07T08:59:09Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.462437,44.815821</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>shop-bakery</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Shop</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -516,10 +502,10 @@
   </Placemark>
   <Placemark>
     <name>Slavija Square</name>
-    <description>A1 Mini Bus from airport, 35 min, 300 dinars.</description>
+    <description>A1 Mini Bus from airport, ~ 35 min.</description>
     <TimeStamp><when>2022-09-21T22:01:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>20.465913,44.802765</coordinates></Point>
+    <Point><coordinates>20.4656,44.803421</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-bus_stop</mwm:value>
@@ -530,16 +516,30 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Yandex</name>
-    <TimeStamp><when>2022-09-26T14:00:00Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.454777,44.82785</coordinates></Point>
+    <name>Belgrade Center Railway Station</name>
+    <TimeStamp><when>2022-10-04T10:51:56Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>20.453107,44.79355</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>office</mwm:value>
+        <mwm:value>building-train_station</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Building</mwm:icon>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Docker BrewPub</name>
+    <TimeStamp><when>2022-10-05T09:09:00Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>20.47123,44.824418</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

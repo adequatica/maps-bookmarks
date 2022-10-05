@@ -328,7 +328,6 @@
   </Placemark>
   <Placemark>
     <name>Old House</name>
-    <description>Efes draft = 40 liras (April 2022).</description>
     <TimeStamp><when>2022-04-02T14:23:39Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>29.641533,36.199652</coordinates></Point>

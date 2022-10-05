@@ -204,7 +204,7 @@
   </Placemark>
   <Placemark>
     <name>Nevermind</name>
-    <description>Punk-rock skate bar with a ramp inside; bottle of beer – 1,5€.</description>
+    <description>Punk-rock skate bar with a ramp inside.</description>
     <TimeStamp><when>2017-03-20T17:54:40Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>2.1665361,41.385082</coordinates></Point>

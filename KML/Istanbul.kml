@@ -277,7 +277,7 @@
   </Placemark>
   <Placemark>
     <name>Irish Pub The James Joyce</name>
-    <description>Pint of Guinness = 90 liras (September 2022), there you can meet a lot of English-speaking expats.</description>
+    <description>There you can meet a lot of English-speaking expats.</description>
     <TimeStamp><when>2022-03-10T17:47:54Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>28.978451,41.035069</coordinates></Point>
@@ -510,7 +510,7 @@
     <name>Meşhur Menemenci Cemal Polat</name>
     <TimeStamp><when>2022-10-01T11:12:42Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.97149,41.00796</coordinates></Point>
+    <Point><coordinates>28.02622,40.990049</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>

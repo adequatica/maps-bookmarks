@@ -537,7 +537,7 @@
   </Placemark>
   <Placemark>
     <name>Café Majestic</name>
-    <description>Art Nouveau interior, very expensive (espresso = 4€).</description>
+    <description>Art Nouveau interior, but very expensive.</description>
     <TimeStamp><when>2019-01-09T22:46:11Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-8.6064803,41.147109</coordinates></Point>

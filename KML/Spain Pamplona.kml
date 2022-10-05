@@ -139,7 +139,6 @@
   </Placemark>
   <Placemark>
     <name>Left Luggage Office</name>
-    <description>Price per item of baggage for 24 hours is 4,6€.</description>
     <TimeStamp><when>2015-07-23T20:05:28Z</when></TimeStamp>
     <styleUrl>#placemark-blue</styleUrl>
     <Point><coordinates>-1.6468482,42.816577</coordinates></Point>

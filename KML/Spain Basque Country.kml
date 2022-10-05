@@ -70,7 +70,7 @@
   </Placemark>
   <Placemark>
     <name>Bodega Donostiarra</name>
-    <description>Corner bar with delightful pintxos per 2€.</description>
+    <description>Corner bar with delightful pintxos.</description>
     <TimeStamp><when>2015-07-24T07:06:43Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>-1.9850667,43.323103</coordinates></Point>
@@ -146,7 +146,7 @@
   </Placemark>
   <Placemark>
     <name>Puente Colgante de Bizkaia</name>
-    <description>It is two 160 m-long spans rest on two 61 m-high lattice-frame towers made completely of iron like Eiffel Tower – the first UNESCO Industrial Heritage site in Spain: 0,35€.</description>
+    <description>It is two 160 m-long spans rest on two 61 m-high lattice-frame towers made completely of iron like Eiffel Tower – the first UNESCO Industrial Heritage site in Spain.</description>
     <TimeStamp><when>2015-07-24T09:12:15Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>-3.0171083,43.323177</coordinates></Point>

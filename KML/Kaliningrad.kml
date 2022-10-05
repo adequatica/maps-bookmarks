@@ -167,7 +167,7 @@ Airpot: 244 (50 min).</description>
   </Placemark>
   <Placemark>
     <name>Friends</name>
-    <description>Burger with pike and seaweed – 250₽.</description>
+    <description>Try burger with pike and seaweed.</description>
     <TimeStamp><when>2016-05-16T20:06:01Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.479463,54.963195</coordinates></Point>
