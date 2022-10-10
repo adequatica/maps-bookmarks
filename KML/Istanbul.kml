@@ -510,7 +510,7 @@
     <name>Meşhur Menemenci Cemal Polat</name>
     <TimeStamp><when>2022-10-01T11:12:42Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.02622,40.990049</coordinates></Point>
+    <Point><coordinates>29.02622,40.990049</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>

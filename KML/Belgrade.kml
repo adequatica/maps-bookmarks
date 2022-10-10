@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Belgrade</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Belgrade Bus Station</name>
+    <TimeStamp><when>2018-09-15T15:29:22Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>20.454246,44.810076</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Београдска Тврђава</name>
+    <TimeStamp><when>2018-09-15T18:57:08Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>20.449842,44.823768</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Музеј Николе Тесле</name>
+    <TimeStamp><when>2018-09-15T19:20:10Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>20.470753,44.805146</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>To Je To</name>
+    <description>Only cash and smoking inside.</description>
+    <TimeStamp><when>2018-09-16T10:09:27Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>20.466418,44.816761</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+        <mwm:value>cuisine-balkan</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Једно место</name>
+    <TimeStamp><when>2018-09-16T10:13:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>20.46597,44.817364</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+        <mwm:value>cuisine-balkan</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Драма ћевапи</name>
+    <TimeStamp><when>2018-09-16T10:32:33Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>20.461257,44.817594</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+        <mwm:value>cuisine-balkan</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Krafter</name>
+    <description>Local modern craft beer bar.</description>
+    <TimeStamp><when>2018-09-16T10:59:14Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>20.46012,44.822212</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Јездић ракија</name>
+    <description>Rakia shop.</description>
+    <TimeStamp><when>2018-09-16T19:19:29Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>20.469194,44.812135</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-alcohol</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Задруга</name>
+    <description>Try rakia on the street.</description>
+    <TimeStamp><when>2018-09-16T19:20:50Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>20.463558,44.816894</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Зелени Венац</name>
+    <description>Finish stop of bus 72 from/to the airport, ~ 45 min.</description>
+    <TimeStamp><when>2022-03-06T23:17:25Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>20.456789,44.814</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bloom</name>
+    <description>Non-smiking modern cafe with breakfasts.</description>
+    <TimeStamp><when>2022-03-09T10:01:28Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>20.459176,44.820954</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Slavija Square</name>
+    <description>A1 Mini Bus from/to the airport, ~ 35 min.</description>
+    <TimeStamp><when>2022-09-21T22:01:02Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>20.4656,44.803421</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Belgrade Center Railway Station</name>
+    <TimeStamp><when>2022-10-04T10:51:56Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>20.453107,44.79355</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building-train_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Docker BrewPub</name>
+    <TimeStamp><when>2022-10-05T09:09:00Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>20.47123,44.824418</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
