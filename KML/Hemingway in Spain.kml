@@ -150,7 +150,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>54. Air raid shelter № 4</name>
+    <name>54. Air raid shelter № 4</name>
     <description>Ernest Hemingway was in the area of Tortosa from April 4 to April 18 1938. He survived a terrible bombing in the air raid shelter number 4 and it was reflected in one of his dispanches: «Up toward Tortosa things looked quite deadly already from the way the planes were acting». 
 Actually, during the Spanish Civil war Hemingway traveled to numerous cities and villages on the Republican part of the front. It could be the subject of a separate article; there are whole books on this topic.</description>
     <TimeStamp><when>2022-01-29T17:44:54Z</when></TimeStamp>
@@ -195,7 +195,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>51. Cueva del Monje (Ernest Hemingway’s Cave)</name>
-    <description>Ernest Hemingway returned to Sierra de Guadarrama in 1937. He and Martha Gellhorn spent ten days roaming the Sierra de Guadarrama on horseback with guerillas. Tho years later he wrote a novel «For Whom The Bell Tolls», where hу carefully recreated the area in which the battle took place. According to the researchers, the camp of the guerrillas that joined Robert Jordan was based in the Cueva del Monje, as it was titled on the army maps.</description>
+    <description>Ernest Hemingway returned to Sierra de Guadarrama in 1937. He and Martha Gellhorn spent ten days roaming the Sierra de Guadarrama on horseback with guerillas. Tho years later he wrote a novel «For Whom The Bell Tolls», where he carefully recreated the area in which the battle took place. According to the researchers, the camp of the guerrillas that joined Robert Jordan was based in the Cueva del Monje, as it was titled on the army maps.</description>
     <TimeStamp><when>2022-01-29T16:41:51Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.9981638,40.868198</coordinates></Point>
@@ -615,7 +615,7 @@ Of course Hemingway constantly hung out in this place during Sanfermines. Today 
   <Placemark>
     <name>23. Gran Hotel La Perla</name>
     <description>For his second Sanfermines Hemingway he took a whole company of his wife and friends: Edward «Chink» Dorman-Smith, John Dos Passos, Robert McAlmon, Bill Bird and his wife Sally, Donald Ogden Stewart and George O’Neil. All of them stood at Hotel La Perla. 
-Some researchers assume that there is no evidence of his stay in this hotel, but according to other information he stood there in a suite № 217. After the recent renovation, the former room № 217 is now № 201 (Suite de Hemingway). Ernest Hemingway’s grandson, John Hemingway, visited Hotel La Perla during San Fermín 2014.</description>
+Some researchers assume that there is no evidence of his stay in this hotel, but according to other information he stood there in a suite № 217. After the recent renovation, the former room № 217 is now № 201 (Suite de Hemingway). Ernest Hemingway’s grandson, John Hemingway, visited Hotel La Perla during San Fermín 2014.</description>
     <TimeStamp><when>2022-01-29T07:23:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6427203,42.817654</coordinates></Point>
@@ -891,7 +891,7 @@ The building was badly damaged during the war and was demolished in 1964, but it
     <name>5. Museo Nacional del Prado</name>
     <description>Hemingway came to Madrid not only for bullfighting or for work, but for the great art treasures of the Prado Museum. 
 According to biographer A.E. Hotchner, Hemingway’s favorite picture was the «Portrait of a Woman» by Andrea del Sarto.</description>
-    <TimeStamp><when>2022-01-2901:25:05Z</when></TimeStamp>
+    <TimeStamp><when>2022-01-29T01:25:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.6921828,40.413938</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">

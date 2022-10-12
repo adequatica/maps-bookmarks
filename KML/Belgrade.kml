@@ -74,10 +74,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Београдска Тврђава</name>
+    <name>Belgrade Fortress</name>
     <TimeStamp><when>2018-09-15T18:57:08Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.449842,44.823768</coordinates></Point>
+    <Point><coordinates>20.449855,44.823777</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-castle</mwm:value>
@@ -87,7 +87,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Музеј Николе Тесле</name>
+    <name>Nikola Tesla Museum</name>
     <TimeStamp><when>2018-09-15T19:20:10Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>20.470753,44.805146</coordinates></Point>
@@ -117,7 +117,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Једно место</name>
+    <name>Jedno mesto</name>
     <TimeStamp><when>2018-09-16T10:13:18Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.46597,44.817364</coordinates></Point>
@@ -132,7 +132,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Драма ћевапи</name>
+    <name>Drama ćevapi</name>
     <TimeStamp><when>2018-09-16T10:32:33Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.461257,44.817594</coordinates></Point>
@@ -162,7 +162,7 @@
     </ExtendedData>
   </Placemark>
     <Placemark>
-    <name>Јездић ракија</name>
+    <name>Jezdić rakija</name>
     <description>Rakia shop.</description>
     <TimeStamp><when>2018-09-16T19:19:29Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
@@ -177,7 +177,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Задруга</name>
+    <name>Zadruga</name>
     <description>Try rakia on the street.</description>
     <TimeStamp><when>2018-09-16T19:20:50Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
@@ -192,7 +192,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Зелени Венац</name>
+    <name>Zeleni Venac</name>
     <description>Finish stop of bus 72 from/to the airport, ~ 45 min.</description>
     <TimeStamp><when>2022-03-06T23:17:25Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -261,6 +261,19 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Zemun Fortress</name>
+    <TimeStamp><when>2022-10-10T13:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>20.409756,44.848313</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-ruins</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

@@ -133,7 +133,7 @@
   </Placemark>
   <Placemark>
     <name>Shamrock</name>
-    <description>Irish pub.</description>
+    <description>Irish pub, has cider.</description>
     <TimeStamp><when>2017-08-30T21:06:59Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>19.845897,45.256878</coordinates></Point>
@@ -147,7 +147,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Бели Камен</name>
+    <name>Beli Kamen</name>
     <TimeStamp><when>2018-08-31T17:15:46Z</when></TimeStamp>
     <styleUrl>#placemark-blue</styleUrl>
     <Point><coordinates>19.713347,45.104142</coordinates></Point>
@@ -156,11 +156,12 @@
         <mwm:value>natural-water</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Water</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Планинарски дом «Стражилово»</name>
+    <name>Planinarski dom «Stražilovo»</name>
     <TimeStamp><when>2019-09-02T18:38:15Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>19.912727,45.172479</coordinates></Point>
@@ -174,7 +175,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Гроб Бранка Радичевића</name>
+    <name>Grob Branka Radičevića</name>
     <TimeStamp><when>2019-09-03T11:49:32Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>19.913663,45.166758</coordinates></Point>
@@ -188,7 +189,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Бањска стена</name>
+    <name>Banjska stena</name>
     <TimeStamp><when>2018-09-04T09:55:29Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>19.400435,43.951437</coordinates></Point>
@@ -202,21 +203,22 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Кућица на стени</name>
+    <name>Kućica na Drini</name>
     <TimeStamp><when>2018-09-04T16:46:37Z</when></TimeStamp>
     <styleUrl>#placemark-blue</styleUrl>
-    <Point><coordinates>19.566617,43.984301</coordinates></Point>
+    <Point><coordinates>19.566637,43.984312</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>natural-bare_rock</mwm:value>
         <mwm:value>tourism-attraction</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Mountain</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Споменик борцима Радничког батаљона Кадињача</name>
+    <name>Spomen-kompleks Kadinjača</name>
     <TimeStamp><when>2018-09-04T19:55:17Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.741502,43.911607</coordinates></Point>
@@ -257,7 +259,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Музеј Војводине</name>
+    <name>Museum of Vojvodina</name>
     <TimeStamp><when>2021-10-21T19:14:44Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.851838,45.256496</coordinates></Point>
@@ -353,15 +355,17 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Zemun Fortress</name>
-    <TimeStamp><when>2022-10-10T13:15:14Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.409756,44.848313</coordinates></Point>
+    <name>Pizzeria Saint Stephen</name>
+    <TimeStamp><when>2022-10-09T16:15:52Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.845127,45.221539</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>historic-ruins</mwm:value>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-pizza</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

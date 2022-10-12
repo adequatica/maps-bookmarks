@@ -90,7 +90,7 @@
   </Placemark>
   <Placemark>
     <name>Sagrada Família</name>
-    <description>Antoni Gaudí: 1883–incomplete.</description>
+    <description>Antoni Gaudí: 1883 – incomplete.</description>
     <TimeStamp><when>2015-07-23T14:49:08Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.1743207,41.403555</coordinates></Point>
