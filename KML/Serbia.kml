@@ -164,7 +164,7 @@
     <name>Planinarski dom «Stražilovo»</name>
     <TimeStamp><when>2019-09-02T18:38:15Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>19.912727,45.172479</coordinates></Point>
+    <Point><coordinates>19.912741,45.172506</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-camp_site</mwm:value>
@@ -390,7 +390,7 @@
     <description>Local fast food: deep fried calzone with cheese and ham.</description>
     <TimeStamp><when>2022-10-15T19:35:05Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.830768,45.262448</coordinates></Point>
+    <Point><coordinates>19.830761,45.262452</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fast_food</mwm:value>
