@@ -60,7 +60,7 @@
   <name>Moscow</name>
   <visibility>0</visibility>
   <Placemark>
-    <name>Yandex</name>
+    <name>Yandex Museum</name>
     <TimeStamp><when>2017-01-30T08:39:33Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>37.588017,55.735018</coordinates></Point>
