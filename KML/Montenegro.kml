@@ -116,7 +116,7 @@
   </Placemark>
   <Placemark>
     <name>Our Lady of the Rocks</name>
-    <TimeStamp><when>22016-10-30T11:32:30Z</when></TimeStamp>
+    <TimeStamp><when>2016-10-30T11:32:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>18.688741,42.486706</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">

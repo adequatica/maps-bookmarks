@@ -23,7 +23,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Amsterdam — 10
 1. Armenia — 24
 1. Belgium — 16
-1. Belgrade — 20
+1. Belgrade — 21
 1. Berlin — 48
 1. Bowie in Berlin ✻ — 10
 1. Bratislava — 10
@@ -55,7 +55,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Rhodes — 8
 1. Rome — 28
 1. Saint Petersburg — 58
-1. Serbia — 24
+1. Serbia — 25
 1. Sicily — 14
 1. Sochi — 6
 1. Spain Asturias — 6
@@ -81,7 +81,6 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 ### «Dostoevsky in Saint Petersburg»
 * [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)
 * [Google Maps](https://www.google.com/maps/d/viewer?mid=1_m92Owz9aIDrt46Z5ZMKCGoJszU)
-* [Photo album](https://yadi.sk/a/KT-mFoCy_pef4g)
 
 ### «Hemingway in Istanbul»
 * [My own research](https://adequatica.medium.com/hemingway-in-istanbul-9e8f4fc3e6bf?source=friends_link&sk=b4df8f13335b7d4fd9fb42dee5be290e)
@@ -98,7 +97,6 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 ### «Moscow Castles»
 * [My own research](https://adequatica.medium.com/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653)
 * [Google Maps](https://www.google.com/maps/d/viewer?mid=14rmaKHZ1kutniTiL1_96bAYkjT6Jxwnb)
-* [Photo album](https://yadi.sk/a/dG9Uv4txE8L-9w)
 
 ### «Mountainboard Parks»
 * [My own experience](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f)
