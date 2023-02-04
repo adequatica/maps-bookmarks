@@ -58,6 +58,23 @@
     </IconStyle>
   </Style>
   <name>Bowie in Berlin</name>
+  <description>
+  <![CDATA[
+<p>Sources:</p>
+<ul>
+<li><a href="https://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html">Bowie Golden Years</a></li>
+<li><a href="https://www.ft.com/content/b20113b0-8753-11e3-9c5c-00144feab7de">The Berlin landmarks that inspired Bowie</a></li>
+<li><a href="https://www.fotostrasse.com/david-bowies-berlin/">A tour of Bowie’s Berlin years</a></li>
+<li><a href="https://www.theguardian.com/music/2016/jan/13/david-bowie-berlin-years-heroes-just-a-gigolo">Bowie in Berlin</a></li>
+<li><a href="https://www.the500hiddensecrets.com/germany/berlin/culture/david-bowie">5 places with a very strong David Bowie signature in Berlin</a></li>
+<li><a href="https://www.german-way.com/david-bowie-in-west-berlin-and-the-berlin-trilogy-recordings/">David Bowie in West Berlin and the Berlin Trilogy Recordings</a></li>
+<li><a href="https://www.berlin.de/en/tourism/insider-tips/4259252-5766508-david-bowie-in-berlin.en.html">David Bowie’s Berlin In the Famous Musician’s Footsteps</a></li>
+<li><a href="https://www.rollingstone.co.uk/music/bowies-berlin-the-locations-behind-the-lyrics-10413/">Bowie’s Berlin: the locations behind the lyrics</a></li>
+<li><a href="https://www.exberliner.com/berlin/bowie-in-berlin-12-things/">David Bowie in Berlin: Hansa Studios, Paris Bar and the birth of a legend</a></li>
+<li><a href="https://www.tip-berlin.de/tip-english/12-things-you-need-to-know-about-david-bowie-in-berlin/">12 things you need to know about David Bowie in Berlin</a></li>
+</ul>
+  ]]>
+  </description>
   <visibility>0</visibility>
   <Placemark>
     <name>David Bowie’s apartment</name>
@@ -151,7 +168,7 @@
   </Placemark>
   <Placemark>
     <name>Bösebrücke</name>
-    <description>The place where the wall fell back in 1989 and part of the lyrics of David Bowie’s song «Where are we now?»</description>
+    <description>The place where the wall fell back in 1989 – a part of the lyrics of David Bowie’s song «Where are we now?»</description>
     <TimeStamp><when>2017-03-18T23:12:44Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.398164,52.554737</coordinates></Point>

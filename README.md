@@ -25,7 +25,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Belgium — 16
 1. Belgrade — 21
 1. Berlin — 48
-1. Bowie in Berlin ✻ — 10
+1. Bowie in Berlin — 10
 1. Bratislava — 10
 1. Copenhagen — 8
 1. Crete — 6
@@ -72,11 +72,6 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Zurich — 6
 
 ## ✻ References
-
-### «Bowie in Berlin» is based on articles:
-* [The Berlin landmarks that inspired Bowie](https://www.ft.com/content/b20113b0-8753-11e3-9c5c-00144feab7de)
-* [A tour of Bowie’s Berlin years](https://fotostrasse.com/david-bowies-berlin/)
-* [Bad Boys in Berlin](http://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html)
 
 ### «Dostoevsky in Saint Petersburg»
 * [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)

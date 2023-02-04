@@ -58,6 +58,7 @@
     </IconStyle>
   </Style>
   <name>Mountainboard Parks</name>
+  <description>Here I have collected the visited mountainboard parks in alphabetical order; each year corresponds to a link to the photo album.</description>
   <visibility>0</visibility>
   <Placemark>
     <name>Yukki [closed], Saint-Petersburg, Russia</name>
