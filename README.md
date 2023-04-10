@@ -23,10 +23,11 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Amsterdam — 10
 1. Armenia — 24
 1. Belgium — 16
-1. Belgrade — 21
+1. Belgrade — 23
 1. Berlin — 48
 1. Bowie in Berlin — 10
 1. Bratislava — 10
+1. Çanakkale — 8
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
@@ -37,7 +38,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Hemingway in Istanbul ✻ — 6
 1. Hemingway in Paris ✻ — 66
 1. Hemingway in Spain ✻ — 60
-1. Istanbul — 32
+1. Istanbul — 36
 1. Kaliningrad — 12
 1. Leningrad Oblast — 18
 1. Montenegro — 30
@@ -55,7 +56,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Rhodes — 8
 1. Rome — 28
 1. Saint Petersburg — 58
-1. Serbia — 25
+1. Serbia — 27
 1. Sicily — 14
 1. Sochi — 6
 1. Spain Asturias — 6

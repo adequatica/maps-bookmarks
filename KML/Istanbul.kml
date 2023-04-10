@@ -220,7 +220,7 @@
   </Placemark>
   <Placemark>
     <name>Eminönü</name>
-    <description>Bosphorus cruise tour runs every hour, ~ 1 h 45 min (pay cash in the kiosk).</description>
+    <description>There are a nearby Bosphorus cruise tours runs every hour, ~ 1 h 45 min (pay cash in the kiosk).</description>
     <TimeStamp><when>2018-05-06T07:32:13Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.970437,41.018827</coordinates></Point>
@@ -277,7 +277,7 @@
   </Placemark>
   <Placemark>
     <name>Irish Pub The James Joyce</name>
-    <description>There you can meet a lot of English-speaking expats.</description>
+    <description>There you can meet a lot of English-speaking expats and expensive beer.</description>
     <TimeStamp><when>2022-03-10T17:47:54Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>28.978451,41.035069</coordinates></Point>
@@ -329,6 +329,8 @@
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-breakfast</mwm:value>
+        <mwm:value>cuisine-turkish</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
@@ -354,7 +356,7 @@
     <name>Köşkeroğlu Karaköy</name>
     <TimeStamp><when>2022-03-15T17:08:36Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>28.977491,41.023287</coordinates></Point>
+    <Point><coordinates>28.979543,41.026225</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -379,8 +381,22 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Kadiköy</name>
+    <name>Eminönü - Kadiköy</name>
     <TimeStamp><when>2022-04-16T14:28:51Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>28.973159,41.018353</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-ferry_terminal</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kadiköy - Eminönü</name>
+    <TimeStamp><when>2022-04-16T14:30:49Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>29.023,40.993019</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -393,16 +409,17 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Kadiköy - Eminönü Steamboat</name>
-    <TimeStamp><when>2022-04-16T14:30:49Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>28.973159,41.018353</coordinates></Point>
+    <name>Moda Cay Evi</name>
+    <TimeStamp><when>2022-04-16T15:37:23Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>29.025256,40.989456</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>amenity-ferry_terminal</mwm:value>
+        <mwm:value>amenity-cafe</mwm:value>
+        <mwm:value>cuisine-tea</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Transport</mwm:icon>
+      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -466,7 +483,7 @@
     <name>Bus Havaist Aksaray (HVIST-12) to Istanbul Airport (IST)</name>
     <TimeStamp><when>2022-05-28T21:41:27Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>28.949843,41.010711</coordinates></Point>
+    <Point><coordinates>28.950046,41.010582</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-bus_stop</mwm:value>
@@ -496,7 +513,7 @@
     <name>Vefa Bozacisi</name>
     <TimeStamp><when>2022-04-16T17:33:02Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>28.958393,41.015251</coordinates></Point>
+    <Point><coordinates>28.958418,41.015324</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -510,14 +527,57 @@
     <name>Meşhur Menemenci Cemal Polat</name>
     <TimeStamp><when>2022-10-01T11:12:42Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>29.02622,40.990049</coordinates></Point>
+    <Point><coordinates>29.026269,40.990045</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-breakfast</mwm:value>
         <mwm:value>cuisine-turkish</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pierre Loti Kahvehanesi</name>
+    <TimeStamp><when>2023-04-03T11:24:34Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>28.933537,41.053708</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Museum of Innocence</name>
+    <TimeStamp><when>2023-04-04T15:27:16Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.979795,41.030871</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Esenler Otogari</name>
+    <TimeStamp><when>2023-04-05T11:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>28.894572,41.040149</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
