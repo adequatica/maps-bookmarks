@@ -63,7 +63,7 @@
     <name>Autobuska Stanica Tivat</name>
     <TimeStamp><when>2016-10-29T15:09:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.711086,42.422012</coordinates></Point>
+    <Point><coordinates>18.710869,42.42202</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -72,7 +72,7 @@
     <name>Autobuska Stanica Kotor</name>
     <TimeStamp><when>2016-10-30T09:46:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.770092,42.419668</coordinates></Point>
+    <Point><coordinates>18.770089,42.419668</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -81,7 +81,7 @@
     <name>Fort of St John</name>
     <TimeStamp><when>2016-10-30T09:48:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.774852,42.422128</coordinates></Point>
+    <Point><coordinates>18.774852,42.42212</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -90,7 +90,7 @@
     <name>Sveti Đorđe</name>
     <TimeStamp><when>2016-10-30T10:47:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.775899,42.422483</coordinates></Point>
+    <Point><coordinates>18.775915,42.422485</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -115,10 +115,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Our Lady of the Rocks</name>
+    <name>Island Our Lady of the Rocks</name>
     <TimeStamp><when>2016-10-30T11:32:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.688741,42.486706</coordinates></Point>
+    <Point><coordinates>18.688722,42.486845</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -136,7 +136,7 @@
     <name>Fort Španjola</name>
     <TimeStamp><when>2016-10-30T12:50:34Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.533936,42.456445</coordinates></Point>
+    <Point><coordinates>18.533942,42.456417</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -145,7 +145,7 @@
     <name>Autobuska Stanica Herceg-Novi</name>
     <TimeStamp><when>2016-10-30T19:50:27Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.533808,42.452905</coordinates></Point>
+    <Point><coordinates>18.533551,42.452912</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -160,11 +160,11 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Djurdjevica Tara Bridge</name>
+    <name>Đurđevića Tara Bridge</name>
     <description>It was built between 1937–1940 and at the time of its completion, it was the biggest vehicular concrete arch bridge in Europe. The 365-metre-long bridge has five arches; the largest span is 116 metres; the roadway stands 172 metres above the Tara River.</description>
     <TimeStamp><when>2016-11-02T19:54:54Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.294268,43.149405</coordinates></Point>
+    <Point><coordinates>19.294186,43.149491</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -173,7 +173,7 @@
     <name>Crno Jezero</name>
     <TimeStamp><when>2016-11-02T19:55:08Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>19.092883,43.146684</coordinates></Point>
+    <Point><coordinates>19.092724,43.145931</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -182,7 +182,7 @@
     <name>Autobuska Stanica Podgorica</name>
     <TimeStamp><when>2016-11-03T19:54:07Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>19.268208,42.432351</coordinates></Point>
+    <Point><coordinates>19.268078,42.432276</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -191,7 +191,7 @@
     <name>Autobuska Stanica Budva</name>
     <TimeStamp><when>2016-11-04T06:44:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.838939,42.290081</coordinates></Point>
+    <Point><coordinates>18.8389234,42.290143</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -200,7 +200,7 @@
     <name>Budva Stari Grad</name>
     <TimeStamp><when>2016-11-04T07:13:47Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.837665,42.277985</coordinates></Point>
+    <Point><coordinates>18.838032,42.278259</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -209,7 +209,7 @@
     <name>Budva → Sveti-Stefan</name>
     <TimeStamp><when>2016-11-04T08:45:48Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.835852,42.281795</coordinates></Point>
+    <Point><coordinates>18.835916,42.281888</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -218,7 +218,7 @@
     <name>Sveti-Stefan → Budva</name>
     <TimeStamp><when>2016-11-04T09:44:24Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.89908,42.254015</coordinates></Point>
+    <Point><coordinates>18.899131,42.253995</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -227,7 +227,7 @@
     <name>Sveti Stefan</name>
     <TimeStamp><when>2016-11-04T10:43:38Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.891154,42.255907</coordinates></Point>
+    <Point><coordinates>18.891119,42.255843</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -245,16 +245,16 @@
     <name>Autobuska Stanica Bar</name>
     <TimeStamp><when>2018-09-05T06:39:17Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>19.103075,42.088551</coordinates></Point>
+    <Point><coordinates>19.102842,42.088353</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Stari Bar</name>
+    <name>Old Bar Fortress</name>
     <TimeStamp><when>2018-09-05T08:31:18Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.135414,42.093423</coordinates></Point>
+    <Point><coordinates>19.135425,42.093328</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -263,7 +263,7 @@
     <name>Autobuska Stanica Ulcinj</name>
     <TimeStamp><when>2018-09-07T15:37:36Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>19.2218,41.931745</coordinates></Point>
+    <Point><coordinates>19.221784,41.931769</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -272,7 +272,7 @@
     <name>Ulcinj Castle</name>
     <TimeStamp><when>2018-09-07T17:27:35Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.200474,41.922863</coordinates></Point>
+    <Point><coordinates>19.2013,41.923671</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -281,7 +281,7 @@
     <name>Autobuska Stanica Sutomore</name>
     <TimeStamp><when>2018-09-09T18:43:54Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>19.047674,42.14135</coordinates></Point>
+    <Point><coordinates>19.046993,42.141678</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -290,7 +290,7 @@
     <name>Tvrdjava Tabija (Golo Brdo)</name>
     <TimeStamp><when>2018-09-10T15:41:07Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.043787,42.137072</coordinates></Point>
+    <Point><coordinates>19.04371,42.137106</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -299,7 +299,7 @@
     <name>Haj-Nehaj</name>
     <TimeStamp><when>2018-09-10T19:11:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.031302,42.150691</coordinates></Point>
+    <Point><coordinates>19.031377,42.150588</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -308,7 +308,7 @@
     <name>Autobuska Stanica Petrovac</name>
     <TimeStamp><when>2018-09-11T13:29:29Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.945474,42.20746</coordinates></Point>
+    <Point><coordinates>18.945594,42.207375</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -317,7 +317,7 @@
     <name>Plaza Lučice</name>
     <TimeStamp><when>2018-09-11T17:26:40Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>18.950941,42.200433</coordinates></Point>
+    <Point><coordinates>18.95088,42.20048</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
@@ -326,7 +326,7 @@
     <name>Viewpoint</name>
     <TimeStamp><when>2018-09-12T12:37:21Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>18.783227,42.421814</coordinates></Point>
+    <Point><coordinates>18.78335,42.421836</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
     </ExtendedData>
