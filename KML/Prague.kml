@@ -162,7 +162,8 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Lokal</name>
+    <name>Lokál</name>
+    <description>Beer-restaurant.</description>
     <TimeStamp><when>2015-01-09T08:52:58Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>14.425758,50.090744</coordinates></Point>
@@ -182,7 +183,7 @@
   </Placemark>
   <Placemark>
     <name>U Medvídků</name>
-    <description>Beer-restaurant which brews Russian Imperial Stout.</description>
+    <description>Beer-restaurant.</description>
     <TimeStamp><when>2015-01-09T08:57:19Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>14.418742,50.082836</coordinates></Point>
