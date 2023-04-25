@@ -13,9 +13,9 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 * Red — sightseeings;
 * Orange — cafés, restaurants, fast food;
 * Yellow — shops, markets, fairs;
-* Green — parks, botanical gardens;
-* Purple — non-craft bars or pubs, gastronomical bars;
+* Green — parks, mountains, botanical gardens;
 * Brown — craft beer bars or bootle shops;
+* Purple — non-craft bars or pubs;
 * Pink — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
 
 ## Lists of bookmarks
@@ -39,10 +39,12 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Dublin — 20
 1. Fethiye — 20
 1. France — 6
+1. Haifa — 8
 1. Hemingway in Istanbul ✻ — 6
 1. Hemingway in Paris ✻ — 66
 1. Hemingway in Spain ✻ — 60
 1. Istanbul — 36
+1. Jerusalem — 10
 1. Kaliningrad — 12
 1. Leningrad Oblast — 18
 1. Madrid — 14
@@ -67,6 +69,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Sicily — 14
 1. Sochi — 6
 1. Tbilisi — 8
+1. Tel Aviv — 8
 1. Veliky Novgorod — 10
 1. Vienna — 10
 1. Yaroslavl — 10
