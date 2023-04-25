@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Tel Aviv</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Tel Aviv HaShalom</name>
+    <TimeStamp><when>2022-08-15T14:50:59Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.793164,32.07356</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Lesin Bar</name>
+    <TimeStamp><when>2022-08-15T18:40:36Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>34.773417,32.079678</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Porto Wine Corner</name>
+    <TimeStamp><when>2022-08-20T19:20:19Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>34.770856,32.071294</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-alcohol</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bauhaus Center Tel Aviv</name>
+    <TimeStamp><when>2022-08-26T12:25:17Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>34.774367,32.076556</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-information-office</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cafetish coffee</name>
+    <TimeStamp><when>2023-04-18T06:00:36Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>34.791004,32.070072</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:customName>
+        <mwm:lang code="default">Cafetish coffee</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Falafel HaKosem</name>
+    <TimeStamp><when>2023-04-20T17:30:26Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>34.776684,32.076428</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bauhaus Tel-Aviv</name>
+    <description>Free admission, but nothing to do there.</description>
+    <TimeStamp><when>2023-03-22T10:33:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>34.770649,32.073076</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tel Aviv New Central Bus Station</name>
+    <TimeStamp><when>2023-04-22T11:09:10Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.779447,32.055395</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

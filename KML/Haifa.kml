@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Haifa</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Shabbat bus to Tel-Aviv</name>
+    <TimeStamp><when>2023-04-22T09:46:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.996746,32.813406</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Falafel HaZkenim</name>
+    <TimeStamp><when>2023-04-22T10:36:30Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>34.993688,32.817067</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Baháʼí Terraces</name>
+    <TimeStamp><when>2023-04-22T11:06:47Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>34.988603,32.817261</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Stella Maris Monastery</name>
+    <description>The current church and monastery were built in 1836.</description>
+    <TimeStamp><when>2023-04-22T11:38:40Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>34.970164,32.827267</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Sacred Heart Chapel</name>
+    <TimeStamp><when>2023-04-22T11:46:54Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>34.966457,32.828512</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cave of Elijah the Prophet</name>
+    <TimeStamp><when>2023-04-22T11:57:33Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>34.969302,32.829951</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+        <mwm:value>natural-cave_entrance</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Central Bus Station</name>
+    <description>Bus 900 goes to Tel Aviv.</description>
+    <TimeStamp><when>2023-04-22T13:17:32Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.959191,32.79358</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Haifa Center HaShmona</name>
+    <TimeStamp><when>2023-04-22T19:57:59Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.997363,32.822301</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
