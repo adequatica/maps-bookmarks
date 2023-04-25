@@ -22,12 +22,16 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 
 1. Amsterdam — 10
 1. Armenia — 24
+1. Asturias — 6
+1. Barcelona — 20
+1. Basque Country — 12
 1. Belgium — 16
 1. Belgrade — 23
 1. Berlin — 48
 1. Bowie in Berlin — 10
 1. Bratislava — 10
 1. Çanakkale — 8
+1. Cantabria — 8
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
@@ -41,6 +45,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Istanbul — 36
 1. Kaliningrad — 12
 1. Leningrad Oblast — 18
+1. Madrid — 14
 1. Montenegro — 30
 1. Morocco — 32
 1. Moscow — 46
@@ -49,6 +54,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Mountainboard Parks ✻ — 20
 1. Netherlands — 20
 1. Nizhny Novgorod — 10
+1. Pamplona — 10
 1. Paris — 26
 1. Places of Peter Kropotkin ✻ — 10
 1. Portugal — 60
@@ -59,12 +65,6 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Serbia — 27
 1. Sicily — 14
 1. Sochi — 6
-1. Spain Asturias — 6
-1. Spain Barcelona — 20
-1. Spain Basque Country — 12
-1. Spain Cantabria — 8
-1. Spain Madrid — 14
-1. Spain Pamplona — 10
 1. Tbilisi — 8
 1. Veliky Novgorod — 10
 1. Vienna — 10
