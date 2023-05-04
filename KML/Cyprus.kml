@@ -71,7 +71,7 @@
   <Placemark>
     <name>Kato Paphos</name>
     <description>Bus to airport: 612 ~ 30 min;
-Bus to Aphrodite’s Stone: 630 ~ 45 min</description>
+Bus to Aphrodite’s Stone: 630 ~ 45 min.</description>
     <TimeStamp><when>2017-10-08T06:47:31Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>32.411429,34.756649</coordinates></Point>
@@ -91,7 +91,7 @@ Bus to Aphrodite’s Stone: 630 ~ 45 min</description>
   <Placemark>
     <name>Karavella Bus Station</name>
     <description>Bus to Polis: 645 ~ 50 min;
-Bus to Limassol ~ 60 min</description>
+Bus to Limassol ~ 60 min.</description>
     <TimeStamp><when>2017-10-14T04:38:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>32.422673,34.778424</coordinates></Point>
@@ -101,7 +101,7 @@ Bus to Limassol ~ 60 min</description>
   </Placemark>
   <Placemark>
     <name>EMEL Central Station</name>
-    <description>Bus to Paphos ~ 60 min</description>
+    <description>Bus to Paphos ~ 60 min.</description>
     <TimeStamp><when>2017-10-14T14:11:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>33.03718,34.678541</coordinates></Point>
@@ -120,7 +120,7 @@ Bus to Limassol ~ 60 min</description>
   </Placemark>
   <Placemark>
     <name>Polis Chrysoxous</name>
-    <description>Bus to Bath of Aphrodite: 622 ~ 30 min</description>
+    <description>Bus to Bath of Aphrodite: 622 ~ 30 min.</description>
     <TimeStamp><when>2017-10-14T16:48:46Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>32.425747,35.033756</coordinates></Point>

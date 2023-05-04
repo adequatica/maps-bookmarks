@@ -211,7 +211,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>David's Tomb</name>
+    <name>David’s Tomb</name>
     <TimeStamp><when>2023-04-23T13:42:06Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>35.229221,31.771714</coordinates></Point>

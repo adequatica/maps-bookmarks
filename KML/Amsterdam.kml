@@ -59,7 +59,7 @@
   </Style>
   <name>Amsterdam</name>
   <visibility>0</visibility>
-<Placemark>
+  <Placemark>
     <name>Amsterdam Centraal</name>
     <TimeStamp><when>2017-07-19T08:00:18Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
