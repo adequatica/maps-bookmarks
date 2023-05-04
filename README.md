@@ -32,6 +32,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Bratislava — 10
 1. Çanakkale — 8
 1. Cantabria — 8
+1. Constructivism in Yerevan — 16
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
