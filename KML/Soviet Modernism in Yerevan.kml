@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Soviet Modernism in Yerevan</name>
+  <description>In the mid-60s, the construction of high-rise houses began in Armenia, a natural phenomenon associated with a new level of development of construction equipment and the need to increase the density of the city’s development. As a result, many buildings of that period defined the architecture of modern Yerevan.</description>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>40. Zvartnots Airport</name>
+    <description>1980, Arthur Tarkhanyan, Spartak Khachikyan, and Levon Cherkezyan. Zvartnots Airport Terminal 1 is located 15 km from Yerevan. Now the building is mothballed; since the beginning of the 2000s, a new terminal has served passengers.</description>
+    <TimeStamp><when>2022-04-20T00:00:04Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.397838,40.152272</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>aeroway-terminal</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>39. Institute of Stone and Silicates</name>
+    <description>The late 1980s, Levon Nushikyan, Zori Tonikyan, and Valeri Tonikyan. Now the building is in disrepair because the institute was moved to another location.</description>
+    <TimeStamp><when>2022-04-20T00:00:39Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.562481,40.221519</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>38. «Citadel» Business Center</name>
+    <description>1981–1990s, Armen Agalyan. Late-Soviet modernism.</description>
+    <TimeStamp><when>2022-04-20T00:01:01Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.522265,40.189818</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>37. Armenian State Song Theatre</name>
+    <TimeStamp><when>2022-04-20T00:02:02Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.518587,40.174943</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-theatre</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>36. Yerevan Police Department</name>
+    <TimeStamp><when>2022-04-20T01:03:03Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.523326,40.18207</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>35. Office Building in the Alley</name>
+    <description>The unsightly building gives itself away as a modernist bas-relief on the facade.</description>
+    <TimeStamp><when>2022-04-20T01:04:04Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.520982,40.176825</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>34. Building Similar to a Factory</name>
+    <TimeStamp><when>2022-04-20T02:05:05Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.512111,40.171442</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>33. Residential Building on Paronyan Street</name>
+    <description>In the architecture of multi-story residential buildings of this period, loggias were widely used, which are necessary for the conditions of the warm climate of Armenia and create the appearance of a southern dwelling.</description>
+    <TimeStamp><when>2022-04-20T02:06:06Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.502896,40.178307</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>32. Residential Building on Pushkin Street</name>
+    <TimeStamp><when>2022-04-20T03:07:07Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.509418,40.184619</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>31. Haypost</name>
+    <TimeStamp><when>2022-04-20T03:08:08Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.505587,40.184823</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>30. Northern Bus Station</name>
+    <description>1980s, Armen Agalyan and Vardan Avetisyan.</description>
+    <TimeStamp><when>2022-04-20T04:09:09Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.569736,40.239506</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>29. Institute of Experimental Biology</name>
+    <description>1980s.</description>
+    <TimeStamp><when>2022-04-20T04:10:10Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.535203,40.209608</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>28. Institute of Information and Automation Problems</name>
+    <description>1980s.</description>
+    <TimeStamp><when>2022-04-20T05:11:11Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.532789,40.212533</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>27. Scientific-Research Center</name>
+    <description>1985, Stepan Kurkchyan.</description>
+    <TimeStamp><when>2022-04-20T05:12:12Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.474999,40.200592</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>26. Modern Art Museum</name>
+    <description>1985, Jim Torosyan and Gevorg Aramyan. The composition of five blind cylindrical shapes, known as «Barrels», located along Saryan Street, was initially built for the Museum of Modern Art, but now there are other galleries in the buildings.</description>
+    <TimeStamp><when>2022-04-20T06:13:13Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.505255,40.179809</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>25. The Fence on Paronyan Street</name>
+    <description>The early 1980s, Eduard Tangyan. The concrete fence has become the hallmark of architect Eduard Tangyan. It stretches ~ 300 meters, starting from the intersection of Proshyan and Paronyan streets. The police are on duty along the fence, and photos are prohibited.</description>
+    <TimeStamp><when>2022-04-20T06:14:14Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.504549,40.186613</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>barrier-wall</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>24. Karen Demirchyan Sports and Concerts Complex</name>
+    <description>1983, Artur Tarkhanyan, Hrachik Poghosyan, Spartak Khachikyan, and Gurgen Musheghian, sculptor Ferdinand Arakelyan. The complex began to be designed back in 1976, but due to a fire after the opening, reconstruction followed, which was completed by the end of 1987. The facade of the building is decorated with a massive high relief of orange volcanic tuff. On the approach to the complex from Leningradyan Street, a monumental composition of open terraces with fountains is deployed.</description>
+    <TimeStamp><when>2022-04-20T07:15:15Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.483385,40.188201</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>23. Aram Khachaturian Museum</name>
+    <description>1982, Eduard Altunyan. The modernist facade is built on top of the mansion where the composer’s elder brother Vaginak once lived with his family, where Aram Khachaturian himself often stayed.</description>
+    <TimeStamp><when>2022-04-20T07:16:16Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.513347,40.190266</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>22. The Lobby of the «Republic Square» Metro Station</name>
+    <description>1981, Jim Torosyan and Mkrtich Minassian.</description>
+    <TimeStamp><when>2022-04-20T08:17:17Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.516016,40.178612</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fountain</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Water</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>21. Yeritasardakan Metro Station</name>
+    <description>Opened 7th March 1981, Spartak Kntekhtsyan and Albert Zurabyan.</description>
+    <TimeStamp><when>2022-04-20T08:18:18Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.521222,40.1872</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station-subway</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>20. Marshal Baghramyan Metro Station</name>
+    <description>Opened 7th March 1981, Spartak Kntekhtsyan and Albert Zurabyan. From Baghramyan Avenue, you can only see its massive visor, made of composite sections, floating above the ground.</description>
+      <TimeStamp><when>2022-04-20T09:19:19Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.506025,40.191643</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station-subway</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>19. Residential Buildings of «Armgosproekt»</name>
+    <description>1970s, Arthur Tarkhanyan. In 16-story frame-panel houses, a new principle of using stone on the entire plane of the multi-story facade has been applied.</description>
+    <TimeStamp><when>2022-04-20T09:20:20Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.526423,40.173462</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>18. Residential Building on Israyelyan Street</name>
+    <description>1979, Ashot Aleksanyan. The house is a fragmented rectangular volume with a striped texture of orange tuff and light felsite around the perimeter of the buildings.</description>
+    <TimeStamp><when>2022-04-20T10:21:21Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.501618,40.177974</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>17. Komitas Chamber Music Hall</name>
+    <description>1977, Stepan Kyurkchyan.</description>
+    <TimeStamp><when>2022-04-20T10:22:22Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.523208,40.185418</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-theatre</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>16. 9th Building of the National Polytechnic University of Armenia</name>
+    <description>1976, Artashes Mamijanyan.</description>
+    <TimeStamp><when>2022-04-20T11:23:23Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.521561,40.19014</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-university</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>15. International Telephone Exchange</name>
+    <description>1976, Armen Aghalyan and Grigori Grigoryan.</description>
+    <TimeStamp><when>2022-04-20T11:24:24Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.530508,40.209622</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>14. Rossiya Cinema</name>
+    <description>1974, Hrachik Poghosyan, Artur Tarkhanyan, and Spartak Khachikyan. In the 1980s, it was the largest cinema in Armenia and consisted of three halls with 1600, 1000 and 280 seats, which were housed in two curved wings. However, after the collapse of the Soviet Union, the cinema fell into disrepair, and the building was given over to a shopping center.</description>
+    <TimeStamp><when>2022-04-20T12:25:25Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.512879,40.172011</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-mall</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>13. Residential Building «Orbita»</name>
+    <description>1973, Levon Balayan and Martin Tovmasyan. A symmetrical building made of panels lined with brown tuff, white balconies located on four sides make it more expressive. The building is placed on a stylobate, the corners of which were solved by a popular technique for this period — concave open corners. In Soviet times, there was an «Orbita» department store, according to which the building is called.</description>
+    <TimeStamp><when>2022-04-20T12:26:26Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.507077,40.181065</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>12. Government House № 3</name>
+    <description>1970s. The building is adjacent to the entrance to the «Republic Square» metro station, which features a flower-shaped concrete fountain.</description>
+    <TimeStamp><when>2022-04-20T13:27:27Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.516835,40.178041</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>11. Republican Cadastre</name>
+    <description>1970s, Armen Aghalyan. The building is an elongated rectangular volume placed across the avenue, which is supposedly assembled from openwork panels and placed on a conditional stylobate where the entrance is located. The gray building is softened by orange inserts, which add bright accents to its ascetic appearance.</description>
+    <TimeStamp><when>2022-04-20T13:28:28Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.508101,40.207026</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>10. Cascade Complex</name>
+    <description>Since 1971 to the present time, Jim Torosyan, Aslan Mkhitaryan, and Sargis Gurzadyan. The upper part of the Cascade remains unfinished.</description>
+    <TimeStamp><when>2022-04-20T14:29:29Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.515651,40.1917</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>09. Hrazdan Stadium</name>
+    <description>1971, Koryun Hakobyan and Gurgen Musheghyan. The stadium was built in the gorge of the Hrazdan River and is the largest and only two-tier stadium in Armenia. In the 1970s, it was the home arena of the «Ararat» football club. Since 2015, after the bankruptcy of its new owner, it has been in a mothballed state.</description>
+    <TimeStamp><when>2022-04-20T14:30:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.494669,40.180384</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>leisure-stadium</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>08. Chess House</name>
+    <description>1970, Zhanna Meshcheryakova, sculptorDavid Yerevantsi. The foundation stone of the building was laid by the two-time world champion Tigran Petrosyan himself.</description>
+    <TimeStamp><when>2022-04-20T15:31:31Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.524303,40.180414</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>07. Moscow Cinema Theater Open Air Hall</name>
+    <description>1968, Spartak Kndeghtsyan and Telman Gevorgyan. This building is considered a masterpiece of Armenian modernism. The peculiarity of the cinema was its environmental character (the building is located behind the main part of the Moscow cinema building, in the courtyard), which is only sometimes inherent in modernist compositions. Now the hall is closed, in a semi-abandoned state, overgrown with outbuildings, and can be considered lost.</description>
+    <TimeStamp><when>2022-04-20T15:32:32Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.517584,40.181768</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cinema</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>06. Tsitsernakaberd Memorial Complex</name>
+    <description>1967, Sashur Kalashyan and Arthur Tarkhanyan, sculptors: Van Khachatur, Ara Harutyunyan, and Arto Tchakmakchian. The memorial is dedicated to the victims of the Armenian Genocide of 1915. In the center, there is a truncated cone of 12 basalt slabs; on the side, there is a 44-meter stele in the shape of a spire, which is divided into two parts.</description>
+    <TimeStamp><when>2022-04-20T16:33:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.490505,40.185811</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-memorial</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>05. Sundukyan State Academic Theatre</name>
+    <description>1966, Razmik Alaverdyan, sculptor Ara Harutyunyan. Only part of the building is accessible from the street side. The main entrance, unfortunately, is hidden from the public.</description>
+    <TimeStamp><when>2022-04-20T16:34:34Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.507473,40.173449</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cinema</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>04. Center of Cardiology</name>
+    <description>1964–1968, Jim Torosyan. This is a unique example of hospital architecture of the late Soviet period, where the entire hospital complex is concentrated in one volume. The elegant rectangular plate of the center strives for maximum purity and sterility of forms. The whole volume is emphasized by uniform vertical stripes of light felsic tuff, and the oblique balconies on the facade are lined with dark basalt. The area in front of the building is overgrown with bushes and trees.</description>
+    <TimeStamp><when>2022-04-20T17:35:35Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.53453,40.210605</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>03. Residential Building</name>
+    <description>1964, Armen Zaryan. One of the first modernist residential buildings in Yerevan.</description>
+    <TimeStamp><when>2022-04-20T17:36:36Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.506077,40.180244</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>02. Cable Car Station</name>
+    <description>1962. At one time, the cable car connected the central plateau with the district of Nork-Marash, but now it is in an abandoned state.</description>
+    <TimeStamp><when>2022-04-20T18:37:37Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.527044,40.185928</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>01. Armenian Research Institute of Architecture and Construction</name>
+    <description>1962, Martin Mikayelyan. This building is an example of the application of classical forms of modernism — today it is in a semi-abandoned state.</description>
+    <TimeStamp><when>2022-04-20T18:38:38Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>44.534762,40.206337</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

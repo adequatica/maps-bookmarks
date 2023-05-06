@@ -69,6 +69,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Serbia — 16
 1. Sicily — 14
 1. Sochi — 6
+1. Soviet Modernism in Yerevan — 40
 1. Tbilisi — 8
 1. Tel Aviv — 8
 1. Veliky Novgorod — 10
