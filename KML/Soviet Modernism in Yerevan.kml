@@ -132,7 +132,7 @@
   </Placemark>
   <Placemark>
     <name>39. Institute of Stone and Silicates</name>
-    <description>The late 1980s, Levon Nushikyan, Zori Tonikyan, and Valeri Tonikyan. Now the building is in disrepair because the institute was moved to another location.</description>
+    <description>The late 1980s, Levon Nushikyan, Zori Tonikyan, and Valeri Tonikyan. The building is in disrepair because the institute was moved to another location.</description>
     <TimeStamp><when>2022-04-20T00:00:39Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.562481,40.221519</coordinates></Point>
@@ -339,7 +339,7 @@
   </Placemark>
   <Placemark>
     <name>24. Karen Demirchyan Sports and Concerts Complex</name>
-    <description>1983, Artur Tarkhanyan, Hrachik Poghosyan, Spartak Khachikyan, and Gurgen Musheghian, sculptor Ferdinand Arakelyan. The complex began to be designed back in 1976, but due to a fire after the opening, reconstruction followed, which was completed by the end of 1987. The facade of the building is decorated with a massive high relief of orange volcanic tuff. On the approach to the complex from Leningradyan Street, a monumental composition of open terraces with fountains is deployed.</description>
+    <description>1983, Artur Tarkhanyan, Hrachik Poghosyan, Spartak Khachikyan, and Gurgen Musheghian, sculptor Ferdinand Arakelyan. The complex began to be designed in 1976, but due to a fire after the opening, reconstruction followed, completed by the end of 1987. The facade of the building is decorated with a massive high relief of orange volcanic tuff. On the approach to the complex from Leningradyan Street, a monumental composition of open terraces with fountains is deployed.</description>
     <TimeStamp><when>2022-04-20T07:15:15Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.483385,40.188201</coordinates></Point>
@@ -353,7 +353,7 @@
   </Placemark>
   <Placemark>
     <name>23. Aram Khachaturian Museum</name>
-    <description>1982, Eduard Altunyan. The modernist facade is built on top of the mansion where the composer’s elder brother Vaginak once lived with his family, where Aram Khachaturian himself often stayed.</description>
+    <description>1982, Eduard Altunyan. The modernist facade is built on top of the mansion where the composer’s elder brother Vaginak once lived with his family, where Aram Khachaturian often stayed.</description>
     <TimeStamp><when>2022-04-20T07:16:16Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.513347,40.190266</coordinates></Point>
@@ -484,7 +484,7 @@
   </Placemark>
   <Placemark>
     <name>14. Rossiya Cinema</name>
-    <description>1974, Hrachik Poghosyan, Artur Tarkhanyan, and Spartak Khachikyan. In the 1980s, it was the largest cinema in Armenia and consisted of three halls with 1600, 1000 and 280 seats, which were housed in two curved wings. However, after the collapse of the Soviet Union, the cinema fell into disrepair, and the building was given over to a shopping center.</description>
+    <description>1974, Hrachik Poghosyan, Artur Tarkhanyan, and Spartak Khachikyan. In the 1980s, it was the largest cinema in Armenia and consisted of three halls with 1600, 1000, and 280 seats housed in two curved wings. However, after the collapse of the Soviet Union, the cinema fell into disrepair, and the building was given over to a shopping center.</description>
     <TimeStamp><when>2022-04-20T12:25:25Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.512879,40.172011</coordinates></Point>
@@ -499,7 +499,7 @@
   </Placemark>
   <Placemark>
     <name>13. Residential Building «Orbita»</name>
-    <description>1973, Levon Balayan and Martin Tovmasyan. A symmetrical building made of panels lined with brown tuff, white balconies located on four sides make it more expressive. The building is placed on a stylobate, the corners of which were solved by a popular technique for this period — concave open corners. In Soviet times, there was an «Orbita» department store, according to which the building is called.</description>
+    <description>1973, Levon Balayan and Martin Tovmasyan. The asymmetrical building of panels lined with brown tuff and white balconies on four sides make it more expressive. The building is placed on a stylobate, the corners of which were solved by a popular technique for this period — concave open corners. In Soviet times, there was an «Orbita» department store, according to which the building is called.</description>
     <TimeStamp><when>2022-04-20T12:26:26Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.507077,40.181065</coordinates></Point>
@@ -527,7 +527,7 @@
   </Placemark>
   <Placemark>
     <name>11. Republican Cadastre</name>
-    <description>1970s, Armen Aghalyan. The building is an elongated rectangular volume placed across the avenue, which is supposedly assembled from openwork panels and placed on a conditional stylobate where the entrance is located. The gray building is softened by orange inserts, which add bright accents to its ascetic appearance.</description>
+    <description>1970s, Armen Aghalyan. The building is an elongated rectangular volume placed across the avenue, supposedly assembled from openwork panels and put on a conditional stylobate where the entrance is located. The gray building is softened by orange inserts, which add bright accents to its ascetic appearance.</description>
     <TimeStamp><when>2022-04-20T13:28:28Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.508101,40.207026</coordinates></Point>
@@ -600,7 +600,7 @@
   </Placemark>
   <Placemark>
     <name>06. Tsitsernakaberd Memorial Complex</name>
-    <description>1967, Sashur Kalashyan and Arthur Tarkhanyan, sculptors: Van Khachatur, Ara Harutyunyan, and Arto Tchakmakchian. The memorial is dedicated to the victims of the Armenian Genocide of 1915. In the center, there is a truncated cone of 12 basalt slabs; on the side, there is a 44-meter stele in the shape of a spire, which is divided into two parts.</description>
+    <description>1967, Sashur Kalashyan and Arthur Tarkhanyan, sculptors: Van Khachatur, Ara Harutyunyan, and Arto Tchakmakchian. The memorial is dedicated to the victims of the Armenian Genocide of 1915. In the center, there is a truncated cone of 12 basalt slabs; on the side, there is a 44-meter stele in the shape of a spire divided into two parts.</description>
     <TimeStamp><when>2022-04-20T16:33:33Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.490505,40.185811</coordinates></Point>
@@ -670,7 +670,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>01. Armenian Research Institute of Architecture and Construction</name>
+    <name>01. Research Institute of Architecture and Construction</name>
     <description>1962, Martin Mikayelyan. This building is an example of the application of classical forms of modernism — today it is in a semi-abandoned state.</description>
     <TimeStamp><when>2022-04-20T18:38:38Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
