@@ -74,6 +74,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Tel Aviv — 8
 1. Veliky Novgorod — 10
 1. Vienna — 10
+1. White City of Tel Aviv — 40
 1. Yaroslavl — 10
 1. Yerevan — 20
 1. Zurich — 6

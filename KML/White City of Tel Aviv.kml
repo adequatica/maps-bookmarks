@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>White City of Tel Aviv</name>
+  <description>
+  <![CDATA[
+<p>The center of Tel-Aliv was constructed in the 1930s based on modern planning principles by Jewish architects who fled to the British Mandate of Palestine. There are around 4000 modernist buildings that can be attributed to the International Style or Bauhaus.</p>
+<p></p>
+<ul>
+<li><a href="https://whc.unesco.org/en/list/1096">White City of Tel-Aviv — the Modern Movement</a></li>
+<li><a href="https://grandeflanerie.com/portfolio/telavivwhitecity/">Tel Aviv White City</a></li>
+<li><a href="https://www.dezeen.com/2016/08/24/10-tel-aviv-best-examples-bauhaus-residential-architecture/">10 of Tel Aviv’s best examples of Bauhaus residential architecture</a></li>
+<li><a href="https://www.architecturaldigest.com/story/how-did-tel-aviv-become-beacon-stunning-bauhaus-architecture">How Did Tel Aviv Become a Beacon For Stunning Bauhaus Architecture</a></li>
+<li><a href="https://www.re-thinkingthefuture.com/2019/12/31/a457-experience-bauhaus-through-these-10-buildings-in-tel-aviv/">Experience Bauhaus Through These 10 Buildings in Tel Aviv</a></li>
+<li><a href="https://theculturetrip.com/middle-east/israel/articles/the-five-best-bauhaus-buildings-in-tel-aviv/">The Best Bauhaus Buildings in Tel Aviv</a></li>
+<li><a href="https://theculturetrip.com/middle-east/israel/articles/10-stunning-bauhaus-buildings-in-tel-aviv/">10 Stunning Bauhaus Buildings in Tel Aviv</a></li>
+<li><a href="https://www.mywanderlust.pl/bauhaus-tel-aviv/">Bauhaus in Tel Aviv — a Guide to the «White City»</a></li>
+</ul>
+  ]]>
+  </description>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Havoinik House</name>
+    <description>1920s, Isaac Schwarz. It has a triangular shape, a high platform, and a strong horizontal accent, reminiscent of its current form the Flatiron Building in New York.</description>
+    <TimeStamp><when>2023-04-18T10:19:20Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.769102,32.064839</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Luntz / Buli</name>
+    <description>1925, Yehuda Tzimmerman. It was designed in an Eclectic Style as a part of a row of adjacent residential units.</description>
+    <TimeStamp><when>2023-04-18T11:19:25Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.780241,32.069683</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Rothschild Blvd 79</name>
+    <description>1929, Josef and Ze’ev Berlin</description>
+    <TimeStamp><when>2023-04-18T12:19:29Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.777191,32.066441</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Rothschild Blvd 61</name>
+    <description>1932, Salomon Gepstein. This asymmetrical building is composed of three masses, each set back in relation to the other, and forming a garden space in front of it.</description>
+    <TimeStamp><when>2023-04-18T13:19:32Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.776073,32.065041</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Braun-Rabinsky House</name>
+    <description>1932, Josef and Ze’ev Berlin.</description>
+    <TimeStamp><when>2023-04-18T14:19:32Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.777492,32.065778</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Manachem and Miriam Knoll House</name>
+    <description>1933, Zvi Spoznikov.</description>
+    <TimeStamp><when>2023-04-18T15:19:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.780745,32.069878</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Avraham Soskin House</name>
+    <description>1933, Ze’ev Rechter. It was designed for photographer Avraham Soskin. The front wing of the house is designed as the family home. The rear wing, invisible from the street, is served as a photography studio.</description>
+    <TimeStamp><when>2023-04-18T16:19:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.768266,32.061771</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Engel House</name>
+    <description>1933, Ze’ev Rechter. It is the very first Israeli structure built on stilts columns (pilotis).</description>
+    <TimeStamp><when>2023-04-18T17:19:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.777666,32.066125</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Sadowski House</name>
+    <description>1933, Carl Rubin.</description>
+    <TimeStamp><when>2023-04-18T18:19:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.777475,32.067121</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Milner House</name>
+    <description>1933.</description>
+    <TimeStamp><when>2023-04-18T19:19:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.778173,32.067698</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Rapoport House</name>
+    <description>1933, Yitzhak Rapoport. It was built as a three-story residential building for the family of Shmuel Rapoport who founded and directed the Kupat Am Bank.</description>
+    <TimeStamp><when>2023-04-19T10:19:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.778733,32.069285</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bruno House</name>
+    <description>1933, Ze’ev Haller. It is also known as Boaz-Schwabe-House and was originally designed as a three-story residential building.</description>
+    <TimeStamp><when>2023-04-19T11:19:33Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.772645,32.067526</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gutbalt House</name>
+    <description>1933–1934, Bijonsky.</description>
+    <TimeStamp><when>2023-04-19T12:19:34Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.768984,32.073542</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Aharonovitch House</name>
+    <description>1933–1934, Yitzhak Rappapor. It was erected by Zion Aharonovitch and sold to Nahum Yoelson, whose heirs still retain ownership today.</description>
+    <TimeStamp><when>2023-04-19T13:19:34Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.778095,32.069821</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Schick House</name>
+    <description>1934, Avraham Kabiri. It is a residential building built for the Schick family, in 1937 the ground floor was converted into a restaurant.</description>
+    <TimeStamp><when>2023-04-19T14:19:34Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.767756,32.078129</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Krieger House</name>
+    <description>1934, Ze’ev Rechter. It was originally the home of Dr. Moshe Krieger, whose clinic also operated here. After being renovated by the Krieger family it turned into a boutique hotel.</description>
+    <TimeStamp><when>2023-04-19T15:19:34Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.77688,32.06578</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Shlomo House</name>
+    <description>1934–1935, Salomon Gepstein. Businessman Ronald Lauder bought it in 1999, restored and opened the Bauhaus Museum. Free admission, but nothing to do there.</description>
+    <TimeStamp><when>2023-04-19T16:19:35Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.770638,32.072953</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Rubinsky House</name>
+    <description>1935, Lucian Korngold and Abraham Markusfeld. This residential building was designed with spacious apartments and a lavish entry hall. The facades are decorated by awnings, rounded terraces, hanging concrete beams, and gutters.</description>
+    <TimeStamp><when>2023-04-19T17:19:35Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.778634,32.068328</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Reisfeld House</name>
+    <description>1935, Pinchas Biezunsky. It is shaped in a symmetrical «H» structure with beautiful curved balconies. The building was restored with a nine-floor extension made of metal and glass.</description>
+    <TimeStamp><when>2023-04-19T18:19:35Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.767948,32.078692</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bazoza House</name>
+    <description>1935, Avraham Berger and Yitzhak Mandelbaum.</description>
+    <TimeStamp><when>2023-04-19T19:19:35Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.77766,32.076315</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dunkelblum House</name>
+    <description>1935, Oskar Kaufmann.</description>
+    <TimeStamp><when>2023-04-20T10:19:35Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.776239,32.078512</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Poli House</name>
+    <description>1934–1936, Salomon Liaskowsky and Jacob Orenstein. The Polishuk House originally housed shops and offices, but after restoration operated as a hotel.</description>
+    <TimeStamp><when>2023-04-20T11:19:36Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.770427,32.06936</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Leon Recanati Building</name>
+    <description>1936, Shlomo Liaskoksi and Jacob Orenstein. It was designed on a three-story block with residential quarters on the upper level and retail shops on the ground floor facing the main road.</description>
+    <TimeStamp><when>2023-04-20T12:19:36Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.782,32.064898</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Liebling Haus</name>
+    <description>1936, Dov Karmi and engineer Zvi Barak. It is one of 190 buildings classified under strict conservation guidelines.</description>
+    <TimeStamp><when>2023-04-20T13:19:36Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.77041,32.073351</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Thermometer Building</name>
+    <description>1936, Yehuda Liulka. It was so named because of the vertical line of diagonal lattice windows running up and down the entire four-story building, designed in such a way as to allow air to enter the stairs while limiting the amount of penetrating heat.</description>
+    <TimeStamp><when>2023-04-20T14:19:36Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.772956,32.079233</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Beit Fruma Goureuitz House</name>
+    <description>1935–1937, Zabrodsky and Blanks.</description>
+    <TimeStamp><when>2023-04-20T15:19:37Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.780308,32.068769</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Nagi House</name>
+    <description>1937, Ben-Ami Shulman. It was designed for Victor Nagi, a staff member at the Alliance Israélite Universelle organization.</description>
+    <TimeStamp><when>2023-04-20T16:19:37Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.768817,32.080762</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Esther Cinema on Dizengoff Square</name>
+    <description>1934–1938, Genia Averbuch and Yehuda Magidovitch. The Dizengoff Square consists of a public plaza, encompassed by an ensemble of four buildings, with International Style characters like horizontal windows, flat roofs, and deep, curved balconies. Esther Cinema is a hotel now, with a nostalgic film-themed interior design.</description>
+    <TimeStamp><when>2023-04-20T17:19:38Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.774823,32.078042</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bar Giyora St 29</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-20T18:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.77662,32.076266</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Berdyczewski St 18</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-20T19:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.780716,32.070819</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dov Hoz St 15</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T10:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.772218,32.080681</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>King George St 90</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T11:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.77828,32.077769</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>King George St 95</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T12:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.777304,32.077117</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pinsker St 20</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T13:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.770365,32.074467</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pinsker St 23</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T14:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.770295,32.074658</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Rothschild Blvd 136</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T15:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.779313,32.071178</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ruppin St 4</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T16:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.769386,32.081151</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ruppin St 6</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T17:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.769702,32.081126</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yehuda ha-Levi St 105</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T18:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.778991,32.066516</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yehuda ha-Levi St 58 / Goldberg St 13</name>
+    <description>1930s.</description>
+    <TimeStamp><when>2023-04-21T19:19:30Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>34.778572,32.065591</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
