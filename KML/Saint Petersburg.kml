@@ -443,20 +443,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Fidel</name>
-    <TimeStamp><when>2017-03-03T10:56:10Z</when></TimeStamp>
-    <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>30.327653,59.933023</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-bar</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Dickens</name>
     <TimeStamp><when>2017-03-03T11:39:45Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
@@ -710,7 +696,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Tawny Bar</name>
+    <name>Tawny</name>
     <TimeStamp><when>2019-06-14T08:16:14Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>30.340831,59.940769</coordinates></Point>
@@ -720,20 +706,6 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Fartuk</name>
-    <TimeStamp><when>2019-06-14T08:43:06Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>30.343701,59.929037</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-cafe</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -836,20 +808,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Yandex Museum</name>
-    <TimeStamp><when>2020-09-04T15:32:26Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>30.345007,59.933278</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>shop-computer</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Shop</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name><![CDATA[Cake & Breakfast]]></name>
     <TimeStamp><when>2021-09-12T08:55:33Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
@@ -874,6 +832,20 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yandex Museum</name>
+    <TimeStamp><when>2022-09-04T15:32:26Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.345007,59.933278</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-computer</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

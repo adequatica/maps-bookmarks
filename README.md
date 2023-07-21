@@ -26,7 +26,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Barcelona — 20
 1. Basque Country — 12
 1. Belgium — 16
-1. Belgrade — 32
+1. Belgrade — 31
 1. Berlin — 48
 1. Bowie in Berlin — 10
 1. Bratislava — 10
@@ -44,14 +44,14 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Hemingway in Istanbul ✻ — 6
 1. Hemingway in Paris ✻ — 66
 1. Hemingway in Spain ✻ — 60
-1. Istanbul — 36
+1. Istanbul — 40
 1. Jerusalem — 10
 1. Kaliningrad — 12
 1. Leningrad Oblast — 18
 1. Madrid — 14
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow — 46
+1. Moscow — 48
 1. Moscow Oblast — 18
 1. Moscow Castles ✻ — 24
 1. Mountainboard Parks ✻ — 20
@@ -65,7 +65,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Prague — 18
 1. Rhodes — 8
 1. Rome — 28
-1. Saint Petersburg — 58
+1. Saint Petersburg — 56
 1. Serbia — 18
 1. Sicily — 14
 1. Sochi — 6
