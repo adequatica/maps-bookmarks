@@ -1,6 +1,6 @@
-# Point of Interests
+# Point of Interest
 
-Over the past decade I have saved over a thousand places where I have been, and will be glad if someone will finds these bookmarks useful.
+Over the past decade, I have saved over a thousand places where I have been, and I will be glad if someone finds these bookmarks useful.
 
 I have been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined by the new owner and became completely unusable.
 
@@ -10,13 +10,13 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 
 ## Map legend
 
-* Red — sightseeings;
+* Red — sightseeing;
 * Orange — cafés, restaurants, fast food;
 * Yellow — shops, markets, fairs;
 * Green — parks, mountains, botanical gardens;
-* Brown — craft beer bars or bootle shops;
+* Brown — craft beer bars or bottle shops;
 * Purple — non-craft bars or pubs;
-* Pink — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for particular area.
+* Pink — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for the particular area.
 
 ## Lists of bookmarks
 
@@ -32,7 +32,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Bratislava — 10
 1. Çanakkale — 8
 1. Cantabria — 8
-1. Constructivism in Yerevan — 16
+1. [Constructivism in Yerevan](https://telegra.ph/Constructivism-in-Yerevan-05-07) — 16
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
@@ -69,7 +69,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Serbia — 18
 1. Sicily — 14
 1. Sochi — 6
-1. Soviet Modernism in Yerevan — 40
+1. [Soviet Modernism in Yerevan](https://telegra.ph/Soviet-Modernism-in-Yerevan-05-07) — 40
 1. Tbilisi — 8
 1. Tel Aviv — 8
 1. Veliky Novgorod — 10
