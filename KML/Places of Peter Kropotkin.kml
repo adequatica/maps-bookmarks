@@ -61,8 +61,9 @@
   <description>The famous revolutionary, political scientist, geographer, publicist, philosopher, and theorist of the ideology of anarcho-communism. He spent only half of his life in Russia and 40 years in exile.</description>
   <visibility>0</visibility>
   <Placemark>
-    <name>16. Kropotkin’s House-museum</name>
-    <description>In May 1918, Kropotkin and his wife moved to Dmitrov, having received a «security certificate» signed by Lenin. In early 1921, he became seriously ill with pneumonia and died on February 8, 1921, at the age of 78.</description>
+    <name>20. Kropotkin’s House-museum</name>
+    <description>In May-July 1918, Kropotkin and his wife moved to Dmitrov, having received a «security certificate» signed by Lenin. The wooden house, built around 1898 in the style of Russian Wooden Art Nouveau, was sold to them by Count Dmitry Adamovich Olsufyev (1862–1937).
+In early 1921, he became seriously ill with pneumonia and died on February 8, 1921, at the age of 78.</description>
     <TimeStamp><when>2020-02-14T01:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.521247,56.341165</coordinates></Point>
@@ -76,8 +77,8 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>15. Leontyevskiy Lane, 26</name>
-    <description>Peter Alexeyevich briefly lived there after the revolution.</description>
+    <name>19. Leontyevskiy Lane, 26</name>
+    <description>Some sources on the Internet indicate that Peter Alexeyevich briefly lived there after the revolution. But, according to historical documents, only his daughter Sasha and her husband lived there, from where she went to her parents in Dmitrov. After her father died in 1921, she emigrated to New York.</description>
     <TimeStamp><when>2020-02-14T02:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.607779,55.761996</coordinates></Point>
@@ -90,10 +91,54 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>14. Gilse van der Pals county house (also known as Mordvinov’s county house), the building was not preserved</name>
-    <description>In May 1917, Kropotkin returned to Russia after forty years of immigration. During the July Days, he lived in a cottage provided to him by the Dutch ambassador Heinrich Gilse van der Pals. 
-Here, on Kamenny Island, Alexander Fedorovich Kerensky came to him with a proposal to form a new government. Kropotkin, of course, refused.</description>
+    <name>18. Leo Tolstoy Estate Museum in Khamovniki</name>
+    <description>In the summer of 1918, at the invitation of Valentin Bulgakov, Kropotkin visited the Leo Tolstoy Estate Museum in Moscow. But for the first time, Kropotkin came «only to apologize that on this day and hour, unfortunately, he could not inspect the museum: some circumstance prevented him». However, he later visited it, examining the museum «in detail and with great interest».</description>
     <TimeStamp><when>2020-02-14T03:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>37.585932,55.734168</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>17. Petrovo-Solovovo House, the building was not preserved</name>
+    <description>The Kropotkin family lived here for a very short time before moving to Dmitrov. Now the building of the American Embassy is located on this site.</description>
+    <TimeStamp><when>2020-02-14T04:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>37.583054,55.755803</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>16. Cherkasskaya — Baskakov City Estate</name>
+    <description>For the winter of 1917–1918, the Kropotkins settled in Moscow, renting two rooms in a house of the XIX century. He experienced the armed battles that unfolded in the city center in late October — early November.</description>
+    <TimeStamp><when>2020-02-14T05:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>37.592848,55.757798</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle-manor</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>15. Gilse van der Pals county house (also known as Mordvinov’s county house), the building was not preserved</name>
+    <description>During the July Days, he lived in a cottage provided to him by the Dutch ambassador Heinrich Gilse van der Pals. 
+Here, on Kamenny Island, Alexander Fedorovich Kerensky came to him with a proposal to form a new government. Kropotkin, of course, refused.</description>
+    <TimeStamp><when>2020-02-14T06:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.287019,59.979266</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -106,9 +151,23 @@ Here, on Kamenny Island, Alexander Fedorovich Kerensky came to him with a propos
     </ExtendedData>
   </Placemark>
   <Placemark>
+  <name>14. Nevinsky House</name>
+    <description>In May 1917, Kropotkin returned to Russia after forty years of immigration. His daughter Sasha found an apartment for her parents on the fifth floor of the Nevinsky House, built in 1910 in the Art Nouveau style.</description>
+    <TimeStamp><when>2020-02-14T07:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>30.340313,59.945208</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>13. Donon Restaurant</name>
     <description>He hid here from the gendarmes on the day of the escape.</description>
-    <TimeStamp><when>2020-02-14T04:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T08:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.31983,59.939317</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -123,7 +182,7 @@ Here, on Kamenny Island, Alexander Fedorovich Kerensky came to him with a propos
     <name>12. Goncharnaya Street, 22</name>
     <description>Here, immediately after the escape, Peter Kropotkin and his friend Dr. Weimar stopped by the Kornilov sisters to change clothes. 
 The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny Lane, Kostromskaya and Bolotnaya Streets, through Lafonskaya, Tverskaya, Kirochnaya, and Vosstaniya (former Znamenskaya) Streets. Coming out at the gates in front of house № 107 on Nevsky Prospekt (the former Menshutkin house, the historical building has not been preserved to this day), they went through the entrance courtyard to the house on Goncharnaya Ulitsa.</description>
-    <TimeStamp><when>2020-02-14T05:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T09:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.368311,59.928632</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -137,7 +196,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
   <Placemark>
     <name>11. The Prisoners Building of the Nikolaev Military Hospital</name>
     <description>For health reasons, Kropotkin was transferred from prison to the Prisoners Building of the Nikolaev Military Hospital — a two-story wing behind the main building (Suvorovskiy Prospekt, 63a), from where he made a daring escape on July 30, 1876.</description>
-    <TimeStamp><when>2020-02-14T06:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T10:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.38702,59.942454</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -151,7 +210,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
   <Placemark>
     <name>10. The House of Pre-trial Detention</name>
     <description>When the preliminary investigation into the Kropotkin case was completed, on December 20, 1875, he was transferred to the House of Pre-trial Detention - this prison was considered an exemplary one in tsarist Russia.</description>
-    <TimeStamp><when>2020-02-14T07:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T11:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.35164,59.948914</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -165,7 +224,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
   <Placemark>
     <name>09. Trubetskoy Bastion of the Peter and Paul Fortress</name>
     <description>After interrogations and accusations, Kropotkin was transferred to the Peter and Paul Fortress, where he had to remain to await trial. In 1874–1875, he was imprisoned in the Trubetskoy Bastion in prison cell № 52.</description>
-    <TimeStamp><when>2020-02-14T08:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T12:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.313593,59.948679</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -180,7 +239,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
   <Placemark>
     <name>08. Third Section of His Imperial Majesty’s Own Chancellery</name>
     <description>After his arrest, Kropotkin was taken to the Third Section, where he was interrogated for several days and charged with clandestine activities and conspiracy.</description>
-    <TimeStamp><when>2020-02-14T09:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T13:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.340872,59.94148</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -194,7 +253,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
   <Placemark>
     <name>07. Malaya Morskaya Street</name>
     <description>Kropotkin lived in a rented apartment in a house on Malaya Morskaya from 1872, after returning from his first trip to Europe, until his arrest on March 21, 1874. On the eve of his arrest, he made a sensational scientific report to the geographical society about the existence of the Ice Age.</description>
-    <TimeStamp><when>2020-02-14T10:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T14:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.309973,59.934543</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -208,7 +267,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
   <Placemark>
     <name>06. Kazarmennyy Lane</name>
     <description>Kropotkin attended the Circle of Tchaikovsky.</description>
-    <TimeStamp><when>2020-02-14T11:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T15:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.332163,59.964929</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -222,7 +281,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
   <Placemark>
     <name>05. Russian Geographical Society</name>
     <description>Returning from his service in the Far East, in February 1868, Pyotr Alekseevich Kropotkin was elected secretary of the Department of Physical Geography of the Russian Geographical Society. In those years, the society gathered on the ground floor of the building of the Ministry of Public Education near Lomonosov Bridge.</description>
-    <TimeStamp><when>2020-02-14T12:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T16:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.334594,59.929445</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -236,7 +295,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
   <Placemark>
     <name>04. Page Corps</name>
     <description>From 1857 to 1862, Kropotkin studied in the Page Corps and, after graduating with honors, was promoted to officer.</description>
-    <TimeStamp><when>2020-02-14T13:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T17:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.33212,59.931687</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -251,7 +310,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
     <name>03. Malyy Vlasyevskiy Lane</name>
     <description>To this day, the house (№ 8) has not been preserved. Peter Alexeyevich lived in it until entering the Page Corps in 1857. 
 On a parallel street (Starokonyushenny Lane, 19) there was a «Church of John the Baptist in the Starokonyushennaya sloboda» in which the funeral service of the old prince Alexey Petrovich Kropotkin (1805–1871) was held, but it was demolished in 1933.</description>
-    <TimeStamp><when>2020-02-14T14:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T18:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.593086,55.746072</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -265,7 +324,7 @@ On a parallel street (Starokonyushenny Lane, 19) there was a «Church of John th
   <Placemark>
     <name>02. Malyy Levshinskiy Lane</name>
     <description>To this day, the house (№ 4) has not been preserved. Soon after the move, Pyotr Alexeyevich's father sold this house as well. The family spent several winters in rented houses in the Old Konyushennaya quarter until a new mansion was bought in Maly Vlasyevsky Lane in 1855.</description>
-    <TimeStamp><when>2020-02-14T15:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T19:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.590211,55.741595</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -280,11 +339,12 @@ On a parallel street (Starokonyushenny Lane, 19) there was a «Church of John th
     <name>01. Kropotkin’s House</name>
     <description>Pyotr Alexeyevich Kropotkin was born on December 9, 1842, into an aristocratic family in a typical manor house built by his grandmother at the beginning of the XIX century. In this period, such mansions were built throughout the southwestern part of Moscow and inhabited mainly by the nobility. 
 He lived in this house only for the first seven or eight years of his life. When his father married for the second time after the death of his first wife from consumption, he sold this house and bought another, in Malyy Levshinskiy Lane.</description>
-    <TimeStamp><when>2020-02-14T16:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-14T20:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.58772,55.741481</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
+        <mwm:value>office-diplomatic</mwm:value>
         <mwm:value>building</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>

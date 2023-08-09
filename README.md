@@ -36,14 +36,14 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
-1. Dostoevsky in Saint Petersburg ✻ — 76
+1. [Dostoevsky in Saint Petersburg](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297) — 76
 1. Dublin — 20
 1. Fethiye — 20
 1. France — 6
 1. Haifa — 8
-1. Hemingway in Istanbul ✻ — 6
-1. Hemingway in Paris ✻ — 66
-1. Hemingway in Spain ✻ — 60
+1. [Hemingway in Istanbul](https://adequatica.medium.com/hemingway-in-istanbul-9e8f4fc3e6bf?source=friends_link&sk=b4df8f13335b7d4fd9fb42dee5be290e) — 6
+1. [Hemingway in Paris](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0?source=friends_link&sk=a3eaecf784f6ba3324830efd1291cb64) — 66
+1. [Hemingway in Spain](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3?source=friends_link&sk=76d0a9875b23dfac95445a36cef02acd) — 60
 1. Istanbul — 40
 1. Jerusalem — 10
 1. Kaliningrad — 12
@@ -53,14 +53,14 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Morocco — 32
 1. Moscow — 48
 1. Moscow Oblast — 18
-1. Moscow Castles ✻ — 24
-1. Mountainboard Parks ✻ — 20
+1. [Moscow Castles](https://adequatica.medium.com/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653) — 24
+1. [Mountainboard Parks](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f) — 20
 1. Netherlands — 20
 1. Nizhny Novgorod — 10
 1. Novi Sad — 18
 1. Pamplona — 10
 1. Paris — 26
-1. Places of Peter Kropotkin ✻ — 16
+1. [Places of Peter Kropotkin](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6) — 20
 1. Portugal — 60
 1. Prague — 18
 1. Rhodes — 8
@@ -78,33 +78,3 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Yaroslavl — 10
 1. Yerevan — 20
 1. Zurich — 6
-
-## ✻ References
-
-### «Dostoevsky in Saint Petersburg»
-* [My own research](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297)
-* [Google Maps](https://www.google.com/maps/d/viewer?mid=1_m92Owz9aIDrt46Z5ZMKCGoJszU)
-
-### «Hemingway in Istanbul»
-* [My own research](https://adequatica.medium.com/hemingway-in-istanbul-9e8f4fc3e6bf?source=friends_link&sk=b4df8f13335b7d4fd9fb42dee5be290e)
-* [Google Maps](https://www.google.com/maps/d/viewer?mid=1p0NOGh1ePRwqBwEmrKUOND-dsXmlHujR)
-
-### «Hemingway in Paris»
-* [My own research](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0?source=friends_link&sk=a3eaecf784f6ba3324830efd1291cb64)
-* [Google Maps](https://www.google.com/maps/d/viewer?mid=1hg6Hs7aTQh8HAdea_deIEvCl_8Y)
-
-### «Hemingway in Spain»
-* [My own research](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3?source=friends_link&sk=76d0a9875b23dfac95445a36cef02acd)
-* [Google Maps](https://www.google.com/maps/d/viewer?mid=1p0CMpvSdMqmDwthIM_hzZQRV33WyKckh)
-
-### «Moscow Castles»
-* [My own research](https://adequatica.medium.com/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653)
-* [Google Maps](https://www.google.com/maps/d/viewer?mid=14rmaKHZ1kutniTiL1_96bAYkjT6Jxwnb)
-
-### «Mountainboard Parks»
-* [My own experience](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f)
-* [Google Maps](https://www.google.com/maps/d/viewer?mid=1tyD4TTqb97ZVnRM3YoJ_Ql9btS8)
-
-### «Places of Peter Kropotkin»
-* [My own research](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6)
-* [Google Maps](https://www.google.com/maps/d/viewer?mid=1Ytif-yhpX6JxDeyf7tQbluaMZNZNh-KY)
