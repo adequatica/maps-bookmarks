@@ -60,7 +60,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Novi Sad — 18
 1. Pamplona — 10
 1. Paris — 26
-1. [Places of Peter Kropotkin](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6) — 20
+1. [Places of Peter Kropotkin](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6) — 22
 1. Portugal — 60
 1. Prague — 18
 1. Rhodes — 8
