@@ -217,20 +217,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>BeerCuz Pivnica</name>
-    <TimeStamp><when>2021-10-23T15:00:00Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>19.848128,45.256291</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-bar</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Mileva Maric Einstein House</name>
     <TimeStamp><when>2022-10-08T14:22:33Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -277,7 +263,7 @@
     <description>Small craft bar.</description>
     <TimeStamp><when>2022-10-14T16:31:06Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>19.841788,45.253534</coordinates></Point>
+    <Point><coordinates>19.840775,45.253088</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -306,13 +292,28 @@
     <name>Gusan</name>
     <TimeStamp><when>2022-12-24T14:31:09Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.846967,45.25547</coordinates></Point>
+    <Point><coordinates>19.846852,45.2555</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Irish Pub Red Cow</name>
+    <description>Has Belgian beer in bottles in menu.</description>
+    <TimeStamp><when>2023-07-11T12:13:14Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>19.848665,45.25647</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
