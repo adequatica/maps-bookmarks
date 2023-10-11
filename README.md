@@ -26,7 +26,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Barcelona — 20
 1. Basque Country — 12
 1. Belgium — 16
-1. Belgrade — 36
+1. Belgrade — 38
 1. Berlin — 48
 1. Bowie in Berlin — 10
 1. Bratislava — 10
@@ -44,7 +44,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. [Hemingway in Istanbul](https://adequatica.medium.com/hemingway-in-istanbul-9e8f4fc3e6bf?source=friends_link&sk=b4df8f13335b7d4fd9fb42dee5be290e) — 6
 1. [Hemingway in Paris](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0?source=friends_link&sk=a3eaecf784f6ba3324830efd1291cb64) — 66
 1. [Hemingway in Spain](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3?source=friends_link&sk=76d0a9875b23dfac95445a36cef02acd) — 60
-1. Istanbul — 40
+1. Istanbul — 42
 1. Jerusalem — 10
 1. Kaliningrad — 12
 1. Leningrad Oblast — 18
@@ -66,7 +66,8 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Rhodes — 8
 1. Rome — 28
 1. Saint Petersburg — 56
-1. Serbia — 26
+1. Sarajevo — 14
+1. Serbia — 28
 1. Sicily — 14
 1. Sochi — 6
 1. [Soviet Modernism in Yerevan](https://telegra.ph/Soviet-Modernism-in-Yerevan-05-07) — 40
@@ -74,6 +75,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Tel Aviv — 8
 1. Veliky Novgorod — 10
 1. Vienna — 10
+1. Višegrad — 6
 1. White City of Tel Aviv — 40
 1. Yaroslavl — 10
 1. Yerevan — 20
