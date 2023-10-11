@@ -107,7 +107,7 @@
   <Placemark>
     <name>Basilica Cistern</name>
     <description>The cistern was built in the 6th century during the reign (527–565) of Byzantine Emperor Justinian I. This cistern is an underground chamber approximately 138 meters by 65 meters (about 9800 square meters in area) and capable of holding 80,000 cubic meters of water. The ceiling is supported by a forest of 336 marble columns, each 9 metres high, arranged in 12 rows of 28 columns each spaced 5 metres apart. The cistern has the capacity to store 100,000 tons of water.</description>
-    <TimeStamp><when>2018-05-03T16:54:06Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T13:54:06Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.97792,41.008404</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -121,7 +121,7 @@
   <Placemark>
     <name>Serpent Column</name>
     <description>It is an ancient bronze column at the Hippodrome of Constantinople. It is part of an ancient Greek sacrificial tripod, originally in Delphi and relocated to Constantinople by Constantine the Great in 324.</description>
-    <TimeStamp><when>2018-05-03T17:36:48Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T14:36:48Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.975104,41.005663</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -135,7 +135,7 @@
   <Placemark>
     <name>Column of Constantine</name>
     <description>It is a Roman monumental column built for Roman emperor Constantine the Great in 328. It is the oldest Constantinian monument in Istanbul and stood in the centre of the former Forum of Constantine.</description>
-    <TimeStamp><when>2018-05-03T18:05:11Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T15:05:11Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.971295,41.008554</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -149,12 +149,40 @@
   <Placemark>
     <name>Theodosian Walls</name>
     <description>The Walls of Constantinople was built in the 5th century. Although the other sections of the walls were less elaborate, when well-manned, they were almost impregnable for any medieval besieger, saving the city, and the Byzantine Empire with it. The advent of gunpowder siege cannons rendered the fortifications vulnerable. Ultimately the city fell from sheer weight of numbers of the Ottoman forces in 1453 after a six-week siege. The walls were largely maintained intact during most of the Ottoman period, until sections began to be dismantled in the 19th century, as the city outgrew its medieval boundaries, but many parts of the walls survived and are still standing today.</description>
-    <TimeStamp><when>2018-05-03T19:26:01Z</when></TimeStamp>
+    <TimeStamp><when>2018-05-03T16:26:01Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>28.922883,41.016738</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-citywalls</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gate of Rhegion</name>
+    <description>The best-preserved and one of the most intriguing gates of the Theodosian Walls. The gate stands out for the exceptionally large number of inscriptions preserved on its tower.</description>
+    <TimeStamp><when>2018-05-03T17:35:28Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.922068,41.014085</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>barrier-gate</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Golden Gate</name>
+    <description>The Golden Gate was the first gate to be encountered. It was the main ceremonial entrance into the capital, used especially for the occasions of a triumphal entry of an emperor into the capital on the occasion of military victories or other state occasions such as coronations.</description>
+    <TimeStamp><when>2018-05-03T18:27:29Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.922463,40.992945</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>barrier-gate</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
