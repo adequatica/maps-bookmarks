@@ -332,7 +332,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Subotica Synagogue</name>
+    <name>Subotička Sinagoga</name>
     <TimeStamp><when>2023-09-01T12:40:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.661316,46.101408</coordinates></Point>

@@ -380,7 +380,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
     <name>Museum of Yugoslavia</name>
     <TimeStamp><when>2023-02-25T18:38:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.453103,44.788912</coordinates></Point>
+    <Point><coordinates>20.453028,44.788811</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
@@ -392,7 +392,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
   </Placemark>
   <Placemark>
     <name>Dogma</name>
-        <description>Take tram 12 to Hippodrome.</description>
+    <description>Take tram 12 to Hippodrome.</description>
     <TimeStamp><when>2023-04-15T15:51:49Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>20.423079,44.788604</coordinates></Point>
