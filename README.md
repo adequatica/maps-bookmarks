@@ -26,7 +26,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Barcelona — 20
 1. Basque Country — 12
 1. Belgium — 16
-1. Belgrade — 38
+1. Belgrade — 40
 1. Berlin — 48
 1. Bowie in Berlin — 10
 1. Bratislava — 10
@@ -79,4 +79,5 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. White City of Tel Aviv — 40
 1. Yaroslavl — 10
 1. Yerevan — 20
+1. [Yugoslav Modernism in Sarajevo](https://telegra.ph/Yugoslav-Modernism-in-Sarajevo-10-24) — 10
 1. Zurich — 6
