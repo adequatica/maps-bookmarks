@@ -160,7 +160,7 @@
     <name>Minibus to Tevfikiye</name>
     <description>To Truva (Troy): 07:30, 09:30, 11:30, 13:30, 15:30, 17:30, 19:00, ~ 40 min in a road.
 From Archaeological Site of Troy: 07:30, 08:00, 09:00, 11:00, 13:00, 15:00, 17:00, 20:00.</description>
-    <TimeStamp><when>2023-04-7T09:30:00Z</when></TimeStamp>
+    <TimeStamp><when>2023-04-07T09:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>26.40743,40.143228</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -187,7 +187,7 @@ From Archaeological Site of Troy: 07:30, 08:00, 09:00, 11:00, 13:00, 15:00, 17:0
   </Placemark>
   <Placemark>
     <name>Troya Müzesi</name>
-    <TimeStamp><when>2023-03-07T13:14:10Z</when></TimeStamp>
+    <TimeStamp><when>2023-04-07T13:14:10Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>26.249266,39.955276</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
