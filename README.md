@@ -6,7 +6,7 @@ I have been using [maps.me](https://maps.me) app during all my travels since 201
 
 Now I am using **[Organic Maps](https://organicmaps.app)**.
 
-[KML files can be converted to GPX](https://github.com/enotramone/mmkml2gpx) to be able to import bookmarks into other free apps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
+[KML files can be converted to GPX](https://github.com/adequatica/mmkml2gpx) to be able to import bookmarks into other free apps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
 
 ## Map legend
 
@@ -26,7 +26,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Barcelona — 20
 1. Basque Country — 12
 1. Belgium — 16
-1. Belgrade — 40
+1. Belgrade — 44
 1. Berlin — 48
 1. Bowie in Berlin — 10
 1. Bratislava — 10
