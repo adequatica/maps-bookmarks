@@ -202,7 +202,7 @@
   <Placemark>
     <name>Maison Kayser</name>
     <description>Works on Saturday, open early and there are croissants.</description>
-    <TimeStamp><when>2023-03-22T10:33:00Z</when></TimeStamp>
+    <TimeStamp><when>2023-04-22T10:33:00Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>34.76981,32.063068</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">

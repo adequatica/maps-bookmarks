@@ -261,7 +261,7 @@
   <Placemark>
     <name>Aperitivo</name>
     <description>A popular café (after 10 almost all the tables are occupied), fair prices.</description>
-    <TimeStamp><when>2022-04-15T11:58:00Z</when></TimeStamp>
+    <TimeStamp><when>2022-05-15T11:58:00Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>44.514997,40.188727</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">

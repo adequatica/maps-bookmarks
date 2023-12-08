@@ -2,7 +2,7 @@
 
 Over the past decade, I have saved over a thousand places where I have been, and I will be glad if someone finds these bookmarks useful.
 
-I have been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020 the app was ruined by the new owner and became completely unusable.
+I have been using [maps.me](https://maps.me) app during all my travels since 2013, but after update 2.0 in December 2020, the new owner ruined the app, which became completely unusable.
 
 Now I am using **[Organic Maps](https://organicmaps.app)**.
 
@@ -10,13 +10,13 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 
 ## Map legend
 
-* Red — sightseeing;
-* Orange — cafés, restaurants, fast food;
-* Yellow — shops, markets, fairs;
-* Green — parks, mountains, botanical gardens;
-* Brown — craft beer bars or bottle shops;
-* Purple — non-craft bars or pubs;
-* Pink — bus and train stations or a group of special [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for the particular area.
+- Red — sightseeing;
+- Orange — cafés, restaurants, fast food;
+- Yellow — shops, markets, fairs;
+- Green — parks, mountains, botanical gardens;
+- Brown — craft beer bars or bottle shops;
+- Purple — non-craft bars or pubs;
+- Pink — bus and train stations or a group of particular [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for a specific area.
 
 ## Lists of bookmarks
 
@@ -81,3 +81,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Yerevan — 20
 1. [Yugoslav Modernism in Sarajevo](https://telegra.ph/Yugoslav-Modernism-in-Sarajevo-10-24) — 10
 1. Zurich — 6
+
+----
+
+`chrono.js` script is used to validate the dates of bookmarks in chronological order.

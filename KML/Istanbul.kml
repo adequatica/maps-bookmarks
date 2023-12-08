@@ -554,7 +554,7 @@
   </Placemark>
   <Placemark>
     <name>Vefa Bozacisi</name>
-    <TimeStamp><when>2022-04-16T17:33:02Z</when></TimeStamp>
+    <TimeStamp><when>2022-09-29T17:33:02Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>28.958418,41.015324</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
