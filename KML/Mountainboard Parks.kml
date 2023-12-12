@@ -61,8 +61,8 @@
   <description>Here I have collected the visited mountainboard parks in alphabetical order; each year corresponds to a link to the photo album.</description>
   <visibility>0</visibility>
   <Placemark>
-    <name>Yukki [closed], Saint-Petersburg, Russia</name>
-    <description>It was the only mountainboard spot in Saint-Petersburg (actually, 30 kilometers north of the city). It started in 2008 and grew bigger and bigger every season. In 2010 it got huge big airs which were reused in winter for snowboarding. The last competition in Yukki (aka Rainbow Park) was in 2013, and the next season it was demolished by the landlord.</description>
+    <name>Yukki [closed], Saint Petersburg, Russia</name>
+    <description>It was the only mountainboard spot in Saint Petersburg (actually, 30 kilometers north of the city). It started in 2008 and grew bigger and bigger every season. In 2010 it got huge big airs which were reused in winter for snowboarding. The last competition in Yukki (aka Rainbow Park) was in 2013, and the next season it was demolished by the landlord.</description>
     <TimeStamp><when>2020-05-10T08:00:36Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>30.312008,60.109113</coordinates></Point>
@@ -157,7 +157,7 @@ Freestyle section: big air with quarterpipe in poor condition, concrete skateboa
   </Placemark>
   <Placemark>
     <name>Orekhovo, Moscow, Russia</name>
-    <description>It’s the opening spot of an old-school mountainboard video «8inchez». The bike track was built in its current shape in 2004 and became suitable for mountainboarding. Local mountainboarders ride there every season, but the golden years of the sport are over, and the last competition was held in 2013. 
+    <description>It’s the opening spot of an old-school mountainboard video, «8 Inchez». The bike track was built in its current shape in 2004 and became suitable for mountainboarding. Local mountainboarders ride there every season, but the golden years of the sport are over, and the last competition was held in 2013. 
 Up to date, it consists of a bike track for one rider, big air on the course, and a series of two dirt jumps.</description>
     <TimeStamp><when>2020-05-10T09:30:51Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
