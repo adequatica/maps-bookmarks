@@ -57,7 +57,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. [Mountainboard Parks](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f) — 20
 1. Netherlands — 20
 1. Nizhny Novgorod — 10
-1. Novi Sad — 19
+1. Novi Sad — 21
 1. Pamplona — 10
 1. Paris — 26
 1. [Places of Peter Kropotkin](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6) — 22
@@ -82,6 +82,8 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. [Yugoslav Modernism in Sarajevo](https://telegra.ph/Yugoslav-Modernism-in-Sarajevo-10-24) — 10
 1. Zurich — 6
 
-----
+---
 
-`chrono.js` script is used to validate the dates of bookmarks in chronological order.
+`chrono.js` script is used to validate the dates of bookmarks in chronological order:
+
+- `npm run chrono`

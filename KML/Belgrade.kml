@@ -337,6 +337,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
   </Placemark>
   <Placemark>
     <name>Holy Smokes</name>
+    <description>Brisket obrok.</description>
     <TimeStamp><when>2023-01-14T17:58:08Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.466056,44.818237</coordinates></Point>
@@ -624,7 +625,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
     <name>Giovanni’s Pizzeria</name>
     <TimeStamp><when>2023-10-21T14:21:13Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.454643,44.818359</coordinates></Point>
+    <Point><coordinates>20.454265,44.817817</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
