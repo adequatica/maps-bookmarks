@@ -108,7 +108,7 @@
     <name>Petrovaradin Fortress</name>
     <TimeStamp><when>2017-05-08T11:51:02Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.864256,45.252291</coordinates></Point>
+    <Point><coordinates>19.866574,45.252562</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-castle</mwm:value>

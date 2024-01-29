@@ -179,7 +179,7 @@
   <Placemark>
     <name>Zeleni Venac</name>
     <description>Bus 72 from/to the airport, ~ 45 min.
-Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
+Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
     <TimeStamp><when>2022-03-06T23:17:25Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>20.456786,44.814</coordinates></Point>
@@ -194,7 +194,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
   </Placemark>
   <Placemark>
     <name>Bloom</name>
-    <description>Non-smoking modern cafe with breakfasts.</description>
+    <description>Non-smoking modern cafe with breakfasts. Always busy and full of tourists.</description>
     <TimeStamp><when>2022-03-09T10:01:28Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.459259,44.820929</coordinates></Point>
@@ -211,7 +211,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
     <name>Belgrade Center Railway Station</name>
     <TimeStamp><when>2022-10-04T10:51:56Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>20.453063,44.793627</coordinates></Point>
+    <Point><coordinates>20.453127,44.793631</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-train_station</mwm:value>
@@ -381,7 +381,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
     <name>Museum of Yugoslavia</name>
     <TimeStamp><when>2023-02-25T18:38:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.453028,44.788811</coordinates></Point>
+    <Point><coordinates>20.452999,44.788758</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
@@ -594,6 +594,20 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Nekrasova</name>
+    <TimeStamp><when>2023-09-21T18:29:30Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>20.473544,44.805309</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Pivo i Kobaja</name>
     <TimeStamp><when>2023-09-23T15:58:35Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
@@ -638,7 +652,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
   </Placemark>
   <Placemark>
     <name>The Black Turtle Pub Brewery</name>
-    <description>Local stout (tamno) is really good.</description>
+    <description>Local stout (támno) is really good.</description>
     <TimeStamp><when>2023-10-21T15:39:14Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>20.466954,44.814398</coordinates></Point>
@@ -667,6 +681,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
   </Placemark>
   <Placemark>
     <name>Zona Industriale</name>
+    <description>Zabranjeno pušenje.</description>
     <TimeStamp><when>2023-11-08T08:27:52Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.470916,44.80254</coordinates></Point>
@@ -681,9 +696,25 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 20 min.</description>
   </Placemark>
   <Placemark>
     <name>Kafe Skver</name>
+    <description>Dobar kafić na malom trgu. Zabranjeno pušenje.</description>
     <TimeStamp><when>2023-11-23T10:20:50Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.48519,44.799156</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Svetozar</name>
+    <description>Zabranjeno pušenje.</description>
+    <TimeStamp><when>2024-01-24T08:35:12Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>20.469018,44.808095</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
