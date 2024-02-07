@@ -352,6 +352,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Pastel De Nata</name>
+    <description>Tram 7 to/from Vukov Spomenik.</description>
     <TimeStamp><when>2023-02-15T13:44:37Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.401066,44.806735</coordinates></Point>
@@ -503,20 +504,6 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Baba Visnjina</name>
-    <TimeStamp><when>2023-08-19T09:36:29Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.472777,44.80113</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-cafe</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -681,7 +668,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Zona Industriale</name>
-    <description>Zabranjeno pušenje.</description>
+    <description>Zabranjeno pušenje, espreso sa mlekom (produže) = 250–260 din. 20 min from home at Dimitrija Tucovića, 21 min to Zeleni Venac.</description>
     <TimeStamp><when>2023-11-08T08:27:52Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.470916,44.80254</coordinates></Point>
@@ -696,7 +683,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Kafe Skver</name>
-    <description>Dobar kafić na malom trgu. Zabranjeno pušenje.</description>
+    <description>Dobar kafić na malom trgu. Zabranjeno pušenje, espreso sa mlekom = 220 din.</description>
     <TimeStamp><when>2023-11-23T10:20:50Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.48519,44.799156</coordinates></Point>
@@ -711,7 +698,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Svetozar</name>
-    <description>Zabranjeno pušenje.</description>
+    <description>Zabranjeno pušenje, espreso sa mlekom = 250 din. 15 min to Zeleni Venac.</description>
     <TimeStamp><when>2024-01-24T08:35:12Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.469018,44.808095</coordinates></Point>
@@ -721,6 +708,20 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tri Kralja</name>
+    <TimeStamp><when>2024-02-01T19:44:30Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>20.466345,44.805051</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
