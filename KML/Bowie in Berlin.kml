@@ -88,7 +88,7 @@
   </Placemark>
   <Placemark>
     <name>Neues Ufer</name>
-    <description>Previously known as «Anderes Ufer» – one of the oldest gay cafe in Europe opened in 70s. Favorable place of David Bowie and Iggy Pop for brunch.</description>
+    <description>Previously known as «Anderes Ufer» — one of the oldest gay cafe in Europe opened in 70s. Favorable place of David Bowie and Iggy Pop for brunch.</description>
     <TimeStamp><when>2017-03-18T12:15:11Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.35973,52.489534</coordinates></Point>
@@ -168,7 +168,7 @@
   </Placemark>
   <Placemark>
     <name>Bösebrücke</name>
-    <description>The place where the wall fell back in 1989 – a part of the lyrics of David Bowie’s song «Where are we now?»</description>
+    <description>The place where the wall fell back in 1989 — a part of the lyrics of David Bowie’s song «Where are we now?»</description>
     <TimeStamp><when>2017-03-18T23:12:44Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.398164,52.554737</coordinates></Point>

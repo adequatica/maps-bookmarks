@@ -90,7 +90,7 @@
   </Placemark>
   <Placemark>
     <name>Sagrada Família</name>
-    <description>Antoni Gaudí: 1883 – incomplete.</description>
+    <description>Antoni Gaudí: 1883 — incomplete.</description>
     <TimeStamp><when>2015-07-23T14:49:08Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.1743207,41.403555</coordinates></Point>
@@ -233,7 +233,7 @@
   </Placemark>
   <Placemark>
     <name>Montjuic</name>
-    <description>View of the port of Barcelona – Spain’s third and European’s ninth largest container port.</description>
+    <description>View of the port of Barcelona — Spain’s third and European’s ninth largest container port.</description>
     <TimeStamp><when>2017-03-20T17:57:55Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>2.167524,41.363173</coordinates></Point>

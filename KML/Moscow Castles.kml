@@ -127,7 +127,7 @@ It does not have anything similar to «kremlin» as a fortified complex, because
   </Placemark>
   <Placemark>
     <name>18. Nikolo-Perervinsky Monastery</name>
-    <description>Founded in 1623, the existing brick fence was built in 1908 – the same year as the main church was erected in Russian-Byzantine style.</description>
+    <description>Founded in 1623, the existing brick fence was built in 1908 — the same year as the main church was erected in Russian-Byzantine style.</description>
     <TimeStamp><when>2020-02-18T05:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.719147,55.669246</coordinates></Point>
@@ -408,7 +408,7 @@ After foundation the place was changed a few times according to advantageous str
   </Placemark>
   <Placemark>
     <name>2.2. Birds Tower</name>
-    <description>The other one is located behind the Hotel Metropol. There is also the only remaining tower of the Kitay-gorod wall – «Birds Tower» (1535–1538), located near archway onto Tretyakovsky Proezd.</description>
+    <description>The other one is located behind the Hotel Metropol. There is also the only remaining tower of the Kitay-gorod wall — «Birds Tower» (1535–1538), located near archway onto Tretyakovsky Proezd.</description>
     <TimeStamp><when>2020-02-18T19:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.622513,55.758831</coordinates></Point>

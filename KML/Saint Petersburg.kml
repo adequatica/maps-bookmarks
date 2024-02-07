@@ -104,7 +104,7 @@
   </Placemark>
   <Placemark>
     <name>Zodchego Rossi Street</name>
-    <description>Its width equals the height of the buildings on both sides – 22 meters, and its length is ten times greater – 220 meters.</description>
+    <description>Its width equals the height of the buildings on both sides — 22 meters, and its length is ten times greater — 220 meters.</description>
     <TimeStamp><when>2017-03-01T08:19:02Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>30.335565,59.930313</coordinates></Point>

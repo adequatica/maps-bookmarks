@@ -238,7 +238,7 @@ The escape route from the hospital ran along Yaroslavskaya Street, Bezymianny La
   </Placemark>
   <Placemark>
     <name>10. The House of Pre-trial Detention</name>
-    <description>When the preliminary investigation into the Kropotkin case was completed, on December 20, 1875, he was transferred to the House of Pre-trial Detention - this prison was considered an exemplary one in tsarist Russia.</description>
+    <description>When the preliminary investigation into the Kropotkin case was completed, on December 20, 1875, he was transferred to the House of Pre-trial Detention — this prison was considered an exemplary one in tsarist Russia.</description>
     <TimeStamp><when>2020-02-14T13:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.35164,59.948914</coordinates></Point>
