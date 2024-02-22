@@ -66,7 +66,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Rhodes — 8
 1. Rome — 28
 1. Saint Petersburg — 56
-1. Sarajevo — 14
+1. Sarajevo — 16
 1. Serbia — 32
 1. Sicily — 14
 1. Sochi — 6

@@ -63,7 +63,7 @@
     <name>Assassination of Archduke Franz Ferdinand</name>
     <TimeStamp><when>2023-06-28T19:14:00Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.428929,43.85789</coordinates></Point>
+    <Point><coordinates>18.428931,43.857896</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-memorial-plaque</mwm:value>
@@ -129,21 +129,6 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Sebilj</name>
-    <TimeStamp><when>2023-10-05T08:36:15Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.431219,43.859717</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>natural-water</mwm:value>
-        <mwm:value>amenity-drinking_water</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Water</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -218,6 +203,23 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Čevabdžinica Specijal</name>
+    <TimeStamp><when>2024-10-06T17:31:33Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>18.428684,43.85877</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-balkan</mwm:value>
+        <mwm:value>cuisine-local</mwm:value>
+        <mwm:value>cuisine-regional</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Viking Pub</name>
     <TimeStamp><when>2023-10-06T17:37:04Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
@@ -259,6 +261,40 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Zlatna Ribica</name>
+    <TimeStamp><when>2024-02-17T18:21:55Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>18.421821,43.859282</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ćevabdžinica Željo 3</name>
+    <TimeStamp><when>2024-02-18T15:13:59Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>18.429811,43.858853</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Ćevabdžinica Željo 3</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-balkan</mwm:value>
+        <mwm:value>cuisine-local</mwm:value>
+        <mwm:value>cuisine-regional</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
