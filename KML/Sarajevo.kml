@@ -204,7 +204,7 @@
   </Placemark>
   <Placemark>
     <name>Čevabdžinica Specijal</name>
-    <TimeStamp><when>2024-10-06T17:31:33Z</when></TimeStamp>
+    <TimeStamp><when>2023-10-06T17:31:33Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>18.428684,43.85877</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">

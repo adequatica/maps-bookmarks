@@ -114,13 +114,14 @@
     </IconStyle>
   </Style>
   <name>Yugoslav Modernism in Sarajevo</name>
-  <description>Most of the modernist buildings in Sarajevo are located in Novo Sarajevo, and it’s pretty underrated (in terms of socialist modernist architecture, compared to New Belgrade).</description>
+  <description>The majority of buildings of the socialist modernism era in Sarajevo are located in Novo Sarajevo, and they are primarily residential blocks. But the most iconic Sarajevo buildings of this period are located somewhere in between an old Austro-Hungarian part of the city and a new one. 
+I included a couple of postmodernist buildings of the 80s, which also have remarkable elements of modernism.</description>
   <visibility>0</visibility>
   <Placemark>
-    <name>Papagajka</name>
+    <name>20. Papagajka (postmodernism)</name>
     <description>Years of construction: 1982–1990, designed by architects: Dragan Bijedić and Mladen Gvozden. 
-This is an atypical building for the last years of the existence of socialist Yugoslavia. Despite the elements of modernism, due to the complexity of the design, it can be considered a postmodern building.</description>
-    <TimeStamp><when>2023-10-04T04:10:00Z</when></TimeStamp>
+This is an atypical building for the last years of the existence of socialist Yugoslavia and is a perfect example of a «classic» postmodern building.</description>
+    <TimeStamp><when>2023-10-24T01:20:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.426015,43.856546</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -132,10 +133,10 @@ This is an atypical building for the last years of the existence of socialist Yu
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Kubusi na Pofalićima</name>
-    <description>Years of construction: 1980s, designed by architect: Srboslav Stojanović. 
+    <name>19. Kubusi na Pofalićima</name>
+    <description>Years of construction: 1980s, designed by architect Srboslav Stojanović. 
 Cube buildings along the boulevard have a very futuristic «Soviet» look.</description>
-    <TimeStamp><when>2023-10-04T06:09:00Z</when></TimeStamp>
+    <TimeStamp><when>2023-10-24T02:19:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.393466,43.85489</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -147,10 +148,43 @@ Cube buildings along the boulevard have a very futuristic «Soviet» look.</desc
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Ciglane, «Naselje Đuro Đaković» neighborhood</name>
-    <description>Years of construction: 1976–1989, designed by Croatian architect: Radovan Delalle. 
-It is a residential estate on a hillside. Thus, most apartment blocks are split into three tiers and built in a terraced style.</description>
-    <TimeStamp><when>2023-10-04T08:08:00Z</when></TimeStamp>
+    <name>18. UNITIC Towers (UNIS Towers)</name>
+    <description>Year of construction: 1986, designed by Bosnian architect Ivan Štraus. 
+UNITIC towers (formerly UNIS Holding BiH) are twin skyscrapers (according to different sources from 90 m to 111 m), commonly known as «Momo and Uzeir». Both towers were severely damaged during the Bosnian War and were renovated by 2000.</description>
+    <TimeStamp><when>2023-10-24T03:18:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.405965,43.857081</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>17. Holiday Inn Hotel (postmodernism)</name>
+    <description>Years of construction: 1982–1983, designed by Bosnian architect Ivan Štraus. 
+The hotel was opened a year before the 1984 Winter Olympics and was criticized for its bright facade (what makes a building postmodern). During the war in the 1990s, the hotel became a headquarters for foreign journalists, and from time to time, it was the only place with food, water, and electricity. 
+After several years of operating after the war, the hotel went bankrupt and lost its «Holiday Inn» brand license. It was reopened in 2016 under the Holiday Hotel name.</description>
+    <TimeStamp><when>2023-10-24T04:17:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.404024,43.856497</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-hotel</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>16. Ciglane, «Naselje Đuro Đaković» neighborhood</name>
+    <description>Years of construction: 1976–1989, designed by Croatian architect Radovan Delalle. 
+It is a residential estate on a hillside. Thus, most apartment blocks are split into three tiers and built in a terraced style. 
+Сafes on the lower tier serve as a gathering place for FK Sarajevo fans before football matches, which take place at the stadium nearby.</description>
+    <TimeStamp><when>2023-10-24T05:16:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.408037,43.864504</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -162,12 +196,12 @@ It is a residential estate on a hillside. Thus, most apartment blocks are split 
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>RTV Dom</name>
+    <name>15. RTV Dom (brutalism)</name>
     <description>Years of construction: 1973–1983, designed by architects: Milan Kušan and Branko Bulić. 
 It is the most recognizable brutalist building in Sarajevo.</description>
-    <TimeStamp><when>2023-10-04T10:07:00Z</when></TimeStamp>
+    <TimeStamp><when>2023-10-24T06:15:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.353573,43.847952</coordinates></Point>
+    <Point><coordinates>18.353573,43.847952</coordinates></Point> 
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
@@ -177,9 +211,10 @@ It is the most recognizable brutalist building in Sarajevo.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Parlament Federacije Bosne i Hercegovine</name>
-    <description>Years of construction: 1980, designed by Serbian architect: Vladimir Dobrović.</description>
-    <TimeStamp><when>2023-10-04T12:06:00Z</when></TimeStamp>
+    <name>14. Parlament Federacije Bosne i Hercegovine (postmodernism)</name>
+    <description>Year of construction: 1980, designed by Serbian architect Vladimir Dobrović. 
+Despite the year of construction in the era of modernism, the complexity and shapes of the building reveal its belonging to postmodern architecture.</description>
+    <TimeStamp><when>2023-10-24T07:14:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.416281,43.855904</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -192,10 +227,10 @@ It is the most recognizable brutalist building in Sarajevo.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>BH Electric Power Building (Elektroprivreda)</name>
-    <description>Years of construction: 1978, designed by Bosnian architect: Ivan Štraus. 
-The building was greatly damaged during the siege on Sarajevo, so it had to be completely restored and now accommodates corporate offices.</description>
-    <TimeStamp><when>2023-10-04T14:05:00Z</when></TimeStamp>
+    <name>13. Elektroprivreda</name>
+    <description>Year of construction: 1978, designed by Bosnian architect Ivan Štraus. 
+The building was significantly damaged during the siege of Sarajevo, so it had to be completely restored. The contemporary facade lost some of the previous modernist elements.</description>
+    <TimeStamp><when>2023-10-24T08:13:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.386481,43.852321</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -207,9 +242,9 @@ The building was greatly damaged during the siege on Sarajevo, so it had to be c
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>BH Pošta</name>
-    <description>Years of construction: 1976, designed by Bosnian architect: Ahmet Kapidžić.</description>
-    <TimeStamp><when>2023-10-04T16:04:00Z</when></TimeStamp>
+    <name>12. BH Pošta</name>
+    <description>Year of construction: 1976, designed by Bosnian architect Ahmet Kapidžić.</description>
+    <TimeStamp><when>2023-10-24T09:12:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.381392,43.852329</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -221,10 +256,11 @@ The building was greatly damaged during the siege on Sarajevo, so it had to be c
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Dom Mladih</name>
-    <description>Years of construction: 1966–1969, designed by Bosnian architect: Živorad Janković. 
-Dom Mladih is a part of the Skenderija — a kulturno-sportski centar consisting of several venues. In the days of the siege of Sarajevo, the main building of Skenderija survived without major damage, but the House of Youth was burned.</description>
-    <TimeStamp><when>2023-10-04T18:03:00Z</when></TimeStamp>
+    <name>11. Dom Mladih</name>
+    <description>Years of construction: 1966–1969, designed by Bosnian architect Živorad Janković. 
+Dom Mladih is a part of the Skenderija center and consists of a dance hall and an amphitheater. It was an essential venue for the Yugoslavian pop and rock scene. 
+In the days of the siege of Sarajevo, the main building of Skenderija survived without significant damage, but the House of Youth (Dom Mladih) was burned out.</description>
+    <TimeStamp><when>2023-10-24T10:11:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.414695,43.855291</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -236,9 +272,57 @@ Dom Mladih is a part of the Skenderija — a kulturno-sportski centar consisting
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Historical Museum of Bosnia and Herzegovina</name>
-    <description>Years of construction: 1958–1963, designed by Croatian architects: Boris Magaš, Edo Šmidihen, and Radovan Horvat.</description>
-    <TimeStamp><when>2023-10-04T20:02:00Z</when></TimeStamp>
+    <name>10. Skenderija</name>
+    <description>Years of construction: 1966–1969, designed by Bosnian architect Živorad Janković. 
+Skenderija is a multipurpose cultural and sports center consisting of several venues. 
+It was opened on 29 November 1969 to host a premiere of the Yugoslavian epic partisan film «Battle of Neretva». It was modernized to host the 1984 Winter Olympics as a press center and a hockey venue.</description>
+    <TimeStamp><when>2023-10-24T11:10:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.414355,43.854364</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>leisure-stadium</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>09. UPI Bank (Energoinvest)</name>
+    <description>Year of construction: 1962, designed by Bosnian architect Živorad Janković. 
+It is another modernist office building, but its curved facade resembles the Chamber of Economy of the FBH, and its high-rise part is similar to SIPAD’s headquarters.</description>
+    <TimeStamp><when>2023-10-24T12:09:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.42164,43.857123</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>08. Chamber of Economy of the Federation of Bosnia and Herzegovina (Cinema «Dubrovnik»)</name>
+    <description>Year of construction: 1962, designed by architect Milivoj Peterčić. 
+The building has a classy look for modernist offices of that period, with ribbon glazing on the facade. Unfortunately, a newly built trade center in front of it hides the full view of the building.</description>
+    <TimeStamp><when>2023-10-24T13:08:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.415843,43.858346</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>07. Historical Museum of Bosnia and Herzegovina</name>
+    <description>Years of construction: 1958–1963, designed by Croatian architects: Boris Magaš, Edo Šmidihen, and Radovan Horvat. 
+There is a good café Tito on the backside of the museum, inside a small pine grove and with a view of the glass facade of the museum’s library or documents archive.</description>
+    <TimeStamp><when>2023-10-24T14:07:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.40087,43.854975</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -250,13 +334,92 @@ Dom Mladih is a part of the Skenderija — a kulturno-sportski centar consisting
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
+    <Placemark>
+    <name>06. Residential Buildings on Alipašina Street</name>
+    <description>Year of construction: 1957–1962, designed by architect Juraj Neidhardt. 
+This is a hillside apartment complex of two buildings.</description>
+    <TimeStamp><when>2023-10-24T15:06:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.411457,43.859196</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
   <Placemark>
-    <name>Zgrada Šipada (SIPAD’s Headquarters)</name>
-    <description>Years of construction: 1953–1956, designed by architect: Tihomir Ivanović. 
-This is a rear modernist building in the old part of the city. «V» columns form a colonnade and uphold a rare porch where pedestrians on the sidewalk are protected from rain and sun. In the 2010s, the building was sold to BBI bank for only 3.2 million km = 2000 km per square meter, which is the price of a square meter of living space on the city’s outskirts.</description>
-    <TimeStamp><when>2023-10-04T22:01:00Z</when></TimeStamp>
+    <name>05. SIPAD’s Headquarters (Zgrada Šipada)</name>
+    <description>Years of construction: 1953–1956, designed by architect Tihomir Ivanović.
+This is a rear modernist building in the old part of the city. «V» columns form a colonnade uphold a porch that protects pedestrians on the sidewalk from rain and sun. The building consists of two merged parts: office space along Marshal Tito Street and a high-raised apartment building. 
+In the 2010s, the building was sold to BBI bank for only 3.2 million KM = 2000 KM per square meter, which is the price of a square meter of living space on the city​​’s outskirts.</description>
+    <TimeStamp><when>2023-10-24T16:05:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.417977,43.859035</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>04. Ministry of Health (social realism)</name>
+    <description>Years of construction: 1950–1953, designed by architect Tihomir Ivanović. 
+That is an example of transitioning from social realism to «western» modernism.</description>
+    <TimeStamp><when>2023-10-24T17:04:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.412606,43.858609</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>office-government</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Building</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>03. Sarajevo Main Railway Station (Żeljeznička Stanica Sarajevo, social realism)</name>
+    <description>Years of construction: 1947–1952, designed by architects: Muhamed Kadić, Emanuel Samanek, Dusan Smiljanic, and Jahiel Finci. 
+During the design of the railway station, the team of architects was changed due to political drift between Yugoslavia and the USSR. The resulting building is a mix of early modernism and socialist realism.</description>
+    <TimeStamp><when>2023-10-24T18:03:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.399167,43.860255</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building-train_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>02. Residential complex on Džidžikovac (social realism)</name>
+    <description>Years of construction: 1947–1948, designed by Bosnian architects Muhamed and Reuf Kadić. 
+The residential complex contains three linear apartment blocks, each consisting of three-story interconnecting buildings cascading along the hill. The complex has a lot in common with «workers’ settlements» of the constructivist period in the soviet union. 
+In 2008, this Kadić brosers project was declared a protected national monument.</description>
+    <TimeStamp><when>2023-10-24T19:02:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.41545,43.861429</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>landuse-residential</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>01. Pension Fund (Zgrada Penzionog fonda)</name>
+    <description>Years of construction: 1941–1943, designed by Bosnian architects Muhamed and Reuf Kadić. 
+One of the first modernist buildings in Sarajevo. The building’s appearance contains an influence of early European modernism and constructivism.</description>
+    <TimeStamp><when>2023-10-24T20:01:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>18.412079,43.857547</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>

@@ -16,7 +16,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 - Green — parks, mountains, botanical gardens;
 - Brown — craft beer bars or bottle shops;
 - Purple — non-craft bars or pubs;
-- Pink — bus and train stations or a group of particular [POI](https://en.wikipedia.org/wiki/Point_of_interest)s for a specific area.
+- Pink — bus and train stations or a group of particular [POI](https://wiki.openstreetmap.org/wiki/Points_of_interest)s for a specific area.
 
 ## Lists of bookmarks
 
@@ -79,7 +79,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. White City of Tel Aviv — 40
 1. Yaroslavl — 10
 1. Yerevan — 20
-1. [Yugoslav Modernism in Sarajevo](https://telegra.ph/Yugoslav-Modernism-in-Sarajevo-10-24) — 10
+1. [Yugoslav Modernism in Sarajevo](https://telegra.ph/Yugoslav-Modernism-in-Sarajevo-10-24) — 20
 1. Zurich — 6
 
 ---
