@@ -114,8 +114,8 @@
     </IconStyle>
   </Style>
   <name>Yugoslav Modernism in Sarajevo</name>
-  <description>The majority of buildings of the socialist modernism era in Sarajevo are located in Novo Sarajevo, and they are primarily residential blocks. But the most iconic Sarajevo buildings of this period are located somewhere in between an old Austro-Hungarian part of the city and a new one. 
-I included a couple of postmodernist buildings of the 80s, which also have remarkable elements of modernism.</description>
+  <description>The majority of buildings of the socialist modernism era in Sarajevo are located in Novo Sarajevo, and they are primarily residential blocks. However, the most iconic Sarajevo buildings of this period are located somewhere between an old Austro-Hungarian part of the city and a new one. 
+I included a couple of postmodernist buildings of the late 80s, which also have remarkable elements of modernism.</description>
   <visibility>0</visibility>
   <Placemark>
     <name>20. Papagajka (postmodernism)</name>
@@ -401,7 +401,7 @@ During the design of the railway station, the team of architects was changed due
     <name>02. Residential complex on Džidžikovac (social realism)</name>
     <description>Years of construction: 1947–1948, designed by Bosnian architects Muhamed and Reuf Kadić. 
 The residential complex contains three linear apartment blocks, each consisting of three-story interconnecting buildings cascading along the hill. The complex has a lot in common with «workers’ settlements» of the constructivist period in the soviet union. 
-In 2008, this Kadić brosers project was declared a protected national monument.</description>
+In 2008, this Kadić brothers project was declared a protected national monument.</description>
     <TimeStamp><when>2023-10-24T19:02:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.41545,43.861429</coordinates></Point>

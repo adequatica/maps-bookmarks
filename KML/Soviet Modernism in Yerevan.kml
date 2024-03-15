@@ -114,7 +114,7 @@
     </IconStyle>
   </Style>
   <name>Soviet Modernism in Yerevan</name>
-  <description>In the mid-60s, the construction of high-rise houses began in Armenia, a natural phenomenon associated with a new level of development of construction equipment and the need to increase the density of the city’s development. As a result, many buildings of that period defined the architecture of modern Yerevan.</description>
+  <description>In the mid-60s, the construction of high-rise houses began in Armenia, a natural phenomenon associated with a new level of development of construction equipment and the need to increase the density of the city’s growth. As a result, many buildings of that period defined the architecture of modern Yerevan.</description>
   <visibility>0</visibility>
   <Placemark>
     <name>40. Zvartnots Airport</name>
@@ -130,12 +130,12 @@
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
-  <Placemark>
-    <name>39. Institute of Stone and Silicates</name>
-    <description>The late 1980s, Levon Nushikyan, Zori Tonikyan, and Valeri Tonikyan. The building is in disrepair because the institute was moved to another location.</description>
+    <Placemark>
+    <name>39. «Citadel» Business Center</name>
+    <description>1981–1990s, Armen Agalyan. Late-Soviet modernism.</description>
     <TimeStamp><when>2022-04-20T00:00:39Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>44.562481,40.221519</coordinates></Point>
+    <Point><coordinates>44.522265,40.189818</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
@@ -145,11 +145,11 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>38. «Citadel» Business Center</name>
-    <description>1981–1990s, Armen Agalyan. Late-Soviet modernism.</description>
+    <name>38. Institute of Stone and Silicates</name>
+    <description>The late 1980s, Levon Nushikyan, Zori Tonikyan, and Valeri Tonikyan. The building is in disrepair and waiting for renovation because the institute was moved to another location.</description>
     <TimeStamp><when>2022-04-20T00:01:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>44.522265,40.189818</coordinates></Point>
+    <Point><coordinates>44.562481,40.221519</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
@@ -556,7 +556,7 @@
   </Placemark>
   <Placemark>
     <name>09. Hrazdan Stadium</name>
-    <description>1971, Koryun Hakobyan and Gurgen Musheghyan. The stadium was built in the gorge of the Hrazdan River and is the largest and only two-tier stadium in Armenia. In the 1970s, it was the home arena of the «Ararat» football club. Since 2015, after the bankruptcy of its new owner, it has been in a mothballed state.</description>
+    <description>1971, Koryun Hakobyan and Gurgen Musheghyan. The stadium, built in the gorge of the Hrazdan River, is the largest and only two-tier stadium in Armenia. In the 1970s, it was the home arena of the «Ararat» football club. Since 2015, after its new owner’s bankruptcy, it has been in a mothballed state.</description>
     <TimeStamp><when>2022-04-20T14:30:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.494669,40.180384</coordinates></Point>
@@ -584,8 +584,8 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>07. Moscow Cinema Theater Open Air Hall</name>
-    <description>1968, Spartak Kndeghtsyan and Telman Gevorgyan. This building is considered a masterpiece of Armenian modernism. The peculiarity of the cinema was its environmental character (the building is located behind the main part of the Moscow cinema building, in the courtyard), which is only sometimes inherent in modernist compositions. Now the hall is closed, in a semi-abandoned state, overgrown with outbuildings, and can be considered lost.</description>
+    <name>07. Moscow Cinema Theater Open-Air Hall</name>
+    <description>1968, Spartak Kndeghtsyan and Telman Gevorgyan. This building is considered a masterpiece of Armenian modernism. The cinema’s peculiarity was its environmental character (the building is located behind the main part of the Moscow cinema building, in the courtyard), which is only sometimes inherent in modernist compositions. Now the hall is closed, in a semi-abandoned state, overgrown with outbuildings, and can be considered lost.</description>
     <TimeStamp><when>2022-04-20T15:32:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.517584,40.181768</coordinates></Point>

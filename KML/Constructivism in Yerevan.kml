@@ -132,7 +132,7 @@
   </Placemark>
   <Placemark>
     <name>15. Kentron Municipality</name>
-    <description>An example of a transitional period building: through the classically stylized pilasters, capitals, and cornices, a constructivist foundation emerges.</description>
+    <description>This is an example of a transitional period building: through the classically stylized pilasters, capitals, and cornices, a constructivist foundation emerges.</description>
     <TimeStamp><when>2022-04-20T02:19:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.517022,40.18467</coordinates></Point>
@@ -174,7 +174,7 @@
   </Placemark>
   <Placemark>
     <name>12. Moscow Cinema</name>
-    <description>1935–1936, Gevorg Kochar and Tigran Erkanyan. The building is replete with neoclassical decor, which appeared after criticism of the original project, but the constructivist frame of the building still emerges from afar.</description>
+    <description>1935–1936, Gevorg Kochar and Tigran Erkanyan. The building is replete with neoclassical decor, which appeared after criticism of the original project, but its constructivist frame still emerges from afar.</description>
     <TimeStamp><when>2022-04-20T05:19:36Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.517357,40.181806</coordinates></Point>
@@ -301,7 +301,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>03. «Armgosstrah»</name>
+    <name>03. Armgosstrah</name>
     <description>1930, Karo Halabyan, Gevorg Kochar, and Michael Mazmanyan. The building was reconstructed and partially rebuilt.</description>
     <TimeStamp><when>2022-04-20T14:19:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
