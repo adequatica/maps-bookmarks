@@ -26,7 +26,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Barcelona — 20
 1. Basque Country — 12
 1. Belgium — 16
-1. Belgrade — 46
+1. Belgrade — 50
 1. Berlin — 48
 1. Bowie in Berlin — 10
 1. Bratislava — 10
