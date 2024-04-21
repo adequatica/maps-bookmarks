@@ -1,25 +1,26 @@
 {
   "name": "maps-bookmarks",
   "version": "1.0.0",
-  "description": "Check bookmarks in chronological order",
+  "description": "Check bookmarks for chronological order",
   "repository": {
     "type": "git",
     "url": "https://github.com/adequatica/maps-bookmarks"
   },
   "author": "Andrey Enin",
   "license": "MIT",
-  "main": "chrono.js",
+  "type": "module",
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "dependencies": {
-    "date-fns": "2.30.0",
+    "@prettier/plugin-xml": "3.4.1",
+    "date-fns": "3.6.0",
+    "prettier": "3.2.5",
+    "vitest": "1.5.0",
     "xml2js": "0.6.2"
   },
   "devDependencies": {
-    "@prettier/plugin-xml": "3.4.1",
-    "husky": "8.0.3",
-    "prettier": "3.2.5"
+    "husky": "8.0.3"
   },
   "prettier": {
     "tabWidth": 2,
@@ -43,6 +44,7 @@
   },
   "scripts": {
     "chrono": "node chrono.js",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "test": "vitest run"
   }
 }

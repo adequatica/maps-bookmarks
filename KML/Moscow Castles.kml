@@ -81,7 +81,7 @@ The only remaining basement of that wall is displayed at the Khokhlovskaya squar
   <Placemark>
     <name>21. Izmaylovo Kremlin</name>
     <description>Built in 1996–2007 on the place of Izmaylovo Vernissage. 
-It is not similar to the «kremlin» as a fortified complex because all the buildings are completely new and just imitate «old Moscow» architecture with many fake (but picturesque) elements. The place does not have historical value and is used for entertainment, a souvenir marketplace, and a flea market on weekends.</description>
+It is not similar to the «kremlin» as a fortified complex because all the buildings are entirely new and imitate «old Moscow» architecture with many fake (but picturesque) elements. The place does not have historical value and is used for entertainment, a souvenir marketplace, and a flea market on weekends.</description>
     <TimeStamp><when>2020-02-18T02:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.750355,55.794307</coordinates></Point>
@@ -129,7 +129,7 @@ It is not similar to the «kremlin» as a fortified complex because all the buil
   </Placemark>
   <Placemark>
     <name>18. Nikolo-Perervinsky Monastery</name>
-    <description>Founded in 1623, the existing brick fence was built in 1908, the same year as the main church was erected in the Russian-Byzantine style.</description>
+    <description>Founded in 1623, the existing brick fence was built in 1908, the same year the main church was erected in the Russian-Byzantine style.</description>
     <TimeStamp><when>2020-02-18T05:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.719147,55.669246</coordinates></Point>
@@ -161,7 +161,7 @@ The architecture ensemble has no fortification value, but some decorative bridge
   </Placemark>
   <Placemark>
     <name>16. Pokrovskoye-Streshnevo</name>
-    <description>Since 1664 the area belonged to the noble family of the Streshnevs. A stone fence of red brick with massive towers in the Russian Revival style was built around the estate in 1889–1890.
+    <description>From 1664, the area belonged to the noble family of the Streshnevs. A stone fence of red brick with a massive tower in the Russian Revival style was built around the estate in 1889–1890.
 Only a corner tower and the main entrance opposite the Volokolamskoe highway are worth seeing.</description>
     <TimeStamp><when>2020-02-18T05:40:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -179,7 +179,7 @@ Only a corner tower and the main entrance opposite the Volokolamskoe highway are
     <name>15. Krutitsy Metochion</name>
     <description>Founded in 1667, unfortified.
 Krutitsy was established as an ecclesiastical estate of the Russian Orthodox Church and was funded by the royal family until 1711 when emperor Peter the Great abolished patriarchy.
-The metochion was in the process of restoration during the 1960–1980’s by Pyotr Baranovsky. Today it is one of the best preserved medieval sightseeings in Moscow.</description>
+The metochion was in the process of restoration during the 1960–1980’s by Pyotr Baranovsky. Today, it is one of the best-preserved medieval sights in Moscow.</description>
     <TimeStamp><when>2020-02-18T06:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.658672,55.727965</coordinates></Point>
@@ -295,7 +295,7 @@ It was supposed to defend southern approaches to the Moscow Kremlin, but soon lo
   </Placemark>
   <Placemark>
     <name>8. Novodevichy Convent</name>
-    <description>Founded in 1490, the existing defensive walls were built in the late 16th century. Now, it is walled as an irregular rectangle and has 12 towers.
+    <description>Founded in 1490, the existing defensive walls were built between 1686 and 1711. It is now walled and has 12 towers. 
 The contemporary walls and towers were erected during Boris Godunov’s (1598–1605) reign. The battlements have the same shape as the Moscow Kremlin’s. There are four round towers on the corners and eight square towers between them; all towers of each type are the same. The convent territory is a UNESCO World Heritage Site.</description>
     <TimeStamp><when>2020-02-18T13:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -313,8 +313,8 @@ The contemporary walls and towers were erected during Boris Godunov’s (1598–
   <Placemark>
     <name>7. Novospassky Monastery</name>
     <description>Founded in 1490, the castle’s defense walls were built in the late 16th century. It is now walled as an irregular quadrangle and has five towers.
-The current location of the monastery was chosen by Ivan IV to protect the southeast approaches to the capital. In 1521, 1571, and 1591, the monastery successfully repulsed the attack of Crimean Tatars.</description>
-    <TimeStamp><when>2020-02-18T13:00:00Z</when></TimeStamp>
+Ivan IV chose the monastery's current location to protect the southeast approaches to the capital. In 1521, 1571, and 1591, the monastery successfully repulsed the attack of Crimean Tatars.</description>
+    <TimeStamp><when>2020-02-18T14:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.656613,55.73175</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -333,7 +333,7 @@ The current location of the monastery was chosen by Ivan IV to protect the south
 The monastery was established by monk Feodor, a nephew of Sergius of Radonezh. In 1379, it was moved to a new location to protect strategic paths to the Moscow River. In 1591, the monastery repulsed Gazi Giray’s attack.
 Two of the three remaining towers and the walls have machicolation and seem to have been built in the 40s of the 17th century.
 The corner tower, «Dulo Tower», has 16 faces and three tiers of loopholes.</description>
-    <TimeStamp><when>2020-02-18T14:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-18T15:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.656749,55.713792</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -348,9 +348,9 @@ The corner tower, «Dulo Tower», has 16 faces and three tiers of loopholes.</de
   </Placemark>
   <Placemark>
     <name>5. Andronikov Monastery</name>
-    <description>Founded in 1357, existing defence walls were built in the middle of the 17th century, now is walled as irregular pentagon and has five towers.
+    <description>Founded in 1357, existing defensive walls were built in the middle of the 17th century. It is now walled as an irregular pentagon and has five towers.
 Due to its dangerous location, the monastery was ransacked several times: in 1368 and 1371 by Lithuanian duke Algirdas, in 1382 by Tokhtamysh, in 1408 by Edigu, in 1451 by Sayid Ahmad, in 1571 by Devlet Giray, in 1611 by polish and 1812 by Napoleon. Nevertheless, the inner katholikon (1420) survived. Even the frescoes by Andrei Rublev and Daniil Chyorny remain visible on its walls.</description>
-    <TimeStamp><when>2020-02-18T15:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-18T16:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.670544,55.748834</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -366,8 +366,8 @@ Due to its dangerous location, the monastery was ransacked several times: in 136
   <Placemark>
     <name>4. Vysokopetrovsky Monastery</name>
     <description>Founded before 1330, it now remains only a part of the initial defensive wall (in Krapivenskiy Pereulok) built in the late 17th century.
-This monastery defended Moscow from the north. In 1680–1690 it was completely rebuilt by Naryshkin Boyars.</description>
-    <TimeStamp><when>2020-02-18T16:00:00Z</when></TimeStamp>
+This monastery defended Moscow from the north. From 1680 to 1690, it was entirely rebuilt by Naryshkin Boyars.</description>
+    <TimeStamp><when>2020-02-18T17:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.615362,55.7669</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -383,8 +383,8 @@ This monastery defended Moscow from the north. In 1680–1690 it was completely 
   <Placemark>
     <name>3. Danilov Monastery</name>
     <description>Founded in 1282, existing defence walls were built in the middle 17th century. Now it is walled and has seven towers.
-After its foundation, the place was changed a few times according to the advantageous strategic position of the southern approaches to the city. The current location was established in 1561 during the reign of Ivan Vasilyevich the Terrible. The old walls were replaced with stone ones during the reign of Aleksey Mikhailovich from 1645 until he died in 1676. In 1983 the monastery became headquarters of the Russian Orthodox Church.</description>
-    <TimeStamp><when>2020-02-18T17:00:00Z</when></TimeStamp>
+After its foundation, the place was changed a few times according to the advantageous strategic position of the southern approaches to the city. The current location was established in 1561 during the reign of Ivan Vasilyevich the Terrible. The old walls were replaced with stone ones during the reign of Aleksey Mikhailovich from 1645 until he died in 1676. In 1983, the monastery became the headquarters of the Russian Orthodox Church.</description>
+    <TimeStamp><when>2020-02-18T18:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.629727,55.710802</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -400,7 +400,7 @@ After its foundation, the place was changed a few times according to the advanta
   <Placemark>
     <name>2.3. Round Tower</name>
     <description>The «Round Tower» near the exit from Teatralnaya metro station is just a replica, erected in the 1990s as an extension to the old wall during restoration (it should be considered a «contemporary imitation»).</description>
-    <TimeStamp><when>2020-02-18T18:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-18T19:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.620534,55.756795</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -416,7 +416,7 @@ After its foundation, the place was changed a few times according to the advanta
   <Placemark>
     <name>2.2. Birds Tower</name>
     <description>The other is located behind the Hotel Metropol. The only remaining tower of the Kitay-gorod wall is «Birds Tower» (1535–1538), located near the archway onto Tretyakovsky Proezd.</description>
-    <TimeStamp><when>2020-02-18T19:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-18T20:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.622513,55.758831</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -432,7 +432,7 @@ After its foundation, the place was changed a few times according to the advanta
   <Placemark>
     <name>2.1. Kitay-gorod Wall</name>
     <description>It was an additional defensive line around the Kremlin built from 1534 to 1539. It originally featured 13 towers and six gates. Unfortunately, the wall was demolished in the 1930s, and only two curtains remained. One of the two remaining parts is located near Zaryadye.</description>
-    <TimeStamp><when>2020-02-18T20:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-18T21:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.632478,55.751212</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -447,7 +447,7 @@ After its foundation, the place was changed a few times according to the advanta
   <Placemark>
     <name>1. Moscow Kremlin</name>
     <description>This site is out of the scope of the article because there is too much information about it. Nevertheless, it can not be mentioned. The contemporary Kremlin walls with «swallowtail» merlons were built by Italian architects (Antonio Gilardi, Marco Ruffo, and Pietro Antonio Solari) in 1485–1516.</description>
-    <TimeStamp><when>2020-02-18T21:00:00Z</when></TimeStamp>
+    <TimeStamp><when>2020-02-18T22:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>37.615982,55.749423</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">

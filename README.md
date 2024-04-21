@@ -81,9 +81,3 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Yerevan — 20
 1. [Yugoslav Modernism in Sarajevo](https://telegra.ph/Yugoslav-Modernism-in-Sarajevo-10-24) — 20
 1. Zurich — 6
-
----
-
-`chrono.js` script is used to validate the dates of bookmarks in chronological order:
-
-- `npm run chrono`
