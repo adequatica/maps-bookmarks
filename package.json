@@ -14,11 +14,35 @@
   },
   "dependencies": {
     "date-fns": "2.30.0",
-    "prettier": "3.1.0",
     "xml2js": "0.6.2"
   },
+  "devDependencies": {
+    "@prettier/plugin-xml": "3.4.1",
+    "husky": "8.0.3",
+    "prettier": "3.2.5"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "plugins": [
+      "@prettier/plugin-xml"
+    ],
+    "overrides": [
+      {
+        "files": [
+          "*.kml",
+          "*.xml"
+        ],
+        "options": {
+          "printWidth": 1000,
+          "singleAttributePerLine": true,
+          "xmlSelfClosingSpace": false
+        }
+      }
+    ]
+  },
   "scripts": {
-    "format": "prettier --write .",
-    "chrono": "node chrono.js"
+    "chrono": "node chrono.js",
+    "format": "prettier --write ."
   }
 }
