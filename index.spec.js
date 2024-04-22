@@ -29,7 +29,9 @@ const processXMLFiles = async (inputFolder) => {
         });
       });
       const parsedData = result.kml.Document[0];
-      bookmarksArray.push(parsedData);
+      if (typeof parsedData.Placemark !== "undefined") {
+        bookmarksArray.push(parsedData);
+      }
     }
   }
 
@@ -40,38 +42,34 @@ beforeAll(async () => {
   allBookmarks = await processXMLFiles("./KML/");
 });
 
-test("All placemarks have valid data", () => {
+test("Placemarks have valid data", () => {
   allBookmarks.forEach((bookmark) => {
-    if (typeof bookmark.Placemark !== "undefined") {
-      for (let i = 1; i < bookmark.Placemark.length - 1; i++) {
-        const dateToValidate = new Date(
-          bookmark.Placemark[i - 1].TimeStamp[0].when[0],
-        );
-        assert.isTrue(
-          isValid(dateToValidate),
-          `Invalid date ${bookmark.Placemark[i - 1].TimeStamp[0].when[0]} of ${bookmark.Placemark[i - 1].name} in ${bookmark.name}`,
-        );
-      }
+    for (let i = 1; i < bookmark.Placemark.length - 1; i++) {
+      const dateToValidate = new Date(
+        bookmark.Placemark[i - 1].TimeStamp[0].when[0],
+      );
+      assert.isTrue(
+        isValid(dateToValidate),
+        `Invalid date ${bookmark.Placemark[i - 1].TimeStamp[0].when[0]} of ${bookmark.Placemark[i - 1].name} in ${bookmark.name}`,
+      );
     }
   });
 });
 
-test("All placemarks have chronological order", () => {
+test("Placemarks have chronological order", () => {
   allBookmarks.forEach((bookmark) => {
-    if (typeof bookmark.Placemark !== "undefined") {
-      for (let i = 1; i < bookmark.Placemark.length - 1; i++) {
-        const previouseDate = new Date(
-          bookmark.Placemark[i - 1].TimeStamp[0].when[0],
-        );
-        const followingDate = new Date(
-          bookmark.Placemark[i].TimeStamp[0].when[0],
-        );
-        assert.isAbove(
-          compareDesc(previouseDate, followingDate),
-          0,
-          `Invalid chronological order between ${bookmark.Placemark[i - 1].TimeStamp[0].when[0]} of ${bookmark.Placemark[i - 1].name} and ${bookmark.Placemark[i].TimeStamp[0].when[0]} of ${bookmark.Placemark[i].name} in ${bookmark.name}`,
-        );
-      }
+    for (let i = 1; i < bookmark.Placemark.length - 1; i++) {
+      const previouseDate = new Date(
+        bookmark.Placemark[i - 1].TimeStamp[0].when[0],
+      );
+      const followingDate = new Date(
+        bookmark.Placemark[i].TimeStamp[0].when[0],
+      );
+      assert.isAbove(
+        compareDesc(previouseDate, followingDate),
+        0,
+        `Invalid chronological order between ${bookmark.Placemark[i - 1].TimeStamp[0].when[0]} of ${bookmark.Placemark[i - 1].name} and ${bookmark.Placemark[i].TimeStamp[0].when[0]} of ${bookmark.Placemark[i].name} in ${bookmark.name}`,
+      );
     }
   });
 });
