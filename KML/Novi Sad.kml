@@ -146,20 +146,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Planinarski dom «Stražilovo»</name>
-    <TimeStamp><when>2019-09-02T18:38:15Z</when></TimeStamp>
-    <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>19.912741,45.172506</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>tourism-camp_site</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Hotel</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Grob Branka Radičevića</name>
     <TimeStamp><when>2019-09-03T11:49:32Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
