@@ -73,3 +73,14 @@ test("Placemarks have chronological order", () => {
     }
   });
 });
+
+test("Placemarks have the same scale", () => {
+  allBookmarks.forEach((bookmark) => {
+    for (let i = 1; i < bookmark.Placemark.length - 1; i++) {
+      assert(
+        Number(bookmark.Placemark[i].ExtendedData[0]["mwm:scale"][0]) === 17,
+        `Invalid scale of ${bookmark.Placemark[i].name} in ${bookmark.name}`,
+      );
+    }
+  });
+});
