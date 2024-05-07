@@ -449,7 +449,7 @@
     <name>Autobuska stanica Zlatibor</name>
     <TimeStamp><when>2024-01-09T13:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>19.694746,43.7723569</coordinates></Point>
+    <Point><coordinates>19.694746,43.723569</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bus_station</mwm:value>
@@ -460,11 +460,11 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Kafana Ljubis</name>
+    <name>Kafana Ljubiš</name>
     <description>Teletina veoma lepa.</description>
     <TimeStamp><when>2024-01-09T19:01:30Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.764057,46.088036</coordinates></Point>
+    <Point><coordinates>19.695634,43.729223</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>

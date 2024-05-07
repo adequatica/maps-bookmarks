@@ -44,7 +44,7 @@ beforeAll(async () => {
 
 test("Placemarks have valid data", () => {
   allBookmarks.forEach((bookmark) => {
-    for (let i = 1; i < bookmark.Placemark.length - 1; i++) {
+    for (let i = 1; i < bookmark.Placemark.length; i++) {
       const dateToValidate = new Date(
         bookmark.Placemark[i - 1].TimeStamp[0].when[0],
       );
@@ -76,11 +76,26 @@ test("Placemarks have chronological order", () => {
 
 test("Placemarks have the same scale", () => {
   allBookmarks.forEach((bookmark) => {
-    for (let i = 1; i < bookmark.Placemark.length - 1; i++) {
+    for (let i = 1; i < bookmark.Placemark.length; i++) {
       assert(
         Number(bookmark.Placemark[i].ExtendedData[0]["mwm:scale"][0]) === 17,
         `Invalid scale of ${bookmark.Placemark[i].name} in ${bookmark.name}`,
       );
+    }
+  });
+});
+
+test("Placemarks have unique coordinates", () => {
+  allBookmarks.forEach((bookmark) => {
+    const coordinates = new Set();
+    for (let i = 0; i < bookmark.Placemark.length; i++) {
+      const pointCoordinates = bookmark.Placemark[i].Point[0].coordinates[0];
+      if (coordinates.has(pointCoordinates)) {
+        assert.fail(
+          `Duplicate coordinates ${pointCoordinates} of ${bookmark.Placemark[i].name} in ${bookmark.name}`,
+        );
+      }
+      coordinates.add(pointCoordinates);
     }
   });
 });

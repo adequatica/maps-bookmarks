@@ -152,7 +152,7 @@ In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (
     <description>On August 25, 1944, Hemingway and the crew with a colonel, David Bruce, entered occupied Paris. After he broke through to the Champs-Élysées, he visited the «Travellers Club» and ordered a bottle of champagne.</description>
     <TimeStamp><when>2021-03-21T02:00:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>2.3075326,48.869159</coordinates></Point>
+    <Point><coordinates>2.307533,48.869159</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
@@ -167,7 +167,7 @@ In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (
     <description>On March 10, 1937, Ernest Hemingway, matador Sidney Franklin and poet Evan Shipman, stayed here before they went to the Spanish Civil War as journalists.</description>
     <TimeStamp><when>2021-03-21T02:10:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>2.3075326,48.869159</coordinates></Point>
+    <Point><coordinates>2.33105,48.848604</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
