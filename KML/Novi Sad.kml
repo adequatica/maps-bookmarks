@@ -390,6 +390,7 @@
   </Placemark>
   <Placemark>
     <name>Pasent</name>
+    <description>Riblji paprikaš od dunavskog soma veoma lep.</description>
     <TimeStamp><when>2024-04-27T14:39:05Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>19.939783,45.206403</coordinates></Point>

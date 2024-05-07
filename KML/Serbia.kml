@@ -63,7 +63,7 @@
     <name>Banjska stena</name>
     <TimeStamp><when>2018-09-04T09:55:29Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>19.400435,43.951437</coordinates></Point>
+    <Point><coordinates>19.401079,43.952148</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-viewpoint</mwm:value>
@@ -77,7 +77,7 @@
     <name>Kućica na Drini</name>
     <TimeStamp><when>2018-09-04T16:46:37Z</when></TimeStamp>
     <styleUrl>#placemark-blue</styleUrl>
-    <Point><coordinates>19.566637,43.984312</coordinates></Point>
+    <Point><coordinates>19.566605,43.984329</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>natural-bare_rock</mwm:value>
@@ -92,7 +92,7 @@
     <name>Spomen-kompleks Kadinjača</name>
     <TimeStamp><when>2018-09-04T19:55:17Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.741502,43.911607</coordinates></Point>
+    <Point><coordinates>19.741146,43.910855</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-monument</mwm:value>
@@ -449,13 +449,28 @@
     <name>Autobuska stanica Zlatibor</name>
     <TimeStamp><when>2024-01-09T13:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>19.694668,43.723629</coordinates></Point>
+    <Point><coordinates>19.694746,43.7723569</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bus_station</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kafana Ljubis</name>
+    <description>Teletina veoma lepa.</description>
+    <TimeStamp><when>2024-01-09T19:01:30Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.764057,46.088036</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -491,10 +506,10 @@
     <name>Kopaonik</name>
     <TimeStamp><when>2024-01-26T14:02:09Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.810966,43.285689</coordinates></Point>
+    <Point><coordinates>20.809345,43.284146</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>place-village</mwm:value>
+        <mwm:value>shop-ticket</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
@@ -612,6 +627,75 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Park</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kanjon reke Uvac</name>
+    <TimeStamp><when>2024-05-02T13:22:31Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.961602,43.360726</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-viewpoint</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Viewpoint</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dolina Vukova</name>
+    <TimeStamp><when>2024-05-02T15:36:44Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.995813,43.274519</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Stopića pećina</name>
+    <TimeStamp><when>2024-05-03T13:17:32Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.855158,43.702253</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>natural-cave_entrance</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Mountain</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Staro selo Sirogojno</name>
+    <TimeStamp><when>2024-05-03T14:14:14Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>19.879609,43.688579</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Golden Gondola</name>
+    <TimeStamp><when>2024-05-04T13:51:09Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>19.694914,43.723335</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>aerialway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

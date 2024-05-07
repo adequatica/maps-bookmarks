@@ -26,7 +26,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Barcelona — 20
 1. Basque Country — 12
 1. Belgium — 16
-1. Belgrade — 57
+1. Belgrade — 58
 1. Berlin — 48
 1. Bowie in Berlin — 10
 1. Bratislava — 10
@@ -67,7 +67,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Rome — 28
 1. Saint Petersburg — 56
 1. Sarajevo — 16
-1. Serbia — 40
+1. Serbia — 46
 1. Sicily — 14
 1. Sochi — 6
 1. [Soviet Modernism in Yerevan](https://telegra.ph/Soviet-Modernism-in-Yerevan-05-07) — 40
