@@ -668,7 +668,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Zona Industriale</name>
-    <description>Zabranjeno pušenje, espreso sa mlekom (produže) = 250–260 din. 20 min from home at Dimitrija Tucovića, 21 min to Zeleni Venac.</description>
+    <description>Zabranjeno pušenje, espreso sa mlekom (produže) = 250–260 (cappuccino) din. 20 min from home at Dimitrija Tucovića, 21 min to Zeleni Venac.</description>
     <TimeStamp><when>2023-11-08T08:27:52Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.470916,44.80254</coordinates></Point>
@@ -884,7 +884,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Mali Prag</name>
-    <description>Zabranjeno pušenje.</description>
+    <description>Zabranjeno pušenje, flat white = 330 din.</description>
     <TimeStamp><when>2024-04-29T09:49:30Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.459342,44.810843</coordinates></Point>
