@@ -92,7 +92,7 @@
   </Placemark>
   <Placemark>
     <name>73. Varshavskiy railway station</name>
-    <description>Knyaz Myshkin arrived at this railway station from Europe.</description>
+    <description>Knyaz Myshkin arrived at this railway station from Europe: «At the end of November, during the thaw, at nine o’clock in the morning, the train of the St. Petersburg-Warsaw Railway approached St. Petersburg at full speed».</description>
     <TimeStamp><when>2019-05-19T07:10:03Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.307373,59.906952</coordinates></Point>
@@ -112,7 +112,7 @@
   </Placemark>
   <Placemark>
     <name>71. Summer Garden</name>
-    <description>Knyaz Myshkin sat on a bench under a linden tree.</description>
+    <description>Knyaz Myshkin sat on a bench under a Linden tree: «It was about seven o’clock. The garden was empty».</description>
     <TimeStamp><when>2019-05-19T07:30:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.335094,59.944578</coordinates></Point>
@@ -142,7 +142,7 @@
   </Placemark>
   <Placemark>
     <name>68. General Epanchin House</name>
-    <description>General lived in his own house away from Liteyniy avenue and near the Transfiguration Cathedral. However, the Epanchin’s house could be located directly on the opposite side of the Transfiguration square: Ulitsa Ryleyeva, 1.</description>
+    <description>General lived in his own house away from Liteyniy Avenue and near the Transfiguration Cathedral. However, the Epanchin’s house could be located directly on the opposite side of the Transfiguration square: Ulitsa Ryleyeva, 1.</description>
     <TimeStamp><when>2019-05-19T08:00:08Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.350931,59.94343</coordinates></Point>
@@ -212,7 +212,7 @@
   </Placemark>
   <Placemark>
     <name>61. Police Department*</name>
-    <description>According to one version Raskolnikov had a conversation with Porfiriy Petrovich in the former Kazan police station, it’s a quarter of a mile from his house, as mentioned in the novel. According to another version their conversation took place in the former Spasskaya police station (Sadovaya ulitsa, 58).</description>
+    <description>According to one version, Raskolnikov had a conversation with Porfiriy Petrovich in the former Kazan police station, it’s a quarter of a mile from his house, as mentioned in the novel. According to another version their conversation took place in the former Spasskaya police station (Sadovaya ulitsa, 58).</description>
     <TimeStamp><when>2019-05-19T09:10:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.300737,59.927015</coordinates></Point>
@@ -262,7 +262,7 @@
   </Placemark>
   <Placemark>
     <name>56. Raskolnikov House</name>
-    <description>On the fourth floor there was an apartment where Rodion rented a tiny room.</description>
+    <description>On the fourth floor, there was an apartment where Rodion rented a tiny room.</description>
     <TimeStamp><when>2019-05-19T10:00:56Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.310662,59.927691</coordinates></Point>
@@ -272,7 +272,7 @@
   </Placemark>
   <Placemark>
     <name>55. Vyazemsky Lavra</name>
-    <description>It was a group of houses between Sennaya square and the Fontanka river in the XIX century, where cheap taverns and rooming houses were settled. Svidrigailov mentioned that he spent a night there.</description>
+    <description>It was a group of houses between Sennaya Square and the Fontanka River in the XIX century, where cheap taverns and rooming houses were settled. Svidrigailov mentioned that he spent a night there.</description>
     <TimeStamp><when>2019-05-19T10:10:55Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.318343,59.924683</coordinates></Point>
@@ -322,7 +322,7 @@
   </Placemark>
   <Placemark>
     <name>50. Gostiny Dvor</name>
-    <description>The main character of the novel «Notes from the Underground» tried to buy a beaver collar for his coat.</description>
+    <description>The main character of the novel «Notes from the Underground» tries to buy a beaver collar for his coat.</description>
     <TimeStamp><when>2019-05-19T11:00:50Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.331046,59.933112</coordinates></Point>
@@ -332,7 +332,7 @@
   </Placemark>
   <Placemark>
     <name>49. Borel Restaurant</name>
-    <description>Ivan Petrovich and knyaz Valkovsky went to dinner.</description>
+    <description>Ivan Petrovich and Knyaz Valkovsky went to dinner.</description>
     <TimeStamp><when>2019-05-19T11:10:49Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.316771,59.935216</coordinates></Point>
@@ -342,7 +342,7 @@
   </Placemark>
   <Placemark>
     <name>48. Torgovyy Brindge</name>
-    <description>Ivan Petrovich and knyaz Valkovsky went to countess, who lived nearby.</description>
+    <description>Ivan Petrovich and Knyaz Valkovsky went to the countess, who lived nearby.</description>
     <TimeStamp><when>2019-05-19T11:20:48Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.29574,59.924568</coordinates></Point>
@@ -391,8 +391,8 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>43. Shestilavochnaya ulitsa</name>
-    <description>A titular councillor Golyadkin of the novel «Double» and Filipp Filippych Masloboyev of the novel «Humiliated and Insulted» lived there.</description>
+    <name>43. Shestilavochnaya Ulitsa</name>
+    <description>A titular councilor Golyadkin of the novel «Double» and Filipp Filippych Masloboyev of the novel «Humiliated and Insulted» lived there.</description>
     <TimeStamp><when>2019-05-19T12:10:43Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.355072,59.936642</coordinates></Point>
@@ -402,7 +402,7 @@
   </Placemark>
   <Placemark>
     <name>42. Dostoevsky’s monument</name>
-    <description>The monument was opened in 1997.</description>
+    <description>The monument was opened in 1997. The author of the monument, sculptor Lyubov Mikhailovna Kholina, created a sketch of the granite monument to Dostoevsky back in 1956, but the project was not implemented. After many years, the original idea of the granite figure was replaced by a bronze one and refined by sculptor Ignatiev Pavel Petrovich.</description>
     <TimeStamp><when>2019-05-19T12:20:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.347719,59.927478</coordinates></Point>
@@ -412,7 +412,7 @@
   </Placemark>
   <Placemark>
     <name>41. Dostoevsky’s grave</name>
-    <description>Dostoevsky was buried February 14th (February 1st by the Old Style date) 1881 in the Tikhvin Cemetery. His tombstone is inscribed with lines from the New Testament: Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it dies, it bringeth forth much fruit. — John 12:24.</description>
+    <description>Dostoevsky was buried on February 14th, 1881 (February 1st by the Old Style date) in the Tikhvin Cemetery. His tombstone is inscribed with lines from the New Testament: Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it dies, it bringeth forth much fruit. — John 12:24.</description>
     <TimeStamp><when>2019-05-19T12:30:41Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.386581,59.922955</coordinates></Point>
@@ -452,7 +452,7 @@
   </Placemark>
   <Placemark>
     <name>37. Strubinsky House</name>
-    <description>20 September 1875 – May 1878. The apartment was on the third floor with an entrance from the backyard. Finished the novel «The Adolescent», moved out after the death of his younger son.</description>
+    <description>20 September 1875 — May 1878. The apartment was on the third floor with an entrance from the backyard. Finished the novel «The Adolescent», and moved out after the death of his younger son.</description>
     <TimeStamp><when>2019-05-19T12:50:37Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.366603,59.93598</coordinates></Point>
@@ -462,7 +462,7 @@
   </Placemark>
   <Placemark>
     <name>36. Znamenskaya Hotel</name>
-    <description>He stayed at the «Znamenskaya» hotel several times: from 5 to 16 February 1875, where he corrected the first part of the novel «The Adolescent», then 12–15 May 1875 and 6–9 July 1875, while returning from Ems. Then 9–11 August, 1876, where he suffered an epileptic. And passed by on the night of 19–20 July 1879.</description>
+    <description>He stayed at the «Znamenskaya» hotel several times: from 5 to 16 February 1875, where he corrected the first part of the novel «The Adolescent», then 12–15 May 1875, and 6–9 July 1875, while returning from Ems. Then 9–11 August 1876, where he suffered an epileptic. And passed by on the night of 19–20 July 1879.</description>
     <TimeStamp><when>2019-05-19T13:00:36Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.362554,59.931413</coordinates></Point>
@@ -492,7 +492,7 @@
   </Placemark>
   <Placemark>
     <name>33. «The Citizen» magazine</name>
-    <description>1873 – April 1874. Was an editor and wrote a weekly political review column, published essays «A Writer’s Diary».</description>
+    <description>1873 — April 1874. Was an editor and wrote a weekly political review column, and published a collection of essays «A Writer’s Diary».</description>
     <TimeStamp><when>2019-05-19T13:30:33Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.357573,59.931013</coordinates></Point>
@@ -502,7 +502,7 @@
   </Placemark>
   <Placemark>
     <name>32. Slivchansky House</name>
-    <description>March 1873 – May 1874. Moved to a place closer to the publishing house of «The Citizen» magazine, started working on the novel «The Adolescent». He did not like the owner of the house and the noise on the street.</description>
+    <description>March 1873 — May 1874. Moved to a place closer to the publishing house of «The Citizen» magazine, and started working on the novel «The Adolescent». He did not like the owner of the house and the noise on the street.</description>
     <TimeStamp><when>2019-05-19T13:40:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.362694,59.934254</coordinates></Point>
@@ -512,7 +512,7 @@
   </Placemark>
   <Placemark>
     <name>31. Mebes House (the old house was completely rebuilt)</name>
-    <description>The end of August 1872 – March 1873. Finished the novel «Demons» and started editing «The Citizen» magazine. The room was on the second floor of an inside outbuilding which has not been preserved.</description>
+    <description>The end of August 1872 — March 1873. Finished the novel «Demons» and started editing «The Citizen» magazine. The room was on the second floor of an inside outbuilding which has not been preserved.</description>
     <TimeStamp><when>2019-05-19T13:50:31Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.311606,59.915092</coordinates></Point>
@@ -532,7 +532,7 @@
   </Placemark>
   <Placemark>
     <name>29. Arkhangelsk House (the old house did not preserved)</name>
-    <description>22–23 August 1871 – 15 May 1872. Lived here before leaving for the summer to Staraya Russa. He posed here for the famous portrait by the painter Perov.</description>
+    <description>22–23 August 1871 — 15 May 1872. Lived here before leaving for the summer to Staraya Russa. He posed here for the famous portrait by the painter Perov.</description>
     <TimeStamp><when>2019-05-19T14:10:29Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.322258,59.91591</coordinates></Point>
@@ -542,7 +542,7 @@
   </Placemark>
   <Placemark>
     <name>28. Mickiewicz House (the old house did not preserved)</name>
-    <description>10 July – 22–23 August 1871. After returning from abroad he rented two rooms where his son Fyodor was born.</description>
+    <description>10 July — 22–23 August 1871. After returning from abroad he rented two rooms where his son Fyodor was born.</description>
     <TimeStamp><when>2019-05-19T14:20:28Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.310997,59.924728</coordinates></Point>
@@ -582,7 +582,7 @@
   </Placemark>
   <Placemark>
     <name>24. Schirmer House</name>
-    <description>21 January – 14 April 1867. Rented a five-room apartment on the second floor before his second marriage. After that he went abroad.</description>
+    <description>21 January — 14 April 1867. Rented a five-room apartment on the second floor before his second marriage. After that, he went abroad.</description>
     <TimeStamp><when>2019-05-19T15:00:24Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.307235,59.925755</coordinates></Point>
@@ -602,7 +602,7 @@
   </Placemark>
   <Placemark>
     <name>22. Kostromskaya Ulitsa</name>
-    <description>3 november 1866. The first time he visited the apartment of his second wife Anna Grigoryevna Snitkina: «And I’ve been looking for you since seven o’clock. I went around the neighborhood and asked everybody. Everyone knows that there is a Kostromskaya street here, but they ca not tell you how to get into it».</description>
+    <description>3 November 1866. The first time he visited the apartment of his second wife Anna Grigoryevna Snitkina: «And I’ve been looking for you since seven o’clock. I went around the neighborhood and asked everybody. Everyone knows that there is a Kostromskaya street here, but they ca not tell you how to get into it».</description>
     <TimeStamp><when>2019-05-19T15:03:22Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.389521,59.943114</coordinates></Point>
@@ -612,7 +612,7 @@
   </Placemark>
   <Placemark>
     <name>21. Alonkin House</name>
-    <description>20 August 1864 – 20 January 1867. Wrote novels «Crime and Punishment» and «The Gambler» and met his second wife Anna Grigoryevna Snitkina.</description>
+    <description>20 August 1864 — 20 January 1867. Wrote novels «Crime and Punishment» and «The Gambler» and met his second wife Anna Grigoryevna Snitkina.</description>
     <TimeStamp><when>2019-05-19T15:10:21Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.312774,59.927069</coordinates></Point>
@@ -632,7 +632,7 @@
   </Placemark>
   <Placemark>
     <name>19. Tomas House</name>
-    <description>At this time Dostoevsky traveled in Europe and his stepson Pavel Isaev lived at this address. The writer stayed in his stepson’s apartment during his visits to St. Petersburg in late 1863 – early 1864.</description>
+    <description>At this time Dostoevsky traveled in Europe and his stepson Pavel Isaev lived at this address. The writer stayed in his stepson’s apartment during his visits to St. Petersburg in late 1863 — early 1864.</description>
     <TimeStamp><when>2019-05-19T15:30:19Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.302025,59.9266</coordinates></Point>
@@ -642,7 +642,7 @@
   </Placemark>
   <Placemark>
     <name>18. Astafieva House</name>
-    <description>September 1861 – August 1863. Rented a five-room apartment on the second floor with a kitchen, finished novel «The House of the Dead».</description>
+    <description>September 1861 — August 1863. Rented a five-room apartment on the second floor with a kitchen, and finished the novel «The House of the Dead».</description>
     <TimeStamp><when>2019-05-19T15:40:18Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.314607,59.927429</coordinates></Point>
@@ -652,7 +652,7 @@
   </Placemark>
   <Placemark>
     <name>17. Politin House (the old house did not preserved)</name>
-    <description>The end of December 1859 – late August 1861. Returned to the city after exile, worked on novels «The House of the Dead» and «Humiliated and Insulted».</description>
+    <description>The end of December 1859 — late August 1861. Returned to the city after the exile, and worked on novels «The House of the Dead» and «Humiliated and Insulted».</description>
     <TimeStamp><when>2019-05-19T15:50:17Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.31491,59.914938</coordinates></Point>
@@ -662,7 +662,7 @@
   </Placemark>
   <Placemark>
     <name>16. Peter and Paul Fortress</name>
-    <description>23 April 1849 – 22 December 1849. Wrote the novel «A Little Hero» in prison in the Alexeev ravelin (ravelin’s prison was destroyed in 1895). After the sentence he left St. Petersburg and retired from the literary process for 10 years.</description>
+    <description>23 April 1849 — 22 December 1849. Wrote the novel «A Little Hero» in prison in the Alexeev ravelin (ravelin’s prison was destroyed in 1895). After the sentence, he left St. Petersburg and retired from the literary process for 10 years.</description>
     <TimeStamp><when>2019-05-19T16:00:16Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.310822,59.948744</coordinates></Point>
@@ -672,7 +672,7 @@
   </Placemark>
   <Placemark>
     <name>15. Shil House</name>
-    <description>February 1847 – 23 April 1849. Lived on the third floor, wrote stories «White Nights» and «Netochka Nezvanova». 23 April 1849 was arrested and imprisoned in Peter and Paul Fortress.</description>
+    <description>February 1847 — 23 April 1849. Lived on the third floor, and wrote stories «White Nights» and «Netochka Nezvanova». 23 April 1849 was arrested and imprisoned in Peter and Paul Fortress.</description>
     <TimeStamp><when>2019-05-19T16:10:15Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.308628,59.934361</coordinates></Point>
@@ -682,7 +682,7 @@
   </Placemark>
   <Placemark>
     <name>14. Bolshaya Podyacheskaya ulitsa</name>
-    <description>January 1948 – late May 1948. Lived with his brother’s Michail family. Then they moved to Pargolovo for the summer, and in return settled back in the old apartment in the house of Shil.</description>
+    <description>January 1948 — late May 1948. Lived with his brother’s Michail family. Then they moved to Pargolovo for the summer, and in return settled back in the old apartment in the house of Shil.</description>
     <TimeStamp><when>2019-05-19T16:20:14Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.304925,59.925807</coordinates></Point>
@@ -692,7 +692,7 @@
   </Placemark>
   <Placemark>
     <name>13. Wolf and Beranger</name>
-    <description>The participants of the literary discussion group The Petrashevsky Circle gathered in the cafe «Wolf and Beranger». In spring of 1846 Dostoyevsky became acquainted with Mikhail Petrashevsky.</description>
+    <description>The participants of the literary discussion group The Petrashevsky Circle gathered in the cafe «Wolf and Beranger». In the spring of 1846, Dostoyevsky became acquainted with Mikhail Petrashevsky.</description>
     <TimeStamp><when>2019-05-19T16:30:13Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.319062,59.93641</coordinates></Point>
@@ -702,7 +702,7 @@
   </Placemark>
   <Placemark>
     <name>12. Soloshich House</name>
-    <description>November 1846 – February 1847. Rented a few rooms with brothers Beketovs.</description>
+    <description>November 1846 — February 1847. Rented a few rooms with brothers Beketovs.</description>
     <TimeStamp><when>2019-05-19T16:40:12Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.290257,59.940728</coordinates></Point>
@@ -712,7 +712,7 @@
   </Placemark>
   <Placemark>
     <name>11. Kochendorf House</name>
-    <description>6 September 1846 – November 1846. Finished story «Mr. Prokharchin». Met here Alexander Herzen on October 5th 1846.</description>
+    <description>6 September 1846 — November 1846. Finished the story «Mr. Prokharchin». Met here Alexander Herzen on October 5th, 1846.</description>
     <TimeStamp><when>2019-05-19T16:50:11Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.323443,59.93362</coordinates></Point>
@@ -732,7 +732,7 @@
   </Placemark>
   <Placemark>
     <name>09. Kuchin House</name>
-    <description>The end of 1845 – the beginning of 1846. He lived in a three-room apartment on the first floor, windows facing Grebetskaya street (it is the 5th-7th windows to the right of the arch Dostoevsky street). Wrote the novel «The Double».</description>
+    <description>The end of 1845 — the beginning of 1846. He lived in a three-room apartment on the first floor, with windows facing Grebetskaya Street (it is the 5th-7th window to the right of the arch of Dostoevsky Street). Wrote the novel «The Double».</description>
     <TimeStamp><when>2019-05-19T17:10:09Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.350692,59.927164</coordinates></Point>
@@ -752,7 +752,7 @@
   </Placemark>
   <Placemark>
     <name>07. Lerche Restaurant</name>
-    <description>Celebrated graduation from the Main Engineering School in Lerche’s restaurant on June 30th 1843.</description>
+    <description>Celebrated graduation from the Main Engineering School in Lerche’s restaurant on June 30th, 1843.</description>
     <TimeStamp><when>2019-05-19T17:30:07Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.347131,59.933269</coordinates></Point>
@@ -772,7 +772,7 @@
   </Placemark>
   <Placemark>
     <name>05. Pryanichnikov House</name>
-    <description>February 1842 – late 1845. Rented an apartment on the second floor with his brother Andrey. From 1844 to 1845 Dostoyevsky’s neighbour was Dmitry Grigorovich, to whom he read his first novel «Poor Folk» in may 1845.</description>
+    <description>February 1842 — late 1845. Rented an apartment on the second floor with his brother Andrey. From 1844 to 1845 Dostoyevsky’s neighbor was Dmitry Grigorovich, to whom he read his first novel «Poor Folk» in May 1845.</description>
     <TimeStamp><when>2019-05-19T17:50:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.347024,59.930449</coordinates></Point>
@@ -782,7 +782,7 @@
   </Placemark>
   <Placemark>
     <name>04. Setkov House (the old house preserved in a rebuilt form)</name>
-    <description>August 1841 – February 1842. On August 12th 1841 he was promoted to engineer warrant officer with the possibility to live privately. He and his classmate Adolph Totleben rented a small two-room apartment.</description>
+    <description>August 1841 — February 1842. On August 12th, 1841 he was promoted to engineer warrant officer with the possibility to live privately. He and his classmate Adolph Totleben rented a small two-room apartment.</description>
     <TimeStamp><when>2019-05-19T18:00:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.342183,59.935635</coordinates></Point>
@@ -792,7 +792,7 @@
   </Placemark>
   <Placemark>
     <name>03. Saint Michael’s Castle</name>
-    <description>16 January 1838 – August 1841. Studied and lived in the Main Engineering School. His favourite place was a corner cubicle by the window overlooking the Panteleimon bridge.</description>
+    <description>16 January 1838 — August 1841. Studied and lived in the Main Engineering School. His favorite place was a corner cubicle by the window overlooking the Panteleimon Bridge.</description>
     <TimeStamp><when>2019-05-19T18:10:03Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.3372,59.940526</coordinates></Point>
@@ -802,7 +802,7 @@
   </Placemark>
   <Placemark>
     <name>02. Kostomarov boarding house (the old house did not preserved)</name>
-    <description>May 1837 – 16 January 1838. Prepare for exams at the Main Engineering School.</description>
+    <description>May 1837 — 16 January 1838. Prepare for exams at the Main Engineering School.</description>
     <TimeStamp><when>2019-05-19T18:20:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>30.357518,59.927257</coordinates></Point>

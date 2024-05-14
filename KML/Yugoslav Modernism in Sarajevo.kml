@@ -148,9 +148,9 @@ Cube buildings along the boulevard have a very futuristic «Soviet» look.</desc
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>18. UNITIC Towers (UNIS Towers)</name>
+    <name>18. UNITIC Towers</name>
     <description>Year of construction: 1986, designed by Bosnian architect Ivan Štraus. 
-UNITIC towers (formerly UNIS Holding BiH) are twin skyscrapers (according to different sources from 90 m to 111 m), commonly known as «Momo and Uzeir». Both towers were severely damaged during the Bosnian War and were renovated by 2000.</description>
+UNITIC towers (formerly UNIS Holding BiH) are twin skyscrapers (according to different sources from 90 m to 111 m), commonly known as «Momo and Uzeir». Both towers were severely damaged during the Bosnian War and were renovated in 2000.</description>
     <TimeStamp><when>2023-10-24T03:18:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.405965,43.857081</coordinates></Point>
@@ -289,7 +289,7 @@ It was opened on 29 November 1969 to host a premiere of the Yugoslavian epic par
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>09. UPI Bank (Energoinvest)</name>
+    <name>09. UPI Bank / Energoinvest</name>
     <description>Year of construction: 1962, designed by Bosnian architect Živorad Janković. 
 It is another modernist office building, but its curved facade resembles the Chamber of Economy of the FBH, and its high-rise part is similar to SIPAD’s headquarters.</description>
     <TimeStamp><when>2023-10-24T12:09:00Z</when></TimeStamp>
@@ -304,7 +304,7 @@ It is another modernist office building, but its curved facade resembles the Cha
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>08. Chamber of Economy of the Federation of Bosnia and Herzegovina (Cinema «Dubrovnik»)</name>
+    <name>08. Chamber of Economy of the Federation of Bosnia and Herzegovina / Cinema «Dubrovnik»</name>
     <description>Year of construction: 1962, designed by architect Milivoj Peterčić. 
 The building has a classy look for modernist offices of that period, with ribbon glazing on the facade. Unfortunately, a newly built trade center in front of it hides the full view of the building.</description>
     <TimeStamp><when>2023-10-24T13:08:00Z</when></TimeStamp>
@@ -350,7 +350,7 @@ This is a hillside apartment complex of two buildings.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>05. SIPAD’s Headquarters (Zgrada Šipada)</name>
+    <name>05. SIPAD’s Headquarters / Zgrada Šipada</name>
     <description>Years of construction: 1953–1956, designed by architect Tihomir Ivanović.
 This is a rear modernist building in the old part of the city. «V» columns form a colonnade uphold a porch that protects pedestrians on the sidewalk from rain and sun. The building consists of two merged parts: office space along Marshal Tito Street and a high-raised apartment building. 
 In the 2010s, the building was sold to BBI bank for only 3.2 million KM = 2000 KM per square meter, which is the price of a square meter of living space on the city​​’s outskirts.</description>
@@ -368,7 +368,7 @@ In the 2010s, the building was sold to BBI bank for only 3.2 million KM = 2000 K
   <Placemark>
     <name>04. Ministry of Health (social realism)</name>
     <description>Years of construction: 1950–1953, designed by architect Tihomir Ivanović. 
-That is an example of transitioning from social realism to «western» modernism.</description>
+That is an example of transitioning from social realism to «Western» modernism.</description>
     <TimeStamp><when>2023-10-24T17:04:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.412606,43.858609</coordinates></Point>
@@ -382,7 +382,7 @@ That is an example of transitioning from social realism to «western» modernism
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>03. Sarajevo Main Railway Station (Żeljeznička Stanica Sarajevo, social realism)</name>
+    <name>03. Sarajevo Main Railway Station / Żeljeznička Stanica Sarajevo (social realism)</name>
     <description>Years of construction: 1947–1952, designed by architects: Muhamed Kadić, Emanuel Samanek, Dusan Smiljanic, and Jahiel Finci. 
 During the design of the railway station, the team of architects was changed due to political drift between Yugoslavia and the USSR. The resulting building is a mix of early modernism and socialist realism.</description>
     <TimeStamp><when>2023-10-24T18:03:00Z</when></TimeStamp>
@@ -414,7 +414,7 @@ In 2008, this Kadić brothers project was declared a protected national monument
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>01. Pension Fund (Zgrada Penzionog fonda)</name>
+    <name>01. Pension Fund / Zgrada Penzionog fonda</name>
     <description>Years of construction: 1941–1943, designed by Bosnian architects Muhamed and Reuf Kadić. 
 One of the first modernist buildings in Sarajevo. The building’s appearance contains an influence of early European modernism and constructivism.</description>
     <TimeStamp><when>2023-10-24T20:01:00Z</when></TimeStamp>
