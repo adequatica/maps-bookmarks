@@ -118,7 +118,7 @@
   <visibility>0</visibility>
   <Placemark>
     <name>40. Zvartnots Airport</name>
-    <description>1980, Arthur Tarkhanyan, Spartak Khachikyan, and Levon Cherkezyan. Zvartnots Airport Terminal 1 is located 15 km from Yerevan. Now the building is mothballed; since the beginning of the 2000s, a new terminal has served passengers.</description>
+    <description>1980, Arthur Tarkhanyan, Spartak Khachikyan, and Levon Cherkezyan. Zvartnots Airport Terminal 1 is located 15 km from Yerevan. The old building is closed. Since the beginning of the 2000s, a new terminal has served passengers.</description>
     <TimeStamp><when>2022-04-20T00:00:04Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.397838,40.152272</coordinates></Point>
@@ -132,7 +132,7 @@
   </Placemark>
     <Placemark>
     <name>39. «Citadel» Business Center</name>
-    <description>1981–1990s, Armen Agalyan. Late-Soviet modernism.</description>
+    <description>1981–1990s, Armen Agalyan. Late-Soviet modernism with the influence of postmodernism.</description>
     <TimeStamp><when>2022-04-20T00:00:39Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.522265,40.189818</coordinates></Point>
@@ -541,7 +541,7 @@
   </Placemark>
   <Placemark>
     <name>10. Cascade Complex</name>
-    <description>Since 1971 to the present time, Jim Torosyan, Aslan Mkhitaryan, and Sargis Gurzadyan. The upper part of the Cascade remains unfinished.</description>
+    <description>From 1971 to the present time, Jim Torosyan, Aslan Mkhitaryan, and Sargis Gurzadyan. The upper part of the Cascade remains unfinished.</description>
     <TimeStamp><when>2022-04-20T14:29:29Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>44.515651,40.1917</coordinates></Point>

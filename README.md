@@ -32,7 +32,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Bratislava — 10
 1. Çanakkale — 8
 1. Cantabria — 8
-1. [Constructivism in Yerevan](https://telegra.ph/Constructivism-in-Yerevan-05-07) — 16
+1. [Constructivism in Yerevan](https://adequatica.substack.com/p/constructivism-in-yerevan) — 16
 1. Copenhagen — 8
 1. Crete — 6
 1. Cyprus — 8
@@ -70,7 +70,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Serbia — 46
 1. Sicily — 14
 1. Sochi — 6
-1. [Soviet Modernism in Yerevan](https://telegra.ph/Soviet-Modernism-in-Yerevan-05-07) — 40
+1. [Soviet Modernism in Yerevan](https://adequatica.substack.com/p/soviet-modernism-in-yerevan) — 40
 1. Tbilisi — 8
 1. Tel Aviv — 8
 1. Veliky Novgorod — 10
@@ -79,5 +79,5 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. White City of Tel Aviv — 40
 1. Yaroslavl — 10
 1. Yerevan — 20
-1. [Yugoslav Modernism in Sarajevo](https://telegra.ph/Yugoslav-Modernism-in-Sarajevo-10-24) — 20
+1. [Yugoslav Modernism in Sarajevo](https://adequatica.substack.com/p/yugoslav-modernism-in-sarajevo) — 20
 1. Zurich — 6
