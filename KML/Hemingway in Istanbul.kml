@@ -114,11 +114,11 @@
     </IconStyle>
   </Style>
   <name>Hemingway in Istanbul</name>
-  <description>In 1922 Ernest Hemingway lived in Paris and worked as a freelance journalist for «The Toronto Daily Star». The newspaper ordered him to Constantinople (renamed Istanbul in 1930) to cover the war between Greece and Turkey. He left Paris on September 25 and arrived in Constantinople in the morning on the 29th.</description>
+  <description>In 1922, Ernest Hemingway lived in Paris and worked as a freelance journalist for «The Toronto Daily Star». The newspaper ordered him to Constantinople (renamed Istanbul in 1930) to cover the war between Greece and Turkey. He left Paris on September 25 and arrived in Constantinople in the morning on the 29th.</description>
   <visibility>0</visibility>
   <Placemark>
     <name>4. Orient Bar (Pera Palace Hotel)</name>
-    <description>It seems to be that Ernest Hemigways was hanging out in the Orient Bar, which is located on the ground floor of the Pera Palace Hotel. Now there are photos of the writer in the interior of the bar and the hotel.</description>
+    <description>Ernest Hemingway seems to have been hanging out in the Orient Bar, which is located on the ground floor of the Pera Palace Hotel. Now, there are photos of the writer in the interior of the bar and the hotel.</description>
     <TimeStamp><when>2021-09-29T14:23:18Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.97365,41.031136</coordinates></Point>
@@ -134,7 +134,7 @@
   <Placemark>
     <name>3.2. Zürafa Sokak</name>
     <description>The brothels of the Galata and Karaköy neighborhoods could be included in the sphere of his interests. 
-Zürafa Sokak is the street where the first brothels in Istanbul were opened in the early XX century, but today (2022 year) the street is demolished.</description>
+Zürafa Sokak is the street where the first brothels in Istanbul were opened in the early XX century, but today (2022), the street has been demolished.</description>
     <TimeStamp><when>2021-09-29T15:04:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.975412,41.024393</coordinates></Point>
@@ -162,7 +162,7 @@ Zürafa Sokak is the street where the first brothels in Istanbul were opened in 
   </Placemark>
   <Placemark>
     <name>3. Beyoğlu</name>
-    <description>During his stay in the city, Hemingway interviewed a number of people from the Turkish and Allied sides and explored Beyoğlu district (at that time it was called Pera): «Pera is the European quarter. It is higher on the hill than Galata, the business quarter, and is all strung along the one narrow, dirty, steep, cobbled, tramcar-filled street. All the public buildings of Pera are uniform in their resemblance to the square, packing-case shaped Carnegie library…»</description>
+    <description>During his stay in the city, Hemingway interviewed several people from the Turkish and Allied sides and explored the Beyoğlu district (at that time, it was called Pera): «Pera is the European quarter. It is higher on the hill than Galata, the business quarter, and is all strung along the one narrow, dirty, steep, cobbled, tramcar-filled street. All the public buildings of Pera are uniform in their resemblance to the square, packing-case shaped Carnegie library…»</description>
     <TimeStamp><when>2021-09-29T16:24:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.973676,41.028433</coordinates></Point>
@@ -176,7 +176,8 @@ Zürafa Sokak is the street where the first brothels in Istanbul were opened in 
   </Placemark>
   <Placemark>
     <name>2. Grand Hotel de Londres</name>
-    <description>Upon arrival Hemingway took a taxi to the Grand Hotel de Londres, which was recommended to him by a Frenchman he had encountered on the train. In his first dispatch from the place he typed: «Constantinople is noisy, hot, hilly, dirty, and beautiful… packed with uniforms and rumors».</description>
+    <description>Upon arrival, Hemingway took a taxi to the Grand Hotel de Londres, which was recommended to him by a Frenchman he had encountered on the train. In his first dispatch from the place, he typed: «Constantinople is noisy, hot, hilly, dirty, and beautiful… packed with uniforms and rumors». 
+After a while, he caught malaria and moved to the Montreal Hotel (the spot was not preserved). In the end, he was too ill to join other correspondents to cover the events, so he left the city on October 14. Nevertheless, he wrote twenty articles about the Greco-Turkish War based on this trip.</description>
     <TimeStamp><when>2021-09-29T17:56:26Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.975235,41.032394</coordinates></Point>
@@ -191,7 +192,7 @@ Zürafa Sokak is the street where the first brothels in Istanbul were opened in 
   </Placemark>
   <Placemark>
     <name>1. Sirkeci railway station</name>
-    <description>Sirkeci railway station is the eastern terminus of the world-famous Orient Express train that operated between Paris and Istanbul in the period between 1883 and 2009. It was at this station that Hemingway arrived on September 29 1922.</description>
+    <description>Sirkeci railway station is the eastern terminus of the world-famous Orient Express train, which operated between Paris and Istanbul between 1883 and 2009. It was at this station that Hemingway arrived on September 29, 1922.</description>
     <TimeStamp><when>2021-09-29T18:23:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>28.97688,41.015227</coordinates></Point>

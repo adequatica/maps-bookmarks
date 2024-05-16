@@ -58,7 +58,7 @@
     </IconStyle>
   </Style>
   <name>Hemingway in Spain</name>
-  <description>Ernest Hemingway traveled to Spain many times. He started in 1923 with parting words of Gertrude Stein to discover Pamplona (and he did). The last time he went to Spain was in 1960, a year before his death.</description>
+  <description>Ernest Hemingway traveled to Spain many times. He started in 1923 with Gertrude Stein’s parting words to discover Pamplona (and he did). The last time he went to Spain was in 1960, a year before his death.</description>
   <visibility>0</visibility>
   <Placemark>
     <name>60. Gran Hotel Miramar</name>
@@ -77,7 +77,7 @@
   </Placemark>
   <Placemark>
     <name>59. Finca «La Cónsula» (now Escuela de Hostelería de Málaga)</name>
-    <description>In 1959 «Don Ernesto» arrived in Spain and stayed at «La Cónsula», a farm that was owned by the American couple Bill and Annie Davis. He had a great time meeting old friends and making outings to watch bullfights. He came back here alone the following summer, but soon he left because of a bad mood (in fact, he fell into a manic listlessness).</description>
+    <description>In 1959, «Don Ernesto» arrived in Spain and stayed at «La Cónsula», a farm that was owned by the American couple Bill and Annie Davis. He had a great time meeting old friends and making outings to watch bullfights. He came back here alone the following summer, but soon he left because of a bad mood (in fact, he fell into a manic listlessness).</description>
     <TimeStamp><when>2022-01-29T01:20:59Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-4.5086338,36.663356</coordinates></Point>
@@ -106,7 +106,7 @@
   </Placemark>
   <Placemark>
     <name>57. Plaza de Toros de La Ribera</name>
-    <description>In 1956 Hemingway made an accidental visit to the San Mateo festival in Logroño where his friend Antonio Ordóñez was participating in two corridas. The appearance of the Nobel Prize winner in the stands of the bullring was covered in the local weekly magazine.</description>
+    <description>In 1956 Hemingway made an accidental visit to the San Mateo festival in Logroño, where his friend Antonio Ordóñez was participating in two corridas. The appearance of the Nobel Prize winner in the stands of the bullring was covered in the local weekly magazine.</description>
     <TimeStamp><when>2022-01-29T01:40:57Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-2.4371423,42.471396</coordinates></Point>
@@ -152,7 +152,7 @@
   <Placemark>
     <name>54. Air raid shelter № 4</name>
     <description>Ernest Hemingway was in the area of Tortosa from April 4 to April 18 1938. He survived a terrible bombing in the air raid shelter number 4 and it was reflected in one of his dispanches: «Up toward Tortosa things looked quite deadly already from the way the planes were acting». 
-Actually, during the Spanish Civil war Hemingway traveled to numerous cities and villages on the Republican part of the front. It could be the subject of a separate article; there are whole books on this topic.</description>
+During the Spanish Civil War, Hemingway traveled to numerous cities and villages on the Republican side of the front. This topic could be the subject of a separate article; there are whole books on it.</description>
     <TimeStamp><when>2022-01-29T02:10:54Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>0.52252101,40.810564</coordinates></Point>
@@ -166,7 +166,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>53. Bar Marsella</name>
-    <description>Hemingway has been in Barcelona only a couple of times: in April 1938 during the Civil war and in 1959 on his «Dangerous Summer» tour. Despite the lack of clear evidence, he could hang out in absinthe-bar Marsella, because «Hemingway being to bars in Spain what George Washington is to inns in New England».</description>
+    <description>Hemingway has been to Barcelona only a couple of times: in April 1938 during the Civil War and in 1959 on his «Dangerous Summer» tour. Despite the lack of clear evidence, he could hang out in absinthe-bar Marsella, because «Hemingway being to bars in Spain what George Washington is to inns in New England».</description>
     <TimeStamp><when>2022-01-29T02:20:53Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.1712442,41.378241</coordinates></Point>
@@ -181,7 +181,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>52. Puente de la Cantina</name>
-    <description>There are a few bridges in the vicinity of Segovia which could be a prototype of the destroyed one in «For Whom The Bell Tolls». Puente de La Cantina is the most likely to be the one, because it has a strategic location over the river Eresma to conquer Segovia (Hemingway was especially meticulous in military matters). Hemingway went back to Guadarrama Mountains in the 1950s and was photographed against the bridge in the background.</description>
+    <description>There are a few bridges in the vicinity of Segovia, which could be a prototype of the destroyed one in «For Whom The Bell Tolls». Puente de La Cantina is the most likely to be the one because it has a strategic location over the river Eresma to conquer Segovia (Hemingway was especially meticulous in military matters). Hemingway went back to the Guadarrama Mountains in the 1950s and was photographed against the bridge in the background.</description>
     <TimeStamp><when>2022-01-29T02:30:52Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-4.0172586,40.823099</coordinates></Point>
@@ -195,7 +195,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>51. Cueva del Monje (Ernest Hemingway’s Cave)</name>
-    <description>Ernest Hemingway returned to Sierra de Guadarrama in 1937. He and Martha Gellhorn spent ten days roaming the Sierra de Guadarrama on horseback with guerillas. Tho years later he wrote a novel «For Whom The Bell Tolls», where he carefully recreated the area in which the battle took place. According to the researchers, the camp of the guerrillas that joined Robert Jordan was based in the Cueva del Monje, as it was titled on the army maps.</description>
+    <description>Ernest Hemingway returned to Sierra de Guadarrama in 1937. He and Martha Gellhorn spent ten days roaming the Sierra de Guadarrama on horseback with guerillas. Two years later, he wrote a novel, «For Whom The Bell Tolls,» in which he carefully recreated the area in which the battle took place. According to the researchers, the camp of the guerrillas that joined Robert Jordan was based in the Cueva del Monje, as it was titled on the army maps.</description>
     <TimeStamp><when>2022-01-29T02:40:51Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.9981638,40.868198</coordinates></Point>
@@ -210,7 +210,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>50. Mesón De Cándido</name>
-    <description>In 1933 Hemingway hiked over the Guadarrama Mountains, located northwest of Madrid. In Segovia he enjoyed the famed restaurant of Mesón de Cándido near the ancient Roman aqueduct. Since then, the menu with his autograph has been stored there.</description>
+    <description>In 1933, Hemingway hiked over the Guadarrama Mountains, located northwest of Madrid. In Segovia, he enjoyed the famed restaurant of Mesón de Cándido near the ancient Roman aqueduct. Since then, the menu with his autograph has been stored there.</description>
     <TimeStamp><when>2022-01-29T02:50:50Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-4.1178869,40.947659</coordinates></Point>
@@ -255,7 +255,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>47. Ideal Room (no longer exists)</name>
-    <description>During the Spanish civil war this cafeteria and tea room was frequented by foreign correspondents who openly supported the republic and, of course, Ernest Hemingway along with John Dos Pasos were among them.</description>
+    <description>During the Spanish Civil War, this cafeteria and tea room were frequented by foreign correspondents who openly supported the republic, and, of course, Ernest Hemingway and John Dos Pasos were among them.</description>
     <TimeStamp><when>2022-01-29T03:20:47Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-0.3724683,39.473268</coordinates></Point>
@@ -269,7 +269,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>46. Café Alianza (now occupied by Hotel Vincci Palace)</name>
-    <description>In 1937 Ernest Hemingway visited Valencia as a war correspondent. From Café Alianza he sent dispatches to the American newspapers.</description>
+    <description>In 1937, Ernest Hemingway visited Valencia as a war correspondent. From Café Alianza he sent dispatches to the American newspapers.</description>
     <TimeStamp><when>2022-01-29T03:30:46Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-0.37131755,39.47286</coordinates></Point>
@@ -283,7 +283,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>45. Gran Café el Siglo (now occupied by Cappuccino Valencia)</name>
-    <description>According to sightseeing routes for tourists, Hemingway could spend time there. At the beginning of the XX century it was a popular place and its old name still remains on the facade.</description>
+    <description>According to sightseeing routes for tourists, Hemingway could spend time there. At the beginning of the XX century, it was a popular place, and its old name still remains on the facade.</description>
     <TimeStamp><when>2022-01-29T03:40:45Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-0.37516728,39.473822</coordinates></Point>
@@ -298,7 +298,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>44. Hotel Reina Victoria (now called Hotel One Shot Palacio Reina Victoria) and Hotel Inglés (no longer exists)</name>
-    <description>A newly bullfighting aficionado stayed in 1925 in a quiet hotel just near the bullring. In the Hotel Reina Victoria a young writer started his first novel «The Sun Also Rises». Just behind the wall was another hotel — Hotel Ingles, where he stayed in 1927 with Pauline Pfeiffer and in 1937 with Martha Gellhorn.</description>
+    <description>A newly bullfighting aficionado stayed in 1925 in a quiet hotel just near the bullring. In the Hotel Reina Victoria, a young writer started his first novel, «The Sun Also Rises». Just behind the wall was another hotel — Hotel Ingles, where he stayed in 1927 with Pauline Pfeiffer and in 1937 with Martha Gellhorn.</description>
     <TimeStamp><when>2022-01-29T03:50:44Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-0.37542376,39.470255</coordinates></Point>
@@ -313,7 +313,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>43. Plaza de Toros de Valencia</name>
-    <description>Valencia’s bullring, officially Plaça de bous de València, located right in the middle of the city. Hemingway was lucky to see here the work of the famous matador Cayetano Ordóñez (1904–1961), who became a model for Pedro Romero from «The Sun Also Rises».</description>
+    <description>Valencia’s bullring, officially Plaça de bous de València, is located right in the middle of the city. Hemingway was lucky to see here the work of the famous matador Cayetano Ordóñez (1904–1961), who became a model for Pedro Romero from «The Sun Also Rises».</description>
     <TimeStamp><when>2022-01-29T04:00:43Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-0.37606716,39.46648</coordinates></Point>
@@ -328,7 +328,7 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>42. Estació del Nord</name>
-    <description>In 1925 Ernest Hemigway arrived in Valencia by train for the first time. It was an ideal city for looking for bullfights and writing.</description>
+    <description>In 1925, Ernest Hemingway arrived in Valencia by train for the first time. It was an ideal city for looking for bullfights and writing.</description>
     <TimeStamp><when>2022-01-29T04:10:42Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-0.37737742,39.466236</coordinates></Point>
@@ -388,8 +388,8 @@ Actually, during the Spanish Civil war Hemingway traveled to numerous cities and
   </Placemark>
   <Placemark>
     <name>38. Hendaye Plage</name>
-    <description>Technically, Hendaye is the territory of France, but historically it is a part of Basque Country. Hemingway came here many times, especially in the 1920s. He stayed at various modest hotels, here are just those that are met in biographies: Hotel Grand in 1925, Hotel Barron and Ondarraitz Hotel in 1929, and even rented a small cottage in 1931. Unfortunately, I did not find any information about their current status. 
-What is known for certain is that he came here to the beach. In 1927 he wrote to Scott Fitzgerald: «We drove here from Madrid in a day — Hendaye-Plage».</description>
+    <description>Technically, Hendaye is the territory of France, but historically, it is a part of the Basque Country. Hemingway came here many times, especially in the 1920s. He stayed at various modest hotels, here are just those that are met in biographies: Hotel Grand in 1925, Hotel Barron and Ondarraitz Hotel in 1929, and even rented a small cottage in 1931. Unfortunately, I did not find any information about their current status. 
+What is known for certain is that he came here to the beach. In 1927, he wrote to Scott Fitzgerald: «We drove here from Madrid in a day — Hendaye-Plage».</description>
     <TimeStamp><when>2022-01-29T04:50:38Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.7743282,43.374527</coordinates></Point>
@@ -404,7 +404,7 @@ What is known for certain is that he came here to the beach. In 1927 he wrote to
   </Placemark>
   <Placemark>
     <name>37. Hotel Maria Cristina</name>
-    <description>In this hotel, in 1959, Ernest Hemingway granted José de Arteche the rights to translate «The Old Man and the Sea» into Basque.</description>
+    <description>In this hotel, in 1959, Ernest Hemingway granted José de Arteche the right to translate «The Old Man and the Sea» into Basque.</description>
     <TimeStamp><when>2022-01-29T05:00:37Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.9804238,43.321934</coordinates></Point>
@@ -433,7 +433,7 @@ What is known for certain is that he came here to the beach. In 1927 he wrote to
   </Placemark>
   <Placemark>
     <name>35. Hotel Avenida</name>
-    <description>In August 1931 Ernest and Pauline stayed here.</description>
+    <description>In August 1931, Ernest and Pauline stayed here.</description>
     <TimeStamp><when>2022-01-29T05:20:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-2.0109084,43.31287</coordinates></Point>
@@ -448,7 +448,7 @@ What is known for certain is that he came here to the beach. In 1927 he wrote to
   </Placemark>
   <Placemark>
     <name>34. Hotel Suizo (no longer exists)</name>
-    <description>In 1925 Hemingways stayed at the Hotel Suizo. No information about this establishment has been preserved, but its bar was featured in the novel «The Sun Also Rises».</description>
+    <description>In 1925, Hemingways stayed at the Hotel Suizo. No information about this establishment has been preserved, but its bar was featured in the novel «The Sun Also Rises».</description>
     <TimeStamp><when>2022-01-29T05:30:34Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.9808772,43.318557</coordinates></Point>
@@ -477,7 +477,7 @@ Cafe has changed its name several times. It was called Café Kutz for a while an
   </Placemark>
   <Placemark>
     <name>32. La Concha</name>
-    <description>The Beach of La Concha is a perfect sandy beach in San Sebastián (Donostia in Basque language), a small town an hour’s drive from Pamplona. Hemingway came here many times: there was a direct train to Paris and it was a good place to rest for a couple of days. As Jake Barnes, the protagonist of «The Sun Also Rises», did.</description>
+    <description>The Beach of La Concha is a perfect sandy beach in San Sebastián (Donostia in Basque language), a small town an hour’s drive from Pamplona. Hemingway came here many times: there was a direct train to Paris, and it was a good place to rest for a couple of days. As Jake Barnes, the protagonist of «The Sun Also Rises», did.</description>
     <TimeStamp><when>2022-01-29T05:50:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.9904758,43.31528</coordinates></Point>
@@ -492,7 +492,7 @@ Cafe has changed its name several times. It was called Café Kutz for a while an
   </Placemark>
   <Placemark>
     <name>31. Hotel Ayestarán</name>
-    <description>When Hemingway came to the Festival of San Fermín 1953, he decided to stay away from the noisy city and stopped at the quiet family-run Hotel Ayestarán in a small town Lekunberri (or Lekumberri), 35 km away from Pamplona.</description>
+    <description>When Hemingway came to the Festival of San Fermín 1953, he decided to stay away from the noisy city and stopped at the quiet, family-run Hotel Ayestarán in the small town of Lekunberri (or Lekumberri), 35 km away from Pamplona.</description>
     <TimeStamp><when>2022-01-29T06:00:31Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.8940567,43.003044</coordinates></Point>
@@ -507,8 +507,8 @@ Cafe has changed its name several times. It was called Café Kutz for a while an
   </Placemark>
   <Placemark>
     <name>30. Hostal Burguete</name>
-    <description>Hemingway came to Burguete a few times for fishing in the Irati River. In Hostal Burguete remains his autograph carved on the piano, but it seems to be a fake. 
-The narrator of the novel «The Sun Also Rises», Jake Barnes, and his friend Bill Gorton, stopped here before bullfights in Pamplona.</description>
+    <description>Hemingway came to Burguete a few times for fishing in the Irati River. In Hostal Burguete remains his autograph carved on the piano, but it seems to be fake. 
+The narrator of the novel «The Sun Also Rises», Jake Barnes and his friend Bill Gorton stopped here before bullfights in Pamplona.</description>
     <TimeStamp><when>2022-01-29T06:10:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.3349448,42.990726</coordinates></Point>
@@ -523,7 +523,7 @@ The narrator of the novel «The Sun Also Rises», Jake Barnes, and his friend Bi
   </Placemark>
   <Placemark>
     <name>29. Hotel Yoldi</name>
-    <description>In the 1950s this place was consolidated as «the hotel of the bullfighters». In 1953 Ernest Hemingway met here with famous matador Antonio Ordóñez.</description>
+    <description>In the 1950s, this place was consolidated as «the hotel of the bullfighters». In 1953, Ernest Hemingway met here with the famous matador Antonio Ordóñez.</description>
     <TimeStamp><when>2022-01-29T06:20:29Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6428034,42.813467</coordinates></Point>
@@ -538,7 +538,7 @@ The narrator of the novel «The Sun Also Rises», Jake Barnes, and his friend Bi
   </Placemark>
   <Placemark>
     <name>28. Bar Choko (now called El Txoko)</name>
-    <description>Hemindway visited this bar when he returned for Sanfermines in the 1950s. Mary Welsh, his wife at this time, said that in 1959 it was her favorite bar too.</description>
+    <description>Hemingway visited this bar when he returned from Sanfermines in the 1950s. Mary Welsh, his wife at this time, said that in 1959, it was her favorite bar too.</description>
     <TimeStamp><when>2022-01-29T06:30:28Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6419907,42.816503</coordinates></Point>
@@ -582,8 +582,8 @@ The narrator of the novel «The Sun Also Rises», Jake Barnes, and his friend Bi
   </Placemark>
   <Placemark>
     <name>25. Café Iruña</name>
-    <description>This cafe on the Plaza del Castillo was a meeting point for the heroes of the novel «The Sun Also Rises». 
-Of course Hemingway constantly hung out in this place during Sanfermines. Today there is a «El Rincón de Hemingway» — «Hemingway’s corner» with a life-size statue of the writer by the sculptor José Javier Doncel.</description>
+    <description>This cafe on the Plaza del Castillo was a meeting place for the heroes of the novel «The Sun Also Rises». 
+Of course, Hemingway constantly hung out in this place during the Sanfermines. Today, there is an «El Rincón de Hemingway» — «Hemingway’s Corner» with a life-size statue of the writer by the sculptor José Javier Doncel.</description>
     <TimeStamp><when>2022-01-29T07:00:25Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.643254,42.817434</coordinates></Point>
@@ -598,8 +598,8 @@ Of course Hemingway constantly hung out in this place during Sanfermines. Today 
   </Placemark>
   <Placemark>
     <name>24. Hotel Quintana (now occupied by Cervecería Tropicana)</name>
-    <description>In summer 1925 Ernest Hemingway with Hadley, Donald Ogden Stewart, Duff Twysden and Pat Guthrie, Garold Loeb and Bill Smith stayed at Hotel Quintana — a bullfighter’s hotel run by Juanito Quintana. Hemingway chose this hotel during all his subsequent visits to Pamplona in 1925, 1926, 1927, 1929 and 1931. 
-1925 was a momentous year for Hemingway. His third Sanfermines formed the basis of his first novel «The Sun Also Rises» (published in the United Kingdom under the title «Fiesta») and Hotel Quintana dubbed «Hotel Montoya» in the novel.</description>
+    <description>In the summer of 1925, Ernest Hemingway with Hadley, Donald Ogden Stewart, Duff Twysden, Pat Guthrie, Garold Loeb, and Bill Smith stayed at Hotel Quintana — a bullfighter’s hotel run by Juanito Quintana. Hemingway chose this hotel during all his subsequent visits to Pamplona in 1925, 1926, 1927, 1929, and 1931. 
+1925 was a momentous year for Hemingway. His third Sanfermines formed the basis of his first novel, «The Sun Also Rises» (published in the United Kingdom under the title «Fiesta») and Hotel Quintana dubbed «Hotel Montoya» in the novel.</description>
     <TimeStamp><when>2022-01-29T07:01:24Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6418164,42.816532</coordinates></Point>
@@ -614,8 +614,8 @@ Of course Hemingway constantly hung out in this place during Sanfermines. Today 
   </Placemark>
   <Placemark>
     <name>23. Gran Hotel La Perla</name>
-    <description>For his second Sanfermines Hemingway he took a whole company of his wife and friends: Edward «Chink» Dorman-Smith, John Dos Passos, Robert McAlmon, Bill Bird and his wife Sally, Donald Ogden Stewart and George O’Neil. All of them stood at Hotel La Perla. 
-Some researchers assume that there is no evidence of his stay in this hotel, but according to other information he stood there in a suite № 217. After the recent renovation, the former room № 217 is now № 201 (Suite de Hemingway). Ernest Hemingway’s grandson, John Hemingway, visited Hotel La Perla during San Fermín 2014.</description>
+    <description>For his second Sanfermines, Hemingway took the whole company of his wife and friends: Edward «Chink» Dorman-Smith, John Dos Passos, Robert McAlmon, Bill Bird and his wife Sally, Donald Ogden Stewart, and George O’Neil. All of them stood at Hotel La Perla. 
+Some researchers assume that there is no evidence of his stay in this hotel, but according to other information, he stood there in suite № 217. After the recent renovation, the former room № 217 is now № 201 (Suite de Hemingway). Ernest Hemingway’s grandson, John Hemingway, visited Hotel La Perla during San Fermín 2014.</description>
     <TimeStamp><when>2022-01-29T07:20:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6427203,42.817654</coordinates></Point>
@@ -630,7 +630,7 @@ Some researchers assume that there is no evidence of his stay in this hotel, but
   </Placemark>
   <Placemark>
     <name>22. Private house</name>
-    <description>When Ernest and Headly came to Pamplona for their first Sanfermines, they found that the hotel room they had booked in advance in Hotel La Perla was occupied. The owners of a private house, agreed to accommodate tourists. That house was recorded in the chronicle of «The Toronto Star Weekly»: «It was a lovely big room in an old Spanish house thith walls thick as a fortress. A cool, pleasant room, with a red tile floor and two big, comfortable beds set back in an alcove. A window opened on to an iron grilled porch out over the street. We were very comfortable».</description>
+    <description>When Ernest and Headly came to Pamplona for their first Sanfermines, they found that the hotel room they had booked in advance in Hotel La Perla was occupied. The owners of a private house agreed to accommodate tourists. That house was recorded in the chronicle of «The Toronto Star Weekly»: «It was a lovely big room in an old Spanish house thith walls thick as a fortress. A cool, pleasant room, with a red tile floor and two big, comfortable beds set back in an alcove. A window opened on to an iron grilled porch out over the street. We were very comfortable».</description>
     <TimeStamp><when>2022-01-29T07:30:22Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6469608,42.817622</coordinates></Point>
@@ -644,7 +644,7 @@ Some researchers assume that there is no evidence of his stay in this hotel, but
   </Placemark>
   <Placemark>
     <name>21. Ernest Hemingway Monument</name>
-    <description>Just next to the Plaza de Toros, there is a monument to Ernest Hemingway by Barcelona-born artist Luis Sanguino, opened in 1968.</description>
+    <description>Just next to the Plaza de Toros, a monument to Ernest Hemingway by Barcelona-born artist Luis Sanguino, opened in 1968.</description>
     <TimeStamp><when>2022-01-29T07:40:21Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6405155,42.815842</coordinates></Point>
@@ -659,8 +659,8 @@ Some researchers assume that there is no evidence of his stay in this hotel, but
   </Placemark>
   <Placemark>
     <name>20. Plaza de Toros de Pamplona</name>
-    <description>Ernest Hemingway came to Pamplona (Iruña in Basque language) for the first time in July 1923. He came to the Festival of San Fermín with his first wife Hadley Richardson. Headly was not very impressed by bullfights, but Ernest was. In the article published on 27 October 1923 in «The Toronto Star Weekly» he described his first morning: «We followed the crowd that was leaving through a narrow gate on the walls towards a yellowish, flat and empty field, where the new and white bull ring stands: it was packed. Once the bulls have been locked in their pen, the aficionado bullfight — vaquillas, begins». 
-Next year (1924) he took part in the running of the bulls and a year later (1925) he tried his hand in amateur bullfights, which were held every morning during the festival.</description>
+    <description>Ernest Hemingway came to Pamplona (Iruña in Basque language) for the first time in July 1923. He came to the Festival of San Fermín with his first wife Hadley Richardson. Headly was not very impressed by bullfights, but Ernest was. In the article published on 27 October 1923 in «The Toronto Star Weekly», he described his first morning: «We followed the crowd that was leaving through a narrow gate on the walls towards a yellowish, flat and empty field, where the new and white bull ring stands: it was packed. Once the bulls have been locked in their pen, the aficionado bullfight — vaquillas, begins». 
+The next year (1924), he took part in the running of the bulls, and a year later (1925), he tried his hand at amateur bullfights, which were held every morning during the festival.</description>
     <TimeStamp><when>2022-01-29T07:50:20Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6397931,42.816055</coordinates></Point>
@@ -690,7 +690,7 @@ Next year (1924) he took part in the running of the bulls and a year later (1925
   </Placemark>
   <Placemark>
     <name>18. Gran Hotel Felipe II (now called Euroforum Finca Felipe II)</name>
-    <description>This private hotel in San Lorenzo de el Escorial, a small town 28 miles northwest of Madrid, became a vacation spot for «Don Ernesto» in 1956. He chose El Escorial for resting due to its elevation and clear air, because his Cuban doctors hoped it would cure his anemia that has begun to progress.</description>
+    <description>This private hotel in San Lorenzo de el Escorial, a small town 28 miles northwest of Madrid, became a vacation spot for «Don Ernesto» in 1956. Due to its elevation and clear air, he chose El Escorial for resting because his Cuban doctors hoped it would cure his anemia, which had begun to progress.</description>
     <TimeStamp><when>2022-01-29T08:10:18Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-4.1551052,40.593577</coordinates></Point>
@@ -705,7 +705,7 @@ Next year (1924) he took part in the running of the bulls and a year later (1925
   </Placemark>
   <Placemark>
     <name>17. Plaza de Toros de Aranjuez</name>
-    <description>Hemingway visited Aranjuez, a small town in the Community of Madrid, during his Spanish tour in 1959. He only attended a bullfight, which was captured in the photo. Actually, the writer attended countless bullfights in different cities that year; this one was well documented.</description>
+    <description>During his Spanish tour in 1959, Hemingway visited Aranjuez, a small town in the Community of Madrid. He only attended a bullfight, which was captured in the photo. Actually, the writer attended countless bullfights in different cities that year; this one was well documented.</description>
     <TimeStamp><when>2022-01-29T08:20:17Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.6039202,40.027744</coordinates></Point>
@@ -735,8 +735,8 @@ Next year (1924) he took part in the running of the bulls and a year later (1925
   </Placemark>
   <Placemark>
     <name>15. El Callejón (demolished)</name>
-    <description>Ernest Hemingway and his fourth wife Mary Welsh visited this restaurant in the 1950s. For the LIFE magazine (article titled «A Dangerous Summer» in the September issue 1960) he wrote that El Callejón had «the best food in town». 
-In the late 1990s the original building and the restaurant was demolished, but the history of this place remained in a nearby restaurant. There is a sculpture of Ernest Hemingway (previously installed in El Callejón in 1982) in Cuban restaurant «Cuando Salí de Cuba», Calle de la Ternera, 4.</description>
+    <description>Ernest Hemingway and his fourth wife, Mary Welsh, visited this restaurant in the 1950s. For the LIFE magazine (an article titled «A Dangerous Summer» in the September issue of 1960), he wrote that El Callejón had «the best food in town». 
+In the late 1990s, the original building and restaurant were demolished, but the history of this place remained in a nearby restaurant. A sculpture of Ernest Hemingway (previously installed in El Callejón in 1982) is in the Cuban restaurant «Cuando Salí de Cuba», Calle de la Ternera, 4.</description>
     <TimeStamp><when>2022-01-29T08:40:15Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.7069845,40.419519</coordinates></Point>
@@ -750,7 +750,7 @@ In the late 1990s the original building and the restaurant was demolished, but t
   </Placemark>
   <Placemark>
     <name>14. Hotel Suecia</name>
-    <description>Hemingway stayed at this hotel during both of his last visits to Madrid in 1959 and 1960. For the last time he spent several days locked in his room until he was transferred to the airport to return to the United States. 
+    <description>Hemingway stayed at this hotel during both of his last visits to Madrid in 1959 and 1960. For the last time, he spent several days locked in his room until he was transferred to the airport to return to the United States. 
 A year earlier (1959), the Cuban revolutionary Che Guevara stayed at the same hotel for a short time.</description>
     <TimeStamp><when>2022-01-29T08:50:14Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -766,7 +766,7 @@ A year earlier (1959), the Cuban revolutionary Che Guevara stayed at the same ho
   </Placemark>
   <Placemark>
     <name>13. Cervecería Alemana</name>
-    <description>When Hemingway returned to Spain in the 1950s, it became one of his favorite bars. He even had his own table in prime position — just to the right of the entrance, the only marble-topped table overlooking a window. In the article in the September (1960) issue of the LIFE magazine titled «A Dangerous Summer», he mentioned Cervecería Alemana as «a good place to drink beer and coffee».</description>
+    <description>When Hemingway returned to Spain in the 1950s, it became one of his favorite bars. He even had his own table in prime position — just to the right of the entrance, the only marble-topped table overlooking a window. In the article in the September (1960) issue of LIFE magazine titled «A Dangerous Summer», he mentioned Cervecería Alemana as «a good place to drink beer and coffee».</description>
     <TimeStamp><when>2022-01-29T09:00:13Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.7003447,40.414469</coordinates></Point>
@@ -781,7 +781,7 @@ A year earlier (1959), the Cuban revolutionary Che Guevara stayed at the same ho
   </Placemark>
   <Placemark>
     <name>12. La Venencia</name>
-    <description>During the civil war this old bar was a haunt for Republican sympathizers. Hemingway could come here a lot to get news from the front from soldiers.</description>
+    <description>During the Civil War, this old bar was a haunt for Republican sympathizers. Hemingway could come here a lot to get news from the front from soldiers.</description>
     <TimeStamp><when>2022-01-29T09:10:12Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.6995749,40.415799</coordinates></Point>
@@ -814,7 +814,7 @@ The main character of the play «The Fifth Column», Philip Rawlings, an America
   </Placemark>
   <Placemark>
     <name>10. Telefónica Building</name>
-    <description>Most of the foreign correspondents, and Ernest Hemingway was among them, sent their war reports from the Office of Foreign Press, which was located in that skyscraper. Hemingway wrote 31 dispatches related to the civil war; 28 of them were published in the newspapers.</description>
+    <description>Most of the foreign correspondents, and Ernest Hemingway was among them, sent their war reports from the Office of Foreign Press, which was located in that skyscraper. Hemingway wrote 31 dispatches related to the Civil War; 28 of them were published in the newspapers.</description>
     <TimeStamp><when>2022-01-29T09:30:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.701887,40.420431</coordinates></Point>
@@ -843,9 +843,9 @@ The main character of the play «The Fifth Column», Philip Rawlings, an America
   </Placemark>
   <Placemark>
     <name>8. Gaylord’s Hotel (demolished)</name>
-    <description>Gaylord’s was an «office» of the communist commanders and journalists from the Soviet Union. Hemingway had meetings with Mikhail Koltsov here, the chief correspondent for the Soviet daily Pravda (and Soviet secret agent). 
+    <description>Gaylord’s was an «office» of the communist commanders and journalists from the Soviet Union. Hemingway met with Mikhail Koltsov here, the chief correspondent for the Soviet daily Pravda (and Soviet secret agent). 
 Robert Jordan, the hero of «For Whom the Bell Tolls», criticized the life of this hotel for excesses. 
-Now there is a residential building on this site.</description>
+Now, there is a residential building on this site.</description>
     <TimeStamp><when>2022-01-29T09:50:08Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.6902797,40.41867</coordinates></Point>
@@ -859,8 +859,8 @@ Now there is a residential building on this site.</description>
   </Placemark>
   <Placemark>
     <name>7. Hotel Florida (demolished)</name>
-    <description>In late spring of 1937 Ernest Hemingway came to Madrid as a correspondent for the North American News Association during the Spanish Civil War. Here he fell in love with journalist Martha Gellhorn (later his third wife). Hotel Florida was headquarters for many foreign correspondents and became the main acting place of the play «The Fifth Column». 
-The building was badly damaged during the war and was demolished in 1964, but it was noted in another Hemingway’s novel «For Whom the Bell Tolls».</description>
+    <description>In the late spring of 1937, Ernest Hemingway came to Madrid as a correspondent for the North American News Association during the Spanish Civil War. Here, he fell in love with journalist Martha Gellhorn (later his third wife). Hotel Florida was the headquarters for many foreign correspondents and became the main acting place of the play «The Fifth Column». 
+The building was badly damaged during the war and was demolished in 1964, but it was noted in another of Hemingway’s novels, «For Whom the Bell Tolls».</description>
     <TimeStamp><when>2022-01-29T10:00:07Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.7054484,40.419832</coordinates></Point>
@@ -874,7 +874,7 @@ The building was badly damaged during the war and was demolished in 1964, but it
   </Placemark>
   <Placemark>
     <name>6. El Sobrino de Botín</name>
-    <description>Sobrino de Botín is the oldest restaurant in the world, it was opened in 1725. It was also a gastronomic stop of «Don Ernesto». He was a good friend of Emilio González, grandfather of the current owner Carlos González, who claims that Hemingway used to love roast suckling pig. This is not surprising, because the same dish was chosen by Jake Barnes, the protagonist of «The Sun Also Rises».</description>
+    <description>Sobrino de Botín is the oldest restaurant in the world, it was opened in 1725. It was also a gastronomic stop of «Don Ernesto». He was a good friend of Emilio González, grandfather of the current owner Carlos González. He claims that Hemingway used to love roast suckling pigs. This is not surprising because the same dish was chosen by Jake Barnes, the protagonist of «The Sun Also Rises».</description>
     <TimeStamp><when>2022-01-29T10:10:06Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.707981,40.414175</coordinates></Point>
@@ -889,7 +889,7 @@ The building was badly damaged during the war and was demolished in 1964, but it
   </Placemark>
   <Placemark>
     <name>5. Museo Nacional del Prado</name>
-    <description>Hemingway came to Madrid not only for bullfighting or for work, but for the great art treasures of the Prado Museum. 
+    <description>Hemingway came to Madrid not only for bullfighting or work but also for the great art treasures of the Prado Museum. 
 According to biographer A.E. Hotchner, Hemingway’s favorite picture was the «Portrait of a Woman» by Andrea del Sarto.</description>
     <TimeStamp><when>2022-01-29T10:20:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -920,7 +920,7 @@ According to biographer A.E. Hotchner, Hemingway’s favorite picture was the «
   </Placemark>
   <Placemark>
     <name>3. Calle de la Victoria</name>
-    <description>There are two places on this street which no longer exist: Cervecería Alvarez and Hotel Biarritz. But the street can itself be a spot, because Hemingway used to purchase bullfighting tickets here.</description>
+    <description>Two places on this street no longer exist: Cervecería Alvarez and Hotel Biarritz. But the street itself can be a spot because Hemingway used to purchase bullfighting tickets here.</description>
     <TimeStamp><when>2022-01-29T10:40:03Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.7016742,40.416173</coordinates></Point>
@@ -934,7 +934,7 @@ According to biographer A.E. Hotchner, Hemingway’s favorite picture was the «
   </Placemark>
   <Placemark>
     <name>2. Pension Aguilar (no longer exists)</name>
-    <description>Hemingway, McAlmon and Bird stayed at bullfighters’ pension in the «Via San Jerónimo». From 1923 to 1927 he kept stopping at this place with family or alone. According to newspapers, his room was number 7.</description>
+    <description>Hemingway, McAlmon, and Bird stayed at a bullfighters’ pension in the «Via San Jerónimo». From 1923 to 1927 he kept stopping at this place with family or alone. According to newspapers, his room was number 7.</description>
     <TimeStamp><when>2022-01-29T10:50:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.6983358,40.416153</coordinates></Point>
@@ -948,7 +948,7 @@ According to biographer A.E. Hotchner, Hemingway’s favorite picture was the «
   </Placemark>
   <Placemark>
     <name>1. Plaza de Toros de Las Ventas</name>
-    <description>In early June 1923 Ernest Hemingway and his friend Robert McAlmon arrived in Madrid on the Sud Express train. They agreed to meet here with their third companion Bill Bird. After Madrid they planned to visit Seville, Ronda, Granada, go back to Madrid and return to Paris in the third week of June. But firstly, they had to see a bullfighting, which was colorfully described to Hemingway by his friend Henry «Mike» Strater. 
+    <description>In early June 1923, Ernest Hemingway and his friend Robert McAlmon arrived in Madrid on the Sud Express train. They agreed to meet here with their third companion, Bill Bird. After Madrid, they planned to visit Seville, Ronda, and Granada, return to Madrid, and return to Paris in the third week of June. But first, they had to see bullfighting, which his friend Henry «Mike» Strater colorfully described to Hemingway. 
 Hemingway and McAlmon attend a bullfight at the Plaza de Toros de la Fuente del Berro, which was demolished in 1934. A modern bullfighting ring Las Ventas was opened in 1931 and was visited by Hemingway in the 1930s and 1950s. According to some expats, he liked sitting in the 9th section.</description>
     <TimeStamp><when>2022-01-29T11:00:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
