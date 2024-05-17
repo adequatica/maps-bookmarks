@@ -612,7 +612,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
     <name>Platan na Vračaru</name>
     <TimeStamp><when>2023-10-09T14:15:10Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>20.472915,44.798892</coordinates></Point>
+    <Point><coordinates>20.472927,44.798915</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-park</mwm:value>
@@ -642,7 +642,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
     <description>Local stout (támno) is really good.</description>
     <TimeStamp><when>2023-10-21T15:39:14Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>20.466954,44.814398</coordinates></Point>
+    <Point><coordinates>20.467067,44.814331</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -729,7 +729,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
     <name><![CDATA[Cigla & Krigla]]></name>
     <TimeStamp><when>2024-02-07T18:19:20Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>20.478032,44.811056</coordinates></Point>
+    <Point><coordinates>20.477962,44.811098</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>

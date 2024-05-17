@@ -249,7 +249,7 @@
     <description>Brisket obrok.</description>
     <TimeStamp><when>2022-10-10T16:02:23Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.846385,45.256323</coordinates></Point>
+    <Point><coordinates>19.846503,45.256287</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -336,7 +336,7 @@
     <name>Hrast lužnjak na Petrovaradinskoj tvrđavi</name>
     <TimeStamp><when>2023-10-15T08:06:42Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>19.867712,45.249011</coordinates></Point>
+    <Point><coordinates>19.867649,45.248989</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-park</mwm:value>

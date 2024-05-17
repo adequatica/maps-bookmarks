@@ -212,7 +212,7 @@
     <name>Riblja Konoba</name>
     <TimeStamp><when>2023-04-30T15:04:30Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>21.900887,43.321562</coordinates></Point>
+    <Point><coordinates>21.900847,43.321563</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -519,7 +519,7 @@
     <name>Patuljkova jazbina</name>
     <TimeStamp><when>2024-04-04T13:47:32Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>19.675875,46.100363</coordinates></Point>
+    <Point><coordinates>19.675898,46.100366</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -534,7 +534,7 @@
     <description>Ponedelnik — petak 9–13.</description>
     <TimeStamp><when>2024-04-05T10:29:52Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.660111,46.100804</coordinates></Point>
+    <Point><coordinates>19.659939,46.100723</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-antiques</mwm:value>
@@ -620,7 +620,7 @@
     <name>Zimovalište sova utina</name>
     <TimeStamp><when>2024-04-06T12:11:05Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>20.465407,45.830672</coordinates></Point>
+    <Point><coordinates>20.46583,45.830568</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-park</mwm:value>
