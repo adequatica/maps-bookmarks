@@ -57,7 +57,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. [Mountainboard Parks](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f) — 20
 1. Netherlands — 20
 1. Nizhny Novgorod — 10
-1. Novi Sad — 24
+1. Novi Sad — 20
 1. Pamplona — 10
 1. Paris — 26
 1. [Places of Peter Kropotkin](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6) — 22
@@ -67,6 +67,8 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Rome — 28
 1. Saint Petersburg — 56
 1. Sarajevo — 16
+1. Serbia Vojvodina — 20
+1. Serbia Šumadija and Western and Southern and Eastern — 32
 1. Serbia — 46
 1. Sicily — 14
 1. Sochi — 6
