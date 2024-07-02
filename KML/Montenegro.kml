@@ -63,9 +63,14 @@
     <name>Autobuska Stanica Tivat</name>
     <TimeStamp><when>2016-10-29T15:09:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.710869,42.42202</coordinates></Point>
+    <Point><coordinates>18.71079,42.421965</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -74,25 +79,25 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.770089,42.419668</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Fort of St John</name>
+    <name>Tvrđava Sveti Ivan</name>
     <TimeStamp><when>2016-10-30T09:48:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.774852,42.42212</coordinates></Point>
+    <Point><coordinates>18.774888,42.421989</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Sveti Đorđe</name>
-    <TimeStamp><when>2016-10-30T10:47:00Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.775915,42.422485</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -102,7 +107,12 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>18.769875,42.42736</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -111,16 +121,25 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>18.76623,42.435362</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Island Our Lady of the Rocks</name>
+    <name>Our Lady of the Rocks</name>
     <TimeStamp><when>2016-10-30T11:32:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>18.688722,42.486845</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -129,7 +148,12 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>18.65473,42.499127</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-archaeological_site</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -138,7 +162,11 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>18.533942,42.456417</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -147,7 +175,12 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.533551,42.452912</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -156,7 +189,12 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.126501,43.153199</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -166,16 +204,25 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.294186,43.149491</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-primary-bridge</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Crno Jezero</name>
     <TimeStamp><when>2016-11-02T19:55:08Z</when></TimeStamp>
-    <styleUrl>#placemark-green</styleUrl>
+    <styleUrl>#placemark-blue</styleUrl>
     <Point><coordinates>19.092724,43.145931</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>natural-water</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Water</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -184,16 +231,26 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.268078,42.432276</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Autobuska Stanica Budva</name>
     <TimeStamp><when>2016-11-04T06:44:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.8389234,42.290143</coordinates></Point>
+    <Point><coordinates>18.839234,42.290143</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -202,16 +259,25 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>18.838032,42.278259</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>place-neighbourhood</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Budva → Sveti-Stefan</name>
     <TimeStamp><when>2016-11-04T08:45:48Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>18.835916,42.281888</coordinates></Point>
+    <Point><coordinates>18.835868,42.28189</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -220,16 +286,12 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.899131,42.253995</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Sveti Stefan</name>
-    <TimeStamp><when>2016-11-04T10:43:38Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>18.891119,42.255843</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -238,7 +300,12 @@
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>18.900104,42.263984</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-viewpoint</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Viewpoint</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -247,7 +314,12 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.102842,42.088353</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -256,7 +328,11 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.135425,42.093328</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -265,7 +341,12 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.221784,41.931769</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -274,7 +355,11 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.2013,41.923671</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -283,7 +368,12 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>19.046993,42.141678</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -292,16 +382,24 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.04371,42.137106</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Haj-Nehaj</name>
     <TimeStamp><when>2018-09-10T19:11:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.031377,42.150588</coordinates></Point>
+    <Point><coordinates>19.031039,42.150638</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -310,7 +408,12 @@
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>18.945594,42.207375</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
@@ -319,16 +422,57 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>18.95088,42.20048</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>leisure-beach_resort</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Water</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Viewpoint</name>
+    <name>Top of the Old Kotor Fort Trail</name>
     <TimeStamp><when>2018-09-12T12:37:21Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>18.78335,42.421836</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-viewpoint</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Viewpoint</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cesarica</name>
+    <description>Fresh mussels in vine sauce 16€.</description>
+    <TimeStamp><when>2024-06-22T16:07:38Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>18.770918,42.425323</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-fish</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>La Catedral Pasta Bar</name>
+    <TimeStamp><when>2024-06-23T08:10:40Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>18.771677,42.424473</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-italian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
 </Document>
