@@ -344,5 +344,32 @@
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
+  <Placemark>
+    <name>Vršac</name>
+    <TimeStamp><when>2024-07-21T09:46:36Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>21.283172,45.105738</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building-train_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vršačka Kula</name>
+    <TimeStamp><when>2024-07-21T09:46:36Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>21.325712,45.122789</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
 </Document>
 </kml>
