@@ -108,7 +108,7 @@
     <name>Petrovaradin Fortress</name>
     <TimeStamp><when>2017-05-08T11:51:02Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.866574,45.252562</coordinates></Point>
+    <Point><coordinates>19.864439,45.251774</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-castle</mwm:value>
@@ -235,7 +235,7 @@
     <description>Brisket obrok.</description>
     <TimeStamp><when>2022-10-10T16:02:23Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.846503,45.256287</coordinates></Point>
+    <Point><coordinates>19.846527,45.256272</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -294,7 +294,7 @@
     <description>Has Belgian beer in bottles in menu.</description>
     <TimeStamp><when>2023-07-11T12:13:14Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>19.848665,45.25647</coordinates></Point>
+    <Point><coordinates>19.84863,45.256461</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -320,7 +320,7 @@
   </Placemark>
   <Placemark>
     <name>Hrast lužnjak na Petrovaradinskoj tvrđavi</name>
-    <TimeStamp><when>2023-10-15T08:06:42Z</when></TimeStamp>
+    <TimeStamp><when>2023-10-15T08:06:44Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>19.867649,45.248989</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -333,10 +333,38 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Mala radionica</name>
+    <name>Petrovaradin</name>
+    <TimeStamp><when>2023-10-15T20:50:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>19.8882,45.240434</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building-train_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mala Radionica Kafe</name>
     <TimeStamp><when>2024-01-03T09:10:11Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>19.834642,45.252669</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Martin</name>
+    <TimeStamp><when>2024-07-28T08:13:02Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>19.850062,45.25681</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
