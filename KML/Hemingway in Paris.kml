@@ -75,8 +75,9 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>65. Café Napolitain (somewhere on the Boulevard des Italiens, probably did not exist)</name>
-    <description>I did not find any evidence of the existence of this cafe where Hemingway met with Canadian boxer Larry Gains. It could be the same fiction as a writing room, but it is also mentioned in the second chapter of «The Sun Also Rises», where Jake Barnes and Robert Cohn had a drink.</description>
+    <name>65. Café Napolitain (now occupied by Hippopotamus Steakhouse)</name>
+    <description>I did not find any evidence of the existence of this cafe in the Boulevard des Italiens, where Hemingway met with Canadian boxer Larry Gains, but a café with the same name existed on 1, Boulevard des Capucines. It seems that the writer mixed up the Boulevards since the café is located at the very beginning of the Capucines which adjoins the Italiens. 
+It is also mentioned in Chapters II and III of «The Sun Also Rises», where Jake Barnes and Robert Cohn have a drink.</description>
     <TimeStamp><when>2021-03-21T01:10:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3367137,48.871408</coordinates></Point>
@@ -133,8 +134,8 @@
   </Placemark>
   <Placemark>
     <name>61. Bar Hemingway</name>
-    <description>The Ritz Paris and especially its bar was «liberated» by Hemingway in August 1944. On the day of «liberation», he ordered an enormous amount of martinis for his band of irregular soldiers. 
-In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (he stayed in Ritz in the mid-1950s). The easiest way inside is via the entrance on the Rue Cambon, rather than having to go through the entire hotel from the main entrance.</description>
+    <description>The Ritz Paris and especially its bar was «liberated» by Hemingway in August 1944. On the day of «liberation», he ordered 50 martinis for his band of irregular soldiers. 
+In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (he stayed in the Ritz in the mid-1950s). The easiest way inside is via the Rue Cambon entrance, rather than going through the entire hotel from the main entrance.</description>
     <TimeStamp><when>2021-03-21T01:50:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3275714,48.868816</coordinates></Point>
@@ -179,7 +180,7 @@ In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (
   </Placemark>
   <Placemark>
     <name>58. Saint-Honoré-d’Eylau Church</name>
-    <description>Hemingway and Hadley divorced in January 1927. And in May he married Pauline. She insisted on holding a Catholic ceremony at the church of Saint-Honoré-d’Eylau.</description>
+    <description>Hemingway and Hadley divorced in January 1927. In May, he married Pauline. She insisted on holding a Catholic ceremony at the church of Saint-Honoré-d’Eylau.</description>
     <TimeStamp><when>2021-03-21T02:20:58Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.2846802,48.869122</coordinates></Point>
@@ -314,7 +315,7 @@ A biographer, A. E. Hotchner, quotes: «Hadley and Bumpy stayed in Shrumps and I
   <Placemark>
     <name>49. Hôtel de Crillon</name>
     <description>We do not know much about a bar in the Hôtel de Crillon, except it was noted in a phrase in one of the stories. 
-At the beginning of Chapter VI of «The Sun Also Rises», Jake Barnes, the main character of the novel, is waiting in the lobby of the hotel for his lover, Lady Brett Ashley.</description>
+At the beginning of Chapter VI of «The Sun Also Rises», Jake Barnes, the main character of the novel, agrees to meet and is waiting in the lobby for his lover, Lady Brett Ashley.</description>
     <TimeStamp><when>2021-03-21T03:50:49Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3210885,48.867239</coordinates></Point>
@@ -374,7 +375,8 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
   </Placemark>
   <Placemark>
     <name>45. Negre de Toulouse (now occupied by L’Apéro)</name>
-    <description>Unlike most drinking establishments in Montparnasse, Nègre de Toulouse was a real restaurant where Ernest and Headly went to dinner. Their cassoulet was especially to Hemingway’s liking.</description>
+    <description>Unlike most drinking establishments in Montparnasse, Nègre de Toulouse was a real restaurant where Ernest and Headly went to dinner. Their cassoulet was especially to Hemingway’s liking. 
+In Chapter III of «The Sun Also Rises», Jake Barnes and Georgette come for dinner here. Instead of naming the place, Hemingway named the restaurant’s proprietor, Madame Lavigne. In the 20s, Monsieur and Madame Lavigne owned that place. Moreover, the first version of the manuscript contained more details: «By this time we were on the Boulevard Montparnasse, and I called to the cocher to stop at Lavigne’s restaurant, Le Negre de Toulouse.»</description>
     <TimeStamp><when>2021-03-21T04:30:45Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3347463,48.840518</coordinates></Point>
@@ -389,7 +391,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
   </Placemark>
   <Placemark>
     <name>44. Le Falstaff</name>
-    <description>Falstaff and Dingo were favorite drinking spots of Hemingway, because they were less trendy bars than other Montparnasse cafes.</description>
+    <description>Falstaff and Dingo were one of Hemingway’s favorite drinking spots because they were less trendy bars than other Montparnasse cafes.</description>
     <TimeStamp><when>2021-03-21T04:40:44Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.326064,48.842839</coordinates></Point>
@@ -449,7 +451,7 @@ Kiki de Montparnasse, famous muse of the artists of the twenties, was one of the
   </Placemark>
   <Placemark>
     <name>40. La Rôtonde</name>
-    <description>Along with the Dome the «Café de la Rotonde» was an extremely popular café among writers and painters (especially Pablo Picasso). Of course it was criticized by Hemingway for its public. 
+    <description>Along with the Dôme, the «Café de la Rotonde» was an extremely popular café among writers and painters (especially Pablo Picasso). Of course it was criticized by Hemingway for its public. 
 In Chapter VI of «The Sun Also Rises», he showed the indifference of local taxi drivers to the public gathering there. 
 These days it remains a fashionable place — Emmanuel Macron celebrating the results of the first round of the 2017 French presidential election at the Rôtonde.</description>
     <TimeStamp><when>2021-03-21T05:20:40Z</when></TimeStamp>
@@ -466,7 +468,7 @@ These days it remains a fashionable place — Emmanuel Macron celebrating the re
   </Placemark>
   <Placemark>
     <name>39. Le Dôme (today it is a top fish restaurant)</name>
-    <description>«Café du Dôme» was a popular café among bohemian artists. Hemingway visited it occasionally but despised the majority of its fashionable clients. Despite this, he devoted an entire chapter of «A Movable Feast» to his meeting with the painter Jules Pascin here.</description>
+    <description>With a name in the French manner «Café du Dôme» was a popular restaurant among bohemian artists. Hemingway visited it occasionally but despised the majority of its fashionable clients. Despite this, he devoted an entire chapter of «A Movable Feast» to his meeting with the painter Jules Pascin here.</description>
     <TimeStamp><when>2021-03-21T05:30:39Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3290305,48.841958</coordinates></Point>
@@ -529,8 +531,8 @@ And the way back to his «office»: Brasserie Lipp → Rue Bonaparte → Rue Guy
   </Placemark>
   <Placemark>
     <name>35. La Closerie des Lilas</name>
-    <description>All of the cafes of that time are now busy and overpriced tourist spots. Even then, Hemingway thought the same about popular places such as Le Dôme, La Rotonde, Le Select, and La Coupole. He found his own quiet and cozy cafe for work out of reach from the crowds of American expats. And he was acquainted with all the waiters. 
-The Closerie is the setting place of the stories «Ford Maddox Ford and the Devil’s Disciple» and «Evan Shipman at the Lilas». It is also mentioned in «Une Génération Perdue» and «Scott Fitzgerald». It was here that Scott begged Ernest to read his new novel «The Great Gatsby». Also most of the novel «The Sun Also Rises» was written here. 
+    <description>All of the cafes of that time are now busy and overpriced tourist spots. Even then, Hemingway thought the same about popular places such as Le Dôme, La Rotonde, Le Select, and La Coupole. He found his own quiet and cozy cafe for work out of reach from the crowds of American expats. He often dined here and was acquainted with all the waiters. 
+The Closerie is the setting place of the stories «Ford Maddox Ford and the Devil’s Disciple» and «Evan Shipman at the Lilas». It is also mentioned in «Une Génération Perdue» and «Scott Fitzgerald». It was here that Scott begged Ernest to read his new novel «The Great Gatsby». Also, most of the novel «The Sun Also Rises» was written here. 
 Today, the tables in the bar are decorated with brass plates with the names of authors who drank there, including «Ernest Hemingway».</description>
     <TimeStamp><when>2021-03-21T06:10:35Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -620,8 +622,8 @@ Before Hemingway’s arrival, Ezra Pound and his wife offered to share their lar
   </Placemark>
   <Placemark>
     <name>29. Three Mountain Press</name>
-    <description>Hemingway’s newsman friend, Bill Bird, purchased an ancient Mathieu hand press and started a printing shop in 1922. Later, he provided office accommodation to Ford Madox Ford for the Transatlantic Review. Ernest was often there, but he did not like Ford for personal and financial reasons. 
-  On the same island there was a Madame Lecomte’s restaurant. Nothing is known about it, except that Jake Barnes and Bill Gorton from «The Sun Also Rises» had dinner there.</description>
+    <description>Hemingway’s newsman friend, Bill Bird, purchased an ancient Mathieu hand press and started a printing shop on the Île Saint-Louis island in 1922. Later, he provided office accommodation to Ford Madox Ford for the Transatlantic Review. Ernest was often there, but he did not like Ford for personal and financial reasons. 
+On the same island there was a Madame Lecomte’s restaurant, where Jake Barnes and Bill Gorton from «The Sun Also Rises» had dinner. Probably, it could be a small restaurant «Au Rendez-Vous des Mariniers» which has not been preserved to our time.</description>
     <TimeStamp><when>2021-03-21T07:10:29Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3576845,48.852195</coordinates></Point>
@@ -847,7 +849,7 @@ He also walked along the embankments of the left bank when he finished his work 
   </Placemark>
   <Placemark>
     <name>14. La Tour d’Argent</name>
-    <description>It was and is a historic parisian restaurant and has one Michelin star. Hemingway was too poor to eat there, but there was a place nearby where he could buy used books in English.</description>
+    <description>It was and is a historic Parisian restaurant with one Michelin star. Hemingway was too poor to eat there, but there was a place nearby where he could buy used books in English.</description>
     <TimeStamp><when>2021-03-21T09:40:14Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3549138,48.84983</coordinates></Point>
@@ -981,7 +983,7 @@ According to Hemingway’s biographer, Michael Reynolds, there is no evidence th
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>5. Café des Amateurs (now called Café Delmas)</name>
+    <name>5. Café des Amateurs (now occupied by Café Delmas)</name>
     <description>Just around the corner from the entrance at 74 Cardinal Lemoine was the Café des Amateurs. Ernest called it «the cesspool of the rue Mouffetard» and avoided this place because it attracted only drunks, whores, and ruffians from the nearest street market. 
 At the beginning of Chapter IV of «The Sun Also Rises», Hemingway describes a taxicab heading down the Rue Mouffetard from the Place de la Contrescarpe.</description>
     <TimeStamp><when>2021-03-21T11:10:05Z</when></TimeStamp>
