@@ -61,14 +61,15 @@
   <description>A definitive guide to Ernest Hemingway’s Paris. He lived in Paris from 1922 to 1928 and returned several times for short visits.</description>
   <visibility>0</visibility>
   <Placemark>
-    <name>66. Stade Anastasie (somewhere in the 20th arrondissement, now does not exist)</name>
-    <description>In the same chapter about boxing, Hemingway reminisces about another mystical place, the Stade Anastasie, which «had turned out to be a very strange fight club». Despite the relatively detailed description, the location is unable to be marked on the map — somewhere in the 20th arrondissement of Paris.</description>
+    <name>66. Café de la Régence (now occupied by the Bureau National Marocain du Tourisme)</name>
+    <description>This historic establishment was briefly mentioned in Hemigway’s column for Esquire: February 1934 «A Paris Letter», and it sounds like he was well aware of the mood prevailing in pre-war Paris. 
+There is a contemporary «Café de la Régence» on the same block, but it borrowed only the name from the old place, which was closed in 1955 (nonetheless, a commemorative plaque remains on the building).</description>
     <TimeStamp><when>2021-03-21T01:00:06Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>2.4002969,48.869532</coordinates></Point>
+    <Point><coordinates>2.335122,48.863304</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>highway-residential</mwm:value>
+        <mwm:value>building</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
@@ -76,8 +77,7 @@
   </Placemark>
   <Placemark>
     <name>65. Café Napolitain (now occupied by Hippopotamus Steakhouse)</name>
-    <description>I did not find any evidence of the existence of this cafe in the Boulevard des Italiens, where Hemingway met with Canadian boxer Larry Gains, but a café with the same name existed on 1, Boulevard des Capucines. It seems that the writer mixed up the Boulevards since the café is located at the very beginning of the Capucines which adjoins the Italiens. 
-It is also mentioned in Chapters II and III of «The Sun Also Rises», where Jake Barnes and Robert Cohn have a drink.</description>
+    <description>I did not find any evidence of the existence of this cafe in the Boulevard des Italiens, where Hemingway met with Canadian boxer Larry Gains, but a café with the same name existed on 1, Boulevard des Capucines. It seems that the writer mixed up the Boulevards since the café is located at the very beginning of the Capucines, which adjoins the Italiens.</description>
     <TimeStamp><when>2021-03-21T01:10:05Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3367137,48.871408</coordinates></Point>
@@ -135,7 +135,7 @@ It is also mentioned in Chapters II and III of «The Sun Also Rises», where Jak
   <Placemark>
     <name>61. Bar Hemingway</name>
     <description>The Ritz Paris and especially its bar was «liberated» by Hemingway in August 1944. On the day of «liberation», he ordered 50 martinis for his band of irregular soldiers. 
-In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (he stayed in the Ritz in the mid-1950s). The easiest way inside is via the Rue Cambon entrance, rather than going through the entire hotel from the main entrance.</description>
+In 1994, a small hotel’s bar was renamed the «Bar Hemingway» in his memory (he stayed in the Ritz in the mid-1950s). The easiest way inside is via the Rue Cambon entrance rather than going through the entire hotel from the main entrance.</description>
     <TimeStamp><when>2021-03-21T01:50:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3275714,48.868816</coordinates></Point>
@@ -270,7 +270,7 @@ A biographer, A. E. Hotchner, quotes: «Hadley and Bumpy stayed in Shrumps and I
   </Placemark>
   <Placemark>
     <name>52. Musée d’Orsay</name>
-    <description>At the beginning of the last century it was a railway station Gare d’Orsay. From here, trains went south on which Hemingway and his characters got to Spain.</description>
+    <description>At the beginning of the XX century, it was a railway station called Gare d’Orsay. From here, trains went south on which Hemingway and his characters got to Spain.</description>
     <TimeStamp><when>2021-03-21T03:20:52Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3265253,48.859919</coordinates></Point>
@@ -469,7 +469,7 @@ These days it remains a fashionable place — Emmanuel Macron celebrating the re
   </Placemark>
   <Placemark>
     <name>39. Le Dôme (today it is a top fish restaurant)</name>
-    <description>With a name in the French manner «Café du Dôme» was a popular restaurant among bohemian artists. Hemingway visited it occasionally but despised the majority of its fashionable clients. Despite this, he devoted an entire chapter of «A Movable Feast» to his meeting with the painter Jules Pascin here.</description>
+    <description>With a name in the French manner, «Café du Dôme» was a popular restaurant among bohemian artists. Hemingway visited it occasionally but despised the majority of its fashionable clients. Despite this, he devoted an entire chapter of «A Movable Feast» to his meeting with the painter Jules Pascin here.</description>
     <TimeStamp><when>2021-03-21T05:30:39Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3290305,48.841958</coordinates></Point>
@@ -624,7 +624,7 @@ Before Hemingway’s arrival, Ezra Pound and his wife offered to share their lar
   <Placemark>
     <name>29. Three Mountain Press</name>
     <description>Hemingway’s newsman friend, Bill Bird, purchased an ancient Mathieu hand press and started a printing shop on the Île Saint-Louis island in 1922. Later, he provided office accommodation to Ford Madox Ford for the Transatlantic Review. Ernest was often there, but he did not like Ford for personal and financial reasons. 
-On the same island there was a Madame Lecomte’s restaurant, where Jake Barnes and Bill Gorton from «The Sun Also Rises» had dinner. Probably, it could be a small restaurant «Au Rendez-Vous des Mariniers» which has not been preserved to our time.</description>
+On the same island, there was a Madame Lecomte restaurant where Jake Barnes and Bill Gorton from «The Sun Also Rises» had dinner. It could probably be a small restaurant, «Au Rendez-Vous des Mariniers», which was not preserved at the time.</description>
     <TimeStamp><when>2021-03-21T07:10:29Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3576845,48.852195</coordinates></Point>
@@ -729,7 +729,7 @@ After that they «had come out of the gateway through the Louvre and crossed the
   <Placemark>
     <name>22. Hippodrome d’Auteuil</name>
     <description>When Ernest and Hadley went to the jump racing at the Auteuil, for only five of six francs, they could enter the open field circled by the track with the nearest view. 
-Some steeplechase races he preferred to watch from the stands.</description>
+He preferred to watch some steeplechase races from the stands.</description>
     <TimeStamp><when>2021-03-21T08:20:22Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.2572519,48.854451</coordinates></Point>
@@ -789,8 +789,8 @@ Later, with Hadley, he took the train from this station to the suburbs to go to 
   </Placemark>
   <Placemark>
     <name>18. Gare de Lyon</name>
-    <description>Hemingway actively used railways for work as a foreign correspondent for the Toronto Star Weekly newspaper. From there, he took the Oriental Express for the four-day ride to Constantinople to cover the Greco-Turkish war (1919–1922). And also took a train to Lyon, to pick up Scott Fitzerald’s car. 
-This place is also associated with a bad story, when Ernest’s first manuscripts were stolen from Hadley because they traveled from here to Switzerland for skiing.</description>
+    <description>Hemingway actively used railways as a foreign correspondent for the Toronto Star Weekly newspaper. From there, he took the Oriental Express for the four-day ride to Constantinople to cover the Greco-Turkish War (1919–1922) and also took a train to Lyon to pick up Scott Fitzerald’s car. 
+This place is also associated with a bad story when Ernest’s first manuscripts were stolen from Hadley because they traveled from here to Switzerland for skiing.</description>
     <TimeStamp><when>2021-03-21T09:00:18Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3733486,48.844923</coordinates></Point>
@@ -955,7 +955,7 @@ He also walked along the embankments of the left bank when he finished his work 
   </Placemark>
   <Placemark>
     <name>7. Place Saint-Michel</name>
-    <description>Hemingway does not disclose in which café he worked. Instead of it, he accurately describes the path he took to get there: 74 Rue du Cardinal Lemoine → Lycée Henri IV → Saint-Étienne-du-Mont → Place du Panthéon → Boulevard Saint-Michel → Musée de Cluny → Boulevard Saint-Germain → Place Saint-Michel. 
+    <description>Hemingway does not disclose which café he worked in. Instead of it, he accurately describes the path he took to get there: 74 Rue du Cardinal Lemoine → Lycée Henri IV → Saint-Étienne-du-Mont → Place du Panthéon → Boulevard Saint-Michel → Musée de Cluny → Boulevard Saint-Germain → Place Saint-Michel. 
 The description of the return way is not so detailed.</description>
     <TimeStamp><when>2021-03-21T10:50:07Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -1047,7 +1047,7 @@ On the ground floor of the same building, there was a workmen’s dance hall, or
   </Placemark>
   <Placemark>
     <name>1. Hôtel Jacob et Angleterre (now called Hôtel d’Angleterre)</name>
-    <description>On December 20, 1921, Ernest Hemingway, at the age of 22, and his wife Hadley came to Paris for the first time. Until they found an apartment, they checked into the Hôtel Jacob et Angleterre in room № 14. The hotel was recommended to them by Sherwood Anderson, who stayed there the previous fall. Today, Hôtel d’Angleterre still allows guests to stay in this room and a glass case in the lobby records Hemingway’s time there.</description>
+    <description>On December 20, 1921, Ernest Hemingway, at the age of 22, and his wife Hadley came to Paris for the first time. Until they found an apartment, they checked into the Hôtel Jacob et Angleterre in room № 14. The hotel was recommended to them by Sherwood Anderson, who stayed there the previous fall. Today, Hôtel d’Angleterre still allows guests to stay in this room, and a glass case in the lobby records Hemingway’s time there.</description>
     <TimeStamp><when>2021-03-21T11:50:01Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>2.3332925,48.855856</coordinates></Point>
