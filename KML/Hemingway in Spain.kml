@@ -447,24 +447,10 @@ What is known for certain is that he came here to the beach. In 1927, he wrote t
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>34. Hotel Suizo (no longer exists)</name>
-    <description>In 1925, Hemingways stayed at the Hotel Suizo. No information about this establishment has been preserved, but its bar was featured in the novel «The Sun Also Rises».</description>
-    <TimeStamp><when>2022-01-29T05:30:34Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>-1.9808772,43.318557</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>highway-pedestrian</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>33. Café de la Marina or Café Kutz (now occupied by a jewelry store Olazábal Joyero)</name>
+    <name>34. Café de la Marina (now occupied by a jewelry store Olazábal Joyero)</name>
     <description>Café de la Marina was extremely popular among tourists from the capital cities of Madrid and Paris. Foreigners were welcome, and Jake Barnes from «The Sun Also Rises» enjoyed evenings in this cafe. 
-Cafe has changed its name several times. It was called Café Kutz for a while and then again Café de la Marina until the closure in 1946. At last Hemingway was confused by the naming and noted two cafes in the appendix of his non-fiction book «Death in the Afternoon».</description>
-    <TimeStamp><when>2022-01-29T05:40:33Z</when></TimeStamp>
+Cafe has changed its name several times. It was called Café Kutz for a while and then Gran Café de la Marina until its closure in 1946. Finally, Hemingway was confused by the naming and noted two cafes in the appendix of his nonfiction book «Death in the Afternoon».</description>
+    <TimeStamp><when>2022-01-29T05:30:34Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.9843321,43.321764</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -476,9 +462,9 @@ Cafe has changed its name several times. It was called Café Kutz for a while an
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>32. La Concha</name>
-    <description>The Beach of La Concha is a perfect sandy beach in San Sebastián (Donostia in Basque language), a small town an hour’s drive from Pamplona. Hemingway came here many times: there was a direct train to Paris, and it was a good place to rest for a couple of days. As Jake Barnes, the protagonist of «The Sun Also Rises», did.</description>
-    <TimeStamp><when>2022-01-29T05:50:32Z</when></TimeStamp>
+    <name>33. La Concha</name>
+    <description>The Beach of La Concha is a perfect sandy beach in San Sebastián (Donostia in Basque language), a small town an hour’s drive from Pamplona. Hemingway came here many times: there was a direct train to Paris, and it was an excellent place to rest for a couple of days. As Jake Barnes, the protagonist of «The Sun Also Rises», did.</description>
+    <TimeStamp><when>2022-01-29T05:40:33Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.9904758,43.31528</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -487,6 +473,22 @@ Cafe has changed its name several times. It was called Café Kutz for a while an
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Swim</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>32. Hostal Burguete</name>
+    <description>Hemingway came to Burguete a few times for fishing in the Irati River. His autograph, carved on the piano, has been preserved in Hostal Burguete, but it seems to be fake. 
+The narrator of the novel «The Sun Also Rises», Jake Barnes and his friend Bill Gorton stopped here before bullfights in Pamplona.</description>
+    <TimeStamp><when>2022-01-29T05:50:32Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>-1.3349448,42.990726</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-hotel</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -506,25 +508,9 @@ Cafe has changed its name several times. It was called Café Kutz for a while an
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>30. Hostal Burguete</name>
-    <description>Hemingway came to Burguete a few times for fishing in the Irati River. In Hostal Burguete remains his autograph carved on the piano, but it seems to be fake. 
-The narrator of the novel «The Sun Also Rises», Jake Barnes and his friend Bill Gorton stopped here before bullfights in Pamplona.</description>
-    <TimeStamp><when>2022-01-29T06:10:30Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>-1.3349448,42.990726</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>tourism-hotel</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Hotel</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>29. Hotel Yoldi</name>
+    <name>30. Hotel Yoldi</name>
     <description>In the 1950s, this place was consolidated as «the hotel of the bullfighters». In 1953, Ernest Hemingway met here with the famous matador Antonio Ordóñez.</description>
-    <TimeStamp><when>2022-01-29T06:20:29Z</when></TimeStamp>
+    <TimeStamp><when>2022-01-29T06:10:30Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-1.6428034,42.813467</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -537,11 +523,27 @@ The narrator of the novel «The Sun Also Rises», Jake Barnes and his friend Bil
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>29. Café Suizo (no occupied by Restaurante La Tagliatella)</name>
+    <description>This is another cafe on Plaza del Castillo, which was featured in the novel «The Sun Also Rises». 
+It was located in Casa del Toril, one of the oldest buildings on the square, and operated from 1845 until 1952.</description>
+    <TimeStamp><when>2022-01-29T06:20:29Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>-1.643621,42.816926</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>28. Bar Choko (now called El Txoko)</name>
     <description>Hemingway visited this bar when he returned from Sanfermines in the 1950s. Mary Welsh, his wife at this time, said that in 1959, it was her favorite bar too.</description>
     <TimeStamp><when>2022-01-29T06:30:28Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>-1.6419907,42.816503</coordinates></Point>
+    <Point><coordinates>-1.641959,42.816519</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
@@ -556,7 +558,7 @@ The narrator of the novel «The Sun Also Rises», Jake Barnes and his friend Bil
     <description>Little is known about this cafe, but it was noted in Hemingway’s «Death in the Afternoon».</description>
     <TimeStamp><when>2022-01-29T06:40:27Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>-1.6436161,42.817373</coordinates></Point>
+    <Point><coordinates>-1.643621,42.817396</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bank</mwm:value>
@@ -586,7 +588,7 @@ The narrator of the novel «The Sun Also Rises», Jake Barnes and his friend Bil
 Of course, Hemingway constantly hung out in this place during the Sanfermines. Today, there is an «El Rincón de Hemingway» — «Hemingway’s Corner» with a life-size statue of the writer by the sculptor José Javier Doncel.</description>
     <TimeStamp><when>2022-01-29T07:00:25Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>-1.643254,42.817434</coordinates></Point>
+    <Point><coordinates>-1.643249,42.817475</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -781,7 +783,7 @@ A year earlier (1959), the Cuban revolutionary Che Guevara stayed at the same ho
   </Placemark>
   <Placemark>
     <name>12. La Venencia</name>
-    <description>During the Civil War, this old bar was a haunt for Republican sympathizers. Hemingway could come here a lot to get news from the front from soldiers.</description>
+    <description>During the Civil War, this old bar was a haunt for Republican sympathizers. Hemingway could often come here to get news from soldiers from the front.</description>
     <TimeStamp><when>2022-01-29T09:10:12Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>-3.6995749,40.415799</coordinates></Point>
@@ -797,7 +799,7 @@ A year earlier (1959), the Cuban revolutionary Che Guevara stayed at the same ho
   </Placemark>
   <Placemark>
     <name>11. Museo Chicote</name>
-    <description>This cocktail bar was popular among international journalists in the 1930s, and was frequented by Ernest Hemingway. According to him, it was «the place to start an evening from, all right, and we had all started some fine ones from there». Another description of this place was given in the story «The Denunciation» from the collection of short stories «The Fifth Column and Four Stories of the Spanish Civil War». 
+    <description>This cocktail bar was popular among international journalists in the 1930s, and was frequented by Ernest Hemingway. In his day, it was known as Taberna Chicote and was «the place to start an evening from, all right, and we had all started some fine ones from there». Another description of this place was given in the story «The Denunciation» from the collection of short stories «The Fifth Column and Four Stories of the Spanish Civil War». 
 The main character of the play «The Fifth Column», Philip Rawlings, an American-born secret agent for the Spanish Republic, chose Chicote as a meeting place with his informant.
 </description>
     <TimeStamp><when>2022-01-29T09:20:11Z</when></TimeStamp>
@@ -873,7 +875,7 @@ The building was badly damaged during the war and was demolished in 1964, but it
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>6. El Sobrino de Botín</name>
+    <name>6. Sobrino de Botín</name>
     <description>Sobrino de Botín is the oldest restaurant in the world, it was opened in 1725. It was also a gastronomic stop of «Don Ernesto». He was a good friend of Emilio González, grandfather of the current owner Carlos González. He claims that Hemingway used to love roast suckling pigs. This is not surprising because the same dish was chosen by Jake Barnes, the protagonist of «The Sun Also Rises».</description>
     <TimeStamp><when>2022-01-29T10:10:06Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -933,16 +935,17 @@ According to biographer A.E. Hotchner, Hemingway’s favorite picture was the «
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>2. Pension Aguilar (no longer exists)</name>
+    <name>2. Pension Aguilar (now operates as Hostal Aguilar)</name>
     <description>Hemingway, McAlmon, and Bird stayed at a bullfighters’ pension in the «Via San Jerónimo». From 1923 to 1927 he kept stopping at this place with family or alone. According to newspapers, his room was number 7.</description>
     <TimeStamp><when>2022-01-29T10:50:02Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>-3.6983358,40.416153</coordinates></Point>
+    <Point><coordinates>-3.699041,40.416439</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>building</mwm:value>
+        <mwm:value>tourism-hotel</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
