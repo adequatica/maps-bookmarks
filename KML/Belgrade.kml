@@ -165,7 +165,7 @@
     <description>Tourist trap: rakia on the street, 400 din.</description>
     <TimeStamp><when>2018-09-16T19:19:29Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>20.463558,44.816894</coordinates></Point>
+    <Point><coordinates>20.463521,44.816824</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
@@ -340,7 +340,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
     <description>Brisket obrok.</description>
     <TimeStamp><when>2023-01-14T17:58:08Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.466056,44.818237</coordinates></Point>
+    <Point><coordinates>20.466096,44.81818</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -382,7 +382,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
     <name>Museum of Yugoslavia</name>
     <TimeStamp><when>2023-02-25T18:38:24Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.452999,44.788758</coordinates></Point>
+    <Point><coordinates>20.453017,44.78873</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
@@ -668,7 +668,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Zona Industriale</name>
-    <description>Zabranjeno pušenje, espreso sa mlekom (produže) ili cappuccino = 290 din. 20 min from home at Dimitrija Tucovića, 21 min to Zeleni Venac.</description>
+    <description>Zabranjeno pušenje, espreso sa mlekom (produže) ili cappuccino = 270 din. 20 min from home at Dimitrija Tucovića, 21 min to Zeleni Venac.</description>
     <TimeStamp><when>2023-11-08T08:27:52Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.470916,44.80254</coordinates></Point>
@@ -726,10 +726,10 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name><![CDATA[Cigla & Krigla]]></name>
+    <name><![CDATA[Cigla & Krigla Pub]]></name>
     <TimeStamp><when>2024-02-07T18:19:20Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>20.477962,44.811098</coordinates></Point>
+    <Point><coordinates>20.477922,44.811161</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -821,20 +821,6 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Local</name>
-    <TimeStamp><when>2024-04-13T10:39:40Z</when></TimeStamp>
-    <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.4701,44.803357</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-cafe</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

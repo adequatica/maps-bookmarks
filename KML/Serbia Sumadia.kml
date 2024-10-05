@@ -491,7 +491,7 @@
     <name>Čuker</name>
     <TimeStamp><when>2024-06-09T09:22:54Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
-    <Point><coordinates>19.724803,43.682921</coordinates></Point>
+    <Point><coordinates>19.724497,43.683146</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>natural-peak</mwm:value>
