@@ -60,20 +60,6 @@
   <name>Belgrade</name>
   <visibility>0</visibility>
   <Placemark>
-    <name>Belgrade Bus Station</name>
-    <TimeStamp><when>2018-09-15T15:29:22Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>20.454184,44.810082</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-bus_station</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Transport</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Belgrade Fortress</name>
     <TimeStamp><when>2018-09-15T18:57:08Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -162,7 +148,7 @@
   </Placemark>
   <Placemark>
     <name>Zadruga</name>
-    <description>Tourist trap: rakia on the street, 400 din.</description>
+    <description>Tourist trap: rakia on the street = 400 din.</description>
     <TimeStamp><when>2018-09-16T19:19:29Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>20.463521,44.816824</coordinates></Point>
@@ -177,8 +163,8 @@
   </Placemark>
   <Placemark>
     <name>Zeleni Venac</name>
-    <description>Bus 72 from/to the airport, ~ 45 min.
-Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
+    <description>Bus 72 od/do aerodroma, ~ 45 min.
+Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <TimeStamp><when>2022-03-06T23:17:25Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>20.456786,44.814</coordinates></Point>
@@ -244,6 +230,21 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
         <mwm:value>historic-ruins</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Black Turtle Pub Brewery</name>
+    <description>Local stout (támno) is really good.</description>
+    <TimeStamp><when>2022-10-21T18:08:36Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>20.467067,44.814331</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -337,7 +338,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Holy Smokes</name>
-    <description>Brisket obrok.</description>
+    <description>Brisket obrok. Skupo.</description>
     <TimeStamp><when>2023-01-14T17:58:08Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.466096,44.81818</coordinates></Point>
@@ -352,7 +353,7 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Pastel De Nata</name>
-    <description>Tram 7 to/from Vukov Spomenik, ~ 40 min.</description>
+    <description>Tram 7 od/do Vukova Spomenika, ~ 40 min.</description>
     <TimeStamp><when>2023-02-15T13:44:37Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.401066,44.806735</coordinates></Point>
@@ -609,6 +610,21 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Three Carrots</name>
+    <description>Guinnes = 730 din.</description>
+    <TimeStamp><when>2023-10-05T16:14:12Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>20.462818,44.808183</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Platan na Vračaru</name>
     <TimeStamp><when>2023-10-09T14:15:10Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
@@ -638,21 +654,6 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>The Black Turtle Pub Brewery</name>
-    <description>Local stout (támno) is really good.</description>
-    <TimeStamp><when>2023-10-21T15:39:14Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>20.467067,44.814331</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-pub</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Botanička Bašta</name>
     <TimeStamp><when>2023-11-05T13:29:30Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
@@ -668,7 +669,8 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Zona Industriale</name>
-    <description>Zabranjeno pušenje, espreso sa mlekom (produže) ili cappuccino = 270 din. 20 min from home at Dimitrija Tucovića, 21 min to Zeleni Venac.</description>
+    <description>Zabranjeno pušenje, espreso sa mlekom (produže) ili cappuccino = 270 din.
+20 min od kuće u Dimitrija Tucovića, 21 min do Zeleni Venaca.</description>
     <TimeStamp><when>2023-11-08T08:27:52Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.470916,44.80254</coordinates></Point>
@@ -698,7 +700,8 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Svetozar</name>
-    <description>Zabranjeno pušenje, espreso sa mlekom = 250 din. 15 min to Zeleni Venac.</description>
+    <description>Zabranjeno pušenje, espreso sa mlekom = 250 din.
+15 min do Zeleni Venaca.</description>
     <TimeStamp><when>2024-01-24T08:35:12Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.469038,44.808103</coordinates></Point>
@@ -879,6 +882,20 @@ Bus 84 (stops in Ušće), 704, 706, 707 to Zemun, ~ 25 min.</description>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Glavna autobuska stanica Beograd</name>
+    <TimeStamp><when>2024-10-15T14:30:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>20.414817,44.805366</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

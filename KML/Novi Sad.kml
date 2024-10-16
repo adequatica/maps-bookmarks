@@ -121,7 +121,7 @@
     <name>Novi Sad Železnička Stanica</name>
     <TimeStamp><when>2017-05-08T15:28:32Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>19.829775,45.265532</coordinates></Point>
+    <Point><coordinates>19.82975,45.265541</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-train_station</mwm:value>
@@ -149,7 +149,7 @@
     <name>Museum of Vojvodina</name>
     <TimeStamp><when>2021-10-21T19:14:44Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.851838,45.256496</coordinates></Point>
+    <Point><coordinates>19.851796,45.256466</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
@@ -178,7 +178,7 @@
     <name>Mazut Beer Shop</name>
     <TimeStamp><when>2021-10-23T12:59:21Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>19.842128,45.257911</coordinates></Point>
+    <Point><coordinates>19.842128,45.257918</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-alcohol</mwm:value>
@@ -235,7 +235,7 @@
     <description>Brisket obrok.</description>
     <TimeStamp><when>2022-10-10T16:02:23Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.846527,45.256272</coordinates></Point>
+    <Point><coordinates>19.846543,45.256268</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
