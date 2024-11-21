@@ -256,7 +256,7 @@
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -300,7 +300,7 @@
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -356,7 +356,7 @@
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -370,7 +370,7 @@
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

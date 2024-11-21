@@ -233,7 +233,7 @@
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -241,13 +241,13 @@
     <name>Ministarstvo</name>
     <TimeStamp><when>2023-05-01T19:16:16Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>21.90186,43.320008</coordinates></Point>
+    <Point><coordinates>21.901783,43.320047</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -551,7 +551,7 @@
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -588,10 +588,10 @@
     <Point><coordinates>20.91509,44.011324</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>amenity-bar</mwm:value>
+        <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

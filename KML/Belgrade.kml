@@ -142,7 +142,7 @@
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -216,7 +216,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -244,7 +244,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -302,7 +302,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -404,7 +404,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -418,7 +418,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -432,7 +432,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -570,7 +570,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <name>Pietra</name>
     <TimeStamp><when>2023-09-17T18:21:23Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.47322,44.805313</coordinates></Point>
+    <Point><coordinates>20.473271,44.805313</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -614,13 +614,13 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <description>Guinnes = 730 din.</description>
     <TimeStamp><when>2023-10-05T16:14:12Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>20.462818,44.808183</coordinates></Point>
+    <Point><coordinates>20.462719,44.80805</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -679,7 +679,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -694,7 +694,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -710,7 +710,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -724,7 +724,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -738,7 +738,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -767,7 +767,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -823,7 +823,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -837,7 +837,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-pub</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
+      <mwm:icon>Pub</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -852,7 +852,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
         <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
