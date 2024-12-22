@@ -842,21 +842,6 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Mali Prag</name>
-    <description>Zabranjeno pušenje, flat white = 330 din.</description>
-    <TimeStamp><when>2024-04-29T09:49:30Z</when></TimeStamp>
-    <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.459342,44.810843</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-cafe</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Cafe</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-    <Placemark>
     <name>Caffe Kod Andrije</name>
     <description>Local café which has its own craft beer, «Andrijino pivo».</description>
     <TimeStamp><when>2024-08-16T20:32:09Z</when></TimeStamp>
@@ -868,6 +853,21 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bad Ramen</name>
+    <TimeStamp><when>2024-08-24T14:54:34Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>20.459675,44.818348</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-ramen</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
