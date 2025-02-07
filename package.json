@@ -14,13 +14,13 @@
   },
   "dependencies": {
     "@prettier/plugin-xml": "3.4.1",
-    "date-fns": "3.6.0",
-    "prettier": "3.2.5",
-    "vitest": "1.5.0",
+    "date-fns": "4.1.0",
+    "prettier": "3.4.2",
+    "vitest": "3.0.5",
     "xml2js": "0.6.2"
   },
   "devDependencies": {
-    "husky": "8.0.3"
+    "husky": "9.1.7"
   },
   "prettier": {
     "tabWidth": 2,
@@ -43,8 +43,8 @@
     ]
   },
   "scripts": {
-    "chrono": "node chrono.js",
     "format": "prettier --write .",
-    "test": "vitest run"
+    "test": "vitest run",
+    "prepare": "husky"
   }
 }
