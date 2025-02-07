@@ -63,7 +63,7 @@
     <name>Belgrade Fortress</name>
     <TimeStamp><when>2018-09-15T18:57:08Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.449887,44.82381</coordinates></Point>
+    <Point><coordinates>20.449946,44.823735</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>historic-castle</mwm:value>
@@ -263,21 +263,6 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Pekara Trpković</name>
-    <description>Molim, burek sa meson i sirom, dvesta pedeset.</description>
-    <TimeStamp><when>2022-11-13T14:37:12Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.487945,44.803359</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>shop-bakery</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Shop</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Beersheep</name>
     <TimeStamp><when>2022-11-26T17:47:21Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
@@ -356,7 +341,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <description>Tram 7 od/do Vukova Spomenika, ~ 40 min.</description>
     <TimeStamp><when>2023-02-15T13:44:37Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.401066,44.806735</coordinates></Point>
+    <Point><coordinates>20.401058,44.806746</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-pastry</mwm:value>
@@ -412,7 +397,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <name>D59B</name>
     <TimeStamp><when>2023-04-16T10:22:32Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.458159,44.821882</coordinates></Point>
+    <Point><coordinates>20.458167,44.821896</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -440,7 +425,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <name>Denada</name>
     <TimeStamp><when>2023-04-24T10:00:52Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.452795,44.816348</coordinates></Point>
+    <Point><coordinates>20.452792,44.816361</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -469,7 +454,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <description>Transfer to Vinča: bus 307.</description>
     <TimeStamp><when>2023-06-04T09:38:10Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>20.517305,44.784909</coordinates></Point>
+    <Point><coordinates>20.517339,44.784939</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-bus_stop</mwm:value>
@@ -528,7 +513,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <name>Avala tower</name>
     <TimeStamp><when>2023-08-20T11:19:21Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.514518,44.696084</coordinates></Point>
+    <Point><coordinates>20.514451,44.696178</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-viewpoint</mwm:value>
@@ -669,7 +654,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Zona Industriale</name>
-    <description>Zabranjeno pušenje, espreso sa mlekom (produže) ili cappuccino = 270 din.
+    <description>Zabranjeno pušenje, espreso sa mlekom (cappuccino) = 290 din.
 20 min od kuće u Dimitrija Tucovića, 21 min do Zeleni Venaca.</description>
     <TimeStamp><when>2023-11-08T08:27:52Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
@@ -786,20 +771,6 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Konak kneza Miloša Obreniviča</name>
-    <TimeStamp><when>2024-03-30T09:12:32Z</when></TimeStamp>
-    <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.442409,44.780533</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>tourism-museum</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Museum</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Platan kod Miloševog konaka</name>
     <TimeStamp><when>2024-03-30T12:48:29Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
@@ -896,6 +867,35 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pizzeria Cafeteria Italiana</name>
+    <TimeStamp><when>2025-01-13T12:30:00Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>20.400835,44.8058</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-pizza</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Chernyi Cooperative Coffee Roasters</name>
+    <TimeStamp><when>2025-02-07T11:01:25Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>20.456979,44.822198</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
