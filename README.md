@@ -68,7 +68,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Saint Petersburg — 56
 1. Sarajevo — 16
 1. Serbia Vojvodina — 25
-1. Serbia Šumadija and Western and Southern and Eastern — 39
+1. Serbia Šumadija and Western and Southern and Eastern — 42
 1. Serbia — 46
 1. Sicily — 14
 1. Sochi — 6
