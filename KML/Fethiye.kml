@@ -219,9 +219,6 @@
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>29.107059,36.608841</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:name>
-        <mwm:lang code="default">Fethiye trail</mwm:lang>
-      </mwm:name>
       <mwm:featureTypes>
         <mwm:value>highway-path</mwm:value>
       </mwm:featureTypes>

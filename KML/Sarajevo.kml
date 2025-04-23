@@ -284,9 +284,6 @@
     <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>18.429811,43.858853</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:name>
-        <mwm:lang code="default">Ćevabdžinica Željo 3</mwm:lang>
-      </mwm:name>
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
         <mwm:value>cuisine-balkan</mwm:value>
