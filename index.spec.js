@@ -90,12 +90,42 @@ test("Placemarks have unique coordinates", () => {
     const coordinates = new Set();
     for (let i = 0; i < bookmark.Placemark.length; i++) {
       const pointCoordinates = bookmark.Placemark[i].Point[0].coordinates[0];
+
       if (coordinates.has(pointCoordinates)) {
         assert.fail(
           `Duplicate coordinates ${pointCoordinates} of ${bookmark.Placemark[i].name} in ${bookmark.name}`,
         );
       }
       coordinates.add(pointCoordinates);
+    }
+  });
+});
+
+test("Placemarks have valid coordinates", () => {
+  allBookmarks.forEach((bookmark) => {
+    for (let i = 0; i < bookmark.Placemark.length; i++) {
+      const pointCoordinates = bookmark.Placemark[i].Point[0].coordinates[0];
+
+      // Сoordinates are separated by comma
+      assert.include(
+        pointCoordinates,
+        ",",
+        `Invalid coordinates format ${pointCoordinates} of ${bookmark.Placemark[i].name} in ${bookmark.name}`,
+      );
+
+      const [longitude, latitude] = pointCoordinates.split(",").map(Number);
+
+      if (longitude > 180 || longitude < -180) {
+        assert.fail(
+          `Invalid longitude ${longitude} of ${bookmark.Placemark[i].name} in ${bookmark.name}`,
+        );
+      }
+
+      if (latitude > 90 || latitude < -90) {
+        assert.fail(
+          `Invalid latitude ${latitude} of ${bookmark.Placemark[i].name} in ${bookmark.name}`,
+        );
+      }
     }
   });
 });
