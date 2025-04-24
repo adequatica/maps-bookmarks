@@ -116,20 +116,6 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Sandrela fast food</name>
-    <TimeStamp><when>2016-10-30T10:47:55Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>18.76623,42.435362</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-fast_food</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Our Lady of the Rocks</name>
     <TimeStamp><when>2016-10-30T11:32:30Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
@@ -420,7 +406,7 @@
     <name>Plaza Lučice</name>
     <TimeStamp><when>2018-09-11T17:26:40Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>18.95088,42.20048</coordinates></Point>
+    <Point><coordinates>18.950809,42.20056</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>leisure-beach_resort</mwm:value>
@@ -461,17 +447,86 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>La Catedral Pasta Bar</name>
-    <TimeStamp><when>2024-06-23T08:10:40Z</when></TimeStamp>
-    <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>18.771677,42.424473</coordinates></Point>
+    <name>PMYC Sailing Squadron</name>
+    <TimeStamp><when>2024-06-23T09:10:20Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>18.691361,42.438549</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>amenity-restaurant</mwm:value>
-        <mwm:value>cuisine-italian</mwm:value>
+        <mwm:value>office</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Food</mwm:icon>
+      <mwm:icon>Building</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Coffee Novi</name>
+    <TimeStamp><when>2025-04-11T10:30:00Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>18.698206,42.4365</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fabrika Coffee</name>
+    <TimeStamp><when>2025-04-13T09:11:58Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>18.535608,42.451731</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kuća Iva Andrića</name>
+    <TimeStamp><when>2025-04-13T15:35:53Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>18.528008,42.45452</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Citadela</name>
+    <TimeStamp><when>2025-04-13T16:41:48Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>18.535455,42.450102,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Drunk Octopus Bar</name>
+    <TimeStamp><when>2025-04-14T19:11:09Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>18.535986,42.450358</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
