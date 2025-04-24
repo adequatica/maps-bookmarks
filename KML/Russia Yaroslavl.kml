@@ -178,9 +178,6 @@
     <styleUrl>#placemark-brown</styleUrl>
     <Point><coordinates>39.889329,57.625757</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:name>
-        <mwm:lang code="default">Jawsspot</mwm:lang>
-      </mwm:name>
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
       </mwm:featureTypes>
