@@ -6,80 +6,79 @@ I have been using [maps.me](https://maps.me) app during my travels since 2013, b
 
 Now I am using **[Organic Maps](https://organicmaps.app)**.
 
-[KML files can be converted to GPX](https://github.com/adequatica/mmkml2gpx) format to be able to import bookmarks into other free apps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
+[KML files can be converted to GPX](https://github.com/adequatica/mmkml2gpx) format to import bookmarks into other free apps based on [OpenStreetMap](https://www.openstreetmap.org) maps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
 
 ## Map legend
 
 - Red — sightseeing;
 - Orange — cafés, restaurants, fast food;
 - Yellow — shops, markets, fairs;
-- Green — parks, mountains, botanical gardens;
+- Green — parks, botanical gardens, landmark trees, mountains;
+- Purple — bars or pubs;
 - Brown — craft beer bars or bottle shops;
-- Purple — non-craft bars or pubs;
 - Pink — bus and train stations or a group of particular [POI](https://wiki.openstreetmap.org/wiki/Points_of_interest)s for a specific area.
 
 ## Lists of bookmarks
 
-1. Amsterdam — 10
 1. Armenia — 24
-1. Asturias — 6
-1. Barcelona — 20
-1. Basque Country — 12
+1. Armenia, [Constructivism in Yerevan](https://adequatica.substack.com/p/constructivism-in-yerevan) — 16
+1. Armenia, [Soviet Modernism in Yerevan](https://adequatica.substack.com/p/soviet-modernism-in-yerevan) — 40
+1. Armenia, Yerevan — 20
+1. Austria, Vienna — 10
 1. Belgium — 16
-1. Belgrade — 58
-1. Berlin — 48
-1. Bowie in Berlin — 10
-1. Bratislava — 10
-1. Çanakkale — 8
-1. Cantabria — 8
-1. [Constructivism in Yerevan](https://adequatica.substack.com/p/constructivism-in-yerevan) — 16
-1. Copenhagen — 8
-1. Crete — 6
+1. Bosnia and Herzegovina, Sarajevo — 16
+1. Bosnia and Herzegovina, Višegrad — 6
+1. Bosnia and Herzegovina, [Yugoslav Modernism in Sarajevo](https://adequatica.substack.com/p/yugoslav-modernism-in-sarajevo) — 20
 1. Cyprus — 8
-1. [Dostoevsky in Saint Petersburg](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297) — 76
-1. Dublin — 20
-1. Fethiye — 20
+1. Czech Republic, Prague — 18
+1. Denmark, Copenhagen — 8
 1. France — 6
-1. Haifa — 8
-1. [Hemingway in Istanbul](https://adequatica.medium.com/hemingway-in-istanbul-9e8f4fc3e6bf?source=friends_link&sk=b4df8f13335b7d4fd9fb42dee5be290e) — 6
-1. [Hemingway in Paris](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0?source=friends_link&sk=a3eaecf784f6ba3324830efd1291cb64) — 66
-1. [Hemingway in Spain](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3?source=friends_link&sk=76d0a9875b23dfac95445a36cef02acd) — 60
-1. Istanbul — 42
-1. Jerusalem — 10
-1. Kaliningrad — 12
-1. Leningrad Oblast — 18
-1. Madrid — 14
+1. France, [Hemingway in Paris](https://adequatica.medium.com/hemingway-in-paris-fb0a425913e0?source=friends_link&sk=a3eaecf784f6ba3324830efd1291cb64) — 66
+1. France, Paris — 26
+1. Georgia, Tbilisi — 8
+1. Germany, Berlin — 48
+1. Germany, Bowie in Berlin — 10
+1. Greece, Crete — 6
+1. Greece, Rhodes — 8
+1. Ireland, Dublin — 20
+1. Israel, Haifa — 8
+1. Israel, Jerusalem — 10
+1. Israel, Tel Aviv — 8
+1. Israel, White City of Tel Aviv — 40
+1. Italy, Rome — 28
+1. Italy, Sicily — 14
 1. Montenegro — 30
 1. Morocco — 32
-1. Moscow — 48
-1. Moscow Oblast — 18
-1. [Moscow Castles](https://adequatica.medium.com/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653) — 24
-1. [Mountainboard Parks](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f) — 20
 1. Netherlands — 20
-1. Nizhny Novgorod — 10
-1. Novi Sad — 22
-1. Pamplona — 10
-1. Paris — 26
-1. [Places of Peter Kropotkin](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6) — 22
+1. Netherlands, Amsterdam — 10
 1. Portugal — 60
-1. Prague — 18
-1. Rhodes — 8
-1. Rome — 28
-1. Saint Petersburg — 56
-1. Sarajevo — 16
-1. Serbia Vojvodina — 25
-1. Serbia Šumadija and Western and Southern and Eastern — 42
-1. Serbia — 46
-1. Sicily — 14
-1. Sochi — 6
-1. [Soviet Modernism in Yerevan](https://adequatica.substack.com/p/soviet-modernism-in-yerevan) — 40
-1. Tbilisi — 8
-1. Tel Aviv — 8
-1. Veliky Novgorod — 10
-1. Vienna — 10
-1. Višegrad — 6
-1. White City of Tel Aviv — 40
-1. Yaroslavl — 10
-1. Yerevan — 20
-1. [Yugoslav Modernism in Sarajevo](https://adequatica.substack.com/p/yugoslav-modernism-in-sarajevo) — 20
-1. Zurich — 6
+1. Russia, [Dostoevsky in Saint Petersburg](https://adequatica.medium.com/dostoevsky-in-saint-petersburg-3b126807c316?source=friends_link&sk=a1580b70d00e4421f30bb97da87d8297) — 76
+1. Russia, Kaliningrad — 12
+1. Russia, Leningrad Oblast — 18
+1. Russia, Moscow — 48
+1. Russia, [Moscow Castles](https://adequatica.medium.com/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653) — 24
+1. Russia, Moscow Oblast — 18
+1. Russia, Nizhny Novgorod — 10
+1. Russia, [Places of Peter Kropotkin](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6) — 22
+1. Russia, Saint Petersburg — 56
+1. Russia, Sochi — 6
+1. Russia, Veliky Novgorod — 10
+1. Russia, Yaroslavl — 10
+1. Serbia, Belgrade — 58
+1. Serbia, Novi Sad — 22
+1. Serbia, Vojvodina — 25
+1. Serbia, Šumadija — 42
+1. Slovakia, Bratislava — 10
+1. Spain, Asturias — 6
+1. Spain, Barcelona — 20
+1. Spain, Basque Country — 12
+1. Spain, Cantabria — 8
+1. Spain, [Hemingway in Spain](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3?source=friends_link&sk=76d0a9875b23dfac95445a36cef02acd) — 60
+1. Spain, Madrid — 14
+1. Spain, Pamplona — 10
+1. Switzerland, Zurich — 6
+1. Türkiye, Çanakkale — 8
+1. Türkiye, Fethiye — 20
+1. Türkiye, Istanbul — 42
+1. Türkiye, [Hemingway in Istanbul](https://adequatica.medium.com/hemingway-in-istanbul-9e8f4fc3e6bf?source=friends_link&sk=b4df8f13335b7d4fd9fb42dee5be290e) — 6
+1. World, [Mountainboard Parks](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f) — 20

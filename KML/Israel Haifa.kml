@@ -116,7 +116,7 @@
   <name>Haifa</name>
   <visibility>0</visibility>
   <Placemark>
-    <name>Shabbat bus to Tel-Aviv</name>
+    <name>Shabbat bus to Tel Aviv</name>
     <TimeStamp><when>2023-04-22T09:46:33Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>34.996746,32.813406</coordinates></Point>

@@ -58,27 +58,10 @@
     </IconStyle>
   </Style>
   <name>Bowie in Berlin</name>
-  <description>
-  <![CDATA[
-<p>Sources:</p>
-<ul>
-<li><a href="https://www.bowiegoldenyears.com/press/79-10-04-rolling-stone.html">Bowie Golden Years</a></li>
-<li><a href="https://www.ft.com/content/b20113b0-8753-11e3-9c5c-00144feab7de">The Berlin landmarks that inspired Bowie</a></li>
-<li><a href="https://www.fotostrasse.com/david-bowies-berlin/">A tour of Bowie’s Berlin years</a></li>
-<li><a href="https://www.theguardian.com/music/2016/jan/13/david-bowie-berlin-years-heroes-just-a-gigolo">Bowie in Berlin</a></li>
-<li><a href="https://www.the500hiddensecrets.com/germany/berlin/culture/david-bowie">5 places with a very strong David Bowie signature in Berlin</a></li>
-<li><a href="https://www.german-way.com/david-bowie-in-west-berlin-and-the-berlin-trilogy-recordings/">David Bowie in West Berlin and the Berlin Trilogy Recordings</a></li>
-<li><a href="https://www.berlin.de/en/tourism/insider-tips/4259252-5766508-david-bowie-in-berlin.en.html">David Bowie’s Berlin In the Famous Musician’s Footsteps</a></li>
-<li><a href="https://www.rollingstone.co.uk/music/bowies-berlin-the-locations-behind-the-lyrics-10413/">Bowie’s Berlin: the locations behind the lyrics</a></li>
-<li><a href="https://www.exberliner.com/berlin/bowie-in-berlin-12-things/">David Bowie in Berlin: Hansa Studios, Paris Bar and the birth of a legend</a></li>
-<li><a href="https://www.tip-berlin.de/tip-english/12-things-you-need-to-know-about-david-bowie-in-berlin/">12 things you need to know about David Bowie in Berlin</a></li>
-</ul>
-  ]]>
-  </description>
   <visibility>0</visibility>
   <Placemark>
     <name>David Bowie’s apartment</name>
-    <description>David Bowie moved in an apartment on Hauptstrasse 155 in Schönenerg in 1976 and recorded Berlin Trilogy: Low (1977), "Heroes" (1977) and Lodger (1979).</description>
+    <description>David Bowie moved into an apartment on Hauptstrasse 155 in Schönenerg in 1976 and recorded Berlin Trilogy: Low (1977), "Heroes" (1977) and Lodger (1979).</description>
     <TimeStamp><when>2017-03-18T12:14:56Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.359484,52.489228</coordinates></Point>
@@ -88,7 +71,7 @@
   </Placemark>
   <Placemark>
     <name>Neues Ufer</name>
-    <description>Previously known as «Anderes Ufer» — one of the oldest gay cafe in Europe opened in 70s. Favorable place of David Bowie and Iggy Pop for brunch.</description>
+    <description>Previously known as «Anderes Ufer», it is one of the oldest gay cafes in Europe, having opened in the 1970s. It was a favorite place for brunch for David Bowie and Iggy Pop.</description>
     <TimeStamp><when>2017-03-18T12:15:11Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.35973,52.489534</coordinates></Point>
@@ -118,7 +101,7 @@
   </Placemark>
   <Placemark>
     <name>Dschungel</name>
-    <description>The club that defined nightlife in 1970s West Berlin, is now the elegant, modernist, four-star Ellington Hotel.</description>
+    <description>The club that defined nightlife in 1970s West Berlin is now the elegant, modernist, four-star Ellington Hotel.</description>
     <TimeStamp><when>2017-03-18T17:09:19Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.338396,52.502027</coordinates></Point>
@@ -128,7 +111,7 @@
   </Placemark>
   <Placemark>
     <name>Brücke Museum</name>
-    <description>David Bowie came here frequently to gaze at the works of Ernst Ludwig Kichner, Emil Nolde and Erich Heckel.</description>
+    <description>David Bowie frequently visited this museum to gaze at the works of Ernst Ludwig Kirchner, Emil Nolde, and Erich Heckel.</description>
     <TimeStamp><when>2017-03-18T17:17:23Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.274686,52.466871</coordinates></Point>
@@ -138,7 +121,7 @@
   </Placemark>
   <Placemark>
     <name>Forsthaus Paulsborn</name>
-    <description>It is one of the Berlin’s most atmospheric hidden restaurants. David Bowie was there once on Christmas.</description>
+    <description>It is one of Berlin’s most atmospheric hidden restaurants. David Bowie was there once on Christmas.</description>
     <TimeStamp><when>2017-03-18T17:17:34Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.256204,52.466371</coordinates></Point>
@@ -148,7 +131,7 @@
   </Placemark>
   <Placemark>
     <name>SO36</name>
-    <description>The Berlin’s version of New York’s CBGB.</description>
+    <description>Berlin’s version of New York’s CBGB.</description>
     <TimeStamp><when>2017-03-18T18:17:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.422162,52.500391</coordinates></Point>
@@ -158,7 +141,7 @@
   </Placemark>
   <Placemark>
     <name>Luzia</name>
-    <description>Cafe where Iggy Pop, Lou Reed and David Bowie drank.</description>
+    <description>The cafe where Iggy Pop, Lou Reed, and David Bowie drank.</description>
     <TimeStamp><when>2017-03-18T20:19:43Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.418272,52.501675</coordinates></Point>
@@ -168,7 +151,7 @@
   </Placemark>
   <Placemark>
     <name>Bösebrücke</name>
-    <description>The place where the wall fell back in 1989 — a part of the lyrics of David Bowie’s song «Where are we now?»</description>
+    <description>The place where the wall fell back in 1989 — a part of the lyrics of David Bowie’s song «Where Are We Now?»</description>
     <TimeStamp><when>2017-03-18T23:12:44Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.398164,52.554737</coordinates></Point>
