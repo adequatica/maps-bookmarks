@@ -46,10 +46,10 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Russia, Kaliningrad — 12
 1. Russia, Leningrad Oblast — 18
 1. Russia, Moscow — 48
-1. Russia, [Moscow Castles](https://adequatica.medium.com/moscow-castles-d5f655b74df9?source=friends_link&sk=eac8dd27dfb2ac9648932a53983a0653) — 24
+1. Russia, Moscow Castles — 24
 1. Russia, Moscow Oblast — 18
 1. Russia, Nizhny Novgorod — 10
-1. Russia, [Places of Peter Kropotkin](https://adequatica.medium.com/knyaz-kropotkin-places-3117e8f3e59b?source=friends_link&sk=94a2a5d0e4ba97a167f23e7c448696e6) — 22
+1. Russia, [Places of Peter Kropotkin](https://adequatica.substack.com/p/places-of-peter-kropotkin) — 22
 1. Russia, Saint Petersburg — 56
 1. Russia, Sochi — 6
 1. Russia, Veliky Novgorod — 10
