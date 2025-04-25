@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml
+  xmlns="http://www.opengis.net/kml/2.2"
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+>
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Izmir</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>İzmir Saat Kulesi</name>
+    <TimeStamp><when>2025-04-16T10:56:13Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.128687,38.418876,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-monument</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Meşur Menemenci Akin</name>
+    <TimeStamp><when>2025-04-16T11:42:08Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>27.131677,38.41913,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Izmir Archaeology Museum</name>
+    <TimeStamp><when>2025-04-16T12:28:03Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.128067,38.413935,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Agora</name>
+    <TimeStamp><when>2025-04-16T15:54:44Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.138654,38.41881,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+        <mwm:value>historic-ruins</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Basmane</name>
+    <TimeStamp><when>2025-04-17T07:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>27.1439,38.422446,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Selçuk</name>
+    <TimeStamp><when>2025-04-17T08:27:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>27.372945,37.950969,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bus to Ephesus</name>
+    <TimeStamp><when>2025-04-17T08:39:58Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>27.369871,37.948459,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+        <mwm:value>public_transport-platform</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Efes Antik Kent</name>
+    <TimeStamp><when>2025-04-17T09:45:44Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.344267,37.936313,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ephesus Archaeological Museum</name>
+    <TimeStamp><when>2025-04-17T12:34:45Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.367854,37.948994,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ayasuluk Castle</name>
+    <TimeStamp><when>2025-04-17T13:53:40Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.367718,37.955671,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>rePUBlic</name>
+    <description>Prices for local craft beer are x3 compared to Efes lager.</description>
+    <TimeStamp><when>2025-04-17T17:32:49Z</when></TimeStamp>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>27.141481,38.435351,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Independent</name>
+    <TimeStamp><when>2025-04-17T19:22:02Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>27.144259,38.438834,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Varuna Gezgin</name>
+    <description>Nice place for breakfast, has menemen.</description>
+    <TimeStamp><when>2025-04-18T10:25:34Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>27.143474,38.439253,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>No.18 Coffee</name>
+    <TimeStamp><when>2025-04-18T12:14:57Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>27.144277,38.437714,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Alsancak Gar</name>
+    <TimeStamp><when>2025-04-18T12:56:55Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>27.148114,38.438633,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kadifekale</name>
+    <description>Bus 33 from Bahribaba, Konak.</description>
+    <TimeStamp><when>2025-04-18T14:11:45Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.144957,38.413784,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>historic-castle</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Alsancak Eski Konak Pide Kebap</name>
+    <description>Fair prices, very good pide and iskender döner.</description>
+    <TimeStamp><when>2025-04-18T19:22:41Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>27.144705,38.437654,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pia Kitabevi</name>
+    <TimeStamp><when>2025-04-19T11:39:12Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>27.144461,38.437288,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-books</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Leaf coffee shop</name>
+    <description>Overpriced specialty coffee shop. 120 liras for Turkish coffee, while in other cafés, it costs from 75 to 100 liras.</description>
+    <TimeStamp><when>2025-04-20T11:33:56Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>27.088202,38.463794,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dinozor Bar</name>
+    <TimeStamp><when>2025-04-20T18:39:23Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>27.145888,38.439085,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Pub</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

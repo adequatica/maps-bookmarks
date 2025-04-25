@@ -6,7 +6,7 @@ I have been using [maps.me](https://maps.me) app during my travels since 2013, b
 
 Now I am using **[Organic Maps](https://organicmaps.app)**.
 
-[KML files can be converted to GPX](https://github.com/adequatica/mmkml2gpx) format to import bookmarks into other free apps based on [OpenStreetMap](https://www.openstreetmap.org) maps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net) or [Pocket Earth](https://pocketearth.com).
+[KML files can be converted to GPX format](https://github.com/adequatica/mmkml2gpx) to import bookmarks into other free apps based on [OpenStreetMap](https://www.openstreetmap.org) maps: [Guru Maps](https://gurumaps.app), [OsmAnd](https://osmand.net), or [Pocket Earth](https://pocketearth.com).
 
 ## Lists of bookmarks
 
@@ -70,6 +70,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Türkiye, Çanakkale — 8
 1. Türkiye, Fethiye — 20
 1. Türkiye, Istanbul — 42
+1. Türkiye, Izmir — 20
 1. Türkiye, [Hemingway in Istanbul](https://adequatica.medium.com/hemingway-in-istanbul-9e8f4fc3e6bf?source=friends_link&sk=b4df8f13335b7d4fd9fb42dee5be290e) — 6
 1. World, [Mountainboard Parks](https://adequatica.medium.com/mountainboard-parks-a9ae99209f46?source=friends_link&sk=771d8121508535fadbe0e153d197bf8f) — 20
 

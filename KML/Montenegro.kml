@@ -506,7 +506,7 @@
     <name>Citadela</name>
     <TimeStamp><when>2025-04-13T16:41:48Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>18.535455,42.450102,0</coordinates></Point>
+    <Point><coordinates>18.535455,42.450102</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
