@@ -67,6 +67,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Spain, Madrid — 14
 1. Spain, Pamplona — 10
 1. Switzerland, Zurich — 6
+1. Türkiye, [Brutalism and «Brutal Modernism» in Izmir](https://adequatica.substack.com/p/brutalism-and-brutal-modernism-buildings-in-izmir) — 12
 1. Türkiye, Çanakkale — 8
 1. Türkiye, Fethiye — 20
 1. Türkiye, Istanbul — 42

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml
+  xmlns="http://www.opengis.net/kml/2.2"
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+>
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Brutalism and «Brutal Modernism» in Izmir</name>
+  <description>Izmir, though one of Turkey’s largest cities, has much less interesting architecture and sightseeing than Istanbul.
+The city center comprises «orientalistically» diverse and unassuming office and residential buildings. But if you look closely, you can find interesting buildings with a distinct architectural style. I found a few brutalist representatives and, as I called myself, «brutal modernism» constructions.</description>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>12.</name>
+    <description>Lastly, as a joke, a sudden find of a wild postmodernism with a facade homage to brutalist design.</description>
+    <TimeStamp><when>2025-04-16T10:01:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.139159,38.433663,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>11.</name>
+    <description>Two adjacent buildings, both from the modernist era, are at the intersection of Gazi and Gazi Osman Paşa boulevards.
+However, the second one has a metal facade and represents modernist architecture of the 1980s (I guess).</description>
+    <TimeStamp><when>2025-04-16T10:02:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.137424,38.423878,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>10.</name>
+    <description>Two adjacent buildings, both from the modernist era, are at the intersection of Gazi and Gazi Osman Paşa boulevards.
+The first one has a concrete decorative element of false window sills and has a facade cladding made of the same small tiles as the building on Cumhuriyet Boulevard in the Konak district (see № 6).</description>
+    <TimeStamp><when>2025-04-16T10:03:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.137426,38.423563,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>9. Ministry of Transport and Infrastructure</name>
+    <description>This is pure modernism of the 1970s and 1980s, that brutalism. Clean, solid, and unadorned facade sets the building apart from the front-line hotels and contemporary offices.</description>
+    <TimeStamp><when>2025-04-16T10:04:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.134894,38.430155,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>office-government</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Building</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>8.</name>
+    <description>A tall residential building stands out for its balconies, which resemble Lakhman’s reinforced concrete fence from the USSR.</description>
+    <TimeStamp><when>2025-04-16T10:05:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.147057,38.439542,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>7.</name>
+    <description>On the edge of the Alsancak district, there is a relatively simple building, but massive concrete window sills draw attention. Ribbon glazing adds to the recognition that this is a modernist building from the 1970s — early 1980s.</description>
+    <TimeStamp><when>2025-04-16T10:06:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.143974,38.442148,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>6.</name>
+    <description>Across a busy boulevard from the Konak Pier, there is a fascinating office building. Despite the fine brown tile facade, its style can be categorized as brutalist.</description>
+    <TimeStamp><when>2025-04-16T10:07:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.130516,38.421352,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>5. İzmir Municipality Building</name>
+    <description>This government office dominates the entire waterfront of the Konak district. Its exterior resembles an iconic brutalist example of Boston City Hall. 
+For some reason, the building is now covered in netting, but it is not noticeable from a distance.</description>
+    <TimeStamp><when>2025-04-16T10:08:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.129525,38.420585,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>office-government</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Building</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>4. Otel Yumukoğlu</name>
+    <description>Unfortunately, the brutalist appearance has been lost due to the colouring of the facade. A true brutalist building should showcase raw concrete (béton brut), but here, it still has minimalist and angular geometric shapes.</description>
+    <TimeStamp><when>2025-04-16T10:09:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.138572,38.424888,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>3. Orhan Erdil’s building</name>
+    <description>Another beautiful example of a brutalist building by Orhan Erdil, circa 1970s.</description>
+    <TimeStamp><when>2025-04-16T10:10:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.135094,38.426027,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2.</name>
+    <description>Just one building over from the first one, on the corner, there is a light-colored concrete office building with small round hole elements on each facade’s block.</description>
+    <TimeStamp><when>2025-04-16T10:11:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.136463,38.426198,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>1. Orhan Erdil’s building</name>
+    <description>As I could google, this building was built in 1975 by the architect Orhan Erdil. It is located on the side street behind Efes İş Hanı (Efes Business Center and Swissotel).</description>
+    <TimeStamp><when>2025-04-16T10:12:00Z</when></TimeStamp>
+    <styleUrl>#placemark-gray</styleUrl>
+    <Point><coordinates>27.136914,38.426618,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
