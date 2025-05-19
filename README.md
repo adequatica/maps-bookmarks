@@ -54,7 +54,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Russia, Sochi — 6
 1. Russia, Veliky Novgorod — 10
 1. Russia, Yaroslavl — 10
-1. Serbia, Belgrade — 58
+1. Serbia, Belgrade — 59
 1. Serbia, Novi Sad — 22
 1. Serbia, Šumadija — 42
 1. Serbia, Vojvodina — 25

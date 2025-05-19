@@ -91,7 +91,7 @@
     <description>Only cash and smoking inside.</description>
     <TimeStamp><when>2018-09-16T10:09:27Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.466423,44.81678</coordinates></Point>
+    <Point><coordinates>20.466453,44.81678</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fast_food</mwm:value>
@@ -152,7 +152,7 @@
 Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <TimeStamp><when>2022-03-06T23:17:25Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>20.456786,44.814</coordinates></Point>
+    <Point><coordinates>20.45666,44.814034</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>highway-bus_stop</mwm:value>
@@ -639,8 +639,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Zona Industriale</name>
-    <description>Zabranjeno pušenje, espreso sa mlekom (cappuccino) = 290 din.
-20 min od kuće u Dimitrija Tucovića, 21 min do Zeleni Venaca.</description>
+    <description>Zabranjeno pušenje, espreso sa mlekom (cappuccino) = 290 din.</description>
     <TimeStamp><when>2023-11-08T08:27:52Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.470916,44.80254</coordinates></Point>
@@ -655,10 +654,10 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Kafe Skver</name>
-    <description>Dobar kafić na malom trgu. Zabranjeno pušenje, espreso sa mlekom = 230 din.</description>
+    <description>Dobar kafić na malom trgu. Zabranjeno pušenje, espreso sa mlekom = 240 din.</description>
     <TimeStamp><when>2023-11-23T10:20:50Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.48519,44.799156</coordinates></Point>
+    <Point><coordinates>20.485233,44.79916</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -670,8 +669,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Svetozar</name>
-    <description>Zabranjeno pušenje, espreso sa mlekom = 250 din.
-15 min do Zeleni Venaca.</description>
+    <description>Zabranjeno pušenje, espreso sa mlekom = 250 din.</description>
     <TimeStamp><when>2024-01-24T08:35:12Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.469038,44.808103</coordinates></Point>
@@ -745,7 +743,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <name><![CDATA[Wine Bar & Shop Quinta]]></name>
     <TimeStamp><when>2024-03-22T20:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>20.462381,44.818405</coordinates></Point>
+    <Point><coordinates>20.46244,44.818399</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
@@ -889,6 +887,21 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <TimeStamp><when>2025-02-07T11:01:25Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.456979,44.822198</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Forum</name>
+    <description>Zabranjeno pušenje, macchiato = 300 din.</description>
+    <TimeStamp><when>2025-05-18T09:17:37Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>20.469239,44.820581</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
