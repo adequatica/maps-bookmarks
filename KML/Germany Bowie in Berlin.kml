@@ -61,102 +61,183 @@
   <visibility>0</visibility>
   <Placemark>
     <name>David Bowie’s apartment</name>
-    <description>David Bowie moved into an apartment on Hauptstrasse 155 in Schönenerg in 1976 and recorded Berlin Trilogy: Low (1977), "Heroes" (1977) and Lodger (1979).</description>
+    <description
+      ><![CDATA[David Bowie moved into an apartment on Hauptstrasse 155 in Schönenerg in 1976 and recorded Berlin Trilogy: Low (1977), “Heroes” (1977) and Lodger (1979).<br />
+«For both of them, life was simple and ordered, “but always,” says Jim, “with the idea, we’re trying to learn something here.” Before his record deal was secured, Jim had the added discipline of living on 10 deutschmarks a day, which David would hand over each morning. Bowie, Jim and Coco’s apartment at 155 Hauptstrasse was part of a large block above a car spares showroom, situated over a tree-lined double carriageway. It was fairly elegant with high ceilings, but was generally nondescript, what Berliners would term a typical Altbau, or period, apartment, and while the furniture was tasteful, it was minimal. In Jim’s bedroom there was a simple mattress on the floor and not much else. David’s main room was full of books, and also a huge roll of paper on which he’d write notes and lyrics; another room housed David’s son Zowie, who was enrolled in school in Berlin. The fact that the apartment was nondescript and cheap was part of its appeal, Bowie had to be careful with his cash. Coco kept a close eye on his spending; one night in Munich, Coco interrogated Bowie about a new jumper he’d just bought, and the world-famous rock star assured her, “Really, it only cost twenty deutschmarks!”
+The flat was at the rear of the 155 Hauptstrasse building, in the Hinterhof — the more modest, lower-ceilinged mews apartments that would once have served as servants’ quarters or work premises. The rent was just 184 DM per month — cheap, because the flat had no hot water, which suited his new no-frills, hard-working ethic.»]]></description>
     <TimeStamp><when>2017-03-18T12:14:56Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>13.359484,52.489228</coordinates></Point>
+    <Point><coordinates>13.3595,52.489246</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Neues Ufer</name>
-    <description>Previously known as «Anderes Ufer», it is one of the oldest gay cafes in Europe, having opened in the 1970s. It was a favorite place for brunch for David Bowie and Iggy Pop.</description>
-    <TimeStamp><when>2017-03-18T12:15:11Z</when></TimeStamp>
+    <description><![CDATA[Previously known as «Anderes Ufer», it is one of the oldest gay cafes in Europe, having opened in the 1970s. It was a favorite place for brunch for David Bowie and Iggy Pop.<br />
+«Some time after they moved in and added an extra cachet to the street, a gay café, the Anderes Ufer, opened a couple of doors down; Bowie breakfasted there many mornings, and when queer-bashers smashed the plate-glass window one night, David paid for the repairs but insisted they keep his assistance quiet.»]]></description>
+    <TimeStamp><when>2017-03-18T12:15:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>13.35973,52.489534</coordinates></Point>
+    <Point><coordinates>13.359779,52.489524</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+      <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hansa Tonstudio</name>
+    <description
+      ><![CDATA[A record studio used to be known as «Hansa Studio By the Wall», where David Bowie recorded the albums Low and “Heroes”.<br />
+«Hansa “by the wall” seemed to embody Berlin’s ruined grandeur, and its spirit would imbue Jim and David’s recordings over the next year. Its imposing classical façade was designed to showcase the skills of the Berlin stonemasons’ guild, for whom it was built in 1912. The building, known as the Meistersaal, had been bought by the Meisel publishing dynasty in 1973 and they’d been rebuilding it and repairing wartime damage ever since, building two studios within it to augment their existing Tonstudio 1 on Kurfürstendamm. But in 1976 it still looked semi-derelict: the triangular pediment that topped it had been blown off, the fluted Ionic pillars were chipped and scarred, many of the windows were bricked up with pigeons roosting within, and one quarter of the square courtyarded block to which it was attached was in total ruins.
+Köthenerstrasse faced Potsdamer Platz, a bleak no-man’s land adjoining the Berlin Wall. From the control room of Studio 2 there was a clear view, via a demolished house, of the wall itself. Behind the wall, on the East German side, was a tall building, on top of which a hut housed a couple of DDR border guards armed with machine guns and binoculars. Edu Meyer, the engineer who worked on Low, Lust For Life and “Heroes”, was blasé about their presence. One evening at dusk he pointed out to Bowie and Visconti that the guards were watching them through their binoculars.»]]></description>
+    <TimeStamp><when>2017-03-18T12:16:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>13.377098,52.506232</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Paris Bar</name>
     <description>Stylish restaurant where David Bowie and Iggy Pop celebrated birthdays.</description>
-    <TimeStamp><when>2017-03-18T12:16:30Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-18T12:17:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.326324,52.505443</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+            <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Hansa Tonstudio</name>
-    <description>A record studio used to be known as «Hansa Studio By the Wall», where David Bowie recorded the albums Low and "Heroes".</description>
-    <TimeStamp><when>2017-03-18T12:16:31Z</when></TimeStamp>
+    <name>Café Exil</name>
+        <description><![CDATA[Kreuzberg’s Café Exil was a haunt where David and Iggy spent many hours, but today it’s a pretty decent restaurant, the Horváth.<br />
+«At night, Jim, David, and Coco would often eat at Kreuzberg’s Café Exil, overlooking the Landwehr canal, or hang in the smoke-filled back room, which was invariably full, says Bowie, of “intellectuals and beats”».]]></description>
+    <TimeStamp><when>2017-03-18T12:18:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>13.377098,52.506232</coordinates></Point>
+    <Point><coordinates>13.420812,52.496376</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Dschungel</name>
     <description>The club that defined nightlife in 1970s West Berlin is now the elegant, modernist, four-star Ellington Hotel.</description>
-    <TimeStamp><when>2017-03-18T17:09:19Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-18T12:19:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.338396,52.502027</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Brücke Museum</name>
-    <description>David Bowie frequently visited this museum to gaze at the works of Ernst Ludwig Kirchner, Emil Nolde, and Erich Heckel.</description>
-    <TimeStamp><when>2017-03-18T17:17:23Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>13.274686,52.466871</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:scale>17</mwm:scale>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Forsthaus Paulsborn</name>
-    <description>It is one of Berlin’s most atmospheric hidden restaurants. David Bowie was there once on Christmas.</description>
-    <TimeStamp><when>2017-03-18T17:17:34Z</when></TimeStamp>
-    <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>13.256204,52.466371</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>SO36</name>
     <description>Berlin’s version of New York’s CBGB.</description>
-    <TimeStamp><when>2017-03-18T18:17:00Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-18T12:36:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>13.422162,52.500391</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-nightclub</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Nollendorfplatz (Schöneberg)</name>
+        <description
+      ><![CDATA[A district where Iggy Pop liked to walking around.<br />
+«Schöneberg, too, was an attractively anonymous district. There was a sprinkling of bars, bookshops and a market centred around St. Matthias Kirche, ten minutes’ walk away, with a gay community huddled around Nollendorfplatz just to its north, where Christopher Isherwood lived until 1933; the U-bahn station bore a bronze memorial to Berlin’s gay population, murdered in the concentration camps. En route was a sinister, monolithic Nazi air-raid shelter, which had proved impervious to attempted postwar demolition, and was now straddled by a modernist block of flats. In the mornings, Jim would take long walks on his own, sometimes wandering for miles, to the point where he eventually claimed he’d covered every inch of the city on foot. <…> On a typical afternoon Jim and David might stroll around the antique stalls at Winterfeldplatz, or catch the S-bahn to the Wannsee — a beach resort on the Havel river.»]]></description>
+    <TimeStamp><when>2017-03-18T12:37:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>13.35373,52.499598,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>railway-station-subway-berlin</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Brücke Museum</name>
+    <description><![CDATA[David Bowie frequently visited this museum to gaze at the works of Ernst Ludwig Kirchner, Emil Nolde, and Erich Heckel.<br />
+  «One day they went out and bought acrylic paints and David showed Jim how to prep a canvas; they both painted all afternoon, and again thereafter. David painted a portrait of Iggy, a convincing work in an Expressionist style influenced by the paintings he’d often contemplated at the Brücke museum.»]]></description>
+    <TimeStamp><when>2017-03-18T12:38:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>13.274686,52.466871</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Forsthaus Paulsborn</name>
+    <description>It was one of Berlin’s most atmospheric hidden restaurants. David Bowie was there once on Christmas.</description>
+    <TimeStamp><when>2017-03-18T12:39:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>13.256204,52.466371</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Luzia</name>
     <description>The cafe where Iggy Pop, Lou Reed, and David Bowie drank.</description>
-    <TimeStamp><when>2017-03-18T20:19:43Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-18T12:40:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>13.418272,52.501675</coordinates></Point>
+    <Point><coordinates>13.41827,52.501675</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
     <name>Bösebrücke</name>
     <description>The place where the wall fell back in 1989 — a part of the lyrics of David Bowie’s song «Where Are We Now?»</description>
-    <TimeStamp><when>2017-03-18T23:12:44Z</when></TimeStamp>
+    <TimeStamp><when>2017-03-18T12:41:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>13.398164,52.554737</coordinates></Point>
+    <Point><coordinates>13.274725,52.466932</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>man_made-bridge</mwm:value>
+      </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
 </Document>
