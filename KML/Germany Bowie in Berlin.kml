@@ -170,7 +170,7 @@ Köthenerstrasse faced Potsdamer Platz, a bleak no-man’s land adjoining the Be
 «Schöneberg, too, was an attractively anonymous district. There was a sprinkling of bars, bookshops and a market centred around St. Matthias Kirche, ten minutes’ walk away, with a gay community huddled around Nollendorfplatz just to its north, where Christopher Isherwood lived until 1933; the U-bahn station bore a bronze memorial to Berlin’s gay population, murdered in the concentration camps. En route was a sinister, monolithic Nazi air-raid shelter, which had proved impervious to attempted postwar demolition, and was now straddled by a modernist block of flats. In the mornings, Jim would take long walks on his own, sometimes wandering for miles, to the point where he eventually claimed he’d covered every inch of the city on foot. <…> On a typical afternoon Jim and David might stroll around the antique stalls at Winterfeldplatz, or catch the S-bahn to the Wannsee — a beach resort on the Havel river.»]]></description>
     <TimeStamp><when>2017-03-18T12:37:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>13.35373,52.499598,0</coordinates></Point>
+    <Point><coordinates>13.35373,52.499598</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>railway-station-subway-berlin</mwm:value>
