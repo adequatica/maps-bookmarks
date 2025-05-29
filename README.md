@@ -63,7 +63,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Spain, Barcelona — 20
 1. Spain, Basque Country — 12
 1. Spain, Cantabria — 8
-1. Spain, [Hemingway in Spain](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3?source=friends_link&sk=76d0a9875b23dfac95445a36cef02acd) — 60
+1. Spain, [Hemingway in Spain](https://adequatica.medium.com/hemingway-in-spain-6a9118d7dfb3?source=friends_link&sk=76d0a9875b23dfac95445a36cef02acd) — 62
 1. Spain, Madrid — 14
 1. Spain, Pamplona — 10
 1. Switzerland, Zurich — 6
