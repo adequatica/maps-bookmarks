@@ -639,7 +639,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Kafe Skver</name>
-    <description>Dobar kafić na malom trgu. Zabranjeno pušenje, espresso sa mlekom = 240 din.</description>
+    <description>Dobar kafić na malom trgu. Zabranjeno pušenje, espresso sa mlekom = 260 din.</description>
     <TimeStamp><when>2023-11-23T10:20:50Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.485233,44.79916</coordinates></Point>
@@ -711,7 +711,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Lumi</name>
-    <description>Zabranjeno pušenje, flat white = 320 din.</description>
+    <description>Zabranjeno pušenje, flat white sa jednom shotom espresso = 320 din.</description>
     <TimeStamp><when>2024-02-17T11:40:00Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.46999,44.802822</coordinates></Point>

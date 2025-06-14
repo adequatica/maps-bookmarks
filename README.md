@@ -37,7 +37,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Israel, White City of Tel Aviv — 40
 1. Italy, Rome — 28
 1. Italy, Sicily — 14
-1. Montenegro — 34
+1. Montenegro — 38
 1. Morocco — 32
 1. Netherlands — 20
 1. Netherlands, Amsterdam — 10
