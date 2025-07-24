@@ -545,7 +545,7 @@
   <Placemark>
     <name>Hemingway</name>
     <TimeStamp><when>2024-09-08T10:51:07Z</when></TimeStamp>
-    <styleUrl>#placemark-deeporange</styleUrl>
+    <styleUrl>#placemark-orange</styleUrl>
     <Point><coordinates>20.910935,44.011405</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
@@ -650,6 +650,34 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Sur Sunčani Vir</name>
+    <description>Fishing licence.</description>
+    <TimeStamp><when>2025-07-23T12:13:11Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.890063,44.257555</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gradac</name>
+    <TimeStamp><when>2025-07-23T13:30:12Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>19.86327,44.233453</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>waterway-river</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

@@ -711,7 +711,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Lumi</name>
-    <description>Zabranjeno pušenje, flat white sa jednom shotom espresso = 320 din.</description>
+    <description>Zabranjeno pušenje, flat white sa jednom shotom espresso = 295 din.</description>
     <TimeStamp><when>2024-02-17T11:40:00Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.46999,44.802822</coordinates></Point>
@@ -782,7 +782,6 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Caffe Kod Andrije</name>
-    <description>Local café which has its own craft beer, «Andrijino pivo».</description>
     <TimeStamp><when>2024-08-16T20:32:09Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
     <Point><coordinates>20.459313,44.820056</coordinates></Point>
@@ -869,6 +868,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Chernyi Cooperative Coffee Roasters</name>
+    <description>Zabranjeno pušenje, do not have macchiato/cortado in menu, but make for the price of cappuccino = 380 din.</description>
     <TimeStamp><when>2025-02-07T11:01:25Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.456979,44.822198</coordinates></Point>
@@ -883,7 +883,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
     <Placemark>
     <name>Forum</name>
-    <description>Zabranjeno pušenje, macchiato = 300 din.</description>
+    <description>Zabranjeno pušenje, cortado = 300 din.</description>
     <TimeStamp><when>2025-05-18T09:17:37Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.469239,44.820581</coordinates></Point>
