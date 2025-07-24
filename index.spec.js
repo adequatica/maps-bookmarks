@@ -106,7 +106,7 @@ test("Placemarks have valid coordinates", () => {
     for (let i = 0; i < bookmark.Placemark.length; i++) {
       const pointCoordinates = bookmark.Placemark[i].Point[0].coordinates[0];
 
-      // Сoordinates are separated by comma
+      // Coordinates are separated by comma
       assert.include(
         pointCoordinates,
         ",",

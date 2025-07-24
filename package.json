@@ -13,10 +13,10 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@prettier/plugin-xml": "3.4.1",
+    "@prettier/plugin-xml": "3.4.2",
     "date-fns": "4.1.0",
-    "prettier": "3.5.3",
-    "vitest": "3.1.2",
+    "prettier": "3.6.2",
+    "vitest": "3.2.4",
     "xml2js": "0.6.2"
   },
   "devDependencies": {
