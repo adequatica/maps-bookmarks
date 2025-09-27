@@ -76,7 +76,7 @@
     <name>Nikola Tesla Museum</name>
     <TimeStamp><when>2018-09-15T19:20:10Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.470753,44.805146</coordinates></Point>
+    <Point><coordinates>20.470701,44.805106</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
@@ -91,7 +91,7 @@
     <description>Only cash and smoking inside.</description>
     <TimeStamp><when>2018-09-16T10:09:27Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.466453,44.81678</coordinates></Point>
+    <Point><coordinates>20.466423,44.816772</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fast_food</mwm:value>
@@ -149,7 +149,7 @@
   <Placemark>
     <name>Zeleni Venac</name>
     <description>Bus 72 od/do aerodroma, ~ 45 min.
-Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
+Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 15–20 min.</description>
     <TimeStamp><when>2022-03-06T23:17:25Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
     <Point><coordinates>20.45666,44.814034</coordinates></Point>
@@ -295,7 +295,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <name>Majstor i Margarita (Zvezdara)</name>
     <TimeStamp><when>2023-01-05T16:15:14Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.492521,44.798083</coordinates></Point>
+    <Point><coordinates>20.492639,44.797982</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -380,6 +380,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>D59B</name>
+    <description>Cortado = 370 din.</description>
     <TimeStamp><when>2023-04-16T10:22:32Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.458167,44.821896</coordinates></Point>
@@ -394,6 +395,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Pržionica</name>
+    <description>Macciato = 260 din.</description>
     <TimeStamp><when>2023-04-21T10:35:24Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.467665,44.823288</coordinates></Point>
@@ -540,7 +542,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <name>Nekrasova</name>
     <TimeStamp><when>2023-09-21T18:29:30Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>20.473544,44.805309</coordinates></Point>
+    <Point><coordinates>20.473585,44.805302</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
@@ -624,7 +626,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Zona Industriale</name>
-    <description>Zabranjeno pušenje, espresso sa mlekom (cappuccino) = 290 din.</description>
+    <description>Zabranjeno pušenje, espresso sa mlekom (cappuccino) = 345 din.</description>
     <TimeStamp><when>2023-11-08T08:27:52Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.470916,44.80254</coordinates></Point>
@@ -699,7 +701,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     <name>Sonder</name>
     <TimeStamp><when>2024-02-10T19:30:21Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>20.473729,44.801581</coordinates></Point>
+    <Point><coordinates>20.4737,44.801532</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -711,10 +713,10 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Lumi</name>
-    <description>Zabranjeno pušenje, flat white sa jednom shotom espresso = 295 din.</description>
+    <description>Zabranjeno pušenje, može se naručiti flat white sa jednom shotom espresso, macciato = 395 din.</description>
     <TimeStamp><when>2024-02-17T11:40:00Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.46999,44.802822</coordinates></Point>
+    <Point><coordinates>20.470031,44.802803</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -767,16 +769,32 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Gvint</name>
-    <TimeStamp><when>2024-04-13T19:39:21Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>20.466681,44.823304</coordinates></Point>
+    <name>Lokal</name>
+    <description>Pušenje dozvoljeno, cortado = 250 din.</description>
+    <TimeStamp><when>2024-07-06T09:24:02Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>20.4701,44.803357</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>amenity-pub</mwm:value>
+        <mwm:value>amenity-cafe</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
-      <mwm:icon>Pub</mwm:icon>
+      <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ruina</name>
+    <description>Lepa bašta.</description>
+    <TimeStamp><when>2024-07-14T12:03:45Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>20.485952,44.799667</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -824,6 +842,21 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Macciato</name>
+    <description>Loše espresso sa mlekom = 210 din.</description>
+    <TimeStamp><when>2024-09-18T11:51:48Z</when></TimeStamp>
+    <styleUrl>#placemark-deeporange</styleUrl>
+    <Point><coordinates>20.483404,44.809266</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Glavna autobuska stanica Beograd</name>
     <TimeStamp><when>2024-10-15T14:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -837,7 +870,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
-    <Placemark>
+  <Placemark>
     <name>Pizzeria Cafeteria Italiana</name>
     <TimeStamp><when>2025-01-13T12:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
@@ -854,9 +887,10 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
   </Placemark>
   <Placemark>
     <name>Single Origin</name>
+    <description>Very good macciato = 310 din.</description>
     <TimeStamp><when>2025-01-17T08:31:23Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.470682,44.800487</coordinates></Point>
+    <Point><coordinates>20.47065,44.800515</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -881,7 +915,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 25 min.</description>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
-    <Placemark>
+  <Placemark>
     <name>Forum</name>
     <description>Zabranjeno pušenje, cortado = 300 din.</description>
     <TimeStamp><when>2025-05-18T09:17:37Z</when></TimeStamp>
