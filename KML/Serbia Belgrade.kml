@@ -394,21 +394,6 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 15–20 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Pržionica</name>
-    <description>Macciato = 260 din.</description>
-    <TimeStamp><when>2023-04-21T10:35:24Z</when></TimeStamp>
-    <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.467665,44.823288</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-cafe</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Cafe</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Denada</name>
     <TimeStamp><when>2023-04-24T10:00:52Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
@@ -891,21 +876,6 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 15–20 min.</description>
     <TimeStamp><when>2025-01-17T08:31:23Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
     <Point><coordinates>20.47065,44.800515</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-cafe</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Cafe</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
-    <name>Chernyi Cooperative Coffee Roasters</name>
-    <description>Zabranjeno pušenje, do not have macchiato/cortado in menu, but make for the price of cappuccino = 380 din.</description>
-    <TimeStamp><when>2025-02-07T11:01:25Z</when></TimeStamp>
-    <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.456979,44.822198</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
