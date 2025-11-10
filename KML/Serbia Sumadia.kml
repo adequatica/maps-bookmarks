@@ -588,7 +588,7 @@
     <description>Komplet lepinja je lokalni specijalitet.</description>
     <TimeStamp><when>2025-02-16T11:53:04Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.83879,43.855749</coordinates></Point>
+    <Point><coordinates>19.83877,43.855761</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-bakery</mwm:value>
@@ -645,7 +645,7 @@
     <description>Fishing licence.</description>
     <TimeStamp><when>2025-07-23T12:13:11Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.890063,44.257555</coordinates></Point>
+    <Point><coordinates>19.889984,44.257725</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>

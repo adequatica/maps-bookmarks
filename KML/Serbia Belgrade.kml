@@ -499,7 +499,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 15–20 min.</description>
     <name>Tuckwood</name>
     <TimeStamp><when>2023-08-20T20:40:12Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.465256,44.809646</coordinates></Point>
+    <Point><coordinates>20.465283,44.809631</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cinema</mwm:value>
@@ -510,10 +510,10 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 15–20 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Pastis</name>
+    <name>Pastis Bistro</name>
     <TimeStamp><when>2023-08-22T21:20:28Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>20.46148,44.821454</coordinates></Point>
+    <Point><coordinates>20.461493,44.821439</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
@@ -920,7 +920,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 15–20 min.</description>
     <description>Zabranjeno pušenje, cortado = 300 din.</description>
     <TimeStamp><when>2025-05-18T09:17:37Z</when></TimeStamp>
     <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.469239,44.820581</coordinates></Point>
+    <Point><coordinates>20.469277,44.820564</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-cafe</mwm:value>
