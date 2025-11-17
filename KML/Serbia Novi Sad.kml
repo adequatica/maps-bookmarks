@@ -175,24 +175,10 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Mazut Beer Shop</name>
-    <TimeStamp><when>2021-10-23T12:59:21Z</when></TimeStamp>
-    <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>19.842128,45.257918</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>shop-alcohol</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Bar</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Mileva Maric Einstein House</name>
     <TimeStamp><when>2022-10-08T14:22:33Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>19.840997,45.26206</coordinates></Point>
+    <Point><coordinates>19.840849,45.262098</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
@@ -290,6 +276,21 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Tramontana Pizza</name>
+    <TimeStamp><when>2022-12-28T19:13:11Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.846546,45.257656</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>cuisine-pizza</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Irish Pub Red Cow</name>
     <description>Has Belgian beer in bottles in menu.</description>
     <TimeStamp><when>2023-07-11T12:13:14Z</when></TimeStamp>
@@ -371,6 +372,63 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bulevar Books</name>
+    <TimeStamp><when>2025-11-15T10:13:11Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.845419,45.253198</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-books</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Crni Ovan</name>
+    <TimeStamp><when>2025-11-15T19:14:12Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>19.848308,45.256183</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-bar</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Bar</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gallery Matica Srpska</name>
+    <TimeStamp><when>2025-11-16T11:12:13Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>19.845713,45.252487</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Shelly's Smash Burgers</name>
+    <TimeStamp><when>2025-11-16T15:35:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.850287,45.257433</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+        <mwm:value>cuisine-burger</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
