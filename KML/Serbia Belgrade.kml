@@ -658,7 +658,7 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 15–20 min.</description>
     <name>Tri Kralja</name>
     <TimeStamp><when>2024-02-01T19:44:30Z</when></TimeStamp>
     <styleUrl>#placemark-brown</styleUrl>
-    <Point><coordinates>20.466345,44.805051</coordinates></Point>
+    <Point><coordinates>20.466265,44.805083</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -827,21 +827,6 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 15–20 min.</description>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Macciato</name>
-    <description>Loše espresso sa mlekom = 210 din.</description>
-    <TimeStamp><when>2024-09-18T11:51:48Z</when></TimeStamp>
-    <styleUrl>#placemark-deeporange</styleUrl>
-    <Point><coordinates>20.483404,44.809266</coordinates></Point>
-    <ExtendedData xmlns:mwm="https://omaps.app">
-      <mwm:featureTypes>
-        <mwm:value>amenity-cafe</mwm:value>
-      </mwm:featureTypes>
-      <mwm:scale>17</mwm:scale>
-      <mwm:icon>Cafe</mwm:icon>
-      <mwm:visibility>1</mwm:visibility>
-    </ExtendedData>
-  </Placemark>
-  <Placemark>
     <name>Glavna autobuska stanica Beograd</name>
     <TimeStamp><when>2024-10-15T14:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
@@ -897,6 +882,20 @@ Bus 84 (preko Ušće), 704, 706, 707 do Zemuna, ~ 15–20 min.</description>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Knjižara Akademija</name>
+    <TimeStamp><when>2025-12-22T18:09:50Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.456756,44.817737</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>shop-books</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>

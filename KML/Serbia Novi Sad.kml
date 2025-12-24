@@ -295,7 +295,7 @@
     <description>Has Belgian beer in bottles in menu.</description>
     <TimeStamp><when>2023-07-11T12:13:14Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>19.84863,45.256461</coordinates></Point>
+    <Point><coordinates>19.848198,45.256669</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-pub</mwm:value>
@@ -379,7 +379,7 @@
     <name>Bulevar Books</name>
     <TimeStamp><when>2025-11-15T10:13:11Z</when></TimeStamp>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.845419,45.253198</coordinates></Point>
+    <Point><coordinates>19.845443,45.253221</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>shop-books</mwm:value>
@@ -393,7 +393,7 @@
     <name>Crni Ovan</name>
     <TimeStamp><when>2025-11-15T19:14:12Z</when></TimeStamp>
     <styleUrl>#placemark-purple</styleUrl>
-    <Point><coordinates>19.848308,45.256183</coordinates></Point>
+    <Point><coordinates>19.848305,45.256189</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-bar</mwm:value>
