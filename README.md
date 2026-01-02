@@ -56,7 +56,7 @@ Now I am using **[Organic Maps](https://organicmaps.app)**.
 1. Serbia, Belgrade — 58
 1. Serbia, Novi Sad — 26
 1. Serbia, Šumadija — 44
-1. Serbia, Vojvodina — 26
+1. Serbia, Vojvodina — 28
 1. Slovakia, Bratislava — 10
 1. Spain, Asturias — 6
 1. Spain, Barcelona — 20

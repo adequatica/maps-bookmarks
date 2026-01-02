@@ -414,8 +414,22 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
+    <name>Subotica</name>
+    <TimeStamp><when>2025-12-30T17:19:02Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>19.671341,46.101969</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>building-train_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
     <name>Crkva svetog Djurdja</name>
-    <TimeStamp><when>2025-02-22T16:11:35Z</when></TimeStamp>
+    <TimeStamp><when>2026-01-01T12:05:25Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
     <Point><coordinates>19.673891,46.090861</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
@@ -424,6 +438,20 @@
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:icon>Christianity</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+ <Placemark>
+    <name>Basch House</name>
+    <TimeStamp><when>2026-01-02T18:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.662093,46.10284</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
