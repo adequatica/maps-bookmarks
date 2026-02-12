@@ -295,7 +295,7 @@
     <name>Železnička stanica Mokra Gora</name>
     <TimeStamp><when>2023-09-01T10:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-pink</styleUrl>
-    <Point><coordinates>19.508251,43.792854</coordinates></Point>
+    <Point><coordinates>19.508056,43.792662</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>building-train_station</mwm:value>
@@ -409,10 +409,10 @@
     <name>Kopaonik</name>
     <TimeStamp><when>2024-01-26T14:02:09Z</when></TimeStamp>
     <styleUrl>#placemark-red</styleUrl>
-    <Point><coordinates>20.809345,43.284146</coordinates></Point>
+    <Point><coordinates>20.808605,43.285503</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
-        <mwm:value>shop-ticket</mwm:value>
+        <mwm:value>building</mwm:value>
       </mwm:featureTypes>
       <mwm:scale>17</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
@@ -641,7 +641,7 @@
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Sur Sunčani Vir</name>
+    <name>Sunčani Vir</name>
     <description>Fishing licence.</description>
     <TimeStamp><when>2025-07-23T12:13:11Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>

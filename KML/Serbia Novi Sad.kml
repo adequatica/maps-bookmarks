@@ -406,7 +406,7 @@
     <name>Shelly's Smash Burgers</name>
     <TimeStamp><when>2025-11-16T15:35:14Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.850287,45.257433</coordinates></Point>
+    <Point><coordinates>19.85029,45.257437</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-fast_food</mwm:value>

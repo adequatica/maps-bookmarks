@@ -118,7 +118,7 @@
     <name>Stara picerija</name>
     <TimeStamp><when>2023-09-01T17:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.66809,46.101313</coordinates></Point>
+    <Point><coordinates>19.668045,46.101506</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
@@ -133,7 +133,7 @@
     <name>Boss Caffe</name>
     <TimeStamp><when>2023-09-02T09:30:00Z</when></TimeStamp>
     <styleUrl>#placemark-orange</styleUrl>
-    <Point><coordinates>19.668235,46.101569</coordinates></Point>
+    <Point><coordinates>19.668211,46.101664</coordinates></Point>
     <ExtendedData xmlns:mwm="https://omaps.app">
       <mwm:featureTypes>
         <mwm:value>amenity-restaurant</mwm:value>
